@@ -1,5 +1,654 @@
 Grailbird.data.tweets_2015_08 = [
   {
+    "created_at": "Wed Aug 19 17:42:47 +0000 2015",
+    "id": 634057940517785600,
+    "id_str": "634057940517785600",
+    "text": "Build your GitHub-hosted projects in Visual Studio Online.\nhttps://t.co/4XlFTLj3Ay",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4XlFTLj3Ay",
+          "expanded_url": "https://msdn.microsoft.com/en-us/Library/vs/alm/Build/github/index",
+          "display_url": "msdn.microsoft.com/en-us/Library/…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 19 07:30:31 +0000 2015",
+    "id": 633903858159214592,
+    "id_str": "633903858159214592",
+    "text": "@reubenbond AP vs CP -- that is the question....",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 633856391699038209,
+    "in_reply_to_status_id_str": "633856391699038209",
+    "in_reply_to_user_id": 57183972,
+    "in_reply_to_user_id_str": "57183972",
+    "in_reply_to_screen_name": "reubenbond",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "reubenbond",
+          "name": "Reuben Bond",
+          "id": 57183972,
+          "id_str": "57183972",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 19 07:22:25 +0000 2015",
+    "id": 633901820432158720,
+    "id_str": "633901820432158720",
+    "text": "RT @return_true: Sharp Regrets: Top 10 Worst C# Features (via @Pocket) #longreads http://t.co/St4UwFRnJF",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Aug 19 07:09:31 +0000 2015",
+      "id": 633898573906739200,
+      "id_str": "633898573906739200",
+      "text": "Sharp Regrets: Top 10 Worst C# Features (via @Pocket) #longreads http://t.co/St4UwFRnJF",
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 47363993,
+        "id_str": "47363993",
+        "name": "Anton Sizikov",
+        "screen_name": "return_true",
+        "location": "Amsterdam, The Netherlands",
+        "description": "Software Developer | C#, Web API",
+        "url": "http://t.co/sWSSmkDdNm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/sWSSmkDdNm",
+                "expanded_url": "http://asizikov.github.io",
+                "display_url": "asizikov.github.io",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 142,
+        "friends_count": 131,
+        "listed_count": 6,
+        "created_at": "Mon Jun 15 15:43:08 +0000 2009",
+        "favourites_count": 352,
+        "utc_offset": 10800,
+        "time_zone": "St. Petersburg",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3142,
+        "lang": "ru",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2360036662/zsa2ykjhjjic6p8abngd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2360036662/zsa2ykjhjjic6p8abngd_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47363993/1415114843",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "longreads",
+            "indices": [
+              54,
+              64
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Pocket",
+            "name": "Pocket",
+            "id": 27530178,
+            "id_str": "27530178",
+            "indices": [
+              45,
+              52
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/St4UwFRnJF",
+            "expanded_url": "http://pocket.co/sojh8I",
+            "display_url": "pocket.co/sojh8I",
+            "indices": [
+              65,
+              87
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "longreads",
+          "indices": [
+            71,
+            81
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "return_true",
+          "name": "Anton Sizikov",
+          "id": 47363993,
+          "id_str": "47363993",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "Pocket",
+          "name": "Pocket",
+          "id": 27530178,
+          "id_str": "27530178",
+          "indices": [
+            62,
+            69
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/St4UwFRnJF",
+          "expanded_url": "http://pocket.co/sojh8I",
+          "display_url": "pocket.co/sojh8I",
+          "indices": [
+            82,
+            104
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 16 19:58:09 +0000 2015",
+    "id": 633004843234299904,
+    "id_str": "633004843234299904",
+    "text": "RT @FiveThirtyEight: The economic guide to picking a college major: http://t.co/JwaakuDUNP http://t.co/vwX4OKaylQ",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 16 15:17:04 +0000 2015",
+      "id": 632934102904127488,
+      "id_str": "632934102904127488",
+      "text": "The economic guide to picking a college major: http://t.co/JwaakuDUNP http://t.co/vwX4OKaylQ",
+      "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2303751216,
+        "id_str": "2303751216",
+        "name": "FiveThirtyEight",
+        "screen_name": "FiveThirtyEight",
+        "location": "New York, NY",
+        "description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+        "url": "http://t.co/93tPMQEkgi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/93tPMQEkgi",
+                "expanded_url": "http://www.fivethirtyeight.com",
+                "display_url": "fivethirtyeight.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 477410,
+        "friends_count": 199,
+        "listed_count": 6774,
+        "created_at": "Tue Jan 21 21:39:32 +0000 2014",
+        "favourites_count": 448,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 7767,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/442370574040301568/j673s9Ue_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/442370574040301568/j673s9Ue_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1422903447",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 138,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/JwaakuDUNP",
+            "expanded_url": "http://53eig.ht/1TDjJyv",
+            "display_url": "53eig.ht/1TDjJyv",
+            "indices": [
+              47,
+              69
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 632303056466526208,
+            "id_str": "632303056466526208",
+            "indices": [
+              70,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+            "url": "http://t.co/vwX4OKaylQ",
+            "display_url": "pic.twitter.com/vwX4OKaylQ",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/632934102904127488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 86,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 152,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 260,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 632303056466526208,
+            "id_str": "632303056466526208",
+            "indices": [
+              70,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+            "url": "http://t.co/vwX4OKaylQ",
+            "display_url": "pic.twitter.com/vwX4OKaylQ",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/632934102904127488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 86,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 152,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 260,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FiveThirtyEight",
+          "name": "FiveThirtyEight",
+          "id": 2303751216,
+          "id_str": "2303751216",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/JwaakuDUNP",
+          "expanded_url": "http://53eig.ht/1TDjJyv",
+          "display_url": "53eig.ht/1TDjJyv",
+          "indices": [
+            68,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 632303056466526208,
+          "id_str": "632303056466526208",
+          "indices": [
+            91,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+          "url": "http://t.co/vwX4OKaylQ",
+          "display_url": "pic.twitter.com/vwX4OKaylQ",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/632934102904127488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 86,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 152,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 260,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 632934102904127488,
+          "source_status_id_str": "632934102904127488",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 632303056466526208,
+          "id_str": "632303056466526208",
+          "indices": [
+            91,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CMZkR58UwAAou6W.jpg",
+          "url": "http://t.co/vwX4OKaylQ",
+          "display_url": "pic.twitter.com/vwX4OKaylQ",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/632934102904127488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 86,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 152,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 260,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 632934102904127488,
+          "source_status_id_str": "632934102904127488",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Aug 14 20:00:49 +0000 2015",
     "id": 632280738046410752,
     "id_str": "632280738046410752",
