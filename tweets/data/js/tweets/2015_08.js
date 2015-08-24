@@ -1,5 +1,802 @@
 Grailbird.data.tweets_2015_08 = [
   {
+    "created_at": "Mon Aug 24 00:45:12 +0000 2015",
+    "id": 635613793599385600,
+    "id_str": "635613793599385600",
+    "text": "RT @pewresearch: How do Americans use Twitter for news? Our small but representative sample of 176 Twitter users had some answers:  http://…",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 23 20:33:05 +0000 2015",
+      "id": 635550347734331392,
+      "id_str": "635550347734331392",
+      "text": "How do Americans use Twitter for news? Our small but representative sample of 176 Twitter users had some answers:  http://t.co/6Mybfcu18r",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22642788,
+        "id_str": "22642788",
+        "name": "Pew Research Center",
+        "screen_name": "pewresearch",
+        "location": "Washington, DC",
+        "description": "Nonpartisan, non-advocacy data and analysis on the issues, attitudes and trends shaping America and the world. Also follow @FactTank, our data blog.",
+        "url": "http://t.co/NpejxRVoNw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NpejxRVoNw",
+                "expanded_url": "http://pewresearch.org/",
+                "display_url": "pewresearch.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 225974,
+        "friends_count": 40,
+        "listed_count": 9951,
+        "created_at": "Tue Mar 03 16:39:39 +0000 2009",
+        "favourites_count": 41,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 30395,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EFEFEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5087747/twitter2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5087747/twitter2.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560820295980707841/178Bh1om_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/560820295980707841/178Bh1om_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22642788/1403027789",
+        "profile_link_color": "0083B3",
+        "profile_sidebar_border_color": "DBE7ED",
+        "profile_sidebar_fill_color": "DBE7ED",
+        "profile_text_color": "525151",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 24,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/6Mybfcu18r",
+            "expanded_url": "http://pewrsr.ch/1J3TLiM",
+            "display_url": "pewrsr.ch/1J3TLiM",
+            "indices": [
+              115,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pewresearch",
+          "name": "Pew Research Center",
+          "id": 22642788,
+          "id_str": "22642788",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/6Mybfcu18r",
+          "expanded_url": "http://pewrsr.ch/1J3TLiM",
+          "display_url": "pewrsr.ch/1J3TLiM",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 23 22:46:17 +0000 2015",
+    "id": 635583866942525442,
+    "id_str": "635583866942525442",
+    "text": "RT @StockTwits: Here's why you have to watch social media sentiment. Especially when markets are crumbling: http://t.co/emEvuivHDM http://t…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 23 22:25:12 +0000 2015",
+      "id": 635578564096720896,
+      "id_str": "635578564096720896",
+      "text": "Here's why you have to watch social media sentiment. Especially when markets are crumbling: http://t.co/emEvuivHDM http://t.co/GqcfBdNulb",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14886375,
+        "id_str": "14886375",
+        "name": "StockTwits",
+        "screen_name": "StockTwits",
+        "location": "New York, NY",
+        "description": "We created the $ prefix for stocks (e.g. $AAPL). Follow @StockTwits for everything about investing and trading. Get our iOS app: http://t.co/Cgl4j8M3OU",
+        "url": "http://t.co/yyRNBE6l4N",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yyRNBE6l4N",
+                "expanded_url": "http://www.stocktwits.com",
+                "display_url": "stocktwits.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/Cgl4j8M3OU",
+                "expanded_url": "http://bit.ly/stocktwits-app",
+                "display_url": "bit.ly/stocktwits-app",
+                "indices": [
+                  129,
+                  151
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 479995,
+        "friends_count": 116027,
+        "listed_count": 7212,
+        "created_at": "Fri May 23 20:53:49 +0000 2008",
+        "favourites_count": 14016,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 49594,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/371870912/stocktwits_twitter_bg.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/371870912/stocktwits_twitter_bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614216224621264896/fMSbC7yd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614216224621264896/fMSbC7yd_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14886375/1436931698",
+        "profile_link_color": "40576F",
+        "profile_sidebar_border_color": "DDDDDD",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "171717",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "favorite_count": 22,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/emEvuivHDM",
+            "expanded_url": "http://blog.stocktwits.com/when-the-market-crashes-heres-how-you-can-filter-the-carnage/",
+            "display_url": "blog.stocktwits.com/when-the-marke…",
+            "indices": [
+              92,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 635578563500990464,
+            "id_str": "635578563500990464",
+            "indices": [
+              115,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+            "url": "http://t.co/GqcfBdNulb",
+            "display_url": "pic.twitter.com/GqcfBdNulb",
+            "expanded_url": "http://twitter.com/StockTwits/status/635578564096720896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 460,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 460,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 334,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 635578563500990464,
+            "id_str": "635578563500990464",
+            "indices": [
+              115,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+            "media_url_https": "https://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+            "url": "http://t.co/GqcfBdNulb",
+            "display_url": "pic.twitter.com/GqcfBdNulb",
+            "expanded_url": "http://twitter.com/StockTwits/status/635578564096720896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 460,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 460,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 334,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "StockTwits",
+          "name": "StockTwits",
+          "id": 14886375,
+          "id_str": "14886375",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/emEvuivHDM",
+          "expanded_url": "http://blog.stocktwits.com/when-the-market-crashes-heres-how-you-can-filter-the-carnage/",
+          "display_url": "blog.stocktwits.com/when-the-marke…",
+          "indices": [
+            108,
+            130
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 635578563500990464,
+          "id_str": "635578563500990464",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+          "media_url_https": "https://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+          "url": "http://t.co/GqcfBdNulb",
+          "display_url": "pic.twitter.com/GqcfBdNulb",
+          "expanded_url": "http://twitter.com/StockTwits/status/635578564096720896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 460,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 460,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 334,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 635578564096720896,
+          "source_status_id_str": "635578564096720896",
+          "source_user_id": 14886375,
+          "source_user_id_str": "14886375"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 635578563500990464,
+          "id_str": "635578563500990464",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+          "media_url_https": "https://pbs.twimg.com/media/CNIHVghUYAA15o3.png",
+          "url": "http://t.co/GqcfBdNulb",
+          "display_url": "pic.twitter.com/GqcfBdNulb",
+          "expanded_url": "http://twitter.com/StockTwits/status/635578564096720896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 460,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 460,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 334,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 635578564096720896,
+          "source_status_id_str": "635578564096720896",
+          "source_user_id": 14886375,
+          "source_user_id_str": "14886375"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 23 22:28:37 +0000 2015",
+    "id": 635579424298020864,
+    "id_str": "635579424298020864",
+    "text": "A 3-step approach for how to handle a stock market correction plus other direction scenarios\nhttp://t.co/nxYRTSXRUL",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/nxYRTSXRUL",
+          "expanded_url": "http://ow.ly/ReRaH",
+          "display_url": "ow.ly/ReRaH",
+          "indices": [
+            93,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 23 17:45:02 +0000 2015",
+    "id": 635508057443729408,
+    "id_str": "635508057443729408",
+    "text": "AutoRest tool generates C# Java Ruby Node.js client libraries for RESTful web services.\nhttps://t.co/PJcRzWBdBo",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PJcRzWBdBo",
+          "expanded_url": "https://github.com/azure/autorest/",
+          "display_url": "github.com/azure/autorest/",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 23 04:15:46 +0000 2015",
+    "id": 635304396054622208,
+    "id_str": "635304396054622208",
+    "text": "Git Extras - a collection of really useful additional command line utilities for git. \nhttps://t.co/PempdU3V6J",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PempdU3V6J",
+          "expanded_url": "https://github.com/tj/git-extras",
+          "display_url": "github.com/tj/git-extras",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Aug 22 16:15:06 +0000 2015",
+    "id": 635123034676793344,
+    "id_str": "635123034676793344",
+    "text": "Honor our heroes: \"I came to see my friends on my first trip in Europe, and we stopped a terrorist.\" http://t.co/HU6b40IFyS",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/HU6b40IFyS",
+          "expanded_url": "http://www.bbc.com/news/world-europe-34023361",
+          "display_url": "bbc.com/news/world-eur…",
+          "indices": [
+            101,
+            123
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Aug 21 17:54:49 +0000 2015",
+    "id": 634785741562712065,
+    "id_str": "634785741562712065",
+    "text": "Booked to attend AMP Camp 6 - Hosted by the UC Berkeley AMPLab! https://t.co/ORcF1dY8OU #ampcamp6",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ampcamp6",
+          "indices": [
+            88,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ORcF1dY8OU",
+          "expanded_url": "https://www.regonline.com/ampcamp6",
+          "display_url": "regonline.com/ampcamp6",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Aug 19 17:42:47 +0000 2015",
     "id": 634057940517785600,
     "id_str": "634057940517785600",
