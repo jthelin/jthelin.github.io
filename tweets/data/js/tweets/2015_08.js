@@ -1,5 +1,961 @@
 Grailbird.data.tweets_2015_08 = [
   {
+    "created_at": "Thu Aug 27 17:30:06 +0000 2015",
+    "id": 636953851942170624,
+    "id_str": "636953851942170624",
+    "text": "#TBT #ParkingFail http://t.co/u6dTa0MXht",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "ParkingFail",
+          "indices": [
+            5,
+            17
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 636953851455668224,
+          "id_str": "636953851455668224",
+          "indices": [
+            18,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/CNbqJzZVAAALczc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CNbqJzZVAAALczc.jpg",
+          "url": "http://t.co/u6dTa0MXht",
+          "display_url": "pic.twitter.com/u6dTa0MXht",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/636953851942170624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 636953851455668224,
+          "id_str": "636953851455668224",
+          "indices": [
+            18,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/CNbqJzZVAAALczc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CNbqJzZVAAALczc.jpg",
+          "url": "http://t.co/u6dTa0MXht",
+          "display_url": "pic.twitter.com/u6dTa0MXht",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/636953851942170624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Aug 27 16:09:38 +0000 2015",
+    "id": 636933600148000768,
+    "id_str": "636933600148000768",
+    "text": "How to recover a git branch you accidentally deleted. reflog is your best friend :)\nhttps://t.co/EPq7DGVte9",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EPq7DGVte9",
+          "expanded_url": "https://gist.github.com/jbgo/1944238",
+          "display_url": "gist.github.com/jbgo/1944238",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 26 23:15:07 +0000 2015",
+    "id": 636678287750631424,
+    "id_str": "636678287750631424",
+    "text": "Debugging web client apps: send HTTP request to /headers to echo back the headers you sent. http://t.co/UqiFmFP6iB",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/UqiFmFP6iB",
+          "expanded_url": "http://httpbin.org/",
+          "display_url": "httpbin.org",
+          "indices": [
+            92,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 26 18:00:08 +0000 2015",
+    "id": 636599021583208448,
+    "id_str": "636599021583208448",
+    "text": "How to use Visual Studio Online to build Java projects with Maven.\nhttps://t.co/gMeJ7ltqmD",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gMeJ7ltqmD",
+          "expanded_url": "https://msdn.microsoft.com/Library/vs/alm/Build/java/maven",
+          "display_url": "msdn.microsoft.com/Library/vs/alm…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 26 17:30:05 +0000 2015",
+    "id": 636591455998382080,
+    "id_str": "636591455998382080",
+    "text": "How to write command line tools for OS X in Swift. Bundling embedded Swift framework in apps\nhttp://t.co/blFLuj2dXJ",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/blFLuj2dXJ",
+          "expanded_url": "http://colemancda.github.io/programming/2015/02/12/embedded-swift-frameworks-osx-command-line-tools/",
+          "display_url": "colemancda.github.io/programming/20…",
+          "indices": [
+            93,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 26 03:35:37 +0000 2015",
+    "id": 636381457158569984,
+    "id_str": "636381457158569984",
+    "text": "RT @macstoriesnet: Slack as a Shared Notification Layer http://t.co/sVWAT3M3k1",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Aug 26 03:00:55 +0000 2015",
+      "id": 636372723741003777,
+      "id_str": "636372723741003777",
+      "text": "Slack as a Shared Notification Layer http://t.co/sVWAT3M3k1",
+      "source": "<a href=\"http://www.macstories.net\" rel=\"nofollow\">MacStories Tweet Machine</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 87077721,
+        "id_str": "87077721",
+        "name": "MacStories",
+        "screen_name": "macstoriesnet",
+        "location": "",
+        "description": "MacStories: a weblog about iOS & OS X news, app reviews, and stories. By @viticci and friends.\r\n\r\nhttp://t.co/Ooc7EXJuOm",
+        "url": "http://t.co/rz6ZEwqZbF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/rz6ZEwqZbF",
+                "expanded_url": "http://www.macstories.net/",
+                "display_url": "macstories.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/Ooc7EXJuOm",
+                "expanded_url": "http://www.macstories.net",
+                "display_url": "macstories.net",
+                "indices": [
+                  98,
+                  120
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 31094,
+        "friends_count": 7,
+        "listed_count": 2531,
+        "created_at": "Tue Nov 03 01:16:41 +0000 2009",
+        "favourites_count": 6,
+        "utc_offset": 7200,
+        "time_zone": "Rome",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13271,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EEEEEE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/79553535/back.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/79553535/back.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458950462729760768/JWPxU2Cd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458950462729760768/JWPxU2Cd_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87077721/1398257369",
+        "profile_link_color": "545859",
+        "profile_sidebar_border_color": "5B5C5C",
+        "profile_sidebar_fill_color": "CDD0D1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 25,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/sVWAT3M3k1",
+            "expanded_url": "http://mcstr.net/1UclyTb",
+            "display_url": "mcstr.net/1UclyTb",
+            "indices": [
+              37,
+              59
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "macstoriesnet",
+          "name": "MacStories",
+          "id": 87077721,
+          "id_str": "87077721",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/sVWAT3M3k1",
+          "expanded_url": "http://mcstr.net/1UclyTb",
+          "display_url": "mcstr.net/1UclyTb",
+          "indices": [
+            56,
+            78
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 26 03:31:08 +0000 2015",
+    "id": 636380327556939777,
+    "id_str": "636380327556939777",
+    "text": "RT @seattletimes: Army to honor Oregon guardsman who subdued armed gunman in French train attack: http://t.co/zp9OrbaaW2",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Aug 26 03:12:12 +0000 2015",
+      "id": 636375564698406912,
+      "id_str": "636375564698406912",
+      "text": "Army to honor Oregon guardsman who subdued armed gunman in French train attack: http://t.co/zp9OrbaaW2",
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14352556,
+        "id_str": "14352556",
+        "name": "The Seattle Times",
+        "screen_name": "seattletimes",
+        "location": "Seattle, WA",
+        "description": "Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest. Tweet us with news tips, @ or DM",
+        "url": "http://t.co/Af2qsN9wc6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Af2qsN9wc6",
+                "expanded_url": "http://www.seattletimes.com/?utm_source=twitter&utm_medium=social&utm_campaign=profile_twitter",
+                "display_url": "seattletimes.com/?utm_source=tw…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 200318,
+        "friends_count": 13143,
+        "listed_count": 5639,
+        "created_at": "Thu Apr 10 16:15:09 +0000 2008",
+        "favourites_count": 718,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 64698,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000138887376/bpmpq1PT.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000138887376/bpmpq1PT.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/411652439293440000/koC4Rnph_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/411652439293440000/koC4Rnph_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14352556/1432072142",
+        "profile_link_color": "003355",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D8DFE8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/zp9OrbaaW2",
+            "expanded_url": "http://bit.ly/1hdqRVO",
+            "display_url": "bit.ly/1hdqRVO",
+            "indices": [
+              80,
+              102
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "seattletimes",
+          "name": "The Seattle Times",
+          "id": 14352556,
+          "id_str": "14352556",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/zp9OrbaaW2",
+          "expanded_url": "http://bit.ly/1hdqRVO",
+          "display_url": "bit.ly/1hdqRVO",
+          "indices": [
+            98,
+            120
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Aug 25 22:26:52 +0000 2015",
+    "id": 636303756875857920,
+    "id_str": "636303756875857920",
+    "text": "Best practice how to set up source code tree and plugin settings when Scala and Java code in the same Maven project. http://t.co/HgDR6JHHst",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/HgDR6JHHst",
+          "expanded_url": "http://scala-tools.org/mvnsites/maven-scala-plugin/example_java.html",
+          "display_url": "scala-tools.org/mvnsites/maven…",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 24 23:00:09 +0000 2015",
+    "id": 635949746352361472,
+    "id_str": "635949746352361472",
+    "text": "Ask HighScalability: Choose An Async App Server Or Multiple Blocking Servers?\nhttp://t.co/c4j8HwdEkS",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/c4j8HwdEkS",
+          "expanded_url": "http://highscalability.com/blog/2015/8/24/ask-highscalability-choose-an-async-app-server-or-multiple-b.html",
+          "display_url": "highscalability.com/blog/2015/8/24…",
+          "indices": [
+            78,
+            100
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 24 18:00:03 +0000 2015",
+    "id": 635874222154215424,
+    "id_str": "635874222154215424",
+    "text": "No release notes is just plain lazy, and a great way to destroy user trust in your OS #Win10\nhttp://t.co/v7NZIjLjXS",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Win10",
+          "indices": [
+            86,
+            92
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/v7NZIjLjXS",
+          "expanded_url": "http://www.theregister.co.uk/2015/08/21/microsoft_will_explain_only_significant_windows_10_updates/",
+          "display_url": "theregister.co.uk/2015/08/21/mic…",
+          "indices": [
+            93,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 24 14:15:58 +0000 2015",
+    "id": 635817832853311488,
+    "id_str": "635817832853311488",
+    "text": "Train heroes receive France's Legion of Honor medal. Eh bien méritée! #AirForce #NationalGuard #Heroes http://t.co/NH6RCGaITY",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AirForce",
+          "indices": [
+            70,
+            79
+          ]
+        },
+        {
+          "text": "NationalGuard",
+          "indices": [
+            80,
+            94
+          ]
+        },
+        {
+          "text": "Heroes",
+          "indices": [
+            95,
+            102
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/NH6RCGaITY",
+          "expanded_url": "http://www.nytimes.com/2015/08/25/world/europe/france-train-attack-legion-of-honor.html",
+          "display_url": "nytimes.com/2015/08/25/wor…",
+          "indices": [
+            103,
+            125
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
     "created_at": "Mon Aug 24 00:45:12 +0000 2015",
     "id": 635613793599385600,
     "id_str": "635613793599385600",
