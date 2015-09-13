@@ -1,5 +1,405 @@
 Grailbird.data.tweets_2015_09 = [
   {
+    "created_at": "Sat Sep 12 01:10:54 +0000 2015",
+    "id": 642505633283989505,
+    "id_str": "642505633283989505",
+    "text": "Amazon Web Services in Plain English - a guide to all the AWS product names and what they really do.\nhttps://t.co/SVuCrm4JbN",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SVuCrm4JbN",
+          "expanded_url": "https://www.expeditedssl.com/aws-in-plain-english",
+          "display_url": "expeditedssl.com/aws-in-plain-e…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 09 23:15:06 +0000 2015",
+    "id": 641751712751943680,
+    "id_str": "641751712751943680",
+    "text": "The official Raspberry Pi touch display is now available for purchase.\nhttps://t.co/9Al6Ch0vim",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9Al6Ch0vim",
+          "expanded_url": "https://www.raspberrypi.org/blog/the-eagerly-awaited-raspberry-pi-display/",
+          "display_url": "raspberrypi.org/blog/the-eager…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 09 18:00:07 +0000 2015",
+    "id": 641672447490547712,
+    "id_str": "641672447490547712",
+    "text": "Java API Compliance Checker - tool for checking backward binary and source-level compatibility of a Java library API\nhttp://t.co/b00CrHbDzw",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/b00CrHbDzw",
+          "expanded_url": "http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker",
+          "display_url": "ispras.linuxbase.org/index.php/Java…",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 09 17:00:13 +0000 2015",
+    "id": 641657372008542209,
+    "id_str": "641657372008542209",
+    "text": "Achieving Java API binary compatibility -  checklist for which kinds of changes break API binary compatibility.\nhttp://t.co/iL8P1rpIAF",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/iL8P1rpIAF",
+          "expanded_url": "http://wiki.eclipse.org/Evolving_Java-based_APIs_2",
+          "display_url": "wiki.eclipse.org/Evolving_Java-…",
+          "indices": [
+            112,
+            134
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 09 00:00:04 +0000 2015",
+    "id": 641400641034719232,
+    "id_str": "641400641034719232",
+    "text": "Using branch policies in Visual Studio Online to enforce code review and/or clean build gate\nhttps://t.co/CsZPLQTta3",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CsZPLQTta3",
+          "expanded_url": "https://msdn.microsoft.com/Library/vs/alm/Code/git/branch-policies#build",
+          "display_url": "msdn.microsoft.com/Library/vs/alm…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 08 13:44:21 +0000 2015",
+    "id": 641245693118582785,
+    "id_str": "641245693118582785",
+    "text": "Microsoft Anniversary - 12 years today. Plus I now get +1 week extra vacation allowance per year. http://t.co/bUusM85BLu",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 641245692694888448,
+          "id_str": "641245692694888448",
+          "indices": [
+            98,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/COYpj17UAAAZjNI.png",
+          "media_url_https": "https://pbs.twimg.com/media/COYpj17UAAAZjNI.png",
+          "url": "http://t.co/bUusM85BLu",
+          "display_url": "pic.twitter.com/bUusM85BLu",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/641245693118582785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 256,
+              "h": 256,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 256,
+              "h": 256,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 256,
+              "h": 256,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 641245692694888448,
+          "id_str": "641245692694888448",
+          "indices": [
+            98,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/COYpj17UAAAZjNI.png",
+          "media_url_https": "https://pbs.twimg.com/media/COYpj17UAAAZjNI.png",
+          "url": "http://t.co/bUusM85BLu",
+          "display_url": "pic.twitter.com/bUusM85BLu",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/641245693118582785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 256,
+              "h": 256,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 256,
+              "h": 256,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 256,
+              "h": 256,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Sep 05 16:46:48 +0000 2015",
     "id": 640204444072697856,
     "id_str": "640204444072697856",
