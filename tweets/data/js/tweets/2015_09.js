@@ -1,5 +1,651 @@
 Grailbird.data.tweets_2015_09 = [
   {
+    "created_at": "Thu Sep 17 22:21:47 +0000 2015",
+    "id": 644637399436275712,
+    "id_str": "644637399436275712",
+    "text": "Microsoft increases commitment to @tealsk12org - expanding CS in HS program by 5x in 3 yrs\nhttp://t.co/HUFkadbAQ0",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tealsk12org",
+          "name": "TEALS",
+          "id": 3240992597,
+          "id_str": "3240992597",
+          "indices": [
+            34,
+            46
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/HUFkadbAQ0",
+          "expanded_url": "http://news.microsoft.com/features/microsoft-youthspark-expands-youth-programs-for-computer-science-education/",
+          "display_url": "news.microsoft.com/features/micro…",
+          "indices": [
+            91,
+            113
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 14 06:04:49 +0000 2015",
+    "id": 643304375096467456,
+    "id_str": "643304375096467456",
+    "text": "RT @TeslaMotors: Superchargers powered 5x more road trips than last summer. We’ve got you covered so Model S can take you anywhere http://t…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 12 17:57:04 +0000 2015",
+      "id": 642758840895832064,
+      "id_str": "642758840895832064",
+      "text": "Superchargers powered 5x more road trips than last summer. We’ve got you covered so Model S can take you anywhere http://t.co/kpakwUW137",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13298072,
+        "id_str": "13298072",
+        "name": "Tesla Motors",
+        "screen_name": "TeslaMotors",
+        "location": "",
+        "description": "Always on insane-mode. Maker of electric cars and renewable energy storage. Join the rEVolution!",
+        "url": "http://t.co/tK92gKZKbB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/tK92gKZKbB",
+                "expanded_url": "http://www.teslamotors.com",
+                "display_url": "teslamotors.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 739738,
+        "friends_count": 292,
+        "listed_count": 6392,
+        "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+        "favourites_count": 954,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 5780,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/812177545/c69f76a0142059d01f86203029dbaf6e.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/812177545/c69f76a0142059d01f86203029dbaf6e.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1442418614",
+        "profile_link_color": "C90000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5EDF5",
+        "profile_text_color": "555555",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 351,
+      "favorite_count": 600,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 642758836143525888,
+            "id_str": "642758836143525888",
+            "indices": [
+              114,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+            "url": "http://t.co/kpakwUW137",
+            "display_url": "pic.twitter.com/kpakwUW137",
+            "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 305,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 521,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 172,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 642758836143525888,
+            "id_str": "642758836143525888",
+            "indices": [
+              114,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+            "url": "http://t.co/kpakwUW137",
+            "display_url": "pic.twitter.com/kpakwUW137",
+            "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 305,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 521,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 172,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 642758839096315905,
+            "id_str": "642758839096315905",
+            "indices": [
+              114,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/COuJwjiUEAE2zU4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/COuJwjiUEAE2zU4.jpg",
+            "url": "http://t.co/kpakwUW137",
+            "display_url": "pic.twitter.com/kpakwUW137",
+            "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 305,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 521,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 172,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 642758828933574657,
+            "id_str": "642758828933574657",
+            "indices": [
+              114,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/COuJv9rU8AEsIrU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/COuJv9rU8AEsIrU.jpg",
+            "url": "http://t.co/kpakwUW137",
+            "display_url": "pic.twitter.com/kpakwUW137",
+            "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 305,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 521,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 172,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 351,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TeslaMotors",
+          "name": "Tesla Motors",
+          "id": 13298072,
+          "id_str": "13298072",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 642758836143525888,
+          "id_str": "642758836143525888",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+          "url": "http://t.co/kpakwUW137",
+          "display_url": "pic.twitter.com/kpakwUW137",
+          "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 305,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 521,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 172,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 642758840895832064,
+          "source_status_id_str": "642758840895832064",
+          "source_user_id": 13298072,
+          "source_user_id_str": "13298072"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 642758836143525888,
+          "id_str": "642758836143525888",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/COuJwYiUEAA5mmu.jpg",
+          "url": "http://t.co/kpakwUW137",
+          "display_url": "pic.twitter.com/kpakwUW137",
+          "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 305,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 521,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 172,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 642758840895832064,
+          "source_status_id_str": "642758840895832064",
+          "source_user_id": 13298072,
+          "source_user_id_str": "13298072"
+        },
+        {
+          "id": 642758839096315905,
+          "id_str": "642758839096315905",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/COuJwjiUEAE2zU4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/COuJwjiUEAE2zU4.jpg",
+          "url": "http://t.co/kpakwUW137",
+          "display_url": "pic.twitter.com/kpakwUW137",
+          "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 305,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 521,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 172,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 642758840895832064,
+          "source_status_id_str": "642758840895832064",
+          "source_user_id": 13298072,
+          "source_user_id_str": "13298072"
+        },
+        {
+          "id": 642758828933574657,
+          "id_str": "642758828933574657",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/COuJv9rU8AEsIrU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/COuJv9rU8AEsIrU.jpg",
+          "url": "http://t.co/kpakwUW137",
+          "display_url": "pic.twitter.com/kpakwUW137",
+          "expanded_url": "http://twitter.com/TeslaMotors/status/642758840895832064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 305,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 521,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 172,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 642758840895832064,
+          "source_status_id_str": "642758840895832064",
+          "source_user_id": 13298072,
+          "source_user_id_str": "13298072"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 13 19:32:39 +0000 2015",
+    "id": 643145284952813568,
+    "id_str": "643145284952813568",
+    "text": "The critical importance of Over-The-Air (OTA) software updates for future connected cars.\nhttp://t.co/VM9HAmGm5v",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/VM9HAmGm5v",
+          "expanded_url": "http://techcrunch.com/2015/09/12/to-protect-cars-from-cyber-attacks-a-call-for-action/",
+          "display_url": "techcrunch.com/2015/09/12/to-…",
+          "indices": [
+            90,
+            112
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 13 05:07:32 +0000 2015",
+    "id": 642927571672264704,
+    "id_str": "642927571672264704",
+    "text": "Spark 1.5 contains some nice enhancements for data science and machine learning workloads.\nhttps://t.co/9CbTwYws7i",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9CbTwYws7i",
+          "expanded_url": "https://databricks.com/blog/2015/09/09/announcing-spark-1-5.html",
+          "display_url": "databricks.com/blog/2015/09/0…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Sep 12 01:10:54 +0000 2015",
     "id": 642505633283989505,
     "id_str": "642505633283989505",
