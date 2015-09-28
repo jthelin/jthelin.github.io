@@ -1,5 +1,850 @@
 Grailbird.data.tweets_2015_09 = [
   {
+    "created_at": "Mon Sep 28 04:17:21 +0000 2015",
+    "id": 648350759046639616,
+    "id_str": "648350759046639616",
+    "text": "SuperMoon Lunar Eclipse - 2015-09-27 - Redmond, WA http://t.co/SyEeb6Ge36",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "7291a25672e0d4b1",
+      "url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+      "place_type": "city",
+      "name": "Redmond",
+      "full_name": "Redmond, WA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.1649,
+              47.626845
+            ],
+            [
+              -121.958642,
+              47.626845
+            ],
+            [
+              -121.958642,
+              47.73078
+            ],
+            [
+              -122.1649,
+              47.73078
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 648350757771546624,
+          "id_str": "648350757771546624",
+          "indices": [
+            51,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/CP9nlD7UEAADYIP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CP9nlD7UEAADYIP.jpg",
+          "url": "http://t.co/SyEeb6Ge36",
+          "display_url": "pic.twitter.com/SyEeb6Ge36",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/648350759046639616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 648350757771546624,
+          "id_str": "648350757771546624",
+          "indices": [
+            51,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/CP9nlD7UEAADYIP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CP9nlD7UEAADYIP.jpg",
+          "url": "http://t.co/SyEeb6Ge36",
+          "display_url": "pic.twitter.com/SyEeb6Ge36",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/648350759046639616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  },
+  {
+    "created_at": "Sun Sep 27 18:57:57 +0000 2015",
+    "id": 648209983364968448,
+    "id_str": "648209983364968448",
+    "text": "RT @NASA: Learn from a pro: Our photographer gives tips to capture the #SuperBloodMoon tonight: http://t.co/UU043En1No http://t.co/BRbVZuUX…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 27 17:52:00 +0000 2015",
+      "id": 648193385967284224,
+      "id_str": "648193385967284224",
+      "text": "Learn from a pro: Our photographer gives tips to capture the #SuperBloodMoon tonight: http://t.co/UU043En1No http://t.co/BRbVZuUXXh",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11348282,
+        "id_str": "11348282",
+        "name": "NASA",
+        "screen_name": "NASA",
+        "location": "",
+        "description": "Explore the universe and discover our home planet with @NASA. We usually post in EDT (UTC-4).",
+        "url": "http://t.co/TcEE6O9Jfb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TcEE6O9Jfb",
+                "expanded_url": "http://www.nasa.gov",
+                "display_url": "nasa.gov",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12495534,
+        "friends_count": 243,
+        "listed_count": 78087,
+        "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+        "favourites_count": 687,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 39016,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1443219244",
+        "profile_link_color": "205BA7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F2F2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2793,
+      "favorite_count": 3514,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SuperBloodMoon",
+            "indices": [
+              61,
+              76
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/UU043En1No",
+            "expanded_url": "http://go.nasa.gov/1FsPfhR",
+            "display_url": "go.nasa.gov/1FsPfhR",
+            "indices": [
+              86,
+              108
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 648193385879240704,
+            "id_str": "648193385879240704",
+            "indices": [
+              109,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+            "url": "http://t.co/BRbVZuUXXh",
+            "display_url": "pic.twitter.com/BRbVZuUXXh",
+            "expanded_url": "http://twitter.com/NASA/status/648193385967284224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 236,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 416,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 711,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 648193385879240704,
+            "id_str": "648193385879240704",
+            "indices": [
+              109,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+            "url": "http://t.co/BRbVZuUXXh",
+            "display_url": "pic.twitter.com/BRbVZuUXXh",
+            "expanded_url": "http://twitter.com/NASA/status/648193385967284224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 236,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 416,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 711,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2793,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperBloodMoon",
+          "indices": [
+            71,
+            86
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NASA",
+          "name": "NASA",
+          "id": 11348282,
+          "id_str": "11348282",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/UU043En1No",
+          "expanded_url": "http://go.nasa.gov/1FsPfhR",
+          "display_url": "go.nasa.gov/1FsPfhR",
+          "indices": [
+            96,
+            118
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 648193385879240704,
+          "id_str": "648193385879240704",
+          "indices": [
+            119,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+          "url": "http://t.co/BRbVZuUXXh",
+          "display_url": "pic.twitter.com/BRbVZuUXXh",
+          "expanded_url": "http://twitter.com/NASA/status/648193385967284224/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 236,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 416,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 711,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 648193385967284224,
+          "source_status_id_str": "648193385967284224",
+          "source_user_id": 11348282,
+          "source_user_id_str": "11348282"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 648193385879240704,
+          "id_str": "648193385879240704",
+          "indices": [
+            119,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CP7Ycz8XAAA-HrP.jpg",
+          "url": "http://t.co/BRbVZuUXXh",
+          "display_url": "pic.twitter.com/BRbVZuUXXh",
+          "expanded_url": "http://twitter.com/NASA/status/648193385967284224/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 236,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 416,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 711,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 648193385967284224,
+          "source_status_id_str": "648193385967284224",
+          "source_user_id": 11348282,
+          "source_user_id_str": "11348282"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 26 23:52:37 +0000 2015",
+    "id": 647921748084523008,
+    "id_str": "647921748084523008",
+    "text": "RT @IGN: If you haven't yet, check out our spoiler-free impressions of Halo 5's campaign http://t.co/fPD40NsqVy http://t.co/eGYlbra48P",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 26 23:00:17 +0000 2015",
+      "id": 647908580369268736,
+      "id_str": "647908580369268736",
+      "text": "If you haven't yet, check out our spoiler-free impressions of Halo 5's campaign http://t.co/fPD40NsqVy http://t.co/eGYlbra48P",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18927441,
+        "id_str": "18927441",
+        "name": "IGN",
+        "screen_name": "IGN",
+        "location": "San Francisco, CA",
+        "description": "IGN is the place for video game news, game reviews and previews, guides, videos, walkthroughs, cheats, movie trailers, E3, TV, comics, and everything you love.",
+        "url": "http://t.co/QjpnpGC0H3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/QjpnpGC0H3",
+                "expanded_url": "http://www.ign.com",
+                "display_url": "ign.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3180958,
+        "friends_count": 508,
+        "listed_count": 20049,
+        "created_at": "Tue Jan 13 03:56:38 +0000 2009",
+        "favourites_count": 2352,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 69260,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539965302025375744/cPa5-6ew.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/539965302025375744/cPa5-6ew.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615563691853901824/Tsg84Rne_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615563691853901824/Tsg84Rne_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18927441/1441324048",
+        "profile_link_color": "D3222A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 76,
+      "favorite_count": 232,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/fPD40NsqVy",
+            "expanded_url": "http://go.ign.com/k7I74Bg",
+            "display_url": "go.ign.com/k7I74Bg",
+            "indices": [
+              80,
+              102
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 647908579777847296,
+            "id_str": "647908579777847296",
+            "indices": [
+              103,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+            "url": "http://t.co/eGYlbra48P",
+            "display_url": "pic.twitter.com/eGYlbra48P",
+            "expanded_url": "http://twitter.com/IGN/status/647908580369268736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 647908579777847296,
+            "id_str": "647908579777847296",
+            "indices": [
+              103,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+            "url": "http://t.co/eGYlbra48P",
+            "display_url": "pic.twitter.com/eGYlbra48P",
+            "expanded_url": "http://twitter.com/IGN/status/647908580369268736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 76,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "IGN",
+          "name": "IGN",
+          "id": 18927441,
+          "id_str": "18927441",
+          "indices": [
+            3,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/fPD40NsqVy",
+          "expanded_url": "http://go.ign.com/k7I74Bg",
+          "display_url": "go.ign.com/k7I74Bg",
+          "indices": [
+            89,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 647908579777847296,
+          "id_str": "647908579777847296",
+          "indices": [
+            112,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+          "url": "http://t.co/eGYlbra48P",
+          "display_url": "pic.twitter.com/eGYlbra48P",
+          "expanded_url": "http://twitter.com/IGN/status/647908580369268736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 647908580369268736,
+          "source_status_id_str": "647908580369268736",
+          "source_user_id": 18927441,
+          "source_user_id_str": "18927441"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 647908579777847296,
+          "id_str": "647908579777847296",
+          "indices": [
+            112,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CP3Va6iWIAAHF3e.jpg",
+          "url": "http://t.co/eGYlbra48P",
+          "display_url": "pic.twitter.com/eGYlbra48P",
+          "expanded_url": "http://twitter.com/IGN/status/647908580369268736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 647908580369268736,
+          "source_status_id_str": "647908580369268736",
+          "source_user_id": 18927441,
+          "source_user_id_str": "18927441"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Sep 17 22:21:47 +0000 2015",
     "id": 644637399436275712,
     "id_str": "644637399436275712",
