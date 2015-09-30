@@ -1,5 +1,75 @@
 Grailbird.data.tweets_2015_09 = [
   {
+    "created_at": "Wed Sep 30 12:41:25 +0000 2015",
+    "id": 649202386087481344,
+    "id_str": "649202386087481344",
+    "text": "#Tesla Model X has \"bioweapon defense mode\" -- very useful when driving behind a @VW diesel.\nhttp://t.co/ldhwjpz7CB",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Tesla",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VW",
+          "name": "Volkswagen USA",
+          "id": 28165910,
+          "id_str": "28165910",
+          "indices": [
+            81,
+            84
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ldhwjpz7CB",
+          "expanded_url": "http://www.theverge.com/2015/9/30/9421719/tesla-model-x-bioweapon-defense-mode-button",
+          "display_url": "theverge.com/2015/9/30/9421…",
+          "indices": [
+            93,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Sep 28 04:17:21 +0000 2015",
     "id": 648350759046639616,
     "id_str": "648350759046639616",
