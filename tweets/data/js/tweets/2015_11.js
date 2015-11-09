@@ -1,5 +1,488 @@
 Grailbird.data.tweets_2015_11 = [
   {
+    "created_at": "Sun Nov 08 20:24:51 +0000 2015",
+    "id": 663452140187201536,
+    "id_str": "663452140187201536",
+    "text": "Seems @ProjectOrleans just passed significant milestone - 1000 contributions from community.\nhttps://t.co/i6FUNZ4wF4",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "projectorleans",
+          "name": "Project Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            6,
+            21
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i6FUNZ4wF4",
+          "expanded_url": "https://github.com/dotnet/orleans/issues/1000",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 07 22:30:12 +0000 2015",
+    "id": 663121298541842432,
+    "id_str": "663121298541842432",
+    "text": "MIT &amp; Harvard researchers publish peer-reviewed estimate of health impact of @VW pollutants\n\nhttps://t.co/VReGTTyTit",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VW",
+          "name": "Volkswagen USA",
+          "id": 28165910,
+          "id_str": "28165910",
+          "indices": [
+            81,
+            84
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VReGTTyTit",
+          "expanded_url": "http://www.bloomberg.com/news/articles/2015-10-30/volkswagen-s-excess-emissions-will-kill-59-americans-study",
+          "display_url": "bloomberg.com/news/articles/…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 07 18:00:08 +0000 2015",
+    "id": 663053334840930304,
+    "id_str": "663053334840930304",
+    "text": "90 second tour around the Tesla Factory -- This is not your father's manufacturing plant! \nhttps://t.co/HoTEP1q8kL",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HoTEP1q8kL",
+          "expanded_url": "https://youtu.be/hOXaBto7giY",
+          "display_url": "youtu.be/hOXaBto7giY",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 07 06:29:54 +0000 2015",
+    "id": 662879629615624192,
+    "id_str": "662879629615624192",
+    "text": "RT @sbykov_work: Sometimes you are just helping to make $400m in one week. @projectorleans  https://t.co/HpaAy6E5eo",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 06 04:18:39 +0000 2015",
+      "id": 662484213938044928,
+      "id_str": "662484213938044928",
+      "text": "Sometimes you are just helping to make $400m in one week. @projectorleans  https://t.co/HpaAy6E5eo",
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2421698636,
+        "id_str": "2421698636",
+        "name": "Sergey Bykov",
+        "screen_name": "sbykov_work",
+        "location": "Redmond WA, USA",
+        "description": "Lead of the Project Orleans at Microsoft.  Acting on actors.",
+        "url": "https://t.co/z6wj6MChiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z6wj6MChiI",
+                "expanded_url": "https://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 496,
+        "friends_count": 155,
+        "listed_count": 27,
+        "created_at": "Tue Apr 01 07:15:10 +0000 2014",
+        "favourites_count": 627,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2064,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 661945238890545152,
+      "quoted_status_id_str": "661945238890545152",
+      "quoted_status": {
+        "created_at": "Wed Nov 04 16:36:57 +0000 2015",
+        "id": 661945238890545152,
+        "id_str": "661945238890545152",
+        "text": "Thanks to all of you for helping make the launch of Halo 5 such a success, total team and community effort.  https://t.co/Ge3pByRvdW",
+        "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 532406707,
+          "id_str": "532406707",
+          "name": "Phil Spencer",
+          "screen_name": "XboxP3",
+          "location": "Redmond, WA | Gamer Tag: P3 ",
+          "description": "Head of Xbox  |  \nDefined more by what I do than who I am.",
+          "url": "http://t.co/uEEzkf8C6r",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/uEEzkf8C6r",
+                  "expanded_url": "http://www.xbox.com",
+                  "display_url": "xbox.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 209937,
+          "friends_count": 662,
+          "listed_count": 1442,
+          "created_at": "Wed Mar 21 17:36:10 +0000 2012",
+          "favourites_count": 281,
+          "utc_offset": -25200,
+          "time_zone": "Arizona",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 4423,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/628553247075143680/xtyYD0nX_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/628553247075143680/xtyYD0nX_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/532406707/1437528970",
+          "profile_link_color": "1A7A1B",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 231,
+        "favorite_count": 581,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Ge3pByRvdW",
+              "expanded_url": "http://news.xbox.com/2015/11/04/halo-5-guardians-biggest-halo-launch-in-history/",
+              "display_url": "news.xbox.com/2015/11/04/hal…",
+              "indices": [
+                109,
+                132
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Project Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              58,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HpaAy6E5eo",
+            "expanded_url": "https://twitter.com/XboxP3/status/661945238890545152",
+            "display_url": "twitter.com/XboxP3/status/…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sbykov_work",
+          "name": "Sergey Bykov",
+          "id": 2421698636,
+          "id_str": "2421698636",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Project Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            75,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HpaAy6E5eo",
+          "expanded_url": "https://twitter.com/XboxP3/status/661945238890545152",
+          "display_url": "twitter.com/XboxP3/status/…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Nov 06 19:20:50 +0000 2015",
     "id": 662711255220678657,
     "id_str": "662711255220678657",
