@@ -1,5 +1,1104 @@
 Grailbird.data.tweets_2015_11 = [
   {
+    "created_at": "Mon Nov 09 14:58:35 +0000 2015",
+    "id": 663732419590139904,
+    "id_str": "663732419590139904",
+    "text": "RT @lmacvittie: Avg co triples its number of #Docker #containers in 5 months. More stats:  https://t.co/WEgfUjpAOe https://t.co/FSXviQ5tj5 …",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 09 14:19:45 +0000 2015",
+      "id": 663722648011194368,
+      "id_str": "663722648011194368",
+      "text": "Avg co triples its number of #Docker #containers in 5 months. More stats:  https://t.co/WEgfUjpAOe https://t.co/FSXviQ5tj5 #DevOps",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8470272,
+        "id_str": "8470272",
+        "name": "Lori MacVittie",
+        "screen_name": "lmacvittie",
+        "location": "Green Bay",
+        "description": "Evangelist for F5 Networks  ★ Mom ★ Grandmom ★ Geek ★ Gamer ★Writer ★ Thinker ★ Musician ★ Opinionated ★ Really opinionated, actually.",
+        "url": "http://t.co/K50huR2Qb7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/K50huR2Qb7",
+                "expanded_url": "http://about.me/lmacvittie",
+                "display_url": "about.me/lmacvittie",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6942,
+        "friends_count": 3576,
+        "listed_count": 669,
+        "created_at": "Mon Aug 27 20:30:23 +0000 2007",
+        "favourites_count": 1235,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23481,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/231766294/twitback.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/231766294/twitback.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2809997791/e82bf8ed08b7ef1ef8b875cd737a9887_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2809997791/e82bf8ed08b7ef1ef8b875cd737a9887_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8470272/1434394647",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "D6D0F1",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Docker",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "text": "containers",
+            "indices": [
+              37,
+              48
+            ]
+          },
+          {
+            "text": "DevOps",
+            "indices": [
+              123,
+              130
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WEgfUjpAOe",
+            "expanded_url": "http://dtdg.co/dckr-adopt#5",
+            "display_url": "dtdg.co/dckr-adopt#5",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 659047954007855104,
+            "id_str": "659047954007855104",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+            "media_url_https": "https://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+            "url": "https://t.co/FSXviQ5tj5",
+            "display_url": "pic.twitter.com/FSXviQ5tj5",
+            "expanded_url": "https://twitter.com/dd_docker/status/659047954347630593/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 659047954347630593,
+            "source_status_id_str": "659047954347630593",
+            "source_user_id": 4054533922,
+            "source_user_id_str": "4054533922"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 659047954007855104,
+            "id_str": "659047954007855104",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+            "media_url_https": "https://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+            "url": "https://t.co/FSXviQ5tj5",
+            "display_url": "pic.twitter.com/FSXviQ5tj5",
+            "expanded_url": "https://twitter.com/dd_docker/status/659047954347630593/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 659047954347630593,
+            "source_status_id_str": "659047954347630593",
+            "source_user_id": 4054533922,
+            "source_user_id_str": "4054533922"
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Docker",
+          "indices": [
+            45,
+            52
+          ]
+        },
+        {
+          "text": "containers",
+          "indices": [
+            53,
+            64
+          ]
+        },
+        {
+          "text": "DevOps",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lmacvittie",
+          "name": "Lori MacVittie",
+          "id": 8470272,
+          "id_str": "8470272",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WEgfUjpAOe",
+          "expanded_url": "http://dtdg.co/dckr-adopt#5",
+          "display_url": "dtdg.co/dckr-adopt#5",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 659047954007855104,
+          "id_str": "659047954007855104",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+          "media_url_https": "https://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+          "url": "https://t.co/FSXviQ5tj5",
+          "display_url": "pic.twitter.com/FSXviQ5tj5",
+          "expanded_url": "https://twitter.com/dd_docker/status/659047954347630593/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 659047954347630593,
+          "source_status_id_str": "659047954347630593",
+          "source_user_id": 4054533922,
+          "source_user_id_str": "4054533922"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 659047954007855104,
+          "id_str": "659047954007855104",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+          "media_url_https": "https://pbs.twimg.com/media/CSVon1SWEAA7W_3.png",
+          "url": "https://t.co/FSXviQ5tj5",
+          "display_url": "pic.twitter.com/FSXviQ5tj5",
+          "expanded_url": "https://twitter.com/dd_docker/status/659047954347630593/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 659047954347630593,
+          "source_status_id_str": "659047954347630593",
+          "source_user_id": 4054533922,
+          "source_user_id_str": "4054533922"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 09 14:52:17 +0000 2015",
+    "id": 663730835476971521,
+    "id_str": "663730835476971521",
+    "text": "RT @krisgraft: 20 years of Fallout: Lessons learned shipping games in the wasteland (by @awawro) https://t.co/ymEc30P4z2",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 09 14:22:00 +0000 2015",
+      "id": 663723213201866752,
+      "id_str": "663723213201866752",
+      "text": "20 years of Fallout: Lessons learned shipping games in the wasteland (by @awawro) https://t.co/ymEc30P4z2",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18215717,
+        "id_str": "18215717",
+        "name": "Kris Graft",
+        "screen_name": "krisgraft",
+        "location": "",
+        "description": "Post-apocalyptic hobo and Editor-In-Chief http://t.co/flxOBcDo4K.",
+        "url": "http://t.co/RngqaE4x8N",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/RngqaE4x8N",
+                "expanded_url": "http://www.gamasutra.com",
+                "display_url": "gamasutra.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/flxOBcDo4K",
+                "expanded_url": "http://gamasutra.com",
+                "display_url": "gamasutra.com",
+                "indices": [
+                  42,
+                  64
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5992,
+        "friends_count": 559,
+        "listed_count": 225,
+        "created_at": "Thu Dec 18 14:41:54 +0000 2008",
+        "favourites_count": 5022,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8011,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/42054967/rogers_spying.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/42054967/rogers_spying.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631135485310578688/W82XErlM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631135485310578688/W82XErlM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18215717/1435461405",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "awawro",
+            "name": "Alex Wawro",
+            "id": 1233111,
+            "id_str": "1233111",
+            "indices": [
+              73,
+              80
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ymEc30P4z2",
+            "expanded_url": "http://www.gamasutra.com/view/news/258465/20_years_of_Fallout_Lessons_learned_shipping_games_in_the_wasteland.php#.VkCr9HTdsrY.twitter",
+            "display_url": "gamasutra.com/view/news/2584…",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "krisgraft",
+          "name": "Kris Graft",
+          "id": 18215717,
+          "id_str": "18215717",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "awawro",
+          "name": "Alex Wawro",
+          "id": 1233111,
+          "id_str": "1233111",
+          "indices": [
+            88,
+            95
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ymEc30P4z2",
+          "expanded_url": "http://www.gamasutra.com/view/news/258465/20_years_of_Fallout_Lessons_learned_shipping_games_in_the_wasteland.php#.VkCr9HTdsrY.twitter",
+          "display_url": "gamasutra.com/view/news/2584…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 09 14:48:59 +0000 2015",
+    "id": 663730007362015232,
+    "id_str": "663730007362015232",
+    "text": "RT @Gizmodo: EPA decides to start properly testing cars post-Dieselgate https://t.co/6oWsmaJk8v https://t.co/TFVc8Sbv0R",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 09 14:37:06 +0000 2015",
+      "id": 663727015812595712,
+      "id_str": "663727015812595712",
+      "text": "EPA decides to start properly testing cars post-Dieselgate https://t.co/6oWsmaJk8v https://t.co/TFVc8Sbv0R",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2890961,
+        "id_str": "2890961",
+        "name": "Gizmodo",
+        "screen_name": "Gizmodo",
+        "location": "",
+        "description": "Everything is technology.",
+        "url": "http://t.co/TKRR4S1jOT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TKRR4S1jOT",
+                "expanded_url": "http://gizmodo.com",
+                "display_url": "gizmodo.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1570138,
+        "friends_count": 127,
+        "listed_count": 42240,
+        "created_at": "Thu Mar 29 20:40:39 +0000 2007",
+        "favourites_count": 55,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 44129,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDF6F8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590508740010348544/eS1F7mN5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590508740010348544/eS1F7mN5_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2890961/1434551436",
+        "profile_link_color": "3697B3",
+        "profile_sidebar_border_color": "E9E9E9",
+        "profile_sidebar_fill_color": "E9E9E9",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 15,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6oWsmaJk8v",
+            "expanded_url": "http://gizmo.do/Pj5rhxl",
+            "display_url": "gizmo.do/Pj5rhxl",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 663727015124713472,
+            "id_str": "663727015124713472",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+            "url": "https://t.co/TFVc8Sbv0R",
+            "display_url": "pic.twitter.com/TFVc8Sbv0R",
+            "expanded_url": "http://twitter.com/Gizmodo/status/663727015812595712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 154,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 273,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 364,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 663727015124713472,
+            "id_str": "663727015124713472",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+            "url": "https://t.co/TFVc8Sbv0R",
+            "display_url": "pic.twitter.com/TFVc8Sbv0R",
+            "expanded_url": "http://twitter.com/Gizmodo/status/663727015812595712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 154,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 273,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 364,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Gizmodo",
+          "name": "Gizmodo",
+          "id": 2890961,
+          "id_str": "2890961",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6oWsmaJk8v",
+          "expanded_url": "http://gizmo.do/Pj5rhxl",
+          "display_url": "gizmo.do/Pj5rhxl",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 663727015124713472,
+          "id_str": "663727015124713472",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+          "url": "https://t.co/TFVc8Sbv0R",
+          "display_url": "pic.twitter.com/TFVc8Sbv0R",
+          "expanded_url": "http://twitter.com/Gizmodo/status/663727015812595712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 154,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 273,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 364,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 663727015812595712,
+          "source_status_id_str": "663727015812595712",
+          "source_user_id": 2890961,
+          "source_user_id_str": "2890961"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 663727015124713472,
+          "id_str": "663727015124713472",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CTYINCRWwAAth2Z.jpg",
+          "url": "https://t.co/TFVc8Sbv0R",
+          "display_url": "pic.twitter.com/TFVc8Sbv0R",
+          "expanded_url": "http://twitter.com/Gizmodo/status/663727015812595712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 154,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 273,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 364,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 663727015812595712,
+          "source_status_id_str": "663727015812595712",
+          "source_user_id": 2890961,
+          "source_user_id_str": "2890961"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 09 05:53:23 +0000 2015",
+    "id": 663595216587231233,
+    "id_str": "663595216587231233",
+    "text": "RT @nzigel: I enjoyed the Microsoft internal Unconscious Bias training. It is great to see that it has been pushed out publicly https://t.c…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 09 04:09:31 +0000 2015",
+      "id": 663569076648718336,
+      "id_str": "663569076648718336",
+      "text": "I enjoyed the Microsoft internal Unconscious Bias training. It is great to see that it has been pushed out publicly https://t.co/jjcGfLnB7W",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5569612,
+        "id_str": "5569612",
+        "name": "Nigel Parker",
+        "screen_name": "nzigel",
+        "location": "Auckland, New Zealand",
+        "description": "Working for Microsoft NZ running the Developer Experience team. Fail fast & fold the future back http://t.co/dcr1WCKNiH",
+        "url": "http://t.co/FVREWgYv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/FVREWgYv",
+                "expanded_url": "http://nigelparker.name",
+                "display_url": "nigelparker.name",
+                "indices": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/dcr1WCKNiH",
+                "expanded_url": "http://aka.ms/TEDxFailure",
+                "display_url": "aka.ms/TEDxFailure",
+                "indices": [
+                  97,
+                  119
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2438,
+        "friends_count": 285,
+        "listed_count": 158,
+        "created_at": "Fri Apr 27 23:00:45 +0000 2007",
+        "favourites_count": 2274,
+        "utc_offset": 46800,
+        "time_zone": "Auckland",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20385,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443846164685660160/8ZZ5uSMa.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443846164685660160/8ZZ5uSMa.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640775993334980609/IMK-mSEZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640775993334980609/IMK-mSEZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5569612/1353363958",
+        "profile_link_color": "F03400",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "6F746D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jjcGfLnB7W",
+            "expanded_url": "http://microsoft.com/en-us/diversity/training",
+            "display_url": "microsoft.com/en-us/diversit…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nzigel",
+          "name": "Nigel Parker",
+          "id": 5569612,
+          "id_str": "5569612",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jjcGfLnB7W",
+          "expanded_url": "http://microsoft.com/en-us/diversity/training",
+          "display_url": "microsoft.com/en-us/diversit…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Nov 08 20:24:51 +0000 2015",
     "id": 663452140187201536,
     "id_str": "663452140187201536",
