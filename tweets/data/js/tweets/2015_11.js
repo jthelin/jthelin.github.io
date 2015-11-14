@@ -1,5 +1,130 @@
 Grailbird.data.tweets_2015_11 = [
   {
+    "created_at": "Fri Nov 13 00:00:03 +0000 2015",
+    "id": 664955848230178817,
+    "id_str": "664955848230178817",
+    "text": "5 \"schools\" of #MachineLearning sounds like D&amp;D Wizards. Is magic good analogy for conjuring info from data @times?\nhttps://t.co/JEGHa1PDQf",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MachineLearning",
+          "indices": [
+            15,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Times",
+          "name": "Times",
+          "id": 2766381,
+          "id_str": "2766381",
+          "indices": [
+            112,
+            118
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JEGHa1PDQf",
+          "expanded_url": "http://klou.tt/3sdqzd2k4ajt",
+          "display_url": "klou.tt/3sdqzd2k4ajt",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 12 16:48:24 +0000 2015",
+    "id": 664847220206735361,
+    "id_str": "664847220206735361",
+    "text": "Some really great quotes from Sam Altman here -- applies to startups, and ideas in general.\nhttps://t.co/7CiwSN7f4V",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7CiwSN7f4V",
+          "expanded_url": "http://techcrunch.com/gallery/y-combinator-startup-playbook/",
+          "display_url": "techcrunch.com/gallery/y-comb…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Nov 09 14:58:35 +0000 2015",
     "id": 663732419590139904,
     "id_str": "663732419590139904",
