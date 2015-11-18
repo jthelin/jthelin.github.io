@@ -1,5 +1,582 @@
 Grailbird.data.tweets_2015_11 = [
   {
+    "created_at": "Tue Nov 17 02:43:37 +0000 2015",
+    "id": 666446564483661825,
+    "id_str": "666446564483661825",
+    "text": "RT @nytimesbusiness: A proposed 350-millisecond “speed bump\" to mitigate high-frequency trading has stock exchange firms up in arms. https:…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 17 01:25:02 +0000 2015",
+      "id": 666426786042019840,
+      "id_str": "666426786042019840",
+      "text": "A proposed 350-millisecond “speed bump\" to mitigate high-frequency trading has stock exchange firms up in arms. https://t.co/ODh7aG6YHa",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1754641,
+        "id_str": "1754641",
+        "name": "NYT Business",
+        "screen_name": "nytimesbusiness",
+        "location": "New York, NY",
+        "description": "Business news from The New York Times.",
+        "url": "http://t.co/OKrfdBy4ch",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/OKrfdBy4ch",
+                "expanded_url": "http://nytimes.com/business",
+                "display_url": "nytimes.com/business",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 703137,
+        "friends_count": 611,
+        "listed_count": 12968,
+        "created_at": "Wed Mar 21 14:49:39 +0000 2007",
+        "favourites_count": 747,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 115668,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4433659/twitter_post.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4433659/twitter_post.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2037622389/NYT_Twitter_Business_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2037622389/NYT_Twitter_Business_normal.png",
+        "profile_link_color": "004276",
+        "profile_sidebar_border_color": "323232",
+        "profile_sidebar_fill_color": "E7EFF8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ODh7aG6YHa",
+            "expanded_url": "http://nyti.ms/1OcygAP",
+            "display_url": "nyti.ms/1OcygAP",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nytimesbusiness",
+          "name": "NYT Business",
+          "id": 1754641,
+          "id_str": "1754641",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ODh7aG6YHa",
+          "expanded_url": "http://nyti.ms/1OcygAP",
+          "display_url": "nyti.ms/1OcygAP",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 17 02:33:17 +0000 2015",
+    "id": 666443964187217920,
+    "id_str": "666443964187217920",
+    "text": "RT @davewiner: GitHub: A new look for repositories. https://t.co/asI2uuKjVl",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 17 02:02:31 +0000 2015",
+      "id": 666436219656658944,
+      "id_str": "666436219656658944",
+      "text": "GitHub: A new look for repositories. https://t.co/asI2uuKjVl",
+      "source": "<a href=\"http://radio3.io/\" rel=\"nofollow\">radio3.io</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3839,
+        "id_str": "3839",
+        "name": "Dave Winer",
+        "screen_name": "davewiner",
+        "location": "New York, NY",
+        "description": "Developer of outliners, rivers, blogging tools, RSS readers, podcasting and software snacks! https://t.co/ztgzDGiyOj",
+        "url": "https://t.co/ztgzDGiyOj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ztgzDGiyOj",
+                "expanded_url": "http://scripting.com/",
+                "display_url": "scripting.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/ztgzDGiyOj",
+                "expanded_url": "http://scripting.com/",
+                "display_url": "scripting.com",
+                "indices": [
+                  93,
+                  116
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 66484,
+        "friends_count": 3674,
+        "listed_count": 5501,
+        "created_at": "Sat Aug 05 23:04:08 +0000 2006",
+        "favourites_count": 2129,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 103654,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717125100/3586a8799a22000163338de985b8f148.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717125100/3586a8799a22000163338de985b8f148.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664118709599002624/dzNffUNM_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664118709599002624/dzNffUNM_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1398200644",
+        "profile_link_color": "7F7F90",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E1E1DF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/asI2uuKjVl",
+            "expanded_url": "https://github.com/blog/2085-a-new-look-for-repositories",
+            "display_url": "github.com/blog/2085-a-ne…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "davewiner",
+          "name": "Dave Winer",
+          "id": 3839,
+          "id_str": "3839",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/asI2uuKjVl",
+          "expanded_url": "https://github.com/blog/2085-a-new-look-for-repositories",
+          "display_url": "github.com/blog/2085-a-ne…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 16 20:15:09 +0000 2015",
+    "id": 666348801964183552,
+    "id_str": "666348801964183552",
+    "text": "Docker Executable Images - How to use in your development env. Walkthrough using the #ApacheMaven image as example.\nhttps://t.co/Y2Ff6zAirj",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ApacheMaven",
+          "indices": [
+            85,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y2Ff6zAirj",
+          "expanded_url": "http://www.infoq.com/articles/docker-executable-images",
+          "display_url": "infoq.com/articles/docke…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 16 18:00:02 +0000 2015",
+    "id": 666314801757335553,
+    "id_str": "666314801757335553",
+    "text": "Slide decks from Basic and Advanced Tracks of Cassandra Day Seattle 2015 posted online.\nhttps://t.co/XRDnf5IZZM",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XRDnf5IZZM",
+          "expanded_url": "http://www.slideshare.net/planetcassandra/clipboards/cassandra-day-seattle-2015",
+          "display_url": "slideshare.net/planetcassandr…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 16 13:48:11 +0000 2015",
+    "id": 666251418718748672,
+    "id_str": "666251418718748672",
+    "text": "Storage Wars, Cloud Edition - Google Maps reviewers can now earn 1 TB of free Drive storage\nhttps://t.co/iX0VnYqbt9",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iX0VnYqbt9",
+          "expanded_url": "http://www.theverge.com/2015/11/15/9741624/google-maps-local-guide-earn-drive-storage",
+          "display_url": "theverge.com/2015/11/15/974…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 16 02:00:15 +0000 2015",
+    "id": 666073261717872640,
+    "id_str": "666073261717872640",
+    "text": "The busy Java developer's guide to Scala - good way to ramp up beyond some of the basics.\nhttps://t.co/7sWvWrSA5R",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7sWvWrSA5R",
+          "expanded_url": "http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=scala+neward",
+          "display_url": "ibm.com/developerworks…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Nov 15 18:15:03 +0000 2015",
     "id": 665956190300434433,
     "id_str": "665956190300434433",
