@@ -1,5 +1,342 @@
 Grailbird.data.tweets_2015_11 = [
   {
+    "created_at": "Wed Nov 25 18:50:00 +0000 2015",
+    "id": 669588864957202432,
+    "id_str": "669588864957202432",
+    "text": "The .NET Framework Cleanup Tool. I hope you never need to use it, but if you do then here.\nhttps://t.co/VYoOGxp5ZK",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VYoOGxp5ZK",
+          "expanded_url": "http://blogs.msdn.com/b/astebner/archive/2008/08/28/8904493.aspx",
+          "display_url": "blogs.msdn.com/b/astebner/arc…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 22 18:02:48 +0000 2015",
+    "id": 668489823351521280,
+    "id_str": "668489823351521280",
+    "text": "How to create an ElasticSearch cluster on Azure using worker roles. Full VS .sln on GitHub.\nhttps://t.co/HjvZolUYT1",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HjvZolUYT1",
+          "expanded_url": "https://garvincasimir.wordpress.com/2014/10/22/elasticsearch-in-azure-paas/",
+          "display_url": "garvincasimir.wordpress.com/2014/10/22/ela…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 21 17:54:19 +0000 2015",
+    "id": 668125299800805379,
+    "id_str": "668125299800805379",
+    "text": "Developer resources and SDKs for writing extension tiles for Microsoft Band or apps using data collected by the Band\nhttps://t.co/px8QsadWWg",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/px8QsadWWg",
+          "expanded_url": "http://developer.microsoftband.com/",
+          "display_url": "developer.microsoftband.com",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 21 05:40:17 +0000 2015",
+    "id": 667940575363002368,
+    "id_str": "667940575363002368",
+    "text": "RT @newsycombinator: Math.random in V8 is broken https://t.co/9TufQI0QiR",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 21 05:01:37 +0000 2015",
+      "id": 667930842744909825,
+      "id_str": "667930842744909825",
+      "text": "Math.random in V8 is broken https://t.co/9TufQI0QiR",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 117560,
+        "friends_count": 2,
+        "listed_count": 6379,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 78868,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 32,
+      "favorite_count": 69,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9TufQI0QiR",
+            "expanded_url": "https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.7p3lk9bvk",
+            "display_url": "medium.com/@betable/tifu-…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9TufQI0QiR",
+          "expanded_url": "https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.7p3lk9bvk",
+          "display_url": "medium.com/@betable/tifu-…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Nov 17 02:43:37 +0000 2015",
     "id": 666446564483661825,
     "id_str": "666446564483661825",
