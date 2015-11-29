@@ -1,5 +1,727 @@
 Grailbird.data.tweets_2015_11 = [
   {
+    "created_at": "Sat Nov 28 06:49:19 +0000 2015",
+    "id": 670494662713597953,
+    "id_str": "670494662713597953",
+    "text": "RT @ZDNet: The Raspberry Pi Zero is a tiny $5 programmable computer with giant potential https://t.co/fFR1R8qJy4 @steveranger https://t.co/…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 28 06:30:56 +0000 2015",
+      "id": 670490037344145408,
+      "id_str": "670490037344145408",
+      "text": "The Raspberry Pi Zero is a tiny $5 programmable computer with giant potential https://t.co/fFR1R8qJy4 @steveranger https://t.co/UR20fs4jge",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3819701,
+        "id_str": "3819701",
+        "name": "ZDNet",
+        "screen_name": "ZDNet",
+        "location": "USA | UK | Asia | Australia",
+        "description": "Where technology meets business",
+        "url": "http://t.co/5onVPZr4O4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/5onVPZr4O4",
+                "expanded_url": "http://www.zdnet.com",
+                "display_url": "zdnet.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 248621,
+        "friends_count": 134,
+        "listed_count": 10534,
+        "created_at": "Sun Apr 08 21:05:10 +0000 2007",
+        "favourites_count": 72,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 117920,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "11182A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575732920800804864/BaZ2vN_C_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575732920800804864/BaZ2vN_C_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3819701/1427131317",
+        "profile_link_color": "11182A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDE4E9",
+        "profile_text_color": "6A6D6E",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 21,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "steveranger",
+            "name": "Steve Ranger",
+            "id": 113609203,
+            "id_str": "113609203",
+            "indices": [
+              102,
+              114
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fFR1R8qJy4",
+            "expanded_url": "http://zd.net/1PQbr97",
+            "display_url": "zd.net/1PQbr97",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 670490037004320768,
+            "id_str": "670490037004320768",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+            "url": "https://t.co/UR20fs4jge",
+            "display_url": "pic.twitter.com/UR20fs4jge",
+            "expanded_url": "http://twitter.com/ZDNet/status/670490037344145408/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 770,
+                "h": 537,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 418,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 670490037004320768,
+            "id_str": "670490037004320768",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+            "url": "https://t.co/UR20fs4jge",
+            "display_url": "pic.twitter.com/UR20fs4jge",
+            "expanded_url": "http://twitter.com/ZDNet/status/670490037344145408/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 770,
+                "h": 537,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 418,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ZDNet",
+          "name": "ZDNet",
+          "id": 3819701,
+          "id_str": "3819701",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "steveranger",
+          "name": "Steve Ranger",
+          "id": 113609203,
+          "id_str": "113609203",
+          "indices": [
+            113,
+            125
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fFR1R8qJy4",
+          "expanded_url": "http://zd.net/1PQbr97",
+          "display_url": "zd.net/1PQbr97",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 670490037004320768,
+          "id_str": "670490037004320768",
+          "indices": [
+            126,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+          "url": "https://t.co/UR20fs4jge",
+          "display_url": "pic.twitter.com/UR20fs4jge",
+          "expanded_url": "http://twitter.com/ZDNet/status/670490037344145408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 770,
+              "h": 537,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 237,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 418,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 670490037344145408,
+          "source_status_id_str": "670490037344145408",
+          "source_user_id": 3819701,
+          "source_user_id_str": "3819701"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 670490037004320768,
+          "id_str": "670490037004320768",
+          "indices": [
+            126,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CU4PIuEUwAApIhB.jpg",
+          "url": "https://t.co/UR20fs4jge",
+          "display_url": "pic.twitter.com/UR20fs4jge",
+          "expanded_url": "http://twitter.com/ZDNet/status/670490037344145408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 770,
+              "h": 537,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 237,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 418,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 670490037344145408,
+          "source_status_id_str": "670490037344145408",
+          "source_user_id": 3819701,
+          "source_user_id_str": "3819701"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 27 22:58:15 +0000 2015",
+    "id": 670376113449730048,
+    "id_str": "670376113449730048",
+    "text": "RT @reubenbond: Perf testing #DotNet methods for Task handling for @ProjectOrleans https://t.co/Tw6dEq3p7a https://t.co/6TpFLeyff5",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 26 09:32:27 +0000 2015",
+      "id": 669810940532035584,
+      "id_str": "669810940532035584",
+      "text": "Perf testing #DotNet methods for Task handling for @ProjectOrleans https://t.co/Tw6dEq3p7a https://t.co/6TpFLeyff5",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 57183972,
+        "id_str": "57183972",
+        "name": "Reuben Bond",
+        "screen_name": "reubenbond",
+        "location": "Melbourne, Australia",
+        "description": "Software & Economics. @ProjectOrleans & #ServiceFabric. Tweets are mostly technical, so... you know, be on the lookout for that.",
+        "url": "https://t.co/8gGPhLbXSd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/8gGPhLbXSd",
+                "expanded_url": "https://authentibles.com",
+                "display_url": "authentibles.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 871,
+        "friends_count": 291,
+        "listed_count": 45,
+        "created_at": "Thu Jul 16 00:14:32 +0000 2009",
+        "favourites_count": 467,
+        "utc_offset": 39600,
+        "time_zone": "Melbourne",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1704,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590504686278430721/NFc78eQg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590504686278430721/NFc78eQg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577568614640791552/INwRHGAK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577568614640791552/INwRHGAK_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57183972/1448245902",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DotNet",
+            "indices": [
+              13,
+              20
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Project Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              51,
+              66
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Tw6dEq3p7a",
+            "expanded_url": "https://github.com/dotnet/orleans/issues/1074#issuecomment-159857125",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 669810939537952768,
+            "id_str": "669810939537952768",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+            "media_url_https": "https://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+            "url": "https://t.co/6TpFLeyff5",
+            "display_url": "pic.twitter.com/6TpFLeyff5",
+            "expanded_url": "http://twitter.com/reubenbond/status/669810940532035584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 598,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 198,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 669810939537952768,
+            "id_str": "669810939537952768",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+            "media_url_https": "https://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+            "url": "https://t.co/6TpFLeyff5",
+            "display_url": "pic.twitter.com/6TpFLeyff5",
+            "expanded_url": "http://twitter.com/reubenbond/status/669810940532035584/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 598,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 198,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DotNet",
+          "indices": [
+            29,
+            36
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "reubenbond",
+          "name": "Reuben Bond",
+          "id": 57183972,
+          "id_str": "57183972",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Project Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            67,
+            82
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Tw6dEq3p7a",
+          "expanded_url": "https://github.com/dotnet/orleans/issues/1074#issuecomment-159857125",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 669810939537952768,
+          "id_str": "669810939537952768",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+          "media_url_https": "https://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+          "url": "https://t.co/6TpFLeyff5",
+          "display_url": "pic.twitter.com/6TpFLeyff5",
+          "expanded_url": "http://twitter.com/reubenbond/status/669810940532035584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 598,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 350,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 198,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 669810940532035584,
+          "source_status_id_str": "669810940532035584",
+          "source_user_id": 57183972,
+          "source_user_id_str": "57183972"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 669810939537952768,
+          "id_str": "669810939537952768",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+          "media_url_https": "https://pbs.twimg.com/media/CUulgC3UkAAnD7N.png",
+          "url": "https://t.co/6TpFLeyff5",
+          "display_url": "pic.twitter.com/6TpFLeyff5",
+          "expanded_url": "http://twitter.com/reubenbond/status/669810940532035584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 598,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 350,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 198,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 669810940532035584,
+          "source_status_id_str": "669810940532035584",
+          "source_user_id": 57183972,
+          "source_user_id_str": "57183972"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Nov 25 18:50:00 +0000 2015",
     "id": 669588864957202432,
     "id_str": "669588864957202432",
