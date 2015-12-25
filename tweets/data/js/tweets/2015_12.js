@@ -1,5 +1,3059 @@
 Grailbird.data.tweets_2015_12 = [
   {
+    "created_at": "Fri Dec 25 00:00:05 +0000 2015",
+    "id": 680176148400050176,
+    "id_str": "680176148400050176",
+    "text": "PowerShell Gallery is central repository for PS content - new commands + DSC (Desired State Configuration) resources\nhttps://t.co/xcFHhM7nXi",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xcFHhM7nXi",
+          "expanded_url": "https://www.powershellgallery.com/",
+          "display_url": "powershellgallery.com",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 19:00:07 +0000 2015",
+    "id": 680100658557538304,
+    "id_str": "680100658557538304",
+    "text": "Bolt is a #Python project providing a unified interface for local and distributed ndarrays, using NumPy and/or Spark\nhttps://t.co/SjdcnciXzu",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            10,
+            17
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SjdcnciXzu",
+          "expanded_url": "http://bolt-project.org/docs/index.html",
+          "display_url": "bolt-project.org/docs/index.html",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 17:36:55 +0000 2015",
+    "id": 680079721267200000,
+    "id_str": "680079721267200000",
+    "text": "RT @migueldeicaza: Excellent news!   1,000 student signed up for the F# course! https://t.co/TQ2JS93S8c",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 24 17:01:29 +0000 2015",
+      "id": 680070804902666241,
+      "id_str": "680070804902666241",
+      "text": "Excellent news!   1,000 student signed up for the F# course! https://t.co/TQ2JS93S8c",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 823083,
+        "id_str": "823083",
+        "name": "Miguel de Icaza",
+        "screen_name": "migueldeicaza",
+        "location": "boston, ma",
+        "description": "Started Xamarin, Mono, Gnome with great friends.",
+        "url": "http://t.co/Y2zRB337dJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Y2zRB337dJ",
+                "expanded_url": "http://tirania.org/blog",
+                "display_url": "tirania.org/blog",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 51942,
+        "friends_count": 1520,
+        "listed_count": 3119,
+        "created_at": "Thu Mar 08 21:22:15 +0000 2007",
+        "favourites_count": 38019,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 44697,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "705F4C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458699507576737793/KzwT77TX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458699507576737793/KzwT77TX_normal.png",
+        "profile_link_color": "9396DB",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 679954474316742656,
+      "quoted_status_id_str": "679954474316742656",
+      "quoted_status": {
+        "created_at": "Thu Dec 24 09:19:14 +0000 2015",
+        "id": 679954474316742656,
+        "id_str": "679954474316742656",
+        "text": "@migueldeicaza @xamarinhq Over 1000 students have now signed up.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 679954327893618689,
+        "in_reply_to_status_id_str": "679954327893618689",
+        "in_reply_to_user_id": 3664827916,
+        "in_reply_to_user_id_str": "3664827916",
+        "in_reply_to_screen_name": "AwesomeFSharp",
+        "user": {
+          "id": 3664827916,
+          "id_str": "3664827916",
+          "name": "FSharpTV",
+          "screen_name": "AwesomeFSharp",
+          "location": "Cambridge, England",
+          "description": "Learn F# from the fundamentals through to advanced features by building fun engaging projects! Sponsored by @comparethemkt & our incredible partners @xamarinhq",
+          "url": "https://t.co/eiwITsISw4",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/eiwITsISw4",
+                  "expanded_url": "https://www.fsharp.tv/",
+                  "display_url": "fsharp.tv",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 249,
+          "friends_count": 114,
+          "listed_count": 7,
+          "created_at": "Tue Sep 15 14:32:22 +0000 2015",
+          "favourites_count": 14,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 42,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/643797057183088640/gR_OoS3L_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/643797057183088640/gR_OoS3L_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3664827916/1442328249",
+          "profile_link_color": "3B94D9",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "migueldeicaza",
+              "name": "Miguel de Icaza",
+              "id": 823083,
+              "id_str": "823083",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "xamarinhq",
+              "name": "Xamarin",
+              "id": 299659914,
+              "id_str": "299659914",
+              "indices": [
+                15,
+                25
+              ]
+            }
+          ],
+          "urls": [
+
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 6,
+      "favorite_count": 22,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TQ2JS93S8c",
+            "expanded_url": "https://twitter.com/awesomefsharp/status/679954474316742656",
+            "display_url": "twitter.com/awesomefsharp/…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "migueldeicaza",
+          "name": "Miguel de Icaza",
+          "id": 823083,
+          "id_str": "823083",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TQ2JS93S8c",
+          "expanded_url": "https://twitter.com/awesomefsharp/status/679954474316742656",
+          "display_url": "twitter.com/awesomefsharp/…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 15:15:09 +0000 2015",
+    "id": 680044043691102212,
+    "id_str": "680044043691102212",
+    "text": "GitHub badges for every possible occasion! Nice job @shields_io\nhttps://t.co/hwhL15nNH9",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Shields_io",
+          "name": "Shields",
+          "id": 1489261446,
+          "id_str": "1489261446",
+          "indices": [
+            52,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hwhL15nNH9",
+          "expanded_url": "http://shields.io/",
+          "display_url": "shields.io",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 07:28:34 +0000 2015",
+    "id": 679926623789973505,
+    "id_str": "679926623789973505",
+    "text": "RT @PatrickMcFadin: Interesting paper on  Perfect Consistent Hashing.  https://t.co/8ZQffZRrsW",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 24 07:21:35 +0000 2015",
+      "id": 679924868339613697,
+      "id_str": "679924868339613697",
+      "text": "Interesting paper on  Perfect Consistent Hashing.  https://t.co/8ZQffZRrsW",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 100711909,
+        "id_str": "100711909",
+        "name": "Patrick McFadin",
+        "screen_name": "PatrickMcFadin",
+        "location": "SF Bay Area North",
+        "description": "Chief Evangelist for Cassandra. Data Modeling. Operations. Architecture. DataStax. I travel the world educating and advocating. Can I help you?",
+        "url": "http://t.co/Fnj4cmZQmK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Fnj4cmZQmK",
+                "expanded_url": "http://www.linkedin.com/pub/patrick-mcfadin/6/804/53a",
+                "display_url": "linkedin.com/pub/patrick-mc…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4758,
+        "friends_count": 419,
+        "listed_count": 220,
+        "created_at": "Thu Dec 31 07:28:59 +0000 2009",
+        "favourites_count": 467,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7527,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000755380001/2853f269ab4c6c9e8718bb631fa7cf3e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000755380001/2853f269ab4c6c9e8718bb631fa7cf3e_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8ZQffZRrsW",
+            "expanded_url": "http://arxiv.org/abs/1503.04988",
+            "display_url": "arxiv.org/abs/1503.04988",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "PatrickMcFadin",
+          "name": "Patrick McFadin",
+          "id": 100711909,
+          "id_str": "100711909",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8ZQffZRrsW",
+          "expanded_url": "http://arxiv.org/abs/1503.04988",
+          "display_url": "arxiv.org/abs/1503.04988",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 07:11:28 +0000 2015",
+    "id": 679922322464100352,
+    "id_str": "679922322464100352",
+    "text": "The word of the day is \"simplicity\".",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 07:08:50 +0000 2015",
+    "id": 679921659722117120,
+    "id_str": "679921659722117120",
+    "text": "RT @gkliot: https://t.co/gptGIDVdjy Kafka Stream Provider for Orleans Streaming, impl. by @Gigya. @projectorlean @margolis20 @fpjunqueira @…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 24 06:29:58 +0000 2015",
+      "id": 679911876633874432,
+      "id_str": "679911876633874432",
+      "text": "https://t.co/gptGIDVdjy Kafka Stream Provider for Orleans Streaming, impl. by @Gigya. @projectorlean @margolis20 @fpjunqueira @jaykreps",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 738071048,
+        "id_str": "738071048",
+        "name": "Gabriel Kliot",
+        "screen_name": "gkliot",
+        "location": "Redmond WA",
+        "description": "Distributed systems developer. Long distance runner.",
+        "url": "https://t.co/U10yemIhmM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/U10yemIhmM",
+                "expanded_url": "http://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 115,
+        "friends_count": 165,
+        "listed_count": 6,
+        "created_at": "Sun Aug 05 05:46:28 +0000 2012",
+        "favourites_count": 335,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453012716119015424/jpO_-bzQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453012716119015424/jpO_-bzQ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Gigya",
+            "name": "Gigya",
+            "id": 16743617,
+            "id_str": "16743617",
+            "indices": [
+              78,
+              84
+            ]
+          },
+          {
+            "screen_name": "margolis20",
+            "name": "Rotem Hermon",
+            "id": 17027831,
+            "id_str": "17027831",
+            "indices": [
+              101,
+              112
+            ]
+          },
+          {
+            "screen_name": "fpjunqueira",
+            "name": "Flavio Junqueira",
+            "id": 61399095,
+            "id_str": "61399095",
+            "indices": [
+              113,
+              125
+            ]
+          },
+          {
+            "screen_name": "jaykreps",
+            "name": "Jay Kreps",
+            "id": 126226388,
+            "id_str": "126226388",
+            "indices": [
+              126,
+              135
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gptGIDVdjy",
+            "expanded_url": "https://github.com/gigya/Orleans.KafkaStreamProvider",
+            "display_url": "github.com/gigya/Orleans.…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gkliot",
+          "name": "Gabriel Kliot",
+          "id": 738071048,
+          "id_str": "738071048",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "Gigya",
+          "name": "Gigya",
+          "id": 16743617,
+          "id_str": "16743617",
+          "indices": [
+            90,
+            96
+          ]
+        },
+        {
+          "screen_name": "margolis20",
+          "name": "Rotem Hermon",
+          "id": 17027831,
+          "id_str": "17027831",
+          "indices": [
+            113,
+            124
+          ]
+        },
+        {
+          "screen_name": "fpjunqueira",
+          "name": "Flavio Junqueira",
+          "id": 61399095,
+          "id_str": "61399095",
+          "indices": [
+            125,
+            137
+          ]
+        },
+        {
+          "screen_name": "jaykreps",
+          "name": "Jay Kreps",
+          "id": 126226388,
+          "id_str": "126226388",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gptGIDVdjy",
+          "expanded_url": "https://github.com/gigya/Orleans.KafkaStreamProvider",
+          "display_url": "github.com/gigya/Orleans.…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 24 00:00:04 +0000 2015",
+    "id": 679813754993811456,
+    "id_str": "679813754993811456",
+    "text": "Yahoo detailed benchmark of a typical stream processing app using Apache Flink, Spark and Storm. BM code on GitHub.\nhttps://t.co/N8edxpQe5n",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N8edxpQe5n",
+          "expanded_url": "http://yahooeng.tumblr.com/post/135321837876/benchmarking-streaming-computation-engines-at",
+          "display_url": "yahooeng.tumblr.com/post/135321837…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 23:29:16 +0000 2015",
+    "id": 679806004565946368,
+    "id_str": "679806004565946368",
+    "text": "RT @WSJ: The Chevy Volt: Why the electric-vehicle segment is here to stay https://t.co/h7OfC52mDB",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 23:22:24 +0000 2015",
+      "id": 679804276932259840,
+      "id_str": "679804276932259840",
+      "text": "The Chevy Volt: Why the electric-vehicle segment is here to stay https://t.co/h7OfC52mDB",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3108351,
+        "id_str": "3108351",
+        "name": "Wall Street Journal",
+        "screen_name": "WSJ",
+        "location": "New York, NY",
+        "description": "Breaking news and features from the WSJ. Tweets by @allisonlichter @sarahmarshall @toddjolmstead @erinclarebrown @LaurenceWSJ @lmoliva_ and @carlazanoni.",
+        "url": "http://t.co/GhhR6Q2Qmq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/GhhR6Q2Qmq",
+                "expanded_url": "http://wsj.com",
+                "display_url": "wsj.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8842303,
+        "friends_count": 1028,
+        "listed_count": 94624,
+        "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+        "favourites_count": 1272,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 139181,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/550753086814162945/NF0P32Dg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/550753086814162945/NF0P32Dg_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1432072212",
+        "profile_link_color": "1164B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 48,
+      "favorite_count": 67,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/h7OfC52mDB",
+            "expanded_url": "http://on.wsj.com/1V98vnB",
+            "display_url": "on.wsj.com/1V98vnB",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WSJ",
+          "name": "Wall Street Journal",
+          "id": 3108351,
+          "id_str": "3108351",
+          "indices": [
+            3,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h7OfC52mDB",
+          "expanded_url": "http://on.wsj.com/1V98vnB",
+          "display_url": "on.wsj.com/1V98vnB",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 23:13:48 +0000 2015",
+    "id": 679802114034417664,
+    "id_str": "679802114034417664",
+    "text": "@gregyoung What data is this assertion based on? Lots of companies and projects are using Orleans. What's missing?\nhttps://t.co/S4vhalq3HS",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 678612900878131202,
+    "in_reply_to_status_id_str": "678612900878131202",
+    "in_reply_to_user_id": 9617282,
+    "in_reply_to_user_id_str": "9617282",
+    "in_reply_to_screen_name": "gregyoung",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gregyoung",
+          "name": "gregyoung",
+          "id": 9617282,
+          "id_str": "9617282",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S4vhalq3HS",
+          "expanded_url": "http://dotnet.github.io/orleans/Who-Is-Using-Orleans",
+          "display_url": "dotnet.github.io/orleans/Who-Is…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 22:44:32 +0000 2015",
+    "id": 679794749503483904,
+    "id_str": "679794749503483904",
+    "text": "RT @LinkedIn: The busier you are, the more you need mindfulness: https://t.co/HGP5DTtiIs https://t.co/TAVVUXTSfE",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 20:02:05 +0000 2015",
+      "id": 679753864892018688,
+      "id_str": "679753864892018688",
+      "text": "The busier you are, the more you need mindfulness: https://t.co/HGP5DTtiIs https://t.co/TAVVUXTSfE",
+      "source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13058772,
+        "id_str": "13058772",
+        "name": "LinkedIn",
+        "screen_name": "LinkedIn",
+        "location": "Mountain View, CA",
+        "description": "Connecting the world's professionals to make them more productive and successful. For Customer Service questions, tweet @LinkedInHelp.",
+        "url": "http://t.co/2c76sH52B7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2c76sH52B7",
+                "expanded_url": "http://blog.linkedin.com/",
+                "display_url": "blog.linkedin.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1168486,
+        "friends_count": 1118,
+        "listed_count": 16956,
+        "created_at": "Mon Feb 04 18:22:01 +0000 2008",
+        "favourites_count": 2350,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 14431,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DFDFDF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473227194/TwitterBG_LinkedIn_Design_BG.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473227194/TwitterBG_LinkedIn_Design_BG.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13058772/1446824368",
+        "profile_link_color": "0073B2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 45,
+      "favorite_count": 53,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HGP5DTtiIs",
+            "expanded_url": "http://bit.ly/1OaFZAM",
+            "display_url": "bit.ly/1OaFZAM",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 679753862119571456,
+            "id_str": "679753862119571456",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+            "url": "https://t.co/TAVVUXTSfE",
+            "display_url": "pic.twitter.com/TAVVUXTSfE",
+            "expanded_url": "http://twitter.com/LinkedIn/status/679753864892018688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 850,
+                "h": 478,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 679753862119571456,
+            "id_str": "679753862119571456",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+            "url": "https://t.co/TAVVUXTSfE",
+            "display_url": "pic.twitter.com/TAVVUXTSfE",
+            "expanded_url": "http://twitter.com/LinkedIn/status/679753864892018688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 850,
+                "h": 478,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LinkedIn",
+          "name": "LinkedIn",
+          "id": 13058772,
+          "id_str": "13058772",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HGP5DTtiIs",
+          "expanded_url": "http://bit.ly/1OaFZAM",
+          "display_url": "bit.ly/1OaFZAM",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 679753862119571456,
+          "id_str": "679753862119571456",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+          "url": "https://t.co/TAVVUXTSfE",
+          "display_url": "pic.twitter.com/TAVVUXTSfE",
+          "expanded_url": "http://twitter.com/LinkedIn/status/679753864892018688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 850,
+              "h": 478,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 679753864892018688,
+          "source_status_id_str": "679753864892018688",
+          "source_user_id": 13058772,
+          "source_user_id_str": "13058772"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 679753862119571456,
+          "id_str": "679753862119571456",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW74iT5WQAAmeh_.jpg",
+          "url": "https://t.co/TAVVUXTSfE",
+          "display_url": "pic.twitter.com/TAVVUXTSfE",
+          "expanded_url": "http://twitter.com/LinkedIn/status/679753864892018688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 850,
+              "h": 478,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 679753864892018688,
+          "source_status_id_str": "679753864892018688",
+          "source_user_id": 13058772,
+          "source_user_id_str": "13058772"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 22:31:32 +0000 2015",
+    "id": 679791478009270273,
+    "id_str": "679791478009270273",
+    "text": "An oldie, but still very funny tech parody video. \"Microsoft Re-Designs the iPod Packaging.\"\nhttps://t.co/nbngmGrRuZ",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nbngmGrRuZ",
+          "expanded_url": "https://youtu.be/EUXnJraKM3k",
+          "display_url": "youtu.be/EUXnJraKM3k",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 19:21:42 +0000 2015",
+    "id": 679743701556449280,
+    "id_str": "679743701556449280",
+    "text": "RT @mknz: Nice set of \"learning paths\" to find out more about various #Azure services - https://t.co/W8C312kIly",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 17:20:27 +0000 2015",
+      "id": 679713189764808704,
+      "id_str": "679713189764808704",
+      "text": "Nice set of \"learning paths\" to find out more about various #Azure services - https://t.co/W8C312kIly",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23634463,
+        "id_str": "23634463",
+        "name": "Neil Mackenzie",
+        "screen_name": "mknz",
+        "location": "San Francisco, CA",
+        "description": "Cloud Solution Architect at Microsoft",
+        "url": "http://t.co/2NqzY2wIXL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2NqzY2wIXL",
+                "expanded_url": "http://aka.ms/csablog",
+                "display_url": "aka.ms/csablog",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1456,
+        "friends_count": 1085,
+        "listed_count": 139,
+        "created_at": "Tue Mar 10 19:05:00 +0000 2009",
+        "favourites_count": 216,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5289,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390350996/Neil_Mackenzie_Thumbnail_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390350996/Neil_Mackenzie_Thumbnail_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23634463/1438826599",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Azure",
+            "indices": [
+              60,
+              66
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/W8C312kIly",
+            "expanded_url": "https://azure.microsoft.com/en-us/documentation/learning-paths/",
+            "display_url": "azure.microsoft.com/en-us/document…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Azure",
+          "indices": [
+            70,
+            76
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mknz",
+          "name": "Neil Mackenzie",
+          "id": 23634463,
+          "id_str": "23634463",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W8C312kIly",
+          "expanded_url": "https://azure.microsoft.com/en-us/documentation/learning-paths/",
+          "display_url": "azure.microsoft.com/en-us/document…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 19:17:16 +0000 2015",
+    "id": 679742586551050240,
+    "id_str": "679742586551050240",
+    "text": "RT @windowsserver: On @ScriptingGuys blog, Rusty the Red-Eyed Scripter discovers compressing files &amp; using Clipboard in #PowerShell:  https…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 17:30:01 +0000 2015",
+      "id": 679715597219966976,
+      "id_str": "679715597219966976",
+      "text": "On @ScriptingGuys blog, Rusty the Red-Eyed Scripter discovers compressing files &amp; using Clipboard in #PowerShell:  https://t.co/8qf64fcbx3",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 26157564,
+        "id_str": "26157564",
+        "name": "Windows Server",
+        "screen_name": "windowsserver",
+        "location": "",
+        "description": "Flexible. Agile. Enterprise-Grade. Datacenter & Hybrid Cloud Platform. Server Virtualization. Networking. Storage. VDI. News & More.",
+        "url": "https://t.co/wxZFN1i2KP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wxZFN1i2KP",
+                "expanded_url": "https://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/default.aspx",
+                "display_url": "microsoft.com/en-us/server-c…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 162603,
+        "friends_count": 235,
+        "listed_count": 1214,
+        "created_at": "Tue Mar 24 02:32:24 +0000 2009",
+        "favourites_count": 87,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 7717,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00188F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/738396319/0a453f4c2cddf290c30ada02e2ce70ea.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/738396319/0a453f4c2cddf290c30ada02e2ce70ea.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471337477274230785/WL8eFmvG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471337477274230785/WL8eFmvG_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26157564/1439945271",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PowerShell",
+            "indices": [
+              105,
+              116
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "ScriptingGuys",
+            "name": "MSFT Scripting Guys",
+            "id": 21238450,
+            "id_str": "21238450",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8qf64fcbx3",
+            "expanded_url": "http://msft.it/6018BVJ4G",
+            "display_url": "msft.it/6018BVJ4G",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PowerShell",
+          "indices": [
+            124,
+            135
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "windowsserver",
+          "name": "Windows Server",
+          "id": 26157564,
+          "id_str": "26157564",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "ScriptingGuys",
+          "name": "MSFT Scripting Guys",
+          "id": 21238450,
+          "id_str": "21238450",
+          "indices": [
+            22,
+            36
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8qf64fcbx3",
+          "expanded_url": "http://msft.it/6018BVJ4G",
+          "display_url": "msft.it/6018BVJ4G",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 19:00:06 +0000 2015",
+    "id": 679738267235782656,
+    "id_str": "679738267235782656",
+    "text": "Founders only winners. \"The probability of getting rich from employee equity is almost zero\"\nhttps://t.co/4G1DPoa9eI",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4G1DPoa9eI",
+          "expanded_url": "https://whilewest.com/4-hard-truths-about-equity-dfa2f24b3a6d#.2s7y5nu30",
+          "display_url": "whilewest.com/4-hard-truths-…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 18:33:50 +0000 2015",
+    "id": 679731655704064000,
+    "id_str": "679731655704064000",
+    "text": "“It’s not unusual for employees [at startups] to be wiped out while venture capitalists [and founders] make money.” https://t.co/atQgnFetv4",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 679701980609146880,
+    "quoted_status_id_str": "679701980609146880",
+    "quoted_status": {
+      "created_at": "Wed Dec 23 16:35:55 +0000 2015",
+      "id": 679701980609146880,
+      "id_str": "679701980609146880",
+      "text": "When a #Unicorn Stumbles,  Employees Get Hurt https://t.co/hLAzazsMj3 raised $300m, declined $825m acq, sold @ $425m, employees hosed. check",
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 48431093,
+        "id_str": "48431093",
+        "name": "Eghosa Omoigui",
+        "screen_name": "EghosaO",
+        "location": "Palo Alto, CA; Lagos, Nigeria",
+        "description": "Dad; Stage-agnostic Internet/Mobile/Semantic Tech Venture Capital Investor (US/Africa/SE Asia); ex-Intel Capital; ASTIA & SWIFT advisor #IDontFlinch #RLTW",
+        "url": "http://t.co/VZsdIdHrsL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/VZsdIdHrsL",
+                "expanded_url": "http://www.echovc.com/blog",
+                "display_url": "echovc.com/blog",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6919,
+        "friends_count": 748,
+        "listed_count": 482,
+        "created_at": "Thu Jun 18 17:57:38 +0000 2009",
+        "favourites_count": 8702,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25847,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18983322/benin_mask.jpg.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/18983322/benin_mask.jpg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112315797/pandora_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112315797/pandora_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48431093/1371191366",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Unicorn",
+            "indices": [
+              7,
+              15
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hLAzazsMj3",
+            "expanded_url": "http://nyti.ms/1OnPYot",
+            "display_url": "nyti.ms/1OnPYot",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/atQgnFetv4",
+          "expanded_url": "https://twitter.com/EghosaO/status/679701980609146880",
+          "display_url": "twitter.com/EghosaO/status…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 18:27:51 +0000 2015",
+    "id": 679730150527782912,
+    "id_str": "679730150527782912",
+    "text": "RT @FiveThirtyEight: Where to say \"Merry Christmas\" vs. \"Happy Holidays:\" https://t.co/sHimrS2kky https://t.co/xay2i5btGn",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 18:17:04 +0000 2015",
+      "id": 679727437198962688,
+      "id_str": "679727437198962688",
+      "text": "Where to say \"Merry Christmas\" vs. \"Happy Holidays:\" https://t.co/sHimrS2kky https://t.co/xay2i5btGn",
+      "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2303751216,
+        "id_str": "2303751216",
+        "name": "FiveThirtyEight",
+        "screen_name": "FiveThirtyEight",
+        "location": "New York, NY",
+        "description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+        "url": "http://t.co/93tPMQEkgi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/93tPMQEkgi",
+                "expanded_url": "http://www.fivethirtyeight.com",
+                "display_url": "fivethirtyeight.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 521396,
+        "friends_count": 209,
+        "listed_count": 7824,
+        "created_at": "Tue Jan 21 21:39:32 +0000 2014",
+        "favourites_count": 474,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 12007,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/442370574040301568/j673s9Ue_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/442370574040301568/j673s9Ue_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1422903447",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 32,
+      "favorite_count": 31,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sHimrS2kky",
+            "expanded_url": "http://53eig.ht/1ThrlHU",
+            "display_url": "53eig.ht/1ThrlHU",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 679722790644092928,
+            "id_str": "679722790644092928",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+            "media_url_https": "https://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+            "url": "https://t.co/xay2i5btGn",
+            "display_url": "pic.twitter.com/xay2i5btGn",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/679727437198962688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 948,
+                "h": 710,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 679722790644092928,
+            "id_str": "679722790644092928",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+            "media_url_https": "https://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+            "url": "https://t.co/xay2i5btGn",
+            "display_url": "pic.twitter.com/xay2i5btGn",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/679727437198962688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 449,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 948,
+                "h": 710,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FiveThirtyEight",
+          "name": "FiveThirtyEight",
+          "id": 2303751216,
+          "id_str": "2303751216",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sHimrS2kky",
+          "expanded_url": "http://53eig.ht/1ThrlHU",
+          "display_url": "53eig.ht/1ThrlHU",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 679722790644092928,
+          "id_str": "679722790644092928",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+          "media_url_https": "https://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+          "url": "https://t.co/xay2i5btGn",
+          "display_url": "pic.twitter.com/xay2i5btGn",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/679727437198962688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 254,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 948,
+              "h": 710,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 679727437198962688,
+          "source_status_id_str": "679727437198962688",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 679722790644092928,
+          "id_str": "679722790644092928",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+          "media_url_https": "https://pbs.twimg.com/media/CW7cRtoUEAAyD7o.png",
+          "url": "https://t.co/xay2i5btGn",
+          "display_url": "pic.twitter.com/xay2i5btGn",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/679727437198962688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 254,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 948,
+              "h": 710,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 679727437198962688,
+          "source_status_id_str": "679727437198962688",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 18:21:59 +0000 2015",
+    "id": 679728675449733121,
+    "id_str": "679728675449733121",
+    "text": "RT @jlmico: #R vs #Python: head to head data analysis\nhttps://t.co/Jq7ZhupxOr\n#BigData #DataScience #Analytics",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 14 05:26:06 +0000 2015",
+      "id": 676271927191818240,
+      "id_str": "676271927191818240",
+      "text": "#R vs #Python: head to head data analysis\nhttps://t.co/Jq7ZhupxOr\n#BigData #DataScience #Analytics",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 221088789,
+        "id_str": "221088789",
+        "name": "Josep Lluís Micó",
+        "screen_name": "jlmico",
+        "location": "Barcelona",
+        "description": "Journalist [@LaVanguardia—@DiarideGirona—@NacioDigital—@Radio4_RNE] and professor [@FCRIBlanquerna—@URamonLlull] #Communication #Journalism #Media #Technology",
+        "url": "http://t.co/Z2cREXt5vE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Z2cREXt5vE",
+                "expanded_url": "http://www.blanquerna.edu/ca/fcc",
+                "display_url": "blanquerna.edu/ca/fcc",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5781,
+        "friends_count": 5049,
+        "listed_count": 1492,
+        "created_at": "Mon Nov 29 18:17:32 +0000 2010",
+        "favourites_count": 180,
+        "utc_offset": 3600,
+        "time_zone": "Madrid",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19696,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "354D59",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441126396316753920/5CaOjkYm.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441126396316753920/5CaOjkYm.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/557971388112195584/cOJIiuMX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/557971388112195584/cOJIiuMX_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/221088789/1398233414",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "R",
+            "indices": [
+              0,
+              2
+            ]
+          },
+          {
+            "text": "Python",
+            "indices": [
+              6,
+              13
+            ]
+          },
+          {
+            "text": "BigData",
+            "indices": [
+              66,
+              74
+            ]
+          },
+          {
+            "text": "DataScience",
+            "indices": [
+              75,
+              87
+            ]
+          },
+          {
+            "text": "Analytics",
+            "indices": [
+              88,
+              98
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Jq7ZhupxOr",
+            "expanded_url": "http://ow.ly/VBDk3",
+            "display_url": "ow.ly/VBDk3",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "et"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "R",
+          "indices": [
+            12,
+            14
+          ]
+        },
+        {
+          "text": "Python",
+          "indices": [
+            18,
+            25
+          ]
+        },
+        {
+          "text": "BigData",
+          "indices": [
+            78,
+            86
+          ]
+        },
+        {
+          "text": "DataScience",
+          "indices": [
+            87,
+            99
+          ]
+        },
+        {
+          "text": "Analytics",
+          "indices": [
+            100,
+            110
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jlmico",
+          "name": "Josep Lluís Micó",
+          "id": 221088789,
+          "id_str": "221088789",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jq7ZhupxOr",
+          "expanded_url": "http://ow.ly/VBDk3",
+          "display_url": "ow.ly/VBDk3",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "et"
+  },
+  {
+    "created_at": "Wed Dec 23 18:13:19 +0000 2015",
+    "id": 679726492494893056,
+    "id_str": "679726492494893056",
+    "text": "RT @OpenSourceOrg: \"Top 10 #Python Libraries of 2015\" https://t.co/nyVoJeF62B",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 16 13:48:05 +0000 2015",
+      "id": 677123029105696769,
+      "id_str": "677123029105696769",
+      "text": "\"Top 10 #Python Libraries of 2015\" https://t.co/nyVoJeF62B",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 408847389,
+        "id_str": "408847389",
+        "name": "OpenSourceInitiative",
+        "screen_name": "OpenSourceOrg",
+        "location": "Palo Alto, CA",
+        "description": "Global non-profit: promotes and protects open source software, development & communities through education and advocacy. Yes, we coined the term!",
+        "url": "http://t.co/SzglPwb37K",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/SzglPwb37K",
+                "expanded_url": "http://opensource.org",
+                "display_url": "opensource.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9135,
+        "friends_count": 130,
+        "listed_count": 457,
+        "created_at": "Wed Nov 09 23:41:04 +0000 2011",
+        "favourites_count": 23,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 8679,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3DA639",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/610805694644641792/uJpY9ACu.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/610805694644641792/uJpY9ACu.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475393050546425856/pxrKd_gg_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475393050546425856/pxrKd_gg_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/408847389/1434462455",
+        "profile_link_color": "1E531D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Python",
+            "indices": [
+              8,
+              15
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nyVoJeF62B",
+            "expanded_url": "http://blog.tryolabs.com/2015/12/15/top-10-python-libraries-of-2015/",
+            "display_url": "blog.tryolabs.com/2015/12/15/top…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            27,
+            34
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OpenSourceOrg",
+          "name": "OpenSourceInitiative",
+          "id": 408847389,
+          "id_str": "408847389",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nyVoJeF62B",
+          "expanded_url": "http://blog.tryolabs.com/2015/12/15/top-10-python-libraries-of-2015/",
+          "display_url": "blog.tryolabs.com/2015/12/15/top…",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 18:11:07 +0000 2015",
+    "id": 679725942130905088,
+    "id_str": "679725942130905088",
+    "text": "#Python continues to progress as a programming platform with useful community-driven modules https://t.co/amD6zxjINp",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/amD6zxjINp",
+          "expanded_url": "http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/",
+          "display_url": "blog.rtwilson.com/my-top-5-new-p…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Dec 22 23:53:01 +0000 2015",
     "id": 679449592803360768,
     "id_str": "679449592803360768",
