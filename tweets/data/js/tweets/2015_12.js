@@ -1,5 +1,1140 @@
 Grailbird.data.tweets_2015_12 = [
   {
+    "created_at": "Mon Dec 28 22:50:37 +0000 2015",
+    "id": 681608217885999105,
+    "id_str": "681608217885999105",
+    "text": "RT @JoeHega: Need Async-Await on the JVM? Check out EA Async - https://t.co/CUbv7tLzUH",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 21:53:38 +0000 2015",
+      "id": 679781939310546944,
+      "id_str": "679781939310546944",
+      "text": "Need Async-Await on the JVM? Check out EA Async - https://t.co/CUbv7tLzUH",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 120222891,
+        "id_str": "120222891",
+        "name": "Joe Hegarty",
+        "screen_name": "JoeHega",
+        "location": "Edmonton, Alberta, Canada",
+        "description": "Lead Developer for @BioWare Online Services, we make great games and the @OrbitFramework. British, but I'm hiding out in Canada right now. Views are my own etc.",
+        "url": "http://t.co/Vs8wwhExwf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Vs8wwhExwf",
+                "expanded_url": "http://www.joehegarty.com",
+                "display_url": "joehegarty.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 766,
+        "friends_count": 633,
+        "listed_count": 56,
+        "created_at": "Fri Mar 05 21:02:48 +0000 2010",
+        "favourites_count": 2,
+        "utc_offset": -25200,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3141,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614988376719015936/R-0mHcES_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614988376719015936/R-0mHcES_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CUbv7tLzUH",
+            "expanded_url": "https://github.com/electronicarts/ea-async",
+            "display_url": "github.com/electronicarts…",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JoeHega",
+          "name": "Joe Hegarty",
+          "id": 120222891,
+          "id_str": "120222891",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CUbv7tLzUH",
+          "expanded_url": "https://github.com/electronicarts/ea-async",
+          "display_url": "github.com/electronicarts…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 28 22:33:56 +0000 2015",
+    "id": 681604017701523456,
+    "id_str": "681604017701523456",
+    "text": "RT @RevRichardColes: Mrs Needle's Christmas cake with Wensleydale cheese. Yorkshire's greatest achievement since St Aelred of Rievaulx. htt…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 28 21:47:42 +0000 2015",
+      "id": 681592386003275779,
+      "id_str": "681592386003275779",
+      "text": "Mrs Needle's Christmas cake with Wensleydale cheese. Yorkshire's greatest achievement since St Aelred of Rievaulx. https://t.co/xKROQNjt5c",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 270459817,
+        "id_str": "270459817",
+        "name": "Richard Coles",
+        "screen_name": "RevRichardColes",
+        "location": "",
+        "description": "Cleric and broadcaster, former Communard, co-presenter of Saturday Live, Parish Priest of Finedon. Please don’t shout at me.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 91608,
+        "friends_count": 2147,
+        "listed_count": 786,
+        "created_at": "Tue Mar 22 17:19:11 +0000 2011",
+        "favourites_count": 158,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 114738,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/519901646709850113/M1RFGWnt_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/519901646709850113/M1RFGWnt_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 40,
+      "favorite_count": 178,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 681592367653220352,
+            "id_str": "681592367653220352",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+            "url": "https://t.co/xKROQNjt5c",
+            "display_url": "pic.twitter.com/xKROQNjt5c",
+            "expanded_url": "http://twitter.com/RevRichardColes/status/681592386003275779/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 681592367653220352,
+            "id_str": "681592367653220352",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+            "url": "https://t.co/xKROQNjt5c",
+            "display_url": "pic.twitter.com/xKROQNjt5c",
+            "expanded_url": "http://twitter.com/RevRichardColes/status/681592386003275779/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "RevRichardColes",
+          "name": "Richard Coles",
+          "id": 270459817,
+          "id_str": "270459817",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 681592367653220352,
+          "id_str": "681592367653220352",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+          "url": "https://t.co/xKROQNjt5c",
+          "display_url": "pic.twitter.com/xKROQNjt5c",
+          "expanded_url": "http://twitter.com/RevRichardColes/status/681592386003275779/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681592386003275779,
+          "source_status_id_str": "681592386003275779",
+          "source_user_id": 270459817,
+          "source_user_id_str": "270459817"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 681592367653220352,
+          "id_str": "681592367653220352",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXWApauWcAAEyvK.jpg",
+          "url": "https://t.co/xKROQNjt5c",
+          "display_url": "pic.twitter.com/xKROQNjt5c",
+          "expanded_url": "http://twitter.com/RevRichardColes/status/681592386003275779/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681592386003275779,
+          "source_status_id_str": "681592386003275779",
+          "source_user_id": 270459817,
+          "source_user_id_str": "270459817"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 27 22:58:07 +0000 2015",
+    "id": 681247719285899264,
+    "id_str": "681247719285899264",
+    "text": "Compare GWX nagware for #Win10 - \"The choice and control belong to the users, and we are determined to protect that\" https://t.co/UZpPUv610y",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 681240679608004609,
+    "quoted_status_id_str": "681240679608004609",
+    "quoted_status": {
+      "created_at": "Sun Dec 27 22:30:09 +0000 2015",
+      "id": 681240679608004609,
+      "id_str": "681240679608004609",
+      "text": "Microsoft to Crack Down on Adware: https://t.co/MEcmCawwsU #microsoft #adware #security https://t.co/JXFl81tWla",
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15066271,
+        "id_str": "15066271",
+        "name": "PCMag",
+        "screen_name": "PCMag",
+        "location": "New York, NY",
+        "description": "Redefining technology news and reviews since 1982.",
+        "url": "http://t.co/TyRVHVPBr6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TyRVHVPBr6",
+                "expanded_url": "http://www.pcmag.com",
+                "display_url": "pcmag.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 305751,
+        "friends_count": 291,
+        "listed_count": 7973,
+        "created_at": "Mon Jun 09 22:01:33 +0000 2008",
+        "favourites_count": 284,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 23083,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EE3224",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808612699/a41be0f41f77b031139945213384dcef.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808612699/a41be0f41f77b031139945213384dcef.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615477602166407168/fXzrvYmG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615477602166407168/fXzrvYmG_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15066271/1402340813",
+        "profile_link_color": "E2030A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BABABA",
+        "profile_text_color": "3B3B3B",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 24,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "microsoft",
+            "indices": [
+              59,
+              69
+            ]
+          },
+          {
+            "text": "adware",
+            "indices": [
+              70,
+              77
+            ]
+          },
+          {
+            "text": "security",
+            "indices": [
+              78,
+              87
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MEcmCawwsU",
+            "expanded_url": "http://bit.ly/1YzyxAF",
+            "display_url": "bit.ly/1YzyxAF",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 681240679113035776,
+            "id_str": "681240679113035776",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXRAyc0UEAASxzv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXRAyc0UEAASxzv.jpg",
+            "url": "https://t.co/JXFl81tWla",
+            "display_url": "pic.twitter.com/JXFl81tWla",
+            "expanded_url": "http://twitter.com/PCMag/status/681240679608004609/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 740,
+                "h": 417,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 681240679113035776,
+            "id_str": "681240679113035776",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXRAyc0UEAASxzv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXRAyc0UEAASxzv.jpg",
+            "url": "https://t.co/JXFl81tWla",
+            "display_url": "pic.twitter.com/JXFl81tWla",
+            "expanded_url": "http://twitter.com/PCMag/status/681240679608004609/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 740,
+                "h": 417,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Win10",
+          "indices": [
+            24,
+            30
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UZpPUv610y",
+          "expanded_url": "https://twitter.com/PCMag/status/681240679608004609",
+          "display_url": "twitter.com/PCMag/status/6…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 27 20:09:22 +0000 2015",
+    "id": 681205248472449024,
+    "id_str": "681205248472449024",
+    "text": "Seems that @ForbesTech recently turned on a strong anti ad-blocker click wall. Hmm, turn off adblock to get Forbes \"ad-light\" experience? NO",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ForbesTech",
+          "name": "Forbes Tech News",
+          "id": 14885549,
+          "id_str": "14885549",
+          "indices": [
+            11,
+            22
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 27 03:56:27 +0000 2015",
+    "id": 680960406576168960,
+    "id_str": "680960406576168960",
+    "text": "RT @reubenbond: Cache invalidation is HARD, use Orleans' Virtual Actors instead :) @ProjectOrleans https://t.co/a2sD8gs3Y2",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 25 23:44:57 +0000 2015",
+      "id": 680534728139644928,
+      "id_str": "680534728139644928",
+      "text": "Cache invalidation is HARD, use Orleans' Virtual Actors instead :) @ProjectOrleans https://t.co/a2sD8gs3Y2",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 57183972,
+        "id_str": "57183972",
+        "name": "Reuben Bond",
+        "screen_name": "reubenbond",
+        "location": "Melbourne, Australia",
+        "description": "Software & Economics. @ProjectOrleans & #ServiceFabric. Tweets mostly technical.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 979,
+        "friends_count": 282,
+        "listed_count": 47,
+        "created_at": "Thu Jul 16 00:14:32 +0000 2009",
+        "favourites_count": 558,
+        "utc_offset": 39600,
+        "time_zone": "Melbourne",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1890,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590504686278430721/NFc78eQg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590504686278430721/NFc78eQg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577568614640791552/INwRHGAK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577568614640791552/INwRHGAK_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57183972/1448245902",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 680490823226671104,
+      "quoted_status_id_str": "680490823226671104",
+      "quoted_status": {
+        "created_at": "Fri Dec 25 20:50:29 +0000 2015",
+        "id": 680490823226671104,
+        "id_str": "680490823226671104",
+        "text": "Valve is having caching issues allowing users to view things such as account information of other users. Don't use Store for now.",
+        "source": "<a href=\"https://steamdb.info/\" rel=\"nofollow\">The Control Room</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1114707756,
+          "id_str": "1114707756",
+          "name": "Steam Database",
+          "screen_name": "SteamDB",
+          "location": "Email: freeman@steamdb.info",
+          "description": "ℹ️ We are not affiliated with Valve in any way.",
+          "url": "https://t.co/440cztlTat",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/440cztlTat",
+                  "expanded_url": "https://steamdb.info",
+                  "display_url": "steamdb.info",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 44024,
+          "friends_count": 6,
+          "listed_count": 259,
+          "created_at": "Wed Jan 23 16:11:03 +0000 2013",
+          "favourites_count": 0,
+          "utc_offset": 7200,
+          "time_zone": "Athens",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2993,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "222222",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/771262388/feba1ceb4eb3378efe86ec9d20fbc34d.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/771262388/feba1ceb4eb3378efe86ec9d20fbc34d.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/646795959255437312/YN3YFXDS_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/646795959255437312/YN3YFXDS_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114707756/1406196149",
+          "profile_link_color": "0288D1",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5875,
+        "favorite_count": 2390,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 5,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Project Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              67,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a2sD8gs3Y2",
+            "expanded_url": "https://twitter.com/SteamDB/status/680490823226671104",
+            "display_url": "twitter.com/SteamDB/status…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "reubenbond",
+          "name": "Reuben Bond",
+          "id": 57183972,
+          "id_str": "57183972",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Project Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            83,
+            98
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a2sD8gs3Y2",
+          "expanded_url": "https://twitter.com/SteamDB/status/680490823226671104",
+          "display_url": "twitter.com/SteamDB/status…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 27 00:56:31 +0000 2015",
+    "id": 680915127768502272,
+    "id_str": "680915127768502272",
+    "text": "Tabs or Spaces? Analysis of the whitespace practices of various programming languages on GitHub.\nhttps://t.co/vhf0SUB5CZ",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vhf0SUB5CZ",
+          "expanded_url": "http://ukupat.github.io/tabs-or-spaces/",
+          "display_url": "ukupat.github.io/tabs-or-spaces/",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Dec 26 18:30:05 +0000 2015",
     "id": 680817875838353408,
     "id_str": "680817875838353408",
