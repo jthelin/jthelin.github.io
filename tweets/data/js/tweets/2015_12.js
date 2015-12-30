@@ -1,5 +1,1807 @@
 Grailbird.data.tweets_2015_12 = [
   {
+    "created_at": "Wed Dec 30 03:10:57 +0000 2015",
+    "id": 682036122269007872,
+    "id_str": "682036122269007872",
+    "text": "RT @newsycombinator: Bank of America trying to load up on patents for the technology behind Bitcoin https://t.co/RWZ5oF8w97",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 03:02:18 +0000 2015",
+      "id": 682033944695537664,
+      "id_str": "682033944695537664",
+      "text": "Bank of America trying to load up on patents for the technology behind Bitcoin https://t.co/RWZ5oF8w97",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 120035,
+        "friends_count": 2,
+        "listed_count": 6499,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 79905,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RWZ5oF8w97",
+            "expanded_url": "http://qz.com/578974/bank-of-america-is-trying-to-load-up-on-patents-for-the-technology-behind-bitcoin/",
+            "display_url": "qz.com/578974/bank-of…",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RWZ5oF8w97",
+          "expanded_url": "http://qz.com/578974/bank-of-america-is-trying-to-load-up-on-patents-for-the-technology-behind-bitcoin/",
+          "display_url": "qz.com/578974/bank-of…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 29 17:51:52 +0000 2015",
+    "id": 681895422101553153,
+    "id_str": "681895422101553153",
+    "text": "RT @SQLServer: Learn how you can add indexes on #JSON properties in product catalog in #SQLServer 2016: https://t.co/JzQkjsc41i",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 29 16:30:01 +0000 2015",
+      "id": 681874822972989440,
+      "id_str": "681874822972989440",
+      "text": "Learn how you can add indexes on #JSON properties in product catalog in #SQLServer 2016: https://t.co/JzQkjsc41i",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 64331621,
+        "id_str": "64331621",
+        "name": "Microsoft SQL Server",
+        "screen_name": "SQLServer",
+        "location": "Redmond, WA",
+        "description": "Data-Driven. Faster Insights. Breakthrough Performance. In-Memory Technology. Hybrid Data Platform. News & More.",
+        "url": "http://t.co/lnJkxAm3vf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/lnJkxAm3vf",
+                "expanded_url": "http://www.microsoft.com/sqlserver",
+                "display_url": "microsoft.com/sqlserver",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 197003,
+        "friends_count": 4415,
+        "listed_count": 2950,
+        "created_at": "Mon Aug 10 04:01:45 +0000 2009",
+        "favourites_count": 261,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 9865,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BA141A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657622193/4n8wsrhoujxn5bjrnl65.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657622193/4n8wsrhoujxn5bjrnl65.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471681237786980354/kJC_L6_c_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471681237786980354/kJC_L6_c_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64331621/1439333284",
+        "profile_link_color": "BA141A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C6C6C6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "JSON",
+            "indices": [
+              33,
+              38
+            ]
+          },
+          {
+            "text": "SQLServer",
+            "indices": [
+              72,
+              82
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JzQkjsc41i",
+            "expanded_url": "http://msft.it/6019BVt7v",
+            "display_url": "msft.it/6019BVt7v",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "JSON",
+          "indices": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "SQLServer",
+          "indices": [
+            87,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SQLServer",
+          "name": "Microsoft SQL Server",
+          "id": 64331621,
+          "id_str": "64331621",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JzQkjsc41i",
+          "expanded_url": "http://msft.it/6019BVt7v",
+          "display_url": "msft.it/6019BVt7v",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 29 17:50:51 +0000 2015",
+    "id": 681895165515018240,
+    "id_str": "681895165515018240",
+    "text": "RT @mashable: It turns out that BB-8 isn't a robot at all — it's a cat in a ball https://t.co/AXnQr6uLtJ https://t.co/YjQwIfGr3d",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 29 16:30:08 +0000 2015",
+      "id": 681874855596322817,
+      "id_str": "681874855596322817",
+      "text": "It turns out that BB-8 isn't a robot at all — it's a cat in a ball https://t.co/AXnQr6uLtJ https://t.co/YjQwIfGr3d",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 972651,
+        "id_str": "972651",
+        "name": "Mashable",
+        "screen_name": "mashable",
+        "location": "",
+        "description": "News, resources, inspiration and fun for the connected generation. Tweets by @mashable staff.",
+        "url": "http://t.co/1Gm8aVACKn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/1Gm8aVACKn",
+                "expanded_url": "http://mashable.com",
+                "display_url": "mashable.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6375296,
+        "friends_count": 2831,
+        "listed_count": 127459,
+        "created_at": "Mon Mar 12 01:28:01 +0000 2007",
+        "favourites_count": 587,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 170086,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00AEEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672144573725044737/eEOLvMTQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672144573725044737/eEOLvMTQ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+        "profile_link_color": "00AEEF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88DBF4",
+        "profile_text_color": "3B3B3B",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 117,
+      "favorite_count": 149,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AXnQr6uLtJ",
+            "expanded_url": "http://on.mash.to/1MF0NLi",
+            "display_url": "on.mash.to/1MF0NLi",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 681874854941999104,
+            "id_str": "681874854941999104",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+            "url": "https://t.co/YjQwIfGr3d",
+            "display_url": "pic.twitter.com/YjQwIfGr3d",
+            "expanded_url": "http://twitter.com/mashable/status/681874855596322817/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 949,
+                "h": 534,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 681874854941999104,
+            "id_str": "681874854941999104",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+            "url": "https://t.co/YjQwIfGr3d",
+            "display_url": "pic.twitter.com/YjQwIfGr3d",
+            "expanded_url": "http://twitter.com/mashable/status/681874855596322817/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 949,
+                "h": 534,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 117,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mashable",
+          "name": "Mashable",
+          "id": 972651,
+          "id_str": "972651",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AXnQr6uLtJ",
+          "expanded_url": "http://on.mash.to/1MF0NLi",
+          "display_url": "on.mash.to/1MF0NLi",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 681874854941999104,
+          "id_str": "681874854941999104",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+          "url": "https://t.co/YjQwIfGr3d",
+          "display_url": "pic.twitter.com/YjQwIfGr3d",
+          "expanded_url": "http://twitter.com/mashable/status/681874855596322817/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 949,
+              "h": 534,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681874855596322817,
+          "source_status_id_str": "681874855596322817",
+          "source_user_id": 972651,
+          "source_user_id_str": "972651"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 681874854941999104,
+          "id_str": "681874854941999104",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXaBkV4WwAAK1jU.jpg",
+          "url": "https://t.co/YjQwIfGr3d",
+          "display_url": "pic.twitter.com/YjQwIfGr3d",
+          "expanded_url": "http://twitter.com/mashable/status/681874855596322817/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 949,
+              "h": 534,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681874855596322817,
+          "source_status_id_str": "681874855596322817",
+          "source_user_id": 972651,
+          "source_user_id_str": "972651"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 29 17:45:23 +0000 2015",
+    "id": 681893791003873281,
+    "id_str": "681893791003873281",
+    "text": "RT @HarvardBiz: Algorithms Need Managers, Too: https://t.co/1bwEGKKI0V @m_sendhil https://t.co/nXPSrj7Q4f",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 29 16:39:20 +0000 2015",
+      "id": 681877169094705153,
+      "id_str": "681877169094705153",
+      "text": "Algorithms Need Managers, Too: https://t.co/1bwEGKKI0V @m_sendhil https://t.co/nXPSrj7Q4f",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14800270,
+        "id_str": "14800270",
+        "name": "Harvard Biz Review",
+        "screen_name": "HarvardBiz",
+        "location": "Boston, MA",
+        "description": "Improving the practice of management.",
+        "url": "http://t.co/FXkjfGSn3I",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/FXkjfGSn3I",
+                "expanded_url": "http://hbr.org",
+                "display_url": "hbr.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2419645,
+        "friends_count": 192,
+        "listed_count": 46448,
+        "created_at": "Fri May 16 15:50:47 +0000 2008",
+        "favourites_count": 9,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 38745,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "B20021",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/152425667/TwitterHB.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/152425667/TwitterHB.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600303920125214721/uy-506Vm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600303920125214721/uy-506Vm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14800270/1396357623",
+        "profile_link_color": "D90000",
+        "profile_sidebar_border_color": "D5D5D5",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 73,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "m_sendhil",
+            "name": "Sendhil Mullainathan",
+            "id": 405124125,
+            "id_str": "405124125",
+            "indices": [
+              55,
+              65
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1bwEGKKI0V",
+            "expanded_url": "http://s.hbr.org/1R3sJ1E",
+            "display_url": "s.hbr.org/1R3sJ1E",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 681877168427786240,
+            "id_str": "681877168427786240",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+            "url": "https://t.co/nXPSrj7Q4f",
+            "display_url": "pic.twitter.com/nXPSrj7Q4f",
+            "expanded_url": "http://twitter.com/HarvardBiz/status/681877169094705153/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 282,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 681877168427786240,
+            "id_str": "681877168427786240",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+            "url": "https://t.co/nXPSrj7Q4f",
+            "display_url": "pic.twitter.com/nXPSrj7Q4f",
+            "expanded_url": "http://twitter.com/HarvardBiz/status/681877169094705153/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 282,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HarvardBiz",
+          "name": "Harvard Biz Review",
+          "id": 14800270,
+          "id_str": "14800270",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "m_sendhil",
+          "name": "Sendhil Mullainathan",
+          "id": 405124125,
+          "id_str": "405124125",
+          "indices": [
+            71,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1bwEGKKI0V",
+          "expanded_url": "http://s.hbr.org/1R3sJ1E",
+          "display_url": "s.hbr.org/1R3sJ1E",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 681877168427786240,
+          "id_str": "681877168427786240",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+          "url": "https://t.co/nXPSrj7Q4f",
+          "display_url": "pic.twitter.com/nXPSrj7Q4f",
+          "expanded_url": "http://twitter.com/HarvardBiz/status/681877169094705153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 282,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 481,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 159,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681877169094705153,
+          "source_status_id_str": "681877169094705153",
+          "source_user_id": 14800270,
+          "source_user_id_str": "14800270"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 681877168427786240,
+          "id_str": "681877168427786240",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXaDrASWYAAh2-c.jpg",
+          "url": "https://t.co/nXPSrj7Q4f",
+          "display_url": "pic.twitter.com/nXPSrj7Q4f",
+          "expanded_url": "http://twitter.com/HarvardBiz/status/681877169094705153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 282,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 481,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 159,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681877169094705153,
+          "source_status_id_str": "681877169094705153",
+          "source_user_id": 14800270,
+          "source_user_id_str": "14800270"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 29 17:36:55 +0000 2015",
+    "id": 681891662751117312,
+    "id_str": "681891662751117312",
+    "text": "RT @Skype: Flying is overrated anyway. Bust a move with the new (penguin) emoticon: https://t.co/GUExnI8YgH #DanceOffPantsOff https://t.co/…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 29 17:01:01 +0000 2015",
+      "id": 681882626970533889,
+      "id_str": "681882626970533889",
+      "text": "Flying is overrated anyway. Bust a move with the new (penguin) emoticon: https://t.co/GUExnI8YgH #DanceOffPantsOff https://t.co/heqcj2KNeM",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2459371,
+        "id_str": "2459371",
+        "name": "Skype",
+        "screen_name": "Skype",
+        "location": "Everywhere",
+        "description": "The latest news and updates from the team at Skype. Follow the link below to discover all the wonderful things Skype has to offer.",
+        "url": "http://t.co/TLBya8rTeW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TLBya8rTeW",
+                "expanded_url": "http://www.skype.com",
+                "display_url": "skype.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5041821,
+        "friends_count": 1445,
+        "listed_count": 11063,
+        "created_at": "Tue Mar 27 10:48:31 +0000 2007",
+        "favourites_count": 1684,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 106315,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00AFF0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657571874482749442/ZOYHuQZe.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657571874482749442/ZOYHuQZe.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/676411206312177665/vrSPBTbI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/676411206312177665/vrSPBTbI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2459371/1450103955",
+        "profile_link_color": "00AFF0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAF1FA",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 105,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DanceOffPantsOff",
+            "indices": [
+              97,
+              114
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GUExnI8YgH",
+            "expanded_url": "http://sk.ype.ms/IV1udK",
+            "display_url": "sk.ype.ms/IV1udK",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 681882626815356930,
+            "id_str": "681882626815356930",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+            "url": "https://t.co/heqcj2KNeM",
+            "display_url": "pic.twitter.com/heqcj2KNeM",
+            "expanded_url": "http://twitter.com/Skype/status/681882626970533889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 800,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 681882626815356930,
+            "id_str": "681882626815356930",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+            "url": "https://t.co/heqcj2KNeM",
+            "display_url": "pic.twitter.com/heqcj2KNeM",
+            "expanded_url": "http://twitter.com/Skype/status/681882626970533889/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "large": {
+                "w": 800,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                2,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CXaIouXW8AIqVYJ.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DanceOffPantsOff",
+          "indices": [
+            108,
+            125
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Skype",
+          "name": "Skype",
+          "id": 2459371,
+          "id_str": "2459371",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GUExnI8YgH",
+          "expanded_url": "http://sk.ype.ms/IV1udK",
+          "display_url": "sk.ype.ms/IV1udK",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 681882626815356930,
+          "id_str": "681882626815356930",
+          "indices": [
+            126,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+          "url": "https://t.co/heqcj2KNeM",
+          "display_url": "pic.twitter.com/heqcj2KNeM",
+          "expanded_url": "http://twitter.com/Skype/status/681882626970533889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681882626970533889,
+          "source_status_id_str": "681882626970533889",
+          "source_user_id": 2459371,
+          "source_user_id_str": "2459371"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 681882626815356930,
+          "id_str": "681882626815356930",
+          "indices": [
+            126,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CXaIouXW8AIqVYJ.png",
+          "url": "https://t.co/heqcj2KNeM",
+          "display_url": "pic.twitter.com/heqcj2KNeM",
+          "expanded_url": "http://twitter.com/Skype/status/681882626970533889/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681882626970533889,
+          "source_status_id_str": "681882626970533889",
+          "source_user_id": 2459371,
+          "source_user_id_str": "2459371",
+          "video_info": {
+            "aspect_ratio": [
+              2,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/CXaIouXW8AIqVYJ.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 29 17:36:25 +0000 2015",
+    "id": 681891536288665600,
+    "id_str": "681891536288665600",
+    "text": "RT @WSJ: What's next for the #StarWars franchise? https://t.co/uJcEuWtqi6 via @WSJspeakeasy https://t.co/uZ569qTTav",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 29 17:01:20 +0000 2015",
+      "id": 681882705584361472,
+      "id_str": "681882705584361472",
+      "text": "What's next for the #StarWars franchise? https://t.co/uJcEuWtqi6 via @WSJspeakeasy https://t.co/uZ569qTTav",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3108351,
+        "id_str": "3108351",
+        "name": "Wall Street Journal",
+        "screen_name": "WSJ",
+        "location": "New York, NY",
+        "description": "Breaking news and features from the WSJ. Tweets by @allisonlichter @sarahmarshall @toddjolmstead @erinclarebrown @LaurenceWSJ @lmoliva_ and @carlazanoni.",
+        "url": "http://t.co/GhhR6Q2Qmq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/GhhR6Q2Qmq",
+                "expanded_url": "http://wsj.com",
+                "display_url": "wsj.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8944724,
+        "friends_count": 1027,
+        "listed_count": 94725,
+        "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+        "favourites_count": 1273,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 139567,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/550753086814162945/NF0P32Dg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/550753086814162945/NF0P32Dg_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1432072212",
+        "profile_link_color": "1164B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 70,
+      "favorite_count": 116,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StarWars",
+            "indices": [
+              20,
+              29
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "WSJspeakeasy",
+            "name": "Speakeasy",
+            "id": 41204528,
+            "id_str": "41204528",
+            "indices": [
+              69,
+              82
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uJcEuWtqi6",
+            "expanded_url": "http://on.wsj.com/1QVd5r5",
+            "display_url": "on.wsj.com/1QVd5r5",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 681882704875524098,
+            "id_str": "681882704875524098",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+            "media_url_https": "https://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+            "url": "https://t.co/uZ569qTTav",
+            "display_url": "pic.twitter.com/uZ569qTTav",
+            "expanded_url": "http://twitter.com/WSJ/status/681882705584361472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 681882704875524098,
+            "id_str": "681882704875524098",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+            "media_url_https": "https://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+            "url": "https://t.co/uZ569qTTav",
+            "display_url": "pic.twitter.com/uZ569qTTav",
+            "expanded_url": "http://twitter.com/WSJ/status/681882705584361472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 70,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "StarWars",
+          "indices": [
+            29,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WSJ",
+          "name": "Wall Street Journal",
+          "id": 3108351,
+          "id_str": "3108351",
+          "indices": [
+            3,
+            7
+          ]
+        },
+        {
+          "screen_name": "WSJspeakeasy",
+          "name": "Speakeasy",
+          "id": 41204528,
+          "id_str": "41204528",
+          "indices": [
+            78,
+            91
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uJcEuWtqi6",
+          "expanded_url": "http://on.wsj.com/1QVd5r5",
+          "display_url": "on.wsj.com/1QVd5r5",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 681882704875524098,
+          "id_str": "681882704875524098",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+          "media_url_https": "https://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+          "url": "https://t.co/uZ569qTTav",
+          "display_url": "pic.twitter.com/uZ569qTTav",
+          "expanded_url": "http://twitter.com/WSJ/status/681882705584361472/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681882705584361472,
+          "source_status_id_str": "681882705584361472",
+          "source_user_id": 3108351,
+          "source_user_id_str": "3108351"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 681882704875524098,
+          "id_str": "681882704875524098",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+          "media_url_https": "https://pbs.twimg.com/media/CXaItRKWkAIfUNi.png",
+          "url": "https://t.co/uZ569qTTav",
+          "display_url": "pic.twitter.com/uZ569qTTav",
+          "expanded_url": "http://twitter.com/WSJ/status/681882705584361472/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 681882705584361472,
+          "source_status_id_str": "681882705584361472",
+          "source_user_id": 3108351,
+          "source_user_id_str": "3108351"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Dec 28 22:50:37 +0000 2015",
     "id": 681608217885999105,
     "id_str": "681608217885999105",
