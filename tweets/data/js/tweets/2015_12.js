@@ -1,5 +1,1721 @@
 Grailbird.data.tweets_2015_12 = [
   {
+    "created_at": "Thu Dec 31 15:15:08 +0000 2015",
+    "id": 682580753658580992,
+    "id_str": "682580753658580992",
+    "text": "An oldie, but still interesting paper: \"Remote References and XML Web Services\" #TBT\n\nhttps://t.co/sfmYz2FBv6",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            80,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sfmYz2FBv6",
+          "expanded_url": "http://dx.doi.org/10.1007/978-1-4302-5356-3_20",
+          "display_url": "dx.doi.org/10.1007/978-1-…",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 23:20:46 +0000 2015",
+    "id": 682340579477331968,
+    "id_str": "682340579477331968",
+    "text": "Opening for C# devs to build out @SparkCLR OSS big data platform based on @ApacheSpark #Jobs\nhttps://t.co/TPrMu29WGF",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Jobs",
+          "indices": [
+            87,
+            92
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SparkCLR",
+          "name": "SparkCLR",
+          "id": 4098446472,
+          "id_str": "4098446472",
+          "indices": [
+            33,
+            42
+          ]
+        },
+        {
+          "screen_name": "ApacheSpark",
+          "name": "Apache Spark",
+          "id": 1551361069,
+          "id_str": "1551361069",
+          "indices": [
+            74,
+            86
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TPrMu29WGF",
+          "expanded_url": "https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=211506&jlang=EN&pp=SS",
+          "display_url": "careers.microsoft.com/jobdetails.asp…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:50:45 +0000 2015",
+    "id": 682257527879274496,
+    "id_str": "682257527879274496",
+    "text": "RT @zpower: volkswagen’s “stop paying attention to our diesel cheating scandal” machine keeps turning: https://t.co/uw5AEUkhWr",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 16:43:04 +0000 2015",
+      "id": 682240498099032064,
+      "id_str": "682240498099032064",
+      "text": "volkswagen’s “stop paying attention to our diesel cheating scandal” machine keeps turning: https://t.co/uw5AEUkhWr",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15006743,
+        "id_str": "15006743",
+        "name": "Chris Ziegler",
+        "screen_name": "zpower",
+        "location": "Manhattan",
+        "description": "Deputy Editor @verge. Standby for a new tweet.",
+        "url": "https://t.co/8Noofqote2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/8Noofqote2",
+                "expanded_url": "http://blog.zieglerc.net",
+                "display_url": "blog.zieglerc.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 38181,
+        "friends_count": 647,
+        "listed_count": 2045,
+        "created_at": "Wed Jun 04 16:18:45 +0000 2008",
+        "favourites_count": 14239,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 66597,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BABABA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4996790/zpower-back.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4996790/zpower-back.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661000747144859653/L2Exj4eD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661000747144859653/L2Exj4eD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15006743/1450643847",
+        "profile_link_color": "424DFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "999999",
+        "profile_text_color": "444444",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 48,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uw5AEUkhWr",
+            "expanded_url": "http://www.theverge.com/2015/12/30/10689134/volkswagen-microbus-electric-car-teaser-ces-2016",
+            "display_url": "theverge.com/2015/12/30/106…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "zpower",
+          "name": "Chris Ziegler",
+          "id": 15006743,
+          "id_str": "15006743",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uw5AEUkhWr",
+          "expanded_url": "http://www.theverge.com/2015/12/30/10689134/volkswagen-microbus-electric-car-teaser-ces-2016",
+          "display_url": "theverge.com/2015/12/30/106…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:27:59 +0000 2015",
+    "id": 682251798841696256,
+    "id_str": "682251798841696256",
+    "text": "RT @highscalability: How to choose an in-memory NoSQL solution: Performance measuring: The main purpose of this work is to show res... http…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 17:17:58 +0000 2015",
+      "id": 682249281449791488,
+      "id_str": "682249281449791488",
+      "text": "How to choose an in-memory NoSQL solution: Performance measuring: The main purpose of this work is to show res... https://t.co/V5czB0Cs2N",
+      "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 38721090,
+        "id_str": "38721090",
+        "name": "High Scalability",
+        "screen_name": "highscalability",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5051,
+        "friends_count": 0,
+        "listed_count": 275,
+        "created_at": "Fri May 08 18:56:37 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1242,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/V5czB0Cs2N",
+            "expanded_url": "http://bit.ly/1QYJsFk",
+            "display_url": "bit.ly/1QYJsFk",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "highscalability",
+          "name": "High Scalability",
+          "id": 38721090,
+          "id_str": "38721090",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V5czB0Cs2N",
+          "expanded_url": "http://bit.ly/1QYJsFk",
+          "display_url": "bit.ly/1QYJsFk",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:26:11 +0000 2015",
+    "id": 682251349107474432,
+    "id_str": "682251349107474432",
+    "text": "RT @VisualStudio: Good set of tips from @EstebanGarcia on running xUnit tests in #TFS Build vNext - https://t.co/SkcZNq0kGl https://t.co/uy…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 17:25:00 +0000 2015",
+      "id": 682251050787713028,
+      "id_str": "682251050787713028",
+      "text": "Good set of tips from @EstebanGarcia on running xUnit tests in #TFS Build vNext - https://t.co/SkcZNq0kGl https://t.co/uymZbryjnS",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16913772,
+        "id_str": "16913772",
+        "name": "Visual Studio",
+        "screen_name": "VisualStudio",
+        "location": "Redmond, WA, USA",
+        "description": "Follow us for the latest Microsoft Visual Studio news and related information for developers.",
+        "url": "http://t.co/OqnL9IGcUY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/OqnL9IGcUY",
+                "expanded_url": "http://www.visualstudio.com",
+                "display_url": "visualstudio.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 332182,
+        "friends_count": 892,
+        "listed_count": 4083,
+        "created_at": "Wed Oct 22 22:01:24 +0000 2008",
+        "favourites_count": 335,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 15351,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "68217A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117002036/51fcdb17ec1e080aa852086bcfbdd1a1.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117002036/51fcdb17ec1e080aa852086bcfbdd1a1.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505104774153256960/SR2hUhQN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/505104774153256960/SR2hUhQN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16913772/1446224981",
+        "profile_link_color": "68217A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "1F222B",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "favorite_count": 32,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TFS",
+            "indices": [
+              63,
+              67
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "EstebanGarcia",
+            "name": "Esteban",
+            "id": 25577244,
+            "id_str": "25577244",
+            "indices": [
+              22,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SkcZNq0kGl",
+            "expanded_url": "http://spr.ly/6018BVask",
+            "display_url": "spr.ly/6018BVask",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 682251050695430144,
+            "id_str": "682251050695430144",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+            "media_url_https": "https://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+            "url": "https://t.co/uymZbryjnS",
+            "display_url": "pic.twitter.com/uymZbryjnS",
+            "expanded_url": "http://twitter.com/VisualStudio/status/682251050787713028/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 488,
+                "h": 236,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 488,
+                "h": 236,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 164,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 682251050695430144,
+            "id_str": "682251050695430144",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+            "media_url_https": "https://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+            "url": "https://t.co/uymZbryjnS",
+            "display_url": "pic.twitter.com/uymZbryjnS",
+            "expanded_url": "http://twitter.com/VisualStudio/status/682251050787713028/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 488,
+                "h": 236,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 488,
+                "h": 236,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 164,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TFS",
+          "indices": [
+            81,
+            85
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VisualStudio",
+          "name": "Visual Studio",
+          "id": 16913772,
+          "id_str": "16913772",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "EstebanGarcia",
+          "name": "Esteban",
+          "id": 25577244,
+          "id_str": "25577244",
+          "indices": [
+            40,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SkcZNq0kGl",
+          "expanded_url": "http://spr.ly/6018BVask",
+          "display_url": "spr.ly/6018BVask",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 682251050695430144,
+          "id_str": "682251050695430144",
+          "indices": [
+            124,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+          "media_url_https": "https://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+          "url": "https://t.co/uymZbryjnS",
+          "display_url": "pic.twitter.com/uymZbryjnS",
+          "expanded_url": "http://twitter.com/VisualStudio/status/682251050787713028/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 488,
+              "h": 236,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 488,
+              "h": 236,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 164,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 682251050787713028,
+          "source_status_id_str": "682251050787713028",
+          "source_user_id": 16913772,
+          "source_user_id_str": "16913772"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 682251050695430144,
+          "id_str": "682251050695430144",
+          "indices": [
+            124,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+          "media_url_https": "https://pbs.twimg.com/media/CXfXt0RWkAAiAr6.png",
+          "url": "https://t.co/uymZbryjnS",
+          "display_url": "pic.twitter.com/uymZbryjnS",
+          "expanded_url": "http://twitter.com/VisualStudio/status/682251050787713028/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 488,
+              "h": 236,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 488,
+              "h": 236,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 164,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 682251050787713028,
+          "source_status_id_str": "682251050787713028",
+          "source_user_id": 16913772,
+          "source_user_id_str": "16913772"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:09:42 +0000 2015",
+    "id": 682247198646517760,
+    "id_str": "682247198646517760",
+    "text": "RT @Flickr: Check out the outstanding #StarryNights we’ve selected from the #YourBestShot2015 group! https://t.co/AFc7HOyweS https://t.co/x…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 17:05:02 +0000 2015",
+      "id": 682246024983883776,
+      "id_str": "682246024983883776",
+      "text": "Check out the outstanding #StarryNights we’ve selected from the #YourBestShot2015 group! https://t.co/AFc7HOyweS https://t.co/xAg5v7ffo2",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21237045,
+        "id_str": "21237045",
+        "name": "Flickr",
+        "screen_name": "Flickr",
+        "location": "San Francisco, CA",
+        "description": "Stunning photos and stories, event announcements, latest news, and much more from within the Flickr community. Need support? Let us know at @FlickrHelp",
+        "url": "http://t.co/c9twUy4cn8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/c9twUy4cn8",
+                "expanded_url": "http://flickr.com",
+                "display_url": "flickr.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 904690,
+        "friends_count": 282,
+        "listed_count": 11727,
+        "created_at": "Wed Feb 18 20:27:45 +0000 2009",
+        "favourites_count": 728,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 9164,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F3F5F6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/880723066/df6ecc8d001b50aeb1dc15ac59d0b593.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/880723066/df6ecc8d001b50aeb1dc15ac59d0b593.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666413114489831424/aJZNErvd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666413114489831424/aJZNErvd_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21237045/1451271694",
+        "profile_link_color": "212124",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 53,
+      "favorite_count": 122,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StarryNights",
+            "indices": [
+              26,
+              39
+            ]
+          },
+          {
+            "text": "YourBestShot2015",
+            "indices": [
+              64,
+              81
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AFc7HOyweS",
+            "expanded_url": "http://bit.ly/1JfShaI",
+            "display_url": "bit.ly/1JfShaI",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 682246024858046464,
+            "id_str": "682246024858046464",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+            "url": "https://t.co/xAg5v7ffo2",
+            "display_url": "pic.twitter.com/xAg5v7ffo2",
+            "expanded_url": "http://twitter.com/Flickr/status/682246024983883776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 397,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 131,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 232,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 682246024858046464,
+            "id_str": "682246024858046464",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+            "url": "https://t.co/xAg5v7ffo2",
+            "display_url": "pic.twitter.com/xAg5v7ffo2",
+            "expanded_url": "http://twitter.com/Flickr/status/682246024983883776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 397,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 131,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 232,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 53,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "StarryNights",
+          "indices": [
+            38,
+            51
+          ]
+        },
+        {
+          "text": "YourBestShot2015",
+          "indices": [
+            76,
+            93
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Flickr",
+          "name": "Flickr",
+          "id": 21237045,
+          "id_str": "21237045",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AFc7HOyweS",
+          "expanded_url": "http://bit.ly/1JfShaI",
+          "display_url": "bit.ly/1JfShaI",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 682246024858046464,
+          "id_str": "682246024858046464",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+          "url": "https://t.co/xAg5v7ffo2",
+          "display_url": "pic.twitter.com/xAg5v7ffo2",
+          "expanded_url": "http://twitter.com/Flickr/status/682246024983883776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 131,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 232,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 682246024983883776,
+          "source_status_id_str": "682246024983883776",
+          "source_user_id": 21237045,
+          "source_user_id_str": "21237045"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 682246024858046464,
+          "id_str": "682246024858046464",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CXfTJRkWEAAhMaB.jpg",
+          "url": "https://t.co/xAg5v7ffo2",
+          "display_url": "pic.twitter.com/xAg5v7ffo2",
+          "expanded_url": "http://twitter.com/Flickr/status/682246024983883776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 131,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 232,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 682246024983883776,
+          "source_status_id_str": "682246024983883776",
+          "source_user_id": 21237045,
+          "source_user_id_str": "21237045"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:08:50 +0000 2015",
+    "id": 682246980014243841,
+    "id_str": "682246980014243841",
+    "text": "RT @newsycombinator: 12 resolutions for programmers https://t.co/1zDbZ0daW7",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 14:01:35 +0000 2015",
+      "id": 682199856459444224,
+      "id_str": "682199856459444224",
+      "text": "12 resolutions for programmers https://t.co/1zDbZ0daW7",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 120272,
+        "friends_count": 2,
+        "listed_count": 6503,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 79982,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 38,
+      "favorite_count": 117,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1zDbZ0daW7",
+            "expanded_url": "http://matt.might.net/articles/programmers-resolutions/",
+            "display_url": "matt.might.net/articles/progr…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1zDbZ0daW7",
+          "expanded_url": "http://matt.might.net/articles/programmers-resolutions/",
+          "display_url": "matt.might.net/articles/progr…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:07:56 +0000 2015",
+    "id": 682246755765727232,
+    "id_str": "682246755765727232",
+    "text": "RT @newsycombinator: Which Programming Languages Are Functional? https://t.co/epBkmz3pko",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 15:02:41 +0000 2015",
+      "id": 682215236317917185,
+      "id_str": "682215236317917185",
+      "text": "Which Programming Languages Are Functional? https://t.co/epBkmz3pko",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 120272,
+        "friends_count": 2,
+        "listed_count": 6503,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 79982,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 63,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/epBkmz3pko",
+            "expanded_url": "http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html",
+            "display_url": "blog.jenkster.com/2015/12/which-…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/epBkmz3pko",
+          "expanded_url": "http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html",
+          "display_url": "blog.jenkster.com/2015/12/which-…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 30 17:06:45 +0000 2015",
+    "id": 682246455914921984,
+    "id_str": "682246455914921984",
+    "text": "RT @newsycombinator: How People Come to Believe That Completely Messed Up Practices Are Normal https://t.co/wjjNXYPaIG",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 30 14:01:35 +0000 2015",
+      "id": 682199857952632832,
+      "id_str": "682199857952632832",
+      "text": "How People Come to Believe That Completely Messed Up Practices Are Normal https://t.co/wjjNXYPaIG",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 120272,
+        "friends_count": 2,
+        "listed_count": 6503,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 79982,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 24,
+      "favorite_count": 67,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wjjNXYPaIG",
+            "expanded_url": "http://danluu.com/wat/",
+            "display_url": "danluu.com/wat/",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wjjNXYPaIG",
+          "expanded_url": "http://danluu.com/wat/",
+          "display_url": "danluu.com/wat/",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Dec 30 03:10:57 +0000 2015",
     "id": 682036122269007872,
     "id_str": "682036122269007872",
