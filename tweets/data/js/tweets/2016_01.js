@@ -1,5 +1,388 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sun Jan 03 22:45:30 +0000 2016",
+    "id": 683781257013035008,
+    "id_str": "683781257013035008",
+    "text": "RT @schlaf: Utilization of cars is 5% but the avg household spends ~17% on transportation. Autonomous vehicles will change this. https://t.…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 03 20:13:00 +0000 2016",
+      "id": 683742877961318401,
+      "id_str": "683742877961318401",
+      "text": "Utilization of cars is 5% but the avg household spends ~17% on transportation. Autonomous vehicles will change this. https://t.co/sFAsQOuvz4",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9544202,
+        "id_str": "9544202",
+        "name": "Steve Schlafman",
+        "screen_name": "schlaf",
+        "location": "NYC & Hudson Valley ",
+        "description": "VC @RRE. Married to @TheSill. My values guide me: intellectual curiosity, hard work, honesty, humility, empathy, and transparency. Excited about the future.",
+        "url": "https://t.co/pm7W8sWuxY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pm7W8sWuxY",
+                "expanded_url": "http://schlaf.me",
+                "display_url": "schlaf.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12356,
+        "friends_count": 752,
+        "listed_count": 629,
+        "created_at": "Fri Oct 19 15:07:13 +0000 2007",
+        "favourites_count": 18951,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18474,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "6F8593",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/212564421/xc63a2ab0d47f286601a180b48714cb3.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/212564421/xc63a2ab0d47f286601a180b48714cb3.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647074519727783936/0KfeBHTF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647074519727783936/0KfeBHTF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9544202/1432327568",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "6893AE",
+        "profile_sidebar_fill_color": "6A757C",
+        "profile_text_color": "6BABD4",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 110,
+      "favorite_count": 107,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sFAsQOuvz4",
+            "expanded_url": "http://www.wsj.com/articles/could-self-driving-cars-spell-the-end-of-ownership-1448986572",
+            "display_url": "wsj.com/articles/could…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 110,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "schlaf",
+          "name": "Steve Schlafman",
+          "id": 9544202,
+          "id_str": "9544202",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sFAsQOuvz4",
+          "expanded_url": "http://www.wsj.com/articles/could-self-driving-cars-spell-the-end-of-ownership-1448986572",
+          "display_url": "wsj.com/articles/could…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 03 22:44:40 +0000 2016",
+    "id": 683781046932881409,
+    "id_str": "683781046932881409",
+    "text": "RT @Werner: \"11 Reasons Why 2015 Was a Great Year For Humanity\" by @angushervey in @future_crunch https://t.co/5zZrfCqQBN",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 03 22:28:51 +0000 2016",
+      "id": 683777066454523904,
+      "id_str": "683777066454523904",
+      "text": "\"11 Reasons Why 2015 Was a Great Year For Humanity\" by @angushervey in @future_crunch https://t.co/5zZrfCqQBN",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 113963,
+        "id_str": "113963",
+        "name": "Werner Vogels",
+        "screen_name": "Werner",
+        "location": "Seattle, WA",
+        "description": "CTO @ Amazon",
+        "url": "http://t.co/XJnom3L170",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/XJnom3L170",
+                "expanded_url": "http://smile.amazon.com",
+                "display_url": "smile.amazon.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 78399,
+        "friends_count": 140,
+        "listed_count": 3519,
+        "created_at": "Thu Dec 21 15:12:02 +0000 2006",
+        "favourites_count": 663,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 9033,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435258648307433473/dE_FGVkh.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435258648307433473/dE_FGVkh.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563188960394891264/z3-Rh11q_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563188960394891264/z3-Rh11q_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113963/1393564200",
+        "profile_link_color": "232D41",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "2C2C2C",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "angushervey",
+            "name": "Angus Hervey",
+            "id": 27244131,
+            "id_str": "27244131",
+            "indices": [
+              55,
+              67
+            ]
+          },
+          {
+            "screen_name": "future_crunch",
+            "name": "Future Crunch",
+            "id": 2650057334,
+            "id_str": "2650057334",
+            "indices": [
+              71,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5zZrfCqQBN",
+            "expanded_url": "https://medium.com/future-crunch/11-reasons-why-2015-was-a-great-year-for-humanity-70db584db748",
+            "display_url": "medium.com/future-crunch/…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Werner",
+          "name": "Werner Vogels",
+          "id": 113963,
+          "id_str": "113963",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "angushervey",
+          "name": "Angus Hervey",
+          "id": 27244131,
+          "id_str": "27244131",
+          "indices": [
+            67,
+            79
+          ]
+        },
+        {
+          "screen_name": "future_crunch",
+          "name": "Future Crunch",
+          "id": 2650057334,
+          "id_str": "2650057334",
+          "indices": [
+            83,
+            97
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5zZrfCqQBN",
+          "expanded_url": "https://medium.com/future-crunch/11-reasons-why-2015-was-a-great-year-for-humanity-70db584db748",
+          "display_url": "medium.com/future-crunch/…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jan 03 02:48:27 +0000 2016",
     "id": 683480010364039169,
     "id_str": "683480010364039169",
