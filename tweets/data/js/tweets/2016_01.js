@@ -1,5 +1,399 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Wed Jan 06 07:16:38 +0000 2016",
+    "id": 684634664204541952,
+    "id_str": "684634664204541952",
+    "text": "RT @shanselman: Best practices when storing private config data and connection strings in @aspnet https://t.co/a3LiRL6FfI",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 06 07:03:51 +0000 2016",
+      "id": 684631446158323712,
+      "id_str": "684631446158323712",
+      "text": "Best practices when storing private config data and connection strings in @aspnet https://t.co/a3LiRL6FfI",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5676102,
+        "id_str": "5676102",
+        "name": "Scott Hanselman",
+        "screen_name": "shanselman",
+        "location": "Portland, Oregon",
+        "description": "Tech, Code, YouTube, Race, Linguistics, Web, Parenting, Fashion, Black Hair, STEM, @OSCON chair, Phony. MSFT, but these are my opinions. @overheardathome",
+        "url": "https://t.co/KWE5X1BBOh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KWE5X1BBOh",
+                "expanded_url": "http://hanselman.com",
+                "display_url": "hanselman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 150596,
+        "friends_count": 5499,
+        "listed_count": 7222,
+        "created_at": "Tue May 01 05:55:26 +0000 2007",
+        "favourites_count": 24003,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 134460,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D1CDC1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+        "profile_link_color": "72412C",
+        "profile_sidebar_border_color": "B8AA9C",
+        "profile_sidebar_fill_color": "B8AA9C",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "favorite_count": 68,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "aspnet",
+            "name": "The ASP.NET Team",
+            "id": 388472947,
+            "id_str": "388472947",
+            "indices": [
+              74,
+              81
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a3LiRL6FfI",
+            "expanded_url": "http://bit.ly/1PMhE5x",
+            "display_url": "bit.ly/1PMhE5x",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shanselman",
+          "name": "Scott Hanselman",
+          "id": 5676102,
+          "id_str": "5676102",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "aspnet",
+          "name": "The ASP.NET Team",
+          "id": 388472947,
+          "id_str": "388472947",
+          "indices": [
+            90,
+            97
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a3LiRL6FfI",
+          "expanded_url": "http://bit.ly/1PMhE5x",
+          "display_url": "bit.ly/1PMhE5x",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 06 04:28:41 +0000 2016",
+    "id": 684592398026969088,
+    "id_str": "684592398026969088",
+    "text": "RT @mknz: Great #Azure Resource Manager documentation by @pcgeek86 - https://t.co/WBA7UziRc7",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 19 01:29:46 +0000 2015",
+      "id": 678024388768215044,
+      "id_str": "678024388768215044",
+      "text": "Great #Azure Resource Manager documentation by @pcgeek86 - https://t.co/WBA7UziRc7",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23634463,
+        "id_str": "23634463",
+        "name": "Neil Mackenzie",
+        "screen_name": "mknz",
+        "location": "San Francisco, CA",
+        "description": "Cloud Solution Architect at Microsoft",
+        "url": "http://t.co/2NqzY2wIXL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2NqzY2wIXL",
+                "expanded_url": "http://aka.ms/csablog",
+                "display_url": "aka.ms/csablog",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1486,
+        "friends_count": 1098,
+        "listed_count": 143,
+        "created_at": "Tue Mar 10 19:05:00 +0000 2009",
+        "favourites_count": 248,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5412,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390350996/Neil_Mackenzie_Thumbnail_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390350996/Neil_Mackenzie_Thumbnail_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23634463/1438826599",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Azure",
+            "indices": [
+              6,
+              12
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "pcgeek86",
+            "name": "Trevor Sullivan",
+            "id": 18421909,
+            "id_str": "18421909",
+            "indices": [
+              47,
+              56
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WBA7UziRc7",
+            "expanded_url": "http://trevorsullivan.net/microsoft-azure/microsoft-azure-resource-manager/",
+            "display_url": "trevorsullivan.net/microsoft-azur…",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Azure",
+          "indices": [
+            16,
+            22
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mknz",
+          "name": "Neil Mackenzie",
+          "id": 23634463,
+          "id_str": "23634463",
+          "indices": [
+            3,
+            8
+          ]
+        },
+        {
+          "screen_name": "pcgeek86",
+          "name": "Trevor Sullivan",
+          "id": 18421909,
+          "id_str": "18421909",
+          "indices": [
+            57,
+            66
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WBA7UziRc7",
+          "expanded_url": "http://trevorsullivan.net/microsoft-azure/microsoft-azure-resource-manager/",
+          "display_url": "trevorsullivan.net/microsoft-azur…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jan 03 22:45:30 +0000 2016",
     "id": 683781257013035008,
     "id_str": "683781257013035008",
