@@ -1,5 +1,599 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sat Jan 09 06:24:24 +0000 2016",
+    "id": 685708681464262656,
+    "id_str": "685708681464262656",
+    "text": "What do you check in the first minute after you login to a Linux server with a performance issue? \nhttps://t.co/o12WC3yJxH",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o12WC3yJxH",
+          "expanded_url": "http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html",
+          "display_url": "techblog.netflix.com/2015/11/linux-…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 08 08:10:20 +0000 2016",
+    "id": 685372955098918912,
+    "id_str": "685372955098918912",
+    "text": "RT @danrigby: Broken Windows: How Bad Software Releases Happen to Good Teams https://t.co/p1QRtRcQpY https://t.co/zksS8L12Oh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 04 19:00:56 +0000 2016",
+      "id": 684087131971698688,
+      "id_str": "684087131971698688",
+      "text": "Broken Windows: How Bad Software Releases Happen to Good Teams https://t.co/p1QRtRcQpY https://t.co/zksS8L12Oh",
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18566961,
+        "id_str": "18566961",
+        "name": "Dan Rigby",
+        "screen_name": "danrigby",
+        "location": "Raleigh, NC",
+        "description": "Xamarin, Mobile App Developer, Father, Blogger, Aspiring Appreneur, Curator of @WindowsAppDev / @AllAboutXamarin. Tweets are my own.",
+        "url": "http://t.co/hUfFOvIm2Y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/hUfFOvIm2Y",
+                "expanded_url": "http://DanRigby.com",
+                "display_url": "DanRigby.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2059,
+        "friends_count": 1906,
+        "listed_count": 84,
+        "created_at": "Fri Jan 02 23:11:50 +0000 2009",
+        "favourites_count": 49,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6173,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/790318459/cf55a57f66c3a8fd40f4f3c1f6bf2dfb.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/790318459/cf55a57f66c3a8fd40f4f3c1f6bf2dfb.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000615858675/467e17d557fa087ab2ac11778a1e419b_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000615858675/467e17d557fa087ab2ac11778a1e419b_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/p1QRtRcQpY",
+            "expanded_url": "http://j.mp/1RgedDK",
+            "display_url": "j.mp/1RgedDK",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 684087131841687552,
+            "id_str": "684087131841687552",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+            "url": "https://t.co/zksS8L12Oh",
+            "display_url": "pic.twitter.com/zksS8L12Oh",
+            "expanded_url": "http://twitter.com/danrigby/status/684087131971698688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 580,
+                "h": 403,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 580,
+                "h": 403,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 236,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 684087131841687552,
+            "id_str": "684087131841687552",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+            "url": "https://t.co/zksS8L12Oh",
+            "display_url": "pic.twitter.com/zksS8L12Oh",
+            "expanded_url": "http://twitter.com/danrigby/status/684087131971698688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 580,
+                "h": 403,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 580,
+                "h": 403,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 236,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "danrigby",
+          "name": "Dan Rigby",
+          "id": 18566961,
+          "id_str": "18566961",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/p1QRtRcQpY",
+          "expanded_url": "http://j.mp/1RgedDK",
+          "display_url": "j.mp/1RgedDK",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 684087131841687552,
+          "id_str": "684087131841687552",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+          "url": "https://t.co/zksS8L12Oh",
+          "display_url": "pic.twitter.com/zksS8L12Oh",
+          "expanded_url": "http://twitter.com/danrigby/status/684087131971698688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 580,
+              "h": 403,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 580,
+              "h": 403,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 236,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 684087131971698688,
+          "source_status_id_str": "684087131971698688",
+          "source_user_id": 18566961,
+          "source_user_id_str": "18566961"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 684087131841687552,
+          "id_str": "684087131841687552",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CX5dnzjW8AAD9GP.jpg",
+          "url": "https://t.co/zksS8L12Oh",
+          "display_url": "pic.twitter.com/zksS8L12Oh",
+          "expanded_url": "http://twitter.com/danrigby/status/684087131971698688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 580,
+              "h": 403,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 580,
+              "h": 403,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 236,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 684087131971698688,
+          "source_status_id_str": "684087131971698688",
+          "source_user_id": 18566961,
+          "source_user_id_str": "18566961"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 08 07:52:39 +0000 2016",
+    "id": 685368503113662465,
+    "id_str": "685368503113662465",
+    "text": "Isn't a \"daily CI build\" an oxymoron? #ContinuousIntegration\nhttps://t.co/OpLuHovtpQ",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ContinuousIntegration",
+          "indices": [
+            38,
+            60
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OpLuHovtpQ",
+          "expanded_url": "http://dotnet.github.io/docfx/guideline/engineering_guidelines.html",
+          "display_url": "dotnet.github.io/docfx/guidelin…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 08 02:05:17 +0000 2016",
+    "id": 685281085287051264,
+    "id_str": "685281085287051264",
+    "text": "@Aaronontheweb @SparkCLR @ApacheSpark Yep. Initial version already up on GitHub. https://t.co/9yoqKxb6AO",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 685279949696024576,
+    "in_reply_to_status_id_str": "685279949696024576",
+    "in_reply_to_user_id": 14864055,
+    "in_reply_to_user_id_str": "14864055",
+    "in_reply_to_screen_name": "Aaronontheweb",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Aaronontheweb",
+          "name": "Aaron Stannard",
+          "id": 14864055,
+          "id_str": "14864055",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "SparkCLR",
+          "name": "SparkCLR",
+          "id": 4098446472,
+          "id_str": "4098446472",
+          "indices": [
+            15,
+            24
+          ]
+        },
+        {
+          "screen_name": "ApacheSpark",
+          "name": "Apache Spark",
+          "id": 1551361069,
+          "id_str": "1551361069",
+          "indices": [
+            25,
+            37
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9yoqKxb6AO",
+          "expanded_url": "https://github.com/Microsoft/SparkCLR",
+          "display_url": "github.com/Microsoft/Spar…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 06 19:47:55 +0000 2016",
+    "id": 684823729977753600,
+    "id_str": "684823729977753600",
+    "text": "Seems there are emojis for most things now so surprised there is not one for #BSOD to express #TechRage",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BSOD",
+          "indices": [
+            77,
+            82
+          ]
+        },
+        {
+          "text": "TechRage",
+          "indices": [
+            94,
+            103
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jan 06 07:16:38 +0000 2016",
     "id": 684634664204541952,
     "id_str": "684634664204541952",
