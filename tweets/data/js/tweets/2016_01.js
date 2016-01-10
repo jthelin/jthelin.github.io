@@ -1,5 +1,1078 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sun Jan 10 17:33:27 +0000 2016",
+    "id": 686239442063855616,
+    "id_str": "686239442063855616",
+    "text": "RT @Crashingtv: Car safety 1959 v 2009 https://t.co/v1fQqMvEHX",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jan 09 02:50:42 +0000 2016",
+      "id": 685654905130979328,
+      "id_str": "685654905130979328",
+      "text": "Car safety 1959 v 2009 https://t.co/v1fQqMvEHX",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3094874199,
+        "id_str": "3094874199",
+        "name": "Car Crash TV",
+        "screen_name": "Crashingtv",
+        "location": "",
+        "description": "The most insane crashes, near misses, dash cam, CCTV, Go pros.We don't own anything posted just a fan and will remove content at copyright holders request.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 30710,
+        "friends_count": 1120,
+        "listed_count": 234,
+        "created_at": "Wed Mar 18 16:39:07 +0000 2015",
+        "favourites_count": 540,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4901,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/578235941279662080/DseCdhho_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/578235941279662080/DseCdhho_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3094874199/1427742316",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1517,
+      "favorite_count": 989,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 685654625253486592,
+            "id_str": "685654625253486592",
+            "indices": [
+              23,
+              46
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+            "url": "https://t.co/v1fQqMvEHX",
+            "display_url": "pic.twitter.com/v1fQqMvEHX",
+            "expanded_url": "http://twitter.com/Crashingtv/status/685654905130979328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 384,
+                "h": 216,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 384,
+                "h": 216,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 685654625253486592,
+            "id_str": "685654625253486592",
+            "indices": [
+              23,
+              46
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+            "url": "https://t.co/v1fQqMvEHX",
+            "display_url": "pic.twitter.com/v1fQqMvEHX",
+            "expanded_url": "http://twitter.com/Crashingtv/status/685654905130979328/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 384,
+                "h": 216,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 384,
+                "h": 216,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CYPvP7jWcAAP6yU.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1517,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Crashingtv",
+          "name": "Car Crash TV",
+          "id": 3094874199,
+          "id_str": "3094874199",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 685654625253486592,
+          "id_str": "685654625253486592",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+          "url": "https://t.co/v1fQqMvEHX",
+          "display_url": "pic.twitter.com/v1fQqMvEHX",
+          "expanded_url": "http://twitter.com/Crashingtv/status/685654905130979328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 384,
+              "h": 216,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 384,
+              "h": 216,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 685654905130979328,
+          "source_status_id_str": "685654905130979328",
+          "source_user_id": 3094874199,
+          "source_user_id_str": "3094874199"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 685654625253486592,
+          "id_str": "685654625253486592",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CYPvP7jWcAAP6yU.png",
+          "url": "https://t.co/v1fQqMvEHX",
+          "display_url": "pic.twitter.com/v1fQqMvEHX",
+          "expanded_url": "http://twitter.com/Crashingtv/status/685654905130979328/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 384,
+              "h": 216,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 384,
+              "h": 216,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 685654905130979328,
+          "source_status_id_str": "685654905130979328",
+          "source_user_id": 3094874199,
+          "source_user_id_str": "3094874199",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/CYPvP7jWcAAP6yU.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 10 17:21:05 +0000 2016",
+    "id": 686236330058092544,
+    "id_str": "686236330058092544",
+    "text": "RT @200PercentDev: Some important thoughts on the role of an architect:\n\nhttps://t.co/E5BsJOX4Dz\n\nby @xjoeduffyx",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 10 17:03:25 +0000 2016",
+      "id": 686231882451783680,
+      "id_str": "686231882451783680",
+      "text": "Some important thoughts on the role of an architect:\n\nhttps://t.co/E5BsJOX4Dz\n\nby @xjoeduffyx",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2164260876,
+        "id_str": "2164260876",
+        "name": "Bartosz Borowik",
+        "screen_name": "200PercentDev",
+        "location": "",
+        "description": "Obsessive programmer, loves helping others, promotes best practices, solves programming problems that other struggle with, makes software easier to maintain",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 64,
+        "listed_count": 7,
+        "created_at": "Wed Oct 30 06:58:58 +0000 2013",
+        "favourites_count": 65,
+        "utc_offset": 3600,
+        "time_zone": "Warsaw",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 635,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/466674082621034496/S_31lrN0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/466674082621034496/S_31lrN0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 12,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "xjoeduffyx",
+            "name": "Joe Duffy",
+            "id": 1591568383,
+            "id_str": "1591568383",
+            "indices": [
+              82,
+              93
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/E5BsJOX4Dz",
+            "expanded_url": "http://joeduffyblog.com/2008/10/02/a-few-thoughts-on-the-role-of-software-architects/",
+            "display_url": "joeduffyblog.com/2008/10/02/a-f…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "200PercentDev",
+          "name": "Bartosz Borowik",
+          "id": 2164260876,
+          "id_str": "2164260876",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "xjoeduffyx",
+          "name": "Joe Duffy",
+          "id": 1591568383,
+          "id_str": "1591568383",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E5BsJOX4Dz",
+          "expanded_url": "http://joeduffyblog.com/2008/10/02/a-few-thoughts-on-the-role-of-software-architects/",
+          "display_url": "joeduffyblog.com/2008/10/02/a-f…",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 10 02:05:11 +0000 2016",
+    "id": 686005837916057601,
+    "id_str": "686005837916057601",
+    "text": "RT @cdixon: Virginia Tech: \"Crash rates for the self-driving cars are lower than human-driven cars.\" https://t.co/ZmY21NuANs https://t.co/6…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 10 00:58:20 +0000 2016",
+      "id": 685989012843196416,
+      "id_str": "685989012843196416",
+      "text": "Virginia Tech: \"Crash rates for the self-driving cars are lower than human-driven cars.\" https://t.co/ZmY21NuANs https://t.co/6fLhqZMQOX",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2529971,
+        "id_str": "2529971",
+        "name": "Chris Dixon",
+        "screen_name": "cdixon",
+        "location": "CA & NYC",
+        "description": "programming, philosophy, history, internet, startups, investing",
+        "url": "http://t.co/YviCcFNOiV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/YviCcFNOiV",
+                "expanded_url": "http://cdixon.org/aboutme/",
+                "display_url": "cdixon.org/aboutme/",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 208120,
+        "friends_count": 3259,
+        "listed_count": 7775,
+        "created_at": "Tue Mar 27 17:48:00 +0000 2007",
+        "favourites_count": 8231,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 8978,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543964120664403968/0IKm7siW.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/543964120664403968/0IKm7siW.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683496924104658944/8Oa5XAso_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683496924104658944/8Oa5XAso_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2529971/1451789461",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 47,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZmY21NuANs",
+            "expanded_url": "http://www.vtti.vt.edu/featured/?p=422",
+            "display_url": "vtti.vt.edu/featured/?p=422",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 685989012364988416,
+            "id_str": "685989012364988416",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+            "url": "https://t.co/6fLhqZMQOX",
+            "display_url": "pic.twitter.com/6fLhqZMQOX",
+            "expanded_url": "http://twitter.com/cdixon/status/685989012843196416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 222,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 487,
+                "h": 318,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 487,
+                "h": 318,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 685989012364988416,
+            "id_str": "685989012364988416",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+            "url": "https://t.co/6fLhqZMQOX",
+            "display_url": "pic.twitter.com/6fLhqZMQOX",
+            "expanded_url": "http://twitter.com/cdixon/status/685989012843196416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 222,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 487,
+                "h": 318,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 487,
+                "h": 318,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cdixon",
+          "name": "Chris Dixon",
+          "id": 2529971,
+          "id_str": "2529971",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZmY21NuANs",
+          "expanded_url": "http://www.vtti.vt.edu/featured/?p=422",
+          "display_url": "vtti.vt.edu/featured/?p=422",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 685989012364988416,
+          "id_str": "685989012364988416",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+          "media_url_https": "https://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+          "url": "https://t.co/6fLhqZMQOX",
+          "display_url": "pic.twitter.com/6fLhqZMQOX",
+          "expanded_url": "http://twitter.com/cdixon/status/685989012843196416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 222,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 487,
+              "h": 318,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 487,
+              "h": 318,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 685989012843196416,
+          "source_status_id_str": "685989012843196416",
+          "source_user_id": 2529971,
+          "source_user_id_str": "2529971"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 685989012364988416,
+          "id_str": "685989012364988416",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+          "media_url_https": "https://pbs.twimg.com/media/CYUfX0nWEAAcEfv.png",
+          "url": "https://t.co/6fLhqZMQOX",
+          "display_url": "pic.twitter.com/6fLhqZMQOX",
+          "expanded_url": "http://twitter.com/cdixon/status/685989012843196416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 222,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 487,
+              "h": 318,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 487,
+              "h": 318,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 685989012843196416,
+          "source_status_id_str": "685989012843196416",
+          "source_user_id": 2529971,
+          "source_user_id_str": "2529971"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jan 09 19:17:30 +0000 2016",
+    "id": 685903239586291712,
+    "id_str": "685903239586291712",
+    "text": "RT @newsycombinator: Analysis of Software Architectures https://t.co/6KVjsWZWD4",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jan 09 18:01:50 +0000 2016",
+      "id": 685884198880690176,
+      "id_str": "685884198880690176",
+      "text": "Analysis of Software Architectures https://t.co/6KVjsWZWD4",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 121006,
+        "friends_count": 2,
+        "listed_count": 6535,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 80224,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 47,
+      "favorite_count": 154,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6KVjsWZWD4",
+            "expanded_url": "http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/",
+            "display_url": "firatatagun.com/blog/2016/01/0…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6KVjsWZWD4",
+          "expanded_url": "http://www.firatatagun.com/blog/2016/01/09/analysis-of-software-architectures/",
+          "display_url": "firatatagun.com/blog/2016/01/0…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jan 09 18:15:04 +0000 2016",
+    "id": 685887527354408960,
+    "id_str": "685887527354408960",
+    "text": "Chaos Engineering is discipline of experimenting on a distributed system to eval capability to withstand failures. https://t.co/tIUXPKrJBI",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tIUXPKrJBI",
+          "expanded_url": "http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html",
+          "display_url": "techblog.netflix.com/2015/09/chaos-…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jan 09 06:24:24 +0000 2016",
     "id": 685708681464262656,
     "id_str": "685708681464262656",
