@@ -1,5 +1,626 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Tue Jan 12 18:28:59 +0000 2016",
+    "id": 686978192284856320,
+    "id_str": "686978192284856320",
+    "text": "Someone else thinks that #microservices should be called \"grains\". @SandstormIO @ProjectOrleans https://t.co/NkOnpJk3U4",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "microservices",
+          "indices": [
+            25,
+            39
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SandstormIO",
+          "name": "Sandstorm.IO",
+          "id": 2476570038,
+          "id_str": "2476570038",
+          "indices": [
+            67,
+            79
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            80,
+            95
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NkOnpJk3U4",
+          "expanded_url": "https://sandstorm.io/how-it-works#grains",
+          "display_url": "sandstorm.io/how-it-works#g…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 12 18:14:17 +0000 2016",
+    "id": 686974494322241536,
+    "id_str": "686974494322241536",
+    "text": "RT @maryjofoley: MS officially announces availability, rebranding of the R Server line, plus new free developer version of R Server: https:…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 12 18:04:14 +0000 2016",
+      "id": 686971967308742656,
+      "id_str": "686971967308742656",
+      "text": "MS officially announces availability, rebranding of the R Server line, plus new free developer version of R Server: https://t.co/V6k7VCA3H0",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 49465463,
+        "id_str": "49465463",
+        "name": "Mary Jo Foley",
+        "screen_name": "maryjofoley",
+        "location": "",
+        "description": "I am All About Microsoft on ZDNet (http://t.co/qJf6Vbi9nq). Oh, and I am also sometimes (more often than not) all about craft beer.",
+        "url": "http://t.co/qJf6Vbi9nq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/qJf6Vbi9nq",
+                "expanded_url": "http://blogs.zdnet.com/microsoft",
+                "display_url": "blogs.zdnet.com/microsoft",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/qJf6Vbi9nq",
+                "expanded_url": "http://blogs.zdnet.com/microsoft",
+                "display_url": "blogs.zdnet.com/microsoft",
+                "indices": [
+                  35,
+                  57
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 113887,
+        "friends_count": 752,
+        "listed_count": 4489,
+        "created_at": "Sun Jun 21 23:27:27 +0000 2009",
+        "favourites_count": 25,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 77555,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/23884989/twitter_background",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/23884989/twitter_background",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000753355771/896be4d4eb730289f086ad7a0a8ea651_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000753355771/896be4d4eb730289f086ad7a0a8ea651_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49465463/1398286082",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "B0ADDB",
+        "profile_sidebar_fill_color": "CCE9FF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 58,
+      "favorite_count": 47,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/V6k7VCA3H0",
+            "expanded_url": "http://www.zdnet.com/article/microsoft-delivers-free-version-of-its-r-analytics-server-for-developers/",
+            "display_url": "zdnet.com/article/micros…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "maryjofoley",
+          "name": "Mary Jo Foley",
+          "id": 49465463,
+          "id_str": "49465463",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V6k7VCA3H0",
+          "expanded_url": "http://www.zdnet.com/article/microsoft-delivers-free-version-of-its-r-analytics-server-for-developers/",
+          "display_url": "zdnet.com/article/micros…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 12 18:00:20 +0000 2016",
+    "id": 686970984734179328,
+    "id_str": "686970984734179328",
+    "text": "RT @Carnage4Life: A hilariously sarcastic parody of Twitter's product decision making process 😂😂😂 https://t.co/7DNCIdiokC",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 12 16:38:32 +0000 2016",
+      "id": 686950397869604864,
+      "id_str": "686950397869604864",
+      "text": "A hilariously sarcastic parody of Twitter's product decision making process 😂😂😂 https://t.co/7DNCIdiokC",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11336782,
+        "id_str": "11336782",
+        "name": "Dare Obasanjo",
+        "screen_name": "Carnage4Life",
+        "location": "Washington, USA",
+        "description": "My day job is leading the team behind  http://t.co/YcLuFUER8Q and http://t.co/YzvkbJjpUn . Outside that I dabble in mobile apps and blogging.",
+        "url": "http://t.co/z799cT2Qus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/z799cT2Qus",
+                "expanded_url": "http://www.25hoursaday.com/weblog",
+                "display_url": "25hoursaday.com/weblog",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/YcLuFUER8Q",
+                "expanded_url": "http://bingads.com",
+                "display_url": "bingads.com",
+                "indices": [
+                  39,
+                  61
+                ]
+              },
+              {
+                "url": "http://t.co/YzvkbJjpUn",
+                "expanded_url": "http://developer.bingads.com",
+                "display_url": "developer.bingads.com",
+                "indices": [
+                  66,
+                  88
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10854,
+        "friends_count": 400,
+        "listed_count": 856,
+        "created_at": "Wed Dec 19 14:55:55 +0000 2007",
+        "favourites_count": 1063,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11315,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662749844/kecaoke2zi6pdgq7d7eu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662749844/kecaoke2zi6pdgq7d7eu.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1543890640/profile_picture_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1543890640/profile_picture_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11336782/1437741538",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7DNCIdiokC",
+            "expanded_url": "http://www.mcsweeneys.net/articles/twitters-brainstorming-notes-for-potential-new-features#.VpUoUVaC5fA.twitter",
+            "display_url": "mcsweeneys.net/articles/twitt…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Carnage4Life",
+          "name": "Dare Obasanjo",
+          "id": 11336782,
+          "id_str": "11336782",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7DNCIdiokC",
+          "expanded_url": "http://www.mcsweeneys.net/articles/twitters-brainstorming-notes-for-potential-new-features#.VpUoUVaC5fA.twitter",
+          "display_url": "mcsweeneys.net/articles/twitt…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 10 22:28:46 +0000 2016",
+    "id": 686313761519472640,
+    "id_str": "686313761519472640",
+    "text": "RT @TeslaMotors: Introducing Summon https://t.co/8oe8fAlyPY",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 10 22:20:32 +0000 2016",
+      "id": 686311690967724032,
+      "id_str": "686311690967724032",
+      "text": "Introducing Summon https://t.co/8oe8fAlyPY",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13298072,
+        "id_str": "13298072",
+        "name": "Tesla Motors",
+        "screen_name": "TeslaMotors",
+        "location": "",
+        "description": "Always on insane-mode. Maker of electric cars and renewable energy storage. Join the rEVolution!",
+        "url": "http://t.co/tK92gKZKbB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/tK92gKZKbB",
+                "expanded_url": "http://www.teslamotors.com",
+                "display_url": "teslamotors.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 865047,
+        "friends_count": 305,
+        "listed_count": 7197,
+        "created_at": "Sun Feb 10 01:12:32 +0000 2008",
+        "favourites_count": 1087,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 5948,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/812177545/c69f76a0142059d01f86203029dbaf6e.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/812177545/c69f76a0142059d01f86203029dbaf6e.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13298072/1443588857",
+        "profile_link_color": "C90000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5EDF5",
+        "profile_text_color": "555555",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1037,
+      "favorite_count": 1575,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8oe8fAlyPY",
+            "expanded_url": "http://ts.la/xN",
+            "display_url": "ts.la/xN",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1037,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TeslaMotors",
+          "name": "Tesla Motors",
+          "id": 13298072,
+          "id_str": "13298072",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8oe8fAlyPY",
+          "expanded_url": "http://ts.la/xN",
+          "display_url": "ts.la/xN",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jan 10 17:33:27 +0000 2016",
     "id": 686239442063855616,
     "id_str": "686239442063855616",
