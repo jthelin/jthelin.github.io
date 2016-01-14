@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Wed Jan 13 19:00:10 +0000 2016",
+    "id": 687348427684851712,
+    "id_str": "687348427684851712",
+    "text": "JetBrains Rider - a cross platform C# IDE built on IntelliJ platform &amp; ReSharper technology https://t.co/TjrEjEDQLP",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TjrEjEDQLP",
+          "expanded_url": "http://blog.jetbrains.com/dotnet/2016/01/13/project-rider-a-csharp-ide/",
+          "display_url": "blog.jetbrains.com/dotnet/2016/01…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 13 17:15:06 +0000 2016",
+    "id": 687321989787156480,
+    "id_str": "687321989787156480",
+    "text": "Today's Powerball draw is a case study for mathematicians on utility value of risk, rational choice theory and FOMO. https://t.co/JVD1DC53GR",
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JVD1DC53GR",
+          "expanded_url": "https://en.wikipedia.org/wiki/Rational_choice_theory",
+          "display_url": "en.wikipedia.org/wiki/Rational_…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Jan 12 18:28:59 +0000 2016",
     "id": 686978192284856320,
     "id_str": "686978192284856320",
