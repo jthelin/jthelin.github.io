@@ -1,5 +1,340 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 14 15:14:15 +0000 2016",
+    "id": 687653965173899264,
+    "id_str": "687653965173899264",
+    "text": "RT @NYTObits: Alan Rickman on the power of storytelling. Our coverage including reactions on Twitter https://t.co/gBIIUDowBe https://t.co/h…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 14 14:36:45 +0000 2016",
+      "id": 687644527524446208,
+      "id_str": "687644527524446208",
+      "text": "Alan Rickman on the power of storytelling. Our coverage including reactions on Twitter https://t.co/gBIIUDowBe https://t.co/hRzZktdTfw",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16929470,
+        "id_str": "16929470",
+        "name": "NYT Obituaries",
+        "screen_name": "NYTObits",
+        "location": "New York, NY",
+        "description": "New York Times Obituaries and related content. Email potential candidates to obits at nytimes dot com. Curated by @shreeyasinha and @dslotnik.",
+        "url": "http://t.co/CURXslIQQl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/CURXslIQQl",
+                "expanded_url": "http://nytimes.com/obituaries",
+                "display_url": "nytimes.com/obituaries",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12242,
+        "friends_count": 138,
+        "listed_count": 555,
+        "created_at": "Thu Oct 23 16:13:13 +0000 2008",
+        "favourites_count": 66,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11945,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4406230/twitter_post.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4406230/twitter_post.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2525478372/yi4rtojipu2ye9erfod4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2525478372/yi4rtojipu2ye9erfod4_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1445,
+      "favorite_count": 1616,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gBIIUDowBe",
+            "expanded_url": "http://nyti.ms/1mYaeQW",
+            "display_url": "nyti.ms/1mYaeQW",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 687644527025360896,
+            "id_str": "687644527025360896",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+            "url": "https://t.co/hRzZktdTfw",
+            "display_url": "pic.twitter.com/hRzZktdTfw",
+            "expanded_url": "http://twitter.com/NYTObits/status/687644527524446208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 336,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 999,
+                "h": 560,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 190,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 687644527025360896,
+            "id_str": "687644527025360896",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+            "url": "https://t.co/hRzZktdTfw",
+            "display_url": "pic.twitter.com/hRzZktdTfw",
+            "expanded_url": "http://twitter.com/NYTObits/status/687644527524446208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 336,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 999,
+                "h": 560,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 190,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1445,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NYTObits",
+          "name": "NYT Obituaries",
+          "id": 16929470,
+          "id_str": "16929470",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gBIIUDowBe",
+          "expanded_url": "http://nyti.ms/1mYaeQW",
+          "display_url": "nyti.ms/1mYaeQW",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 687644527025360896,
+          "id_str": "687644527025360896",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+          "media_url_https": "https://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+          "url": "https://t.co/hRzZktdTfw",
+          "display_url": "pic.twitter.com/hRzZktdTfw",
+          "expanded_url": "http://twitter.com/NYTObits/status/687644527524446208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 336,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 999,
+              "h": 560,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 190,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 687644527524446208,
+          "source_status_id_str": "687644527524446208",
+          "source_user_id": 16929470,
+          "source_user_id_str": "16929470"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 687644527025360896,
+          "id_str": "687644527025360896",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+          "media_url_https": "https://pbs.twimg.com/media/CYsBDdUWkAAeQYL.png",
+          "url": "https://t.co/hRzZktdTfw",
+          "display_url": "pic.twitter.com/hRzZktdTfw",
+          "expanded_url": "http://twitter.com/NYTObits/status/687644527524446208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 336,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 999,
+              "h": 560,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 190,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 687644527524446208,
+          "source_status_id_str": "687644527524446208",
+          "source_user_id": 16929470,
+          "source_user_id_str": "16929470"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jan 13 19:00:10 +0000 2016",
     "id": 687348427684851712,
     "id_str": "687348427684851712",
