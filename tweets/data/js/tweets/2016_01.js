@@ -1,5 +1,1114 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sat Jan 16 01:26:15 +0000 2016",
+    "id": 688170367014146048,
+    "id_str": "688170367014146048",
+    "text": "RT @VisualStudio: Get a sweet sneak peak of the R Tools for Visual Studio, https://t.co/zEmR576X4b - 3mins 45secs of goodness. #RTVS https:…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 15 21:59:02 +0000 2016",
+      "id": 688118217798098945,
+      "id_str": "688118217798098945",
+      "text": "Get a sweet sneak peak of the R Tools for Visual Studio, https://t.co/zEmR576X4b - 3mins 45secs of goodness. #RTVS https://t.co/bc4isTOCzw",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16913772,
+        "id_str": "16913772",
+        "name": "Visual Studio",
+        "screen_name": "VisualStudio",
+        "location": "Redmond, WA, USA",
+        "description": "Follow us for the latest Microsoft Visual Studio news and related information for developers.",
+        "url": "http://t.co/OqnL9IGcUY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/OqnL9IGcUY",
+                "expanded_url": "http://www.visualstudio.com",
+                "display_url": "visualstudio.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 335146,
+        "friends_count": 893,
+        "listed_count": 4126,
+        "created_at": "Wed Oct 22 22:01:24 +0000 2008",
+        "favourites_count": 338,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 15625,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "68217A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117002036/51fcdb17ec1e080aa852086bcfbdd1a1.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117002036/51fcdb17ec1e080aa852086bcfbdd1a1.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505104774153256960/SR2hUhQN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/505104774153256960/SR2hUhQN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16913772/1446224981",
+        "profile_link_color": "68217A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "1F222B",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "favorite_count": 35,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RTVS",
+            "indices": [
+              109,
+              114
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zEmR576X4b",
+            "expanded_url": "http://spr.ly/6015BXpzS",
+            "display_url": "spr.ly/6015BXpzS",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 688118217491927041,
+            "id_str": "688118217491927041",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+            "url": "https://t.co/bc4isTOCzw",
+            "display_url": "pic.twitter.com/bc4isTOCzw",
+            "expanded_url": "http://twitter.com/VisualStudio/status/688118217798098945/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 601,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 199,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 352,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 688118217491927041,
+            "id_str": "688118217491927041",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+            "url": "https://t.co/bc4isTOCzw",
+            "display_url": "pic.twitter.com/bc4isTOCzw",
+            "expanded_url": "http://twitter.com/VisualStudio/status/688118217798098945/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 601,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 199,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 352,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RTVS",
+          "indices": [
+            127,
+            132
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VisualStudio",
+          "name": "Visual Studio",
+          "id": 16913772,
+          "id_str": "16913772",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zEmR576X4b",
+          "expanded_url": "http://spr.ly/6015BXpzS",
+          "display_url": "spr.ly/6015BXpzS",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 688118217491927041,
+          "id_str": "688118217491927041",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+          "media_url_https": "https://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+          "url": "https://t.co/bc4isTOCzw",
+          "display_url": "pic.twitter.com/bc4isTOCzw",
+          "expanded_url": "http://twitter.com/VisualStudio/status/688118217798098945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 601,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 199,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 688118217798098945,
+          "source_status_id_str": "688118217798098945",
+          "source_user_id": 16913772,
+          "source_user_id_str": "16913772"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 688118217491927041,
+          "id_str": "688118217491927041",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+          "media_url_https": "https://pbs.twimg.com/media/CYyv330U0AEVTuZ.png",
+          "url": "https://t.co/bc4isTOCzw",
+          "display_url": "pic.twitter.com/bc4isTOCzw",
+          "expanded_url": "http://twitter.com/VisualStudio/status/688118217798098945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 601,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 199,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 688118217798098945,
+          "source_status_id_str": "688118217798098945",
+          "source_user_id": 16913772,
+          "source_user_id_str": "16913772"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 15 17:31:56 +0000 2016",
+    "id": 688051000544866304,
+    "id_str": "688051000544866304",
+    "text": "RT @cultofmac: Watch app developer won’t sleep until vets with PTSD can https://t.co/TZ39gevHVs https://t.co/BpW7OtXGx0",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 15 16:12:16 +0000 2016",
+      "id": 688030953063735296,
+      "id_str": "688030953063735296",
+      "text": "Watch app developer won’t sleep until vets with PTSD can https://t.co/TZ39gevHVs https://t.co/BpW7OtXGx0",
+      "source": "<a href=\"http://www.cultofmac.com\" rel=\"nofollow\">Cult of Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9688342,
+        "id_str": "9688342",
+        "name": "Cult of Mac",
+        "screen_name": "cultofmac",
+        "location": "San Francisco and elsewhere",
+        "description": "Cult of Mac is a news site that follows everything Apple.",
+        "url": "http://t.co/0KG2dxsF8D",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/0KG2dxsF8D",
+                "expanded_url": "http://www.cultofmac.com",
+                "display_url": "cultofmac.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 759259,
+        "friends_count": 312,
+        "listed_count": 11685,
+        "created_at": "Thu Oct 25 16:58:19 +0000 2007",
+        "favourites_count": 250,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 52588,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "45274F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626828997318410240/dQMebq1K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626828997318410240/dQMebq1K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9688342/1438282672",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "8A8A8A",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TZ39gevHVs",
+            "expanded_url": "http://cultm.ac/1PvYfkM",
+            "display_url": "cultm.ac/1PvYfkM",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 688030952203894786,
+            "id_str": "688030952203894786",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+            "url": "https://t.co/BpW7OtXGx0",
+            "display_url": "pic.twitter.com/BpW7OtXGx0",
+            "expanded_url": "http://twitter.com/cultofmac/status/688030953063735296/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 780,
+                "h": 439,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 688030952203894786,
+            "id_str": "688030952203894786",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+            "url": "https://t.co/BpW7OtXGx0",
+            "display_url": "pic.twitter.com/BpW7OtXGx0",
+            "expanded_url": "http://twitter.com/cultofmac/status/688030953063735296/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 780,
+                "h": 439,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cultofmac",
+          "name": "Cult of Mac",
+          "id": 9688342,
+          "id_str": "9688342",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TZ39gevHVs",
+          "expanded_url": "http://cultm.ac/1PvYfkM",
+          "display_url": "cultm.ac/1PvYfkM",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 688030952203894786,
+          "id_str": "688030952203894786",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+          "url": "https://t.co/BpW7OtXGx0",
+          "display_url": "pic.twitter.com/BpW7OtXGx0",
+          "expanded_url": "http://twitter.com/cultofmac/status/688030953063735296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 780,
+              "h": 439,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 688030953063735296,
+          "source_status_id_str": "688030953063735296",
+          "source_user_id": 9688342,
+          "source_user_id_str": "9688342"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 688030952203894786,
+          "id_str": "688030952203894786",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CYxggXSWQAIjfYi.jpg",
+          "url": "https://t.co/BpW7OtXGx0",
+          "display_url": "pic.twitter.com/BpW7OtXGx0",
+          "expanded_url": "http://twitter.com/cultofmac/status/688030953063735296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 780,
+              "h": 439,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 688030953063735296,
+          "source_status_id_str": "688030953063735296",
+          "source_user_id": 9688342,
+          "source_user_id_str": "9688342"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 15 14:39:40 +0000 2016",
+    "id": 688007649946923008,
+    "id_str": "688007649946923008",
+    "text": "You can clearly see the tradeoff choice Bond made - very fast deserialization, at the cost of slower serialization. https://t.co/mro9v9t2HD",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 687977594965389312,
+    "quoted_status_id_str": "687977594965389312",
+    "quoted_status": {
+      "created_at": "Fri Jan 15 12:40:15 +0000 2016",
+      "id": 687977594965389312,
+      "id_str": "687977594965389312",
+      "text": "Microsoft Bond and Chiron benchmarked against other binary and JSON serializers https://t.co/dP2IY6tKFv https://t.co/rAdby603ML",
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 245821992,
+        "id_str": "245821992",
+        "name": "Yan Cui",
+        "screen_name": "theburningmonk",
+        "location": "London",
+        "description": "Principal Engineer @ JUST EAT. I like C#, F#, Erlang, Go, Dart, Elm, PostSharp and occasionally dabs with Clojure, Scala and Haskell.",
+        "url": "http://t.co/dZj0sULCLO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/dZj0sULCLO",
+                "expanded_url": "http://theburningmonk.com",
+                "display_url": "theburningmonk.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1830,
+        "friends_count": 978,
+        "listed_count": 103,
+        "created_at": "Tue Feb 01 15:04:02 +0000 2011",
+        "favourites_count": 399,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2264,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1598632164/mugshot-2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598632164/mugshot-2_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245821992/1422311791",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dP2IY6tKFv",
+            "expanded_url": "http://buff.ly/1JNwUhg",
+            "display_url": "buff.ly/1JNwUhg",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 687977594428506112,
+            "id_str": "687977594428506112",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYwv-iFWwAAhabc.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYwv-iFWwAAhabc.png",
+            "url": "https://t.co/rAdby603ML",
+            "display_url": "pic.twitter.com/rAdby603ML",
+            "expanded_url": "http://twitter.com/theburningmonk/status/687977594965389312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 424,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 240,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 495,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 687977594428506112,
+            "id_str": "687977594428506112",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYwv-iFWwAAhabc.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYwv-iFWwAAhabc.png",
+            "url": "https://t.co/rAdby603ML",
+            "display_url": "pic.twitter.com/rAdby603ML",
+            "expanded_url": "http://twitter.com/theburningmonk/status/687977594965389312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 424,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 240,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 495,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 687977594478792706,
+            "id_str": "687977594478792706",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYwv-iRWEAI28AQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYwv-iRWEAI28AQ.png",
+            "url": "https://t.co/rAdby603ML",
+            "display_url": "pic.twitter.com/rAdby603ML",
+            "expanded_url": "http://twitter.com/theburningmonk/status/687977594965389312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 319,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 135,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 239,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 687977594197770240,
+            "id_str": "687977594197770240",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYwv-hOWAAAfD5w.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYwv-hOWAAAfD5w.png",
+            "url": "https://t.co/rAdby603ML",
+            "display_url": "pic.twitter.com/rAdby603ML",
+            "expanded_url": "http://twitter.com/theburningmonk/status/687977594965389312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 234,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 413,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 482,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 687977594193588224,
+            "id_str": "687977594193588224",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYwv-hNWMAALDH3.png",
+            "media_url_https": "https://pbs.twimg.com/media/CYwv-hNWMAALDH3.png",
+            "url": "https://t.co/rAdby603ML",
+            "display_url": "pic.twitter.com/rAdby603ML",
+            "expanded_url": "http://twitter.com/theburningmonk/status/687977594965389312/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 265,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 150,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 354,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mro9v9t2HD",
+          "expanded_url": "https://twitter.com/theburningmonk/status/687977594965389312",
+          "display_url": "twitter.com/theburningmonk…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 15 14:21:52 +0000 2016",
+    "id": 688003166554607616,
+    "id_str": "688003166554607616",
+    "text": "The @SparkCLR Team have published the first release of C# language support for @ApacheSpark v1.5.2 https://t.co/fHWfDOtUPz",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SparkCLR",
+          "name": "SparkCLR",
+          "id": 4098446472,
+          "id_str": "4098446472",
+          "indices": [
+            4,
+            13
+          ]
+        },
+        {
+          "screen_name": "ApacheSpark",
+          "name": "Apache Spark",
+          "id": 1551361069,
+          "id_str": "1551361069",
+          "indices": [
+            79,
+            91
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fHWfDOtUPz",
+          "expanded_url": "https://github.com/Microsoft/SparkCLR/releases/tag/v1.5.200",
+          "display_url": "github.com/Microsoft/Spar…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Jan 14 15:14:15 +0000 2016",
     "id": 687653965173899264,
     "id_str": "687653965173899264",
