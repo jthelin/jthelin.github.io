@@ -1,5 +1,79 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sun Jan 17 02:02:07 +0000 2016",
+    "id": 688541781332328449,
+    "id_str": "688541781332328449",
+    "text": "Will @SwiftLang become the next king of server-side development? https://t.co/3pN76AXuJ5 via @DZone",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SwiftLang",
+          "name": "Swift Language",
+          "id": 2526229286,
+          "id_str": "2526229286",
+          "indices": [
+            5,
+            15
+          ]
+        },
+        {
+          "screen_name": "DZone",
+          "name": "DZone",
+          "id": 14782935,
+          "id_str": "14782935",
+          "indices": [
+            93,
+            99
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3pN76AXuJ5",
+          "expanded_url": "https://dzone.com/articles/will-swift-be-the-next-king-of-server-side-develop",
+          "display_url": "dzone.com/articles/will-…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jan 16 01:26:15 +0000 2016",
     "id": 688170367014146048,
     "id_str": "688170367014146048",
