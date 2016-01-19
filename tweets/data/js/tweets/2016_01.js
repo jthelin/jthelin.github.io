@@ -1,5 +1,159 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Mon Jan 18 21:09:50 +0000 2016",
+    "id": 689193000589656064,
+    "id_str": "689193000589656064",
+    "text": "RT @JohnDCook: \"Learning something new is frustrating. It involves being dumb on the way to being smart.\" -- Seth Godin",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 18 20:20:50 +0000 2016",
+      "id": 689180667179995136,
+      "id_str": "689180667179995136",
+      "text": "\"Learning something new is frustrating. It involves being dumb on the way to being smart.\" -- Seth Godin",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17522755,
+        "id_str": "17522755",
+        "name": "John D. Cook",
+        "screen_name": "JohnDCook",
+        "location": "Houston",
+        "description": "Mathematician, consultant, entrepreneur",
+        "url": "http://t.co/BByMiJfb7o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/BByMiJfb7o",
+                "expanded_url": "http://www.JohnDCook.com/",
+                "display_url": "JohnDCook.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20673,
+        "friends_count": 342,
+        "listed_count": 1215,
+        "created_at": "Thu Nov 20 21:23:04 +0000 2008",
+        "favourites_count": 8179,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16460,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EEEEEE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/227266280/wood.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/227266280/wood.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531849644137926656/ps9SeXG9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531849644137926656/ps9SeXG9_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17522755/1415420100",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 63,
+      "favorite_count": 49,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 63,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JohnDCook",
+          "name": "John D. Cook",
+          "id": 17522755,
+          "id_str": "17522755",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jan 17 02:02:07 +0000 2016",
     "id": 688541781332328449,
     "id_str": "688541781332328449",
