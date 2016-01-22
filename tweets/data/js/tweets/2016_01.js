@@ -1,5 +1,577 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Fri Jan 22 05:55:22 +0000 2016",
+    "id": 690412419370319872,
+    "id_str": "690412419370319872",
+    "text": "Stack Overflow question about @AzureDataLake Store data import: Which URI type(s) for AdlCopy destination parameter? https://t.co/yx3uJtODfJ",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "azuredatalake",
+          "name": "Azure Data Lake",
+          "id": 3168199850,
+          "id_str": "3168199850",
+          "indices": [
+            30,
+            44
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yx3uJtODfJ",
+          "expanded_url": "http://stackoverflow.com/q/34939679/282326?stw=2",
+          "display_url": "stackoverflow.com/q/34939679/282…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 20 05:56:46 +0000 2016",
+    "id": 689687994589024256,
+    "id_str": "689687994589024256",
+    "text": "RT @projectorleans: v1.1.2 is out with a set of bug fixes, primarily for corner cases of code generation and serialization - https://t.co/s…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 20 05:48:01 +0000 2016",
+      "id": 689685795221831680,
+      "id_str": "689685795221831680",
+      "text": "v1.1.2 is out with a set of bug fixes, primarily for corner cases of code generation and serialization - https://t.co/s0e6S2eGsT",
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "projectorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 231,
+        "friends_count": 0,
+        "listed_count": 6,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 53,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621199054618259456/Ymidx0v0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621199054618259456/Ymidx0v0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1437068035",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 9,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/s0e6S2eGsT",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v1.1.2",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s0e6S2eGsT",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v1.1.2",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            125,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 19 06:37:42 +0000 2016",
+    "id": 689335908487700480,
+    "id_str": "689335908487700480",
+    "text": "RT @TechCrunch: Why big companies keep failing: The stack fallacy https://t.co/aUcOr8XGeb https://t.co/wUhLkd2UOS",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 19 04:30:05 +0000 2016",
+      "id": 689303793352224769,
+      "id_str": "689303793352224769",
+      "text": "Why big companies keep failing: The stack fallacy https://t.co/aUcOr8XGeb https://t.co/wUhLkd2UOS",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 816653,
+        "id_str": "816653",
+        "name": "TechCrunch",
+        "screen_name": "TechCrunch",
+        "location": "San Francisco, CA",
+        "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.",
+        "url": "http://t.co/b5Oyx12qGG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/b5Oyx12qGG",
+                "expanded_url": "http://techcrunch.com",
+                "display_url": "techcrunch.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6128852,
+        "friends_count": 782,
+        "listed_count": 102936,
+        "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+        "favourites_count": 982,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 117833,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "149500",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1431096993",
+        "profile_link_color": "097000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "222222",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 194,
+      "favorite_count": 226,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/aUcOr8XGeb",
+            "expanded_url": "http://tcrn.ch/1PmCFig",
+            "display_url": "tcrn.ch/1PmCFig",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 689303792823742464,
+            "id_str": "689303792823742464",
+            "indices": [
+              74,
+              97
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+            "media_url_https": "https://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+            "url": "https://t.co/wUhLkd2UOS",
+            "display_url": "pic.twitter.com/wUhLkd2UOS",
+            "expanded_url": "http://twitter.com/TechCrunch/status/689303793352224769/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 625,
+                "h": 257,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 139,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 246,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 689303792823742464,
+            "id_str": "689303792823742464",
+            "indices": [
+              74,
+              97
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+            "media_url_https": "https://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+            "url": "https://t.co/wUhLkd2UOS",
+            "display_url": "pic.twitter.com/wUhLkd2UOS",
+            "expanded_url": "http://twitter.com/TechCrunch/status/689303793352224769/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 625,
+                "h": 257,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 139,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 246,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 194,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TechCrunch",
+          "name": "TechCrunch",
+          "id": 816653,
+          "id_str": "816653",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aUcOr8XGeb",
+          "expanded_url": "http://tcrn.ch/1PmCFig",
+          "display_url": "tcrn.ch/1PmCFig",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 689303792823742464,
+          "id_str": "689303792823742464",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+          "url": "https://t.co/wUhLkd2UOS",
+          "display_url": "pic.twitter.com/wUhLkd2UOS",
+          "expanded_url": "http://twitter.com/TechCrunch/status/689303793352224769/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 625,
+              "h": 257,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 139,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 246,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 689303793352224769,
+          "source_status_id_str": "689303793352224769",
+          "source_user_id": 816653,
+          "source_user_id_str": "816653"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 689303792823742464,
+          "id_str": "689303792823742464",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZDmJcGWsAALZN_.png",
+          "url": "https://t.co/wUhLkd2UOS",
+          "display_url": "pic.twitter.com/wUhLkd2UOS",
+          "expanded_url": "http://twitter.com/TechCrunch/status/689303793352224769/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 625,
+              "h": 257,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 139,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 246,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 689303793352224769,
+          "source_status_id_str": "689303793352224769",
+          "source_user_id": 816653,
+          "source_user_id_str": "816653"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Jan 18 21:09:50 +0000 2016",
     "id": 689193000589656064,
     "id_str": "689193000589656064",
