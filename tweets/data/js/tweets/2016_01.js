@@ -1,5 +1,956 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sat Jan 23 05:32:47 +0000 2016",
+    "id": 690769121118523392,
+    "id_str": "690769121118523392",
+    "text": "RT @oss_csharp: orleans.activities - Workflow Foundation (.Net 4.x System.Activities workflows) ov... https://t.co/loVGMe13Sx",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 22 19:48:40 +0000 2016",
+      "id": 690622125632282625,
+      "id_str": "690622125632282625",
+      "text": "orleans.activities - Workflow Foundation (.Net 4.x System.Activities workflows) ov... https://t.co/loVGMe13Sx",
+      "source": "<a href=\"https://github.com/benbjohnson/scuttlebutt\" rel=\"nofollow\">Scuttlebuttd</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 261331094,
+        "id_str": "261331094",
+        "name": "C# OSS",
+        "screen_name": "oss_csharp",
+        "location": "",
+        "description": "A news feed of open source C# repos being talked about on Twitter. Maintained by @benbjohnson.",
+        "url": "https://t.co/oaZOTzG7r3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oaZOTzG7r3",
+                "expanded_url": "https://github.com/benbjohnson/scuttlebutt",
+                "display_url": "github.com/benbjohnson/sc…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2209,
+        "friends_count": 0,
+        "listed_count": 98,
+        "created_at": "Sat Mar 05 18:51:35 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": -25200,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1858,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/456556893347905536/hhFmhmdy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/456556893347905536/hhFmhmdy_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/loVGMe13Sx",
+            "expanded_url": "https://github.com/orleanscontrib/orleans.activities",
+            "display_url": "github.com/orleanscontrib…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "oss_csharp",
+          "name": "C# OSS",
+          "id": 261331094,
+          "id_str": "261331094",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/loVGMe13Sx",
+          "expanded_url": "https://github.com/orleanscontrib/orleans.activities",
+          "display_url": "github.com/orleanscontrib…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jan 23 05:24:33 +0000 2016",
+    "id": 690767049799237632,
+    "id_str": "690767049799237632",
+    "text": "RT @gkliot: MS Bond wins serialization becnchmark\nhttps://t.co/ctjDMlSXPS",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 22 19:14:21 +0000 2016",
+      "id": 690613491351224320,
+      "id_str": "690613491351224320",
+      "text": "MS Bond wins serialization becnchmark\nhttps://t.co/ctjDMlSXPS",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 738071048,
+        "id_str": "738071048",
+        "name": "Gabriel Kliot",
+        "screen_name": "gkliot",
+        "location": "Redmond WA",
+        "description": "Distributed systems developer. Long distance runner.",
+        "url": "https://t.co/U10yemIhmM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/U10yemIhmM",
+                "expanded_url": "http://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 127,
+        "friends_count": 176,
+        "listed_count": 5,
+        "created_at": "Sun Aug 05 05:46:28 +0000 2012",
+        "favourites_count": 407,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 478,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453012716119015424/jpO_-bzQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453012716119015424/jpO_-bzQ_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/738071048/1452669894",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 11,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ctjDMlSXPS",
+            "expanded_url": "http://theburningmonk.com/2016/01/ms-bond-benchmark-updated/",
+            "display_url": "theburningmonk.com/2016/01/ms-bon…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gkliot",
+          "name": "Gabriel Kliot",
+          "id": 738071048,
+          "id_str": "738071048",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ctjDMlSXPS",
+          "expanded_url": "http://theburningmonk.com/2016/01/ms-bond-benchmark-updated/",
+          "display_url": "theburningmonk.com/2016/01/ms-bon…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 22 23:21:15 +0000 2016",
+    "id": 690675623090520064,
+    "id_str": "690675623090520064",
+    "text": "Experts turn to #TWTR for storm news: Researchers say social media now far more accurate than traditional forecasts https://t.co/cQid69WGI9",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TWTR",
+          "indices": [
+            16,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cQid69WGI9",
+          "expanded_url": "https://apple.news/AJuVbYnOOSumhw00zAIDB4g",
+          "display_url": "apple.news/AJuVbYnOOSumhw…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 22 20:55:26 +0000 2016",
+    "id": 690638927544221696,
+    "id_str": "690638927544221696",
+    "text": "RT @terrajobst: Here is a handy translation guide for the occasional LinkedIn job offer. HTH :-) https://t.co/4HYOINkX5x",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 20 18:04:47 +0000 2016",
+      "id": 689871207496192001,
+      "id_str": "689871207496192001",
+      "text": "Here is a handy translation guide for the occasional LinkedIn job offer. HTH :-) https://t.co/4HYOINkX5x",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 512620228,
+        "id_str": "512620228",
+        "name": "Immo Landwerth",
+        "screen_name": "terrajobst",
+        "location": "Redmond, WA",
+        "description": "Program manager on the .NET team at Microsoft. Opinions are my own.",
+        "url": "https://t.co/pfw9pKc4sL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pfw9pKc4sL",
+                "expanded_url": "http://immo.landwerth.net",
+                "display_url": "immo.landwerth.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2459,
+        "friends_count": 224,
+        "listed_count": 87,
+        "created_at": "Sat Mar 03 00:48:21 +0000 2012",
+        "favourites_count": 2140,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4933,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615528062449364992/Z_r77yeG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615528062449364992/Z_r77yeG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512620228/1379201221",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 53,
+      "favorite_count": 46,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 689871207026454528,
+            "id_str": "689871207026454528",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+            "url": "https://t.co/4HYOINkX5x",
+            "display_url": "pic.twitter.com/4HYOINkX5x",
+            "expanded_url": "http://twitter.com/terrajobst/status/689871207496192001/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 406,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 802,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 718,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 689871207026454528,
+            "id_str": "689871207026454528",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+            "url": "https://t.co/4HYOINkX5x",
+            "display_url": "pic.twitter.com/4HYOINkX5x",
+            "expanded_url": "http://twitter.com/terrajobst/status/689871207496192001/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 406,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 802,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 718,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 53,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "terrajobst",
+          "name": "Immo Landwerth",
+          "id": 512620228,
+          "id_str": "512620228",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 689871207026454528,
+          "id_str": "689871207026454528",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+          "url": "https://t.co/4HYOINkX5x",
+          "display_url": "pic.twitter.com/4HYOINkX5x",
+          "expanded_url": "http://twitter.com/terrajobst/status/689871207496192001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 802,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 718,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 689871207496192001,
+          "source_status_id_str": "689871207496192001",
+          "source_user_id": 512620228,
+          "source_user_id_str": "512620228"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 689871207026454528,
+          "id_str": "689871207026454528",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZLqNSuU8AAbcFo.jpg",
+          "url": "https://t.co/4HYOINkX5x",
+          "display_url": "pic.twitter.com/4HYOINkX5x",
+          "expanded_url": "http://twitter.com/terrajobst/status/689871207496192001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 802,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 718,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 689871207496192001,
+          "source_status_id_str": "689871207496192001",
+          "source_user_id": 512620228,
+          "source_user_id_str": "512620228"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 22 20:51:06 +0000 2016",
+    "id": 690637838283452417,
+    "id_str": "690637838283452417",
+    "text": "Good developer technical interview advice from Microsoft recruiters, but applies to almost any big tech company too. https://t.co/lZXYljxpee",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lZXYljxpee",
+          "expanded_url": "http://blogs.microsoft.com/jobs/how-to-ace-a-technical-interview-at-microsoft/",
+          "display_url": "blogs.microsoft.com/jobs/how-to-ac…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 22 15:28:27 +0000 2016",
+    "id": 690556638663688192,
+    "id_str": "690556638663688192",
+    "text": "RT @richorama: Workflow Foundation on Orleans. Cool stuff: https://t.co/q74VuwYqyb",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 22 09:00:39 +0000 2016",
+      "id": 690459044880973824,
+      "id_str": "690459044880973824",
+      "text": "Workflow Foundation on Orleans. Cool stuff: https://t.co/q74VuwYqyb",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21290781,
+        "id_str": "21290781",
+        "name": "Richard Astbury",
+        "screen_name": "richorama",
+        "location": "Woodbridge, Suffolk, UK",
+        "description": "Cloud computing guy who loves node, c# & python. Pluralsight author. Microsoft MVP for #Azure. Works at @two10degrees",
+        "url": "https://t.co/gyXs0gtOPy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gyXs0gtOPy",
+                "expanded_url": "https://richorama.github.io",
+                "display_url": "richorama.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 892,
+        "friends_count": 516,
+        "listed_count": 59,
+        "created_at": "Thu Feb 19 11:27:11 +0000 2009",
+        "favourites_count": 459,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5707,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601675027/6d7xvz3z53te1k1b8cs3.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601675027/6d7xvz3z53te1k1b8cs3.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1524716110/AWSb_w_18_thumb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524716110/AWSb_w_18_thumb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21290781/1418919896",
+        "profile_link_color": "00AAD3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/q74VuwYqyb",
+            "expanded_url": "https://github.com/OrleansContrib/Orleans.Activities",
+            "display_url": "github.com/OrleansContrib…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "richorama",
+          "name": "Richard Astbury",
+          "id": 21290781,
+          "id_str": "21290781",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q74VuwYqyb",
+          "expanded_url": "https://github.com/OrleansContrib/Orleans.Activities",
+          "display_url": "github.com/OrleansContrib…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Jan 22 05:55:22 +0000 2016",
     "id": 690412419370319872,
     "id_str": "690412419370319872",
