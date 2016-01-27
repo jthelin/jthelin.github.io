@@ -1,5 +1,1741 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Tue Jan 26 00:53:12 +0000 2016",
+    "id": 691785927333646337,
+    "id_str": "691785927333646337",
+    "text": "RT @NASA: This month you can catch a rare sight in pre-dawn sky. Here are 5 things to know this week: https://t.co/nrS3JqOmeA https://t.co/…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 25 22:25:28 +0000 2016",
+      "id": 691748751057223680,
+      "id_str": "691748751057223680",
+      "text": "This month you can catch a rare sight in pre-dawn sky. Here are 5 things to know this week: https://t.co/nrS3JqOmeA https://t.co/9ACfQyxUqf",
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11348282,
+        "id_str": "11348282",
+        "name": "NASA",
+        "screen_name": "NASA",
+        "location": "",
+        "description": "Explore the universe and discover our home planet with @NASA. We usually post in EDT (UTC-4).",
+        "url": "http://t.co/TcEE6O9Jfb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TcEE6O9Jfb",
+                "expanded_url": "http://www.nasa.gov",
+                "display_url": "nasa.gov",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14387378,
+        "friends_count": 254,
+        "listed_count": 81199,
+        "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+        "favourites_count": 966,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 40730,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1453391565",
+        "profile_link_color": "205BA7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F2F2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3116,
+      "favorite_count": 3972,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nrS3JqOmeA",
+            "expanded_url": "http://nasa.tumblr.com/post/138041535009/solar-system-5-things-to-know-this-week",
+            "display_url": "nasa.tumblr.com/post/138041535…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 691748750931431424,
+            "id_str": "691748750931431424",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+            "url": "https://t.co/9ACfQyxUqf",
+            "display_url": "pic.twitter.com/9ACfQyxUqf",
+            "expanded_url": "http://twitter.com/NASA/status/691748751057223680/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 691748750931431424,
+            "id_str": "691748750931431424",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+            "url": "https://t.co/9ACfQyxUqf",
+            "display_url": "pic.twitter.com/9ACfQyxUqf",
+            "expanded_url": "http://twitter.com/NASA/status/691748751057223680/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3116,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NASA",
+          "name": "NASA",
+          "id": 11348282,
+          "id_str": "11348282",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nrS3JqOmeA",
+          "expanded_url": "http://nasa.tumblr.com/post/138041535009/solar-system-5-things-to-know-this-week",
+          "display_url": "nasa.tumblr.com/post/138041535…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 691748750931431424,
+          "id_str": "691748750931431424",
+          "indices": [
+            126,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+          "url": "https://t.co/9ACfQyxUqf",
+          "display_url": "pic.twitter.com/9ACfQyxUqf",
+          "expanded_url": "http://twitter.com/NASA/status/691748751057223680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 691748751057223680,
+          "source_status_id_str": "691748751057223680",
+          "source_user_id": 11348282,
+          "source_user_id_str": "11348282"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 691748750931431424,
+          "id_str": "691748750931431424",
+          "indices": [
+            126,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZmV0u0WkAAn-Ou.jpg",
+          "url": "https://t.co/9ACfQyxUqf",
+          "display_url": "pic.twitter.com/9ACfQyxUqf",
+          "expanded_url": "http://twitter.com/NASA/status/691748751057223680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 691748751057223680,
+          "source_status_id_str": "691748751057223680",
+          "source_user_id": 11348282,
+          "source_user_id_str": "11348282"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 26 00:46:36 +0000 2016",
+    "id": 691784265722417152,
+    "id_str": "691784265722417152",
+    "text": "RT @MicrosoftR: .#DeepLearning toolkit (CNTK) from @microsoft now available on #GitHub see the blog post to learn more: https://t.co/c40cT7…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 25 23:40:53 +0000 2016",
+      "id": 691767726466056193,
+      "id_str": "691767726466056193",
+      "text": ".#DeepLearning toolkit (CNTK) from @microsoft now available on #GitHub see the blog post to learn more: https://t.co/c40cT7DxOo",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25213966,
+        "id_str": "25213966",
+        "name": "Revolution Analytics",
+        "screen_name": "MicrosoftR",
+        "location": "USA",
+        "description": "Revolution Analytics is the leading commercial provider of software & support for the popular open source R statistics language. #rstats",
+        "url": "http://t.co/HRXifWrldb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/HRXifWrldb",
+                "expanded_url": "http://www.revolutionanalytics.com",
+                "display_url": "revolutionanalytics.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17598,
+        "friends_count": 73,
+        "listed_count": 982,
+        "created_at": "Thu Mar 19 02:08:39 +0000 2009",
+        "favourites_count": 589,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7728,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/98983618/logo_revolutionanalytics.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/98983618/logo_revolutionanalytics.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876740306/RA_ICON_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876740306/RA_ICON_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25213966/1453508622",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DeepLearning",
+            "indices": [
+              1,
+              14
+            ]
+          },
+          {
+            "text": "GitHub",
+            "indices": [
+              63,
+              70
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Microsoft",
+            "name": "Microsoft",
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/c40cT7DxOo",
+            "expanded_url": "http://bit.ly/1JxJNME",
+            "display_url": "bit.ly/1JxJNME",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DeepLearning",
+          "indices": [
+            17,
+            30
+          ]
+        },
+        {
+          "text": "GitHub",
+          "indices": [
+            79,
+            86
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MicrosoftR",
+          "name": "Revolution Analytics",
+          "id": 25213966,
+          "id_str": "25213966",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "Microsoft",
+          "name": "Microsoft",
+          "id": 74286565,
+          "id_str": "74286565",
+          "indices": [
+            51,
+            61
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/c40cT7DxOo",
+          "expanded_url": "http://bit.ly/1JxJNME",
+          "display_url": "bit.ly/1JxJNME",
+          "indices": [
+            120,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 26 00:42:53 +0000 2016",
+    "id": 691783331801894912,
+    "id_str": "691783331801894912",
+    "text": "RT @docker: Quick Start Guide on Running @Docker #Containers On #Windows Server 2016 by @ashleypooleUK: https://t.co/hvzPfL2EN1 https://t.c…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 25 23:52:03 +0000 2016",
+      "id": 691770536452562944,
+      "id_str": "691770536452562944",
+      "text": "Quick Start Guide on Running @Docker #Containers On #Windows Server 2016 by @ashleypooleUK: https://t.co/hvzPfL2EN1 https://t.co/PXBIUW9aHi",
+      "source": "<a href=\"http://www.scoop.it\" rel=\"nofollow\">Scoop.it</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1138959692,
+        "id_str": "1138959692",
+        "name": "Docker",
+        "screen_name": "docker",
+        "location": "San Francisco, CA",
+        "description": "Build, Ship, Run Distributed Apps #docker #containers #getcontained",
+        "url": "http://t.co/ZAMxePUASD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/ZAMxePUASD",
+                "expanded_url": "http://docker.com",
+                "display_url": "docker.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 110942,
+        "friends_count": 1417,
+        "listed_count": 2393,
+        "created_at": "Fri Feb 01 07:12:46 +0000 2013",
+        "favourites_count": 1040,
+        "utc_offset": -25200,
+        "time_zone": "Arizona",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6910,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433033163481157632/I01VJL_c.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433033163481157632/I01VJL_c.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000124779041/fbbb494a7eef5f9278c6967b6072ca3e_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000124779041/fbbb494a7eef5f9278c6967b6072ca3e_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138959692/1441316722",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 58,
+      "favorite_count": 56,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Containers",
+            "indices": [
+              37,
+              48
+            ]
+          },
+          {
+            "text": "Windows",
+            "indices": [
+              52,
+              60
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "docker",
+            "name": "Docker",
+            "id": 1138959692,
+            "id_str": "1138959692",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "screen_name": "AshleyPooleUK",
+            "name": "Ashley Poole",
+            "id": 216112572,
+            "id_str": "216112572",
+            "indices": [
+              76,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hvzPfL2EN1",
+            "expanded_url": "http://ashleypoole.co.uk/2016/docker-containers-windows-server-2016-guide/",
+            "display_url": "ashleypoole.co.uk/2016/docker-co…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 691770535127162884,
+            "id_str": "691770535127162884",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+            "url": "https://t.co/PXBIUW9aHi",
+            "display_url": "pic.twitter.com/PXBIUW9aHi",
+            "expanded_url": "http://twitter.com/docker/status/691770536452562944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 120,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 509,
+                "h": 180,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 509,
+                "h": 180,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 691770535127162884,
+            "id_str": "691770535127162884",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+            "url": "https://t.co/PXBIUW9aHi",
+            "display_url": "pic.twitter.com/PXBIUW9aHi",
+            "expanded_url": "http://twitter.com/docker/status/691770536452562944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 120,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 509,
+                "h": 180,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 509,
+                "h": 180,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Containers",
+          "indices": [
+            49,
+            60
+          ]
+        },
+        {
+          "text": "Windows",
+          "indices": [
+            64,
+            72
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "docker",
+          "name": "Docker",
+          "id": 1138959692,
+          "id_str": "1138959692",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "docker",
+          "name": "Docker",
+          "id": 1138959692,
+          "id_str": "1138959692",
+          "indices": [
+            41,
+            48
+          ]
+        },
+        {
+          "screen_name": "AshleyPooleUK",
+          "name": "Ashley Poole",
+          "id": 216112572,
+          "id_str": "216112572",
+          "indices": [
+            88,
+            102
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hvzPfL2EN1",
+          "expanded_url": "http://ashleypoole.co.uk/2016/docker-containers-windows-server-2016-guide/",
+          "display_url": "ashleypoole.co.uk/2016/docker-co…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 691770535127162884,
+          "id_str": "691770535127162884",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+          "url": "https://t.co/PXBIUW9aHi",
+          "display_url": "pic.twitter.com/PXBIUW9aHi",
+          "expanded_url": "http://twitter.com/docker/status/691770536452562944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 120,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 509,
+              "h": 180,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 509,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 691770536452562944,
+          "source_status_id_str": "691770536452562944",
+          "source_user_id": 1138959692,
+          "source_user_id_str": "1138959692"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 691770535127162884,
+          "id_str": "691770535127162884",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZmpovRWIAQp8Zp.jpg",
+          "url": "https://t.co/PXBIUW9aHi",
+          "display_url": "pic.twitter.com/PXBIUW9aHi",
+          "expanded_url": "http://twitter.com/docker/status/691770536452562944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 120,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 509,
+              "h": 180,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 509,
+              "h": 180,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 691770536452562944,
+          "source_status_id_str": "691770536452562944",
+          "source_user_id": 1138959692,
+          "source_user_id_str": "1138959692"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jan 25 22:24:38 +0000 2016",
+    "id": 691748537609007104,
+    "id_str": "691748537609007104",
+    "text": "Have a CONTRIBUTING.md file in the root of a GitHub repo - a link to that will be shown whenever someone starts to log a bug or submit a PR.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 24 20:27:14 +0000 2016",
+    "id": 691356607226073088,
+    "id_str": "691356607226073088",
+    "text": "RT @WSJ: Time-lapse of historic Washington, D.C. blizzard https://t.co/SDDVQAJLiW via @WSJvideo https://t.co/Db2KNmh7Nh",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 24 20:14:36 +0000 2016",
+      "id": 691353427746643968,
+      "id_str": "691353427746643968",
+      "text": "Time-lapse of historic Washington, D.C. blizzard https://t.co/SDDVQAJLiW via @WSJvideo https://t.co/Db2KNmh7Nh",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3108351,
+        "id_str": "3108351",
+        "name": "Wall Street Journal",
+        "screen_name": "WSJ",
+        "location": "New York, NY",
+        "description": "Breaking news and features from the WSJ. Tweets by @sarahmarshall @toddjolmstead @erinclarebrown @LaurenceWSJ @lmoliva_ and @carlazanoni.",
+        "url": "https://t.co/GhhR6PLfem",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GhhR6PLfem",
+                "expanded_url": "http://wsj.com",
+                "display_url": "wsj.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9479473,
+        "friends_count": 1058,
+        "listed_count": 95667,
+        "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+        "favourites_count": 1291,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 142162,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685113343204585473/jV72Zljq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685113343204585473/jV72Zljq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1432072212",
+        "profile_link_color": "1164B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 269,
+      "favorite_count": 267,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "WSJvideo",
+            "name": "WSJ Video",
+            "id": 28186908,
+            "id_str": "28186908",
+            "indices": [
+              77,
+              86
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SDDVQAJLiW",
+            "expanded_url": "http://on.wsj.com/20n9svA",
+            "display_url": "on.wsj.com/20n9svA",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 691353426488397825,
+            "id_str": "691353426488397825",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+            "url": "https://t.co/Db2KNmh7Nh",
+            "display_url": "pic.twitter.com/Db2KNmh7Nh",
+            "expanded_url": "http://twitter.com/WSJ/status/691353427746643968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 691353426488397825,
+            "id_str": "691353426488397825",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+            "url": "https://t.co/Db2KNmh7Nh",
+            "display_url": "pic.twitter.com/Db2KNmh7Nh",
+            "expanded_url": "http://twitter.com/WSJ/status/691353427746643968/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CZguR0gXEAExaI9.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 269,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WSJ",
+          "name": "Wall Street Journal",
+          "id": 3108351,
+          "id_str": "3108351",
+          "indices": [
+            3,
+            7
+          ]
+        },
+        {
+          "screen_name": "WSJvideo",
+          "name": "WSJ Video",
+          "id": 28186908,
+          "id_str": "28186908",
+          "indices": [
+            86,
+            95
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SDDVQAJLiW",
+          "expanded_url": "http://on.wsj.com/20n9svA",
+          "display_url": "on.wsj.com/20n9svA",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 691353426488397825,
+          "id_str": "691353426488397825",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+          "url": "https://t.co/Db2KNmh7Nh",
+          "display_url": "pic.twitter.com/Db2KNmh7Nh",
+          "expanded_url": "http://twitter.com/WSJ/status/691353427746643968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 691353427746643968,
+          "source_status_id_str": "691353427746643968",
+          "source_user_id": 3108351,
+          "source_user_id_str": "3108351"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 691353426488397825,
+          "id_str": "691353426488397825",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CZguR0gXEAExaI9.png",
+          "url": "https://t.co/Db2KNmh7Nh",
+          "display_url": "pic.twitter.com/Db2KNmh7Nh",
+          "expanded_url": "http://twitter.com/WSJ/status/691353427746643968/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 691353427746643968,
+          "source_status_id_str": "691353427746643968",
+          "source_user_id": 3108351,
+          "source_user_id_str": "3108351",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/CZguR0gXEAExaI9.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 24 17:46:03 +0000 2016",
+    "id": 691316044992909312,
+    "id_str": "691316044992909312",
+    "text": "RT @jsmarr: Pretty stunning sales stats! Innovator's Dilemma running its course. Go @TeslaMotors! /via https://t.co/d98QyD1fAw https://t.co…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 24 17:17:10 +0000 2016",
+      "id": 691308776985473024,
+      "id_str": "691308776985473024",
+      "text": "Pretty stunning sales stats! Innovator's Dilemma running its course. Go @TeslaMotors! /via https://t.co/d98QyD1fAw https://t.co/bCWiDJzblh",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5025281,
+        "id_str": "5025281",
+        "name": "Joseph Smarr",
+        "screen_name": "jsmarr",
+        "location": "Half Moon Bay, CA",
+        "description": "Social Web Engineer at Google. Former CTO of Plaxo. Opening up the Social Web.",
+        "url": "http://t.co/0xzjoTCpRo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/0xzjoTCpRo",
+                "expanded_url": "http://josephsmarr.com",
+                "display_url": "josephsmarr.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8561,
+        "friends_count": 466,
+        "listed_count": 654,
+        "created_at": "Tue Apr 17 18:10:29 +0000 2007",
+        "favourites_count": 292,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1344,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B1BDD5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/1917452/twitter-DSCN5702.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/1917452/twitter-DSCN5702.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647274253960638464/pndj7CrF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647274253960638464/pndj7CrF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5025281/1443157434",
+        "profile_link_color": "286EA0",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "303030",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "TeslaMotors",
+            "name": "Tesla Motors",
+            "id": 13298072,
+            "id_str": "13298072",
+            "indices": [
+              72,
+              84
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/d98QyD1fAw",
+            "expanded_url": "http://m.dailykos.com/story/2016/01/23/1472456/-Tesla-takes-over-one-market-segment-Here-s-why-traditional-automakers-fear-further-losses",
+            "display_url": "m.dailykos.com/story/2016/01/…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 691308754713743360,
+            "id_str": "691308754713743360",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+            "url": "https://t.co/bCWiDJzblh",
+            "display_url": "pic.twitter.com/bCWiDJzblh",
+            "expanded_url": "http://twitter.com/jsmarr/status/691308776985473024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1022,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 339,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 599,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 691308754713743360,
+            "id_str": "691308754713743360",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+            "url": "https://t.co/bCWiDJzblh",
+            "display_url": "pic.twitter.com/bCWiDJzblh",
+            "expanded_url": "http://twitter.com/jsmarr/status/691308776985473024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1022,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 339,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 599,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jsmarr",
+          "name": "Joseph Smarr",
+          "id": 5025281,
+          "id_str": "5025281",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "TeslaMotors",
+          "name": "Tesla Motors",
+          "id": 13298072,
+          "id_str": "13298072",
+          "indices": [
+            84,
+            96
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d98QyD1fAw",
+          "expanded_url": "http://m.dailykos.com/story/2016/01/23/1472456/-Tesla-takes-over-one-market-segment-Here-s-why-traditional-automakers-fear-further-losses",
+          "display_url": "m.dailykos.com/story/2016/01/…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 691308754713743360,
+          "id_str": "691308754713743360",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+          "url": "https://t.co/bCWiDJzblh",
+          "display_url": "pic.twitter.com/bCWiDJzblh",
+          "expanded_url": "http://twitter.com/jsmarr/status/691308776985473024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 1022,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 339,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 599,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 691308776985473024,
+          "source_status_id_str": "691308776985473024",
+          "source_user_id": 5025281,
+          "source_user_id_str": "5025281"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 691308754713743360,
+          "id_str": "691308754713743360",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZgFplLUkAAnRgb.jpg",
+          "url": "https://t.co/bCWiDJzblh",
+          "display_url": "pic.twitter.com/bCWiDJzblh",
+          "expanded_url": "http://twitter.com/jsmarr/status/691308776985473024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 1022,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 339,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 599,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 691308776985473024,
+          "source_status_id_str": "691308776985473024",
+          "source_user_id": 5025281,
+          "source_user_id_str": "5025281"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jan 23 05:32:47 +0000 2016",
     "id": 690769121118523392,
     "id_str": "690769121118523392",
