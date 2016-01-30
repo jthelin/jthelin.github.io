@@ -1,5 +1,3590 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 28 20:16:35 +0000 2016",
+    "id": 692803478230437888,
+    "id_str": "692803478230437888",
+    "text": "RT @TEDTalks: The secret ingredient that makes some teams better than others: https://t.co/hY0mLaOPT2 https://t.co/VoTVCiktCb",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 18:13:07 +0000 2016",
+      "id": 692772405148827651,
+      "id_str": "692772405148827651",
+      "text": "The secret ingredient that makes some teams better than others: https://t.co/hY0mLaOPT2 https://t.co/VoTVCiktCb",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15492359,
+        "id_str": "15492359",
+        "name": "TED Talks",
+        "screen_name": "TEDTalks",
+        "location": "New York, NY",
+        "description": "The official feed for http://t.co/XyGsGk6F0m. Ideas worth spreading.",
+        "url": "http://t.co/7qVI5vqFrr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/7qVI5vqFrr",
+                "expanded_url": "http://www.ted.com",
+                "display_url": "ted.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/XyGsGk6F0m",
+                "expanded_url": "http://TED.com",
+                "display_url": "TED.com",
+                "indices": [
+                  22,
+                  44
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7042673,
+        "friends_count": 455,
+        "listed_count": 51268,
+        "created_at": "Sat Jul 19 13:22:50 +0000 2008",
+        "favourites_count": 1693,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 13091,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/795046705/a71fe1893e3a1561abba1bff053e9328.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/795046705/a71fe1893e3a1561abba1bff053e9328.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615531317489303552/pWXT4Dol_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615531317489303552/pWXT4Dol_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15492359/1426021644",
+        "profile_link_color": "FF2B06",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0E3DE",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 429,
+      "favorite_count": 549,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hY0mLaOPT2",
+            "expanded_url": "http://t.ted.com/9UbJqTn",
+            "display_url": "t.ted.com/9UbJqTn",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692772404477706245,
+            "id_str": "692772404477706245",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+            "url": "https://t.co/VoTVCiktCb",
+            "display_url": "pic.twitter.com/VoTVCiktCb",
+            "expanded_url": "http://twitter.com/TEDTalks/status/692772405148827651/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 770,
+                "h": 462,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 204,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692772404477706245,
+            "id_str": "692772404477706245",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+            "url": "https://t.co/VoTVCiktCb",
+            "display_url": "pic.twitter.com/VoTVCiktCb",
+            "expanded_url": "http://twitter.com/TEDTalks/status/692772405148827651/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 770,
+                "h": 462,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 204,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 429,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TEDTalks",
+          "name": "TED Talks",
+          "id": 15492359,
+          "id_str": "15492359",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hY0mLaOPT2",
+          "expanded_url": "http://t.ted.com/9UbJqTn",
+          "display_url": "t.ted.com/9UbJqTn",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 692772404477706245,
+          "id_str": "692772404477706245",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+          "url": "https://t.co/VoTVCiktCb",
+          "display_url": "pic.twitter.com/VoTVCiktCb",
+          "expanded_url": "http://twitter.com/TEDTalks/status/692772405148827651/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 770,
+              "h": 462,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 204,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692772405148827651,
+          "source_status_id_str": "692772405148827651",
+          "source_user_id": 15492359,
+          "source_user_id_str": "15492359"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692772404477706245,
+          "id_str": "692772404477706245",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ041NcWQAUuH7T.jpg",
+          "url": "https://t.co/VoTVCiktCb",
+          "display_url": "pic.twitter.com/VoTVCiktCb",
+          "expanded_url": "http://twitter.com/TEDTalks/status/692772405148827651/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 770,
+              "h": 462,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 204,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692772405148827651,
+          "source_status_id_str": "692772405148827651",
+          "source_user_id": 15492359,
+          "source_user_id_str": "15492359"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 20:14:15 +0000 2016",
+    "id": 692802890121916417,
+    "id_str": "692802890121916417",
+    "text": "RT @DigitalTrends: .@BillNye: ‘If NASCAR embraced electric cars it could change the world’ https://t.co/9rPyG9k6Xj https://t.co/wITRFZF9g2",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 18:50:10 +0000 2016",
+      "id": 692781729959038976,
+      "id_str": "692781729959038976",
+      "text": ".@BillNye: ‘If NASCAR embraced electric cars it could change the world’ https://t.co/9rPyG9k6Xj https://t.co/wITRFZF9g2",
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14763734,
+        "id_str": "14763734",
+        "name": "Digital Trends",
+        "screen_name": "DigitalTrends",
+        "location": "Portland, OR, and New York, NY",
+        "description": "Follow for the best tech news, product reviews, and quality content for your digital lifestyle. | Instagram: @DigitalTrends | Snapchat: digitaltrends",
+        "url": "https://t.co/wxxwesnWkd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wxxwesnWkd",
+                "expanded_url": "http://www.digitaltrends.com",
+                "display_url": "digitaltrends.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 327795,
+        "friends_count": 302536,
+        "listed_count": 7355,
+        "created_at": "Tue May 13 20:01:41 +0000 2008",
+        "favourites_count": 2441,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 49522,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169461861/b6wn8EWJ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169461861/b6wn8EWJ.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684244861587865603/T-8yNDuQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684244861587865603/T-8yNDuQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14763734/1453417443",
+        "profile_link_color": "0095DA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "2D3C4F",
+        "profile_text_color": "878787",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 14,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "BillNye",
+            "name": "Bill Nye",
+            "id": 37710752,
+            "id_str": "37710752",
+            "indices": [
+              1,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9rPyG9k6Xj",
+            "expanded_url": "http://bit.ly/1QGLFEf",
+            "display_url": "bit.ly/1QGLFEf",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692781729707364352,
+            "id_str": "692781729707364352",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+            "url": "https://t.co/wITRFZF9g2",
+            "display_url": "pic.twitter.com/wITRFZF9g2",
+            "expanded_url": "http://twitter.com/DigitalTrends/status/692781729959038976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 178,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 537,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692781729707364352,
+            "id_str": "692781729707364352",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+            "url": "https://t.co/wITRFZF9g2",
+            "display_url": "pic.twitter.com/wITRFZF9g2",
+            "expanded_url": "http://twitter.com/DigitalTrends/status/692781729959038976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 178,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 537,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DigitalTrends",
+          "name": "Digital Trends",
+          "id": 14763734,
+          "id_str": "14763734",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "BillNye",
+          "name": "Bill Nye",
+          "id": 37710752,
+          "id_str": "37710752",
+          "indices": [
+            20,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9rPyG9k6Xj",
+          "expanded_url": "http://bit.ly/1QGLFEf",
+          "display_url": "bit.ly/1QGLFEf",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 692781729707364352,
+          "id_str": "692781729707364352",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+          "url": "https://t.co/wITRFZF9g2",
+          "display_url": "pic.twitter.com/wITRFZF9g2",
+          "expanded_url": "http://twitter.com/DigitalTrends/status/692781729959038976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 178,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 537,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692781729959038976,
+          "source_status_id_str": "692781729959038976",
+          "source_user_id": 14763734,
+          "source_user_id_str": "14763734"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692781729707364352,
+          "id_str": "692781729707364352",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ1BUAoWkAAWCC4.jpg",
+          "url": "https://t.co/wITRFZF9g2",
+          "display_url": "pic.twitter.com/wITRFZF9g2",
+          "expanded_url": "http://twitter.com/DigitalTrends/status/692781729959038976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 178,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 537,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692781729959038976,
+          "source_status_id_str": "692781729959038976",
+          "source_user_id": 14763734,
+          "source_user_id_str": "14763734"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 20:13:08 +0000 2016",
+    "id": 692802608352743424,
+    "id_str": "692802608352743424",
+    "text": "RT @lifehacker: Put only the apps that are good for you on your phone's home screen: https://t.co/pqcyCSouOm",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 19:01:28 +0000 2016",
+      "id": 692784576167571456,
+      "id_str": "692784576167571456",
+      "text": "Put only the apps that are good for you on your phone's home screen: https://t.co/pqcyCSouOm",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7144422,
+        "id_str": "7144422",
+        "name": "Lifehacker",
+        "screen_name": "lifehacker",
+        "location": "",
+        "description": "Don't live to geek; geek to live.",
+        "url": "http://t.co/CY03sH1tMd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/CY03sH1tMd",
+                "expanded_url": "http://lifehacker.com",
+                "display_url": "lifehacker.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2975412,
+        "friends_count": 54,
+        "listed_count": 36157,
+        "created_at": "Fri Jun 29 03:44:14 +0000 2007",
+        "favourites_count": 8,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 40265,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "F8FAF0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/737119470/fdd37f1c288b6d195391a05c46f4068d.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/737119470/fdd37f1c288b6d195391a05c46f4068d.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590971614545612800/eV8h6rz7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590971614545612800/eV8h6rz7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7144422/1355413751",
+        "profile_link_color": "94B330",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCE4B2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 63,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pqcyCSouOm",
+            "expanded_url": "http://lifehac.kr/9176NDN",
+            "display_url": "lifehac.kr/9176NDN",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lifehacker",
+          "name": "Lifehacker",
+          "id": 7144422,
+          "id_str": "7144422",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pqcyCSouOm",
+          "expanded_url": "http://lifehac.kr/9176NDN",
+          "display_url": "lifehac.kr/9176NDN",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 20:08:08 +0000 2016",
+    "id": 692801352984956928,
+    "id_str": "692801352984956928",
+    "text": "RT @kannonboy: Great piece on static site generators, Wordpress and the future of the web: https://t.co/fXIQpO8884 from @jasongowans",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 19:27:55 +0000 2016",
+      "id": 692791229919039488,
+      "id_str": "692791229919039488",
+      "text": "Great piece on static site generators, Wordpress and the future of the web: https://t.co/fXIQpO8884 from @jasongowans",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19743274,
+        "id_str": "19743274",
+        "name": "Tim Pettersen",
+        "screen_name": "kannonboy",
+        "location": "San Francisco",
+        "description": "Developer Provocateur @ Atlassian, cyclist, poker player & ex-traceur. I'm an Aussie with a Pom mum, Kiwi dad and Canuck wife. I also answer to 'Commonwealth'.",
+        "url": "https://t.co/61bYjeDWHY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/61bYjeDWHY",
+                "expanded_url": "http://developer.atlassian.com/blog/authors/tpettersen",
+                "display_url": "developer.atlassian.com/blog/authors/t…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1566,
+        "friends_count": 876,
+        "listed_count": 74,
+        "created_at": "Thu Jan 29 23:49:37 +0000 2009",
+        "favourites_count": 1093,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1688,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/311946632/P6070023_sml.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/311946632/P6070023_sml.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521526358367686656/uYoas6TO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521526358367686656/uYoas6TO_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19743274/1413176475",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "jasongowans",
+            "name": "Jason Gowans",
+            "id": 438149303,
+            "id_str": "438149303",
+            "indices": [
+              105,
+              117
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fXIQpO8884",
+            "expanded_url": "https://medium.com/@jasongowans/the-genius-of-wordpress-and-why-it-s-doomed-d9fd571712fe#.xzp7tpmgx",
+            "display_url": "medium.com/@jasongowans/t…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kannonboy",
+          "name": "Tim Pettersen",
+          "id": 19743274,
+          "id_str": "19743274",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "jasongowans",
+          "name": "Jason Gowans",
+          "id": 438149303,
+          "id_str": "438149303",
+          "indices": [
+            120,
+            132
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fXIQpO8884",
+          "expanded_url": "https://medium.com/@jasongowans/the-genius-of-wordpress-and-why-it-s-doomed-d9fd571712fe#.xzp7tpmgx",
+          "display_url": "medium.com/@jasongowans/t…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 20:03:00 +0000 2016",
+    "id": 692800059365167104,
+    "id_str": "692800059365167104",
+    "text": "An Introduction to Static Site Generators https://t.co/rDn9CXSofT",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rDn9CXSofT",
+          "expanded_url": "https://davidwalsh.name/introduction-static-site-generators",
+          "display_url": "davidwalsh.name/introduction-s…",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 17:42:15 +0000 2016",
+    "id": 692764637196976128,
+    "id_str": "692764637196976128",
+    "text": "A new take on the 3-egg breakfast theme? https://t.co/PU5zEJr0bQ",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 692764633845755904,
+          "id_str": "692764633845755904",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ0xw5lUcAAv_Y0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ0xw5lUcAAv_Y0.jpg",
+          "url": "https://t.co/PU5zEJr0bQ",
+          "display_url": "pic.twitter.com/PU5zEJr0bQ",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/692764637196976128/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692764633845755904,
+          "id_str": "692764633845755904",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ0xw5lUcAAv_Y0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ0xw5lUcAAv_Y0.jpg",
+          "url": "https://t.co/PU5zEJr0bQ",
+          "display_url": "pic.twitter.com/PU5zEJr0bQ",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/692764637196976128/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 17:03:35 +0000 2016",
+    "id": 692754906038403072,
+    "id_str": "692754906038403072",
+    "text": "RT @sciam: Remembering Challenger, 30 years later: We never should have mothballed the space shuttle https://t.co/TLXUXCeNMi https://t.co/x…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 14:44:08 +0000 2016",
+      "id": 692719815602130944,
+      "id_str": "692719815602130944",
+      "text": "Remembering Challenger, 30 years later: We never should have mothballed the space shuttle https://t.co/TLXUXCeNMi https://t.co/xFesfAMd7y",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14647570,
+        "id_str": "14647570",
+        "name": "Scientific American",
+        "screen_name": "sciam",
+        "location": "New York City, NY, USA",
+        "description": "Founded in 1845, Scientific American is the authoritative source for the science discoveries and technology innovations that matter.",
+        "url": "http://t.co/FfSfw3mLnA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/FfSfw3mLnA",
+                "expanded_url": "http://www.scientificamerican.com",
+                "display_url": "scientificamerican.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1210703,
+        "friends_count": 5083,
+        "listed_count": 25003,
+        "created_at": "Sun May 04 12:39:32 +0000 2008",
+        "favourites_count": 485,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 44714,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F8F8F8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155524211/twitbg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155524211/twitbg.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/676776763431620608/1eNZzxq0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/676776763431620608/1eNZzxq0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14647570/1453220234",
+        "profile_link_color": "19427C",
+        "profile_sidebar_border_color": "D1423D",
+        "profile_sidebar_fill_color": "ECECEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 136,
+      "favorite_count": 126,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TLXUXCeNMi",
+            "expanded_url": "http://bit.ly/1PV6DdM",
+            "display_url": "bit.ly/1PV6DdM",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692719751907430400,
+            "id_str": "692719751907430400",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+            "media_url_https": "https://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+            "url": "https://t.co/xFesfAMd7y",
+            "display_url": "pic.twitter.com/xFesfAMd7y",
+            "expanded_url": "http://twitter.com/sciam/status/692719815602130944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 590,
+                "h": 396,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 590,
+                "h": 396,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 228,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692719751907430400,
+            "id_str": "692719751907430400",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+            "media_url_https": "https://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+            "url": "https://t.co/xFesfAMd7y",
+            "display_url": "pic.twitter.com/xFesfAMd7y",
+            "expanded_url": "http://twitter.com/sciam/status/692719815602130944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 590,
+                "h": 396,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 590,
+                "h": 396,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 228,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 136,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sciam",
+          "name": "Scientific American",
+          "id": 14647570,
+          "id_str": "14647570",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TLXUXCeNMi",
+          "expanded_url": "http://bit.ly/1PV6DdM",
+          "display_url": "bit.ly/1PV6DdM",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 692719751907430400,
+          "id_str": "692719751907430400",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+          "url": "https://t.co/xFesfAMd7y",
+          "display_url": "pic.twitter.com/xFesfAMd7y",
+          "expanded_url": "http://twitter.com/sciam/status/692719815602130944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 590,
+              "h": 396,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 590,
+              "h": 396,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 228,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692719815602130944,
+          "source_status_id_str": "692719815602130944",
+          "source_user_id": 14647570,
+          "source_user_id_str": "14647570"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692719751907430400,
+          "id_str": "692719751907430400",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZ0I8bVW0AAZfhL.png",
+          "url": "https://t.co/xFesfAMd7y",
+          "display_url": "pic.twitter.com/xFesfAMd7y",
+          "expanded_url": "http://twitter.com/sciam/status/692719815602130944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 590,
+              "h": 396,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 590,
+              "h": 396,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 228,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692719815602130944,
+          "source_status_id_str": "692719815602130944",
+          "source_user_id": 14647570,
+          "source_user_id_str": "14647570"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 16:59:20 +0000 2016",
+    "id": 692753838302859264,
+    "id_str": "692753838302859264",
+    "text": "RT @NASA: Today, we pause to remember our fallen heroes of the Apollo 1, #Challenger &amp; Columbia crews: https://t.co/HLBpuDT73Q\nhttps://t.co…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 15:11:10 +0000 2016",
+      "id": 692726616976281600,
+      "id_str": "692726616976281600",
+      "text": "Today, we pause to remember our fallen heroes of the Apollo 1, #Challenger &amp; Columbia crews: https://t.co/HLBpuDT73Q\nhttps://t.co/v3Yvl68Hkz",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11348282,
+        "id_str": "11348282",
+        "name": "NASA",
+        "screen_name": "NASA",
+        "location": "",
+        "description": "Explore the universe and discover our home planet with @NASA. We usually post in EDT (UTC-4).",
+        "url": "http://t.co/TcEE6O9Jfb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TcEE6O9Jfb",
+                "expanded_url": "http://www.nasa.gov",
+                "display_url": "nasa.gov",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14444623,
+        "friends_count": 255,
+        "listed_count": 81285,
+        "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+        "favourites_count": 967,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 40756,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1453391565",
+        "profile_link_color": "205BA7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F2F2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9755,
+      "favorite_count": 8895,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Challenger",
+            "indices": [
+              63,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HLBpuDT73Q",
+            "expanded_url": "http://go.nasa.gov/1QExdMW",
+            "display_url": "go.nasa.gov/1QExdMW",
+            "indices": [
+              97,
+              120
+            ]
+          },
+          {
+            "url": "https://t.co/v3Yvl68Hkz",
+            "expanded_url": "https://amp.twimg.com/v/98128cbf-32af-4a44-90a0-f9c625eedb32",
+            "display_url": "amp.twimg.com/v/98128cbf-32a…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9755,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Challenger",
+          "indices": [
+            73,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NASA",
+          "name": "NASA",
+          "id": 11348282,
+          "id_str": "11348282",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HLBpuDT73Q",
+          "expanded_url": "http://go.nasa.gov/1QExdMW",
+          "display_url": "go.nasa.gov/1QExdMW",
+          "indices": [
+            107,
+            130
+          ]
+        },
+        {
+          "url": "https://t.co/v3Yvl68Hkz",
+          "expanded_url": "https://amp.twimg.com/v/98128cbf-32af-4a44-90a0-f9c625eedb32",
+          "display_url": "amp.twimg.com/v/98128cbf-32a…",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 16:58:31 +0000 2016",
+    "id": 692753631901188097,
+    "id_str": "692753631901188097",
+    "text": "RT @doctorow: Head of NSA's hacker squad explains how to armor networks against the likes of him\nhttps://t.co/DK5nP98HS1 https://t.co/Fighc…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 15:35:44 +0000 2016",
+      "id": 692732797971116032,
+      "id_str": "692732797971116032",
+      "text": "Head of NSA's hacker squad explains how to armor networks against the likes of him\nhttps://t.co/DK5nP98HS1 https://t.co/FighcTucWC",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2729061,
+        "id_str": "2729061",
+        "name": "Cory Doctorow",
+        "screen_name": "doctorow",
+        "location": "Beautiful Downtown Burbank",
+        "description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: http://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+        "url": "http://t.co/x4ih0X9WgH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/x4ih0X9WgH",
+                "expanded_url": "http://craphound.com",
+                "display_url": "craphound.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/rS9kTnTcWs",
+                "expanded_url": "http://boingboing.net/s",
+                "display_url": "boingboing.net/s",
+                "indices": [
+                  82,
+                  104
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 403109,
+        "friends_count": 1359,
+        "listed_count": 12618,
+        "created_at": "Wed Mar 28 21:40:55 +0000 2007",
+        "favourites_count": 59,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 70697,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624066725/98x7v5ui9rwka1cc41ku.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624066725/98x7v5ui9rwka1cc41ku.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+        "profile_link_color": "3F3FC4",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 30,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DK5nP98HS1",
+            "expanded_url": "http://boingboing.net/2016/01/28/head-of-nsas-hacker-squad-ex.html",
+            "display_url": "boingboing.net/2016/01/28/hea…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692732797417426944,
+            "id_str": "692732797417426944",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+            "url": "https://t.co/FighcTucWC",
+            "display_url": "pic.twitter.com/FighcTucWC",
+            "expanded_url": "http://twitter.com/doctorow/status/692732797971116032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 582,
+                "h": 435,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 582,
+                "h": 435,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692732797417426944,
+            "id_str": "692732797417426944",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+            "url": "https://t.co/FighcTucWC",
+            "display_url": "pic.twitter.com/FighcTucWC",
+            "expanded_url": "http://twitter.com/doctorow/status/692732797971116032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 254,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 582,
+                "h": 435,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 582,
+                "h": 435,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "doctorow",
+          "name": "Cory Doctorow",
+          "id": 2729061,
+          "id_str": "2729061",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DK5nP98HS1",
+          "expanded_url": "http://boingboing.net/2016/01/28/head-of-nsas-hacker-squad-ex.html",
+          "display_url": "boingboing.net/2016/01/28/hea…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 692732797417426944,
+          "id_str": "692732797417426944",
+          "indices": [
+            121,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+          "url": "https://t.co/FighcTucWC",
+          "display_url": "pic.twitter.com/FighcTucWC",
+          "expanded_url": "http://twitter.com/doctorow/status/692732797971116032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 254,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 582,
+              "h": 435,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 582,
+              "h": 435,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 692732797971116032,
+          "source_status_id_str": "692732797971116032",
+          "source_user_id": 2729061,
+          "source_user_id_str": "2729061"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692732797417426944,
+          "id_str": "692732797417426944",
+          "indices": [
+            121,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZ0UzxpUEAA2PoP.jpg",
+          "url": "https://t.co/FighcTucWC",
+          "display_url": "pic.twitter.com/FighcTucWC",
+          "expanded_url": "http://twitter.com/doctorow/status/692732797971116032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 254,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 582,
+              "h": 435,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 582,
+              "h": 435,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 692732797971116032,
+          "source_status_id_str": "692732797971116032",
+          "source_user_id": 2729061,
+          "source_user_id_str": "2729061"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 01:08:06 +0000 2016",
+    "id": 692514452453867520,
+    "id_str": "692514452453867520",
+    "text": "RT @ZDNet: Federal DPS seeks social media monitoring service https://t.co/kbPCMcZ7az by @ashabeeeee",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 27 23:15:56 +0000 2016",
+      "id": 692486223634534400,
+      "id_str": "692486223634534400",
+      "text": "Federal DPS seeks social media monitoring service https://t.co/kbPCMcZ7az by @ashabeeeee",
+      "source": "<a href=\"http://www.zdnet.com\" rel=\"nofollow\">zdnet API</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3819701,
+        "id_str": "3819701",
+        "name": "ZDNet",
+        "screen_name": "ZDNet",
+        "location": "USA | UK | Asia | Australia",
+        "description": "Where technology meets business",
+        "url": "http://t.co/5onVPZr4O4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/5onVPZr4O4",
+                "expanded_url": "http://www.zdnet.com",
+                "display_url": "zdnet.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 253798,
+        "friends_count": 136,
+        "listed_count": 10722,
+        "created_at": "Sun Apr 08 21:05:10 +0000 2007",
+        "favourites_count": 78,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 120342,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "11182A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575732920800804864/BaZ2vN_C_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575732920800804864/BaZ2vN_C_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3819701/1427131317",
+        "profile_link_color": "11182A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDE4E9",
+        "profile_text_color": "6A6D6E",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "ashabeeeee",
+            "name": "Asha Barbaschow",
+            "id": 23303281,
+            "id_str": "23303281",
+            "indices": [
+              77,
+              88
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kbPCMcZ7az",
+            "expanded_url": "http://zd.net/1VsTJI1",
+            "display_url": "zd.net/1VsTJI1",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ZDNet",
+          "name": "ZDNet",
+          "id": 3819701,
+          "id_str": "3819701",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "ashabeeeee",
+          "name": "Asha Barbaschow",
+          "id": 23303281,
+          "id_str": "23303281",
+          "indices": [
+            88,
+            99
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kbPCMcZ7az",
+          "expanded_url": "http://zd.net/1VsTJI1",
+          "display_url": "zd.net/1VsTJI1",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 00:49:29 +0000 2016",
+    "id": 692509766363537411,
+    "id_str": "692509766363537411",
+    "text": "RT @verge: Twitter is just too hard to use https://t.co/rXntTt9bjT by @WaltMossberg https://t.co/CYxCzCFM2u",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 00:22:01 +0000 2016",
+      "id": 692502854549008388,
+      "id_str": "692502854549008388",
+      "text": "Twitter is just too hard to use https://t.co/rXntTt9bjT by @WaltMossberg https://t.co/CYxCzCFM2u",
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 275686563,
+        "id_str": "275686563",
+        "name": "The Verge",
+        "screen_name": "verge",
+        "location": "New York",
+        "description": "https://t.co/W2SFxIXkC4 covers the future of technology, science, art, and culture. Snapchat: verge",
+        "url": "http://t.co/W2SFxIXkC4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/W2SFxIXkC4",
+                "expanded_url": "http://www.theverge.com",
+                "display_url": "theverge.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/W2SFxIXkC4",
+                "expanded_url": "http://www.theverge.com",
+                "display_url": "theverge.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1147848,
+        "friends_count": 137,
+        "listed_count": 28740,
+        "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+        "favourites_count": 1208,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 85474,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615501837341466624/I4jVBBp-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615501837341466624/I4jVBBp-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1433249898",
+        "profile_link_color": "FA4D2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 66,
+      "favorite_count": 96,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "waltmossberg",
+            "name": "Walt Mossberg",
+            "id": 5746452,
+            "id_str": "5746452",
+            "indices": [
+              59,
+              72
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rXntTt9bjT",
+            "expanded_url": "http://www.theverge.com/2016/1/27/10836466/walt-mossberg-twitter-is-too-hard-to-use?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "display_url": "theverge.com/2016/1/27/1083…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692346344850231296,
+            "id_str": "692346344850231296",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+            "url": "https://t.co/CYxCzCFM2u",
+            "display_url": "pic.twitter.com/CYxCzCFM2u",
+            "expanded_url": "http://twitter.com/verge/status/692346344997011456/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 692346344997011456,
+            "source_status_id_str": "692346344997011456",
+            "source_user_id": 275686563,
+            "source_user_id_str": "275686563"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692346344850231296,
+            "id_str": "692346344850231296",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+            "url": "https://t.co/CYxCzCFM2u",
+            "display_url": "pic.twitter.com/CYxCzCFM2u",
+            "expanded_url": "http://twitter.com/verge/status/692346344997011456/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 692346344997011456,
+            "source_status_id_str": "692346344997011456",
+            "source_user_id": 275686563,
+            "source_user_id_str": "275686563"
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "verge",
+          "name": "The Verge",
+          "id": 275686563,
+          "id_str": "275686563",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "waltmossberg",
+          "name": "Walt Mossberg",
+          "id": 5746452,
+          "id_str": "5746452",
+          "indices": [
+            70,
+            83
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rXntTt9bjT",
+          "expanded_url": "http://www.theverge.com/2016/1/27/10836466/walt-mossberg-twitter-is-too-hard-to-use?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+          "display_url": "theverge.com/2016/1/27/1083…",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 692346344850231296,
+          "id_str": "692346344850231296",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+          "url": "https://t.co/CYxCzCFM2u",
+          "display_url": "pic.twitter.com/CYxCzCFM2u",
+          "expanded_url": "http://twitter.com/verge/status/692346344997011456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692346344997011456,
+          "source_status_id_str": "692346344997011456",
+          "source_user_id": 275686563,
+          "source_user_id_str": "275686563"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692346344850231296,
+          "id_str": "692346344850231296",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZu1VRpWkAAuThv.jpg",
+          "url": "https://t.co/CYxCzCFM2u",
+          "display_url": "pic.twitter.com/CYxCzCFM2u",
+          "expanded_url": "http://twitter.com/verge/status/692346344997011456/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692346344997011456,
+          "source_status_id_str": "692346344997011456",
+          "source_user_id": 275686563,
+          "source_user_id_str": "275686563"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 28 00:34:38 +0000 2016",
+    "id": 692506028571758593,
+    "id_str": "692506028571758593",
+    "text": "RT @JamesMontemagno: The moment all productivity stopped: #GitHub https://t.co/SWvPt3AAha",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 28 00:30:57 +0000 2016",
+      "id": 692505103857750016,
+      "id_str": "692505103857750016",
+      "text": "The moment all productivity stopped: #GitHub https://t.co/SWvPt3AAha",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19249356,
+        "id_str": "19249356",
+        "name": "James Montemagno",
+        "screen_name": "JamesMontemagno",
+        "location": "Seattle, WA",
+        "description": "Live, Love, Bike, and Code. Developer Evangelist @xamarinhq #IDGT",
+        "url": "http://t.co/xS78FCVgqw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/xS78FCVgqw",
+                "expanded_url": "http://motz.codes",
+                "display_url": "motz.codes",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3993,
+        "friends_count": 390,
+        "listed_count": 173,
+        "created_at": "Tue Jan 20 18:34:57 +0000 2009",
+        "favourites_count": 4086,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14455,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/618564939523862528/TMHi-4M-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/618564939523862528/TMHi-4M-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19249356/1398230709",
+        "profile_link_color": "3498DB",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "favorite_count": 31,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GitHub",
+            "indices": [
+              37,
+              44
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 692505102121328641,
+            "id_str": "692505102121328641",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+            "url": "https://t.co/SWvPt3AAha",
+            "display_url": "pic.twitter.com/SWvPt3AAha",
+            "expanded_url": "http://twitter.com/JamesMontemagno/status/692505103857750016/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 221,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 391,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 855,
+                "h": 558,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692505102121328641,
+            "id_str": "692505102121328641",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+            "url": "https://t.co/SWvPt3AAha",
+            "display_url": "pic.twitter.com/SWvPt3AAha",
+            "expanded_url": "http://twitter.com/JamesMontemagno/status/692505103857750016/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 221,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 391,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 855,
+                "h": 558,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GitHub",
+          "indices": [
+            58,
+            65
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JamesMontemagno",
+          "name": "James Montemagno",
+          "id": 19249356,
+          "id_str": "19249356",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 692505102121328641,
+          "id_str": "692505102121328641",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+          "url": "https://t.co/SWvPt3AAha",
+          "display_url": "pic.twitter.com/SWvPt3AAha",
+          "expanded_url": "http://twitter.com/JamesMontemagno/status/692505103857750016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 221,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 391,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 855,
+              "h": 558,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692505103857750016,
+          "source_status_id_str": "692505103857750016",
+          "source_user_id": 19249356,
+          "source_user_id_str": "19249356"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692505102121328641,
+          "id_str": "692505102121328641",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZxFuKkWYAEgPQQ.jpg",
+          "url": "https://t.co/SWvPt3AAha",
+          "display_url": "pic.twitter.com/SWvPt3AAha",
+          "expanded_url": "http://twitter.com/JamesMontemagno/status/692505103857750016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 221,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 391,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 855,
+              "h": 558,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 692505103857750016,
+          "source_status_id_str": "692505103857750016",
+          "source_user_id": 19249356,
+          "source_user_id_str": "19249356"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 27 22:47:36 +0000 2016",
+    "id": 692479094882226177,
+    "id_str": "692479094882226177",
+    "text": "Got my first sighting of @TeslaMotors Model X today. https://t.co/tQCMiI8MIt",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "7291a25672e0d4b1",
+      "url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+      "place_type": "city",
+      "name": "Redmond",
+      "full_name": "Redmond, WA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.1649,
+              47.626845
+            ],
+            [
+              -121.958642,
+              47.626845
+            ],
+            [
+              -121.958642,
+              47.73078
+            ],
+            [
+              -122.1649,
+              47.73078
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TeslaMotors",
+          "name": "Tesla Motors",
+          "id": 13298072,
+          "id_str": "13298072",
+          "indices": [
+            25,
+            37
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 692479094718599168,
+          "id_str": "692479094718599168",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZwuEVcWEAAwPyY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZwuEVcWEAAwPyY.jpg",
+          "url": "https://t.co/tQCMiI8MIt",
+          "display_url": "pic.twitter.com/tQCMiI8MIt",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/692479094882226177/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692479094718599168,
+          "id_str": "692479094718599168",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZwuEVcWEAAwPyY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZwuEVcWEAAwPyY.jpg",
+          "url": "https://t.co/tQCMiI8MIt",
+          "display_url": "pic.twitter.com/tQCMiI8MIt",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/692479094882226177/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 27 16:36:51 +0000 2016",
+    "id": 692385791536926722,
+    "id_str": "692385791536926722",
+    "text": "Advanced Logging Tutorial for #Python. The Basic tutorial is at the top of the page too.\nhttps://t.co/cGr5B3BD4N",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            30,
+            37
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cGr5B3BD4N",
+          "expanded_url": "https://docs.python.org/2/howto/logging.html#advanced-logging-tutorial",
+          "display_url": "docs.python.org/2/howto/loggin…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 27 14:18:56 +0000 2016",
+    "id": 692351084732379136,
+    "id_str": "692351084732379136",
+    "text": "RT @WIRED: There's an interesting urban design lesson hidden in Blizzard 2016 https://t.co/5FMznjtMqK https://t.co/7lw39Jk6bZ",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 27 08:15:03 +0000 2016",
+      "id": 692259511885783044,
+      "id_str": "692259511885783044",
+      "text": "There's an interesting urban design lesson hidden in Blizzard 2016 https://t.co/5FMznjtMqK https://t.co/7lw39Jk6bZ",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1344951,
+        "id_str": "1344951",
+        "name": "WIRED",
+        "screen_name": "WIRED",
+        "location": "San Francisco/New York",
+        "description": "WIRED is where tomorrow is realized.",
+        "url": "http://t.co/AbRkBRjcYo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AbRkBRjcYo",
+                "expanded_url": "http://WIRED.com",
+                "display_url": "WIRED.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5550337,
+        "friends_count": 260,
+        "listed_count": 84815,
+        "created_at": "Sat Mar 17 09:57:25 +0000 2007",
+        "favourites_count": 1696,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 55532,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344951/1452542570",
+        "profile_link_color": "99DCF0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 101,
+      "favorite_count": 123,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5FMznjtMqK",
+            "expanded_url": "http://bit.ly/1VpcThK",
+            "display_url": "bit.ly/1VpcThK",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692259511168557056,
+            "id_str": "692259511168557056",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+            "url": "https://t.co/7lw39Jk6bZ",
+            "display_url": "pic.twitter.com/7lw39Jk6bZ",
+            "expanded_url": "http://twitter.com/WIRED/status/692259511885783044/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 582,
+                "h": 388,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 582,
+                "h": 388,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692259511168557056,
+            "id_str": "692259511168557056",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+            "url": "https://t.co/7lw39Jk6bZ",
+            "display_url": "pic.twitter.com/7lw39Jk6bZ",
+            "expanded_url": "http://twitter.com/WIRED/status/692259511885783044/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 582,
+                "h": 388,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 582,
+                "h": 388,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 101,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WIRED",
+          "name": "WIRED",
+          "id": 1344951,
+          "id_str": "1344951",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5FMznjtMqK",
+          "expanded_url": "http://bit.ly/1VpcThK",
+          "display_url": "bit.ly/1VpcThK",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 692259511168557056,
+          "id_str": "692259511168557056",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+          "url": "https://t.co/7lw39Jk6bZ",
+          "display_url": "pic.twitter.com/7lw39Jk6bZ",
+          "expanded_url": "http://twitter.com/WIRED/status/692259511885783044/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 582,
+              "h": 388,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 582,
+              "h": 388,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 692259511885783044,
+          "source_status_id_str": "692259511885783044",
+          "source_user_id": 1344951,
+          "source_user_id_str": "1344951"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 692259511168557056,
+          "id_str": "692259511168557056",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZtmW4-WYAA3JUc.jpg",
+          "url": "https://t.co/7lw39Jk6bZ",
+          "display_url": "pic.twitter.com/7lw39Jk6bZ",
+          "expanded_url": "http://twitter.com/WIRED/status/692259511885783044/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 582,
+              "h": 388,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 582,
+              "h": 388,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 692259511885783044,
+          "source_status_id_str": "692259511885783044",
+          "source_user_id": 1344951,
+          "source_user_id_str": "1344951"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Jan 26 00:53:12 +0000 2016",
     "id": 691785927333646337,
     "id_str": "691785927333646337",
