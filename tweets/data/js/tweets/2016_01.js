@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Sun Jan 31 23:06:31 +0000 2016",
+    "id": 693933407689007105,
+    "id_str": "693933407689007105",
+    "text": "How Twitter could be 10X bigger, 100X more profitable, and 1000X more awesome. https://t.co/9K6kT5O6sU via VentureBeat",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9K6kT5O6sU",
+          "expanded_url": "http://venturebeat.com/2016/01/30/how-twitter-could-be-10x-bigger/",
+          "display_url": "venturebeat.com/2016/01/30/how…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Jan 28 20:16:35 +0000 2016",
     "id": 692803478230437888,
     "id_str": "692803478230437888",
