@@ -1,5 +1,2123 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Tue Feb 09 17:57:34 +0000 2016",
+    "id": 697117148045389824,
+    "id_str": "697117148045389824",
+    "text": "Is it a bird? A plane? No, it's $AAPL A nice motion chart shows big tech companies revenue/profit Δ from 2002-2015. https://t.co/NtbsyUq5hh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+        {
+          "text": "AAPL",
+          "indices": [
+            32,
+            37
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NtbsyUq5hh",
+          "expanded_url": "http://www.lutzroeder.com/html5/grapher/",
+          "display_url": "lutzroeder.com/html5/grapher/",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 08 21:04:30 +0000 2016",
+    "id": 696801803426406400,
+    "id_str": "696801803426406400",
+    "text": "RT @nytimesbusiness: Regardless of brand, Europe’s diesel cars flunked a pollution test, @dannyhakim reports. https://t.co/Gs42YBTZoW https…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 08 14:19:07 +0000 2016",
+      "id": 696699787215818752,
+      "id_str": "696699787215818752",
+      "text": "Regardless of brand, Europe’s diesel cars flunked a pollution test, @dannyhakim reports. https://t.co/Gs42YBTZoW https://t.co/Z4TjZQNyJz",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1754641,
+        "id_str": "1754641",
+        "name": "NYT Business",
+        "screen_name": "nytimesbusiness",
+        "location": "New York, NY",
+        "description": "Business news from The New York Times.",
+        "url": "http://t.co/OKrfdBy4ch",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/OKrfdBy4ch",
+                "expanded_url": "http://nytimes.com/business",
+                "display_url": "nytimes.com/business",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 725016,
+        "friends_count": 616,
+        "listed_count": 13279,
+        "created_at": "Wed Mar 21 14:49:39 +0000 2007",
+        "favourites_count": 786,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 122059,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4433659/twitter_post.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4433659/twitter_post.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2037622389/NYT_Twitter_Business_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2037622389/NYT_Twitter_Business_normal.png",
+        "profile_link_color": "004276",
+        "profile_sidebar_border_color": "323232",
+        "profile_sidebar_fill_color": "E7EFF8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "dannyhakim",
+            "name": "Danny Hakim",
+            "id": 74519287,
+            "id_str": "74519287",
+            "indices": [
+              68,
+              79
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Gs42YBTZoW",
+            "expanded_url": "http://nyti.ms/1nSDCbG",
+            "display_url": "nyti.ms/1nSDCbG",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 696699786376818688,
+            "id_str": "696699786376818688",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+            "media_url_https": "https://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+            "url": "https://t.co/Z4TjZQNyJz",
+            "display_url": "pic.twitter.com/Z4TjZQNyJz",
+            "expanded_url": "http://twitter.com/nytimesbusiness/status/696699787215818752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 336,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1000,
+                "h": 560,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 190,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 696699786376818688,
+            "id_str": "696699786376818688",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+            "media_url_https": "https://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+            "url": "https://t.co/Z4TjZQNyJz",
+            "display_url": "pic.twitter.com/Z4TjZQNyJz",
+            "expanded_url": "http://twitter.com/nytimesbusiness/status/696699787215818752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 336,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1000,
+                "h": 560,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 190,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nytimesbusiness",
+          "name": "NYT Business",
+          "id": 1754641,
+          "id_str": "1754641",
+          "indices": [
+            3,
+            19
+          ]
+        },
+        {
+          "screen_name": "dannyhakim",
+          "name": "Danny Hakim",
+          "id": 74519287,
+          "id_str": "74519287",
+          "indices": [
+            89,
+            100
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Gs42YBTZoW",
+          "expanded_url": "http://nyti.ms/1nSDCbG",
+          "display_url": "nyti.ms/1nSDCbG",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 696699786376818688,
+          "id_str": "696699786376818688",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+          "media_url_https": "https://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+          "url": "https://t.co/Z4TjZQNyJz",
+          "display_url": "pic.twitter.com/Z4TjZQNyJz",
+          "expanded_url": "http://twitter.com/nytimesbusiness/status/696699787215818752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 336,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 190,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 696699787215818752,
+          "source_status_id_str": "696699787215818752",
+          "source_user_id": 1754641,
+          "source_user_id_str": "1754641"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 696699786376818688,
+          "id_str": "696699786376818688",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+          "media_url_https": "https://pbs.twimg.com/media/Cassw7IUsAATbe-.png",
+          "url": "https://t.co/Z4TjZQNyJz",
+          "display_url": "pic.twitter.com/Z4TjZQNyJz",
+          "expanded_url": "http://twitter.com/nytimesbusiness/status/696699787215818752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 336,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 190,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 696699787215818752,
+          "source_status_id_str": "696699787215818752",
+          "source_user_id": 1754641,
+          "source_user_id_str": "1754641"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 08 06:38:01 +0000 2016",
+    "id": 696583744136749056,
+    "id_str": "696583744136749056",
+    "text": "Another milestone for @ProjectOrleans - we just passed 2000 commits with 64 contributors. https://t.co/yvSKulXe45 https://t.co/Cg04A3hGth",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 9,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            22,
+            37
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yvSKulXe45",
+          "expanded_url": "https://github.com/dotnet/orleans",
+          "display_url": "github.com/dotnet/orleans",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 696583743608258560,
+          "id_str": "696583743608258560",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CarDOWIVAAAVKoV.png",
+          "media_url_https": "https://pbs.twimg.com/media/CarDOWIVAAAVKoV.png",
+          "url": "https://t.co/Cg04A3hGth",
+          "display_url": "pic.twitter.com/Cg04A3hGth",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/696583744136749056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 249,
+              "h": 47,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 47,
+              "h": 47,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 249,
+              "h": 47,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 249,
+              "h": 47,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 696583743608258560,
+          "id_str": "696583743608258560",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CarDOWIVAAAVKoV.png",
+          "media_url_https": "https://pbs.twimg.com/media/CarDOWIVAAAVKoV.png",
+          "url": "https://t.co/Cg04A3hGth",
+          "display_url": "pic.twitter.com/Cg04A3hGth",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/696583744136749056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 249,
+              "h": 47,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 47,
+              "h": 47,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 249,
+              "h": 47,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 249,
+              "h": 47,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 23:20:15 +0000 2016",
+    "id": 696473578301042688,
+    "id_str": "696473578301042688",
+    "text": "RT @bill_easterly: Is it cheating to truncate the Y-axis in a graph? https://t.co/9MPlJaClCs",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 04 14:39:47 +0000 2016",
+      "id": 695255436476424192,
+      "id_str": "695255436476424192",
+      "text": "Is it cheating to truncate the Y-axis in a graph? https://t.co/9MPlJaClCs",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 35810531,
+        "id_str": "35810531",
+        "name": "William Easterly",
+        "screen_name": "bill_easterly",
+        "location": "New York City",
+        "description": "NYU Econ Prof; author of The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor; coffee snob",
+        "url": "http://t.co/c1KrZQyRpW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/c1KrZQyRpW",
+                "expanded_url": "http://williameasterly.org/",
+                "display_url": "williameasterly.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 80848,
+        "friends_count": 1517,
+        "listed_count": 3177,
+        "created_at": "Mon Apr 27 18:04:03 +0000 2009",
+        "favourites_count": 58,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11275,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/246722016/portrait_head_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/246722016/portrait_head_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35810531/1404942797",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1218,
+      "favorite_count": 1028,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 695255435687886848,
+            "id_str": "695255435687886848",
+            "indices": [
+              50,
+              73
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+            "url": "https://t.co/9MPlJaClCs",
+            "display_url": "pic.twitter.com/9MPlJaClCs",
+            "expanded_url": "http://twitter.com/bill_easterly/status/695255436476424192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 695255435687886848,
+            "id_str": "695255435687886848",
+            "indices": [
+              50,
+              73
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+            "url": "https://t.co/9MPlJaClCs",
+            "display_url": "pic.twitter.com/9MPlJaClCs",
+            "expanded_url": "http://twitter.com/bill_easterly/status/695255436476424192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1218,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bill_easterly",
+          "name": "William Easterly",
+          "id": 35810531,
+          "id_str": "35810531",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 695255435687886848,
+          "id_str": "695255435687886848",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+          "url": "https://t.co/9MPlJaClCs",
+          "display_url": "pic.twitter.com/9MPlJaClCs",
+          "expanded_url": "http://twitter.com/bill_easterly/status/695255436476424192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 695255436476424192,
+          "source_status_id_str": "695255436476424192",
+          "source_user_id": 35810531,
+          "source_user_id_str": "35810531"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 695255435687886848,
+          "id_str": "695255435687886848",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CaYLIphWAAAEYD-.jpg",
+          "url": "https://t.co/9MPlJaClCs",
+          "display_url": "pic.twitter.com/9MPlJaClCs",
+          "expanded_url": "http://twitter.com/bill_easterly/status/695255436476424192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 695255436476424192,
+          "source_status_id_str": "695255436476424192",
+          "source_user_id": 35810531,
+          "source_user_id_str": "35810531"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 23:10:48 +0000 2016",
+    "id": 696471200671727616,
+    "id_str": "696471200671727616",
+    "text": "A CEO who has integrity for real accountability? That's a very rare thing! https://t.co/IJxDT5dhCS",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 696470515993681920,
+    "quoted_status_id_str": "696470515993681920",
+    "quoted_status": {
+      "created_at": "Sun Feb 07 23:08:05 +0000 2016",
+      "id": 696470515993681920,
+      "id_str": "696470515993681920",
+      "text": "Credit Suisse CEO asks board to cut his bonus following quarterly results that sent bank's share price tumbling https://t.co/QxLGk5HR3A",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3108351,
+        "id_str": "3108351",
+        "name": "Wall Street Journal",
+        "screen_name": "WSJ",
+        "location": "New York, NY",
+        "description": "Breaking news and features from the WSJ. Tweets by @sarahmarshall @toddjolmstead @erinclarebrown @LaurenceWSJ @lmoliva_ and @carlazanoni.",
+        "url": "https://t.co/GhhR6PLfem",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GhhR6PLfem",
+                "expanded_url": "http://wsj.com",
+                "display_url": "wsj.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9734945,
+        "friends_count": 1059,
+        "listed_count": 96235,
+        "created_at": "Sun Apr 01 06:22:13 +0000 2007",
+        "favourites_count": 1291,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 143765,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "EDF2F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026078008/c07ad7d60f01c3a836dd701fc3f71233.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685113343204585473/jV72Zljq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685113343204585473/jV72Zljq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1432072212",
+        "profile_link_color": "1164B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 96,
+      "favorite_count": 88,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QxLGk5HR3A",
+            "expanded_url": "http://on.wsj.com/1PuHBm1",
+            "display_url": "on.wsj.com/1PuHBm1",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IJxDT5dhCS",
+          "expanded_url": "https://twitter.com/WSJ/status/696470515993681920",
+          "display_url": "twitter.com/WSJ/status/696…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 23:07:14 +0000 2016",
+    "id": 696470304080531456,
+    "id_str": "696470304080531456",
+    "text": "This is what Twitter Moments was really made for! --  \"The best commercials of Super Bowl 50\"\nhttps://t.co/UNZC6OHY3M",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UNZC6OHY3M",
+          "expanded_url": "https://twitter.com/i/moments/695046661609881601",
+          "display_url": "twitter.com/i/moments/6950…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 22:24:19 +0000 2016",
+    "id": 696459499947692033,
+    "id_str": "696459499947692033",
+    "text": "RT @newsycombinator: Driving Is Losing Its Allure for More Americans https://t.co/tglIzTjR6M",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 07 22:01:16 +0000 2016",
+      "id": 696453699749703681,
+      "id_str": "696453699749703681",
+      "text": "Driving Is Losing Its Allure for More Americans https://t.co/tglIzTjR6M",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 123476,
+        "friends_count": 2,
+        "listed_count": 6588,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 81133,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 12,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tglIzTjR6M",
+            "expanded_url": "http://www.wsj.com/articles/driving-losing-its-allure-for-more-americans-1453285801",
+            "display_url": "wsj.com/articles/drivi…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tglIzTjR6M",
+          "expanded_url": "http://www.wsj.com/articles/driving-losing-its-allure-for-more-americans-1453285801",
+          "display_url": "wsj.com/articles/drivi…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 22:15:16 +0000 2016",
+    "id": 696457222553899008,
+    "id_str": "696457222553899008",
+    "text": "RT @flipzagging: How projects actually ship http://t.co/TgFVuYVkex",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 20 19:33:00 +0000 2015",
+      "id": 634448062040162304,
+      "id_str": "634448062040162304",
+      "text": "How projects actually ship http://t.co/TgFVuYVkex",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 633793,
+        "id_str": "633793",
+        "name": "Neil Kandalgaonkar",
+        "screen_name": "flipzagging",
+        "location": "Vancouver, Canada",
+        "description": "Now: @SauceLabs Mobile R&D. Once: @Google, @UpcomingOrg, @Flickr, @Wikipedia.",
+        "url": "http://t.co/TDN8sHNPF4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TDN8sHNPF4",
+                "expanded_url": "http://neilk.net/",
+                "display_url": "neilk.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1159,
+        "friends_count": 462,
+        "listed_count": 79,
+        "created_at": "Sun Jan 14 22:24:38 +0000 2007",
+        "favourites_count": 4305,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12494,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220170048/2009-lamp-testing-dc2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220170048/2009-lamp-testing-dc2_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/633793/1398210558",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7d62cffe6f98f349",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json",
+        "place_type": "city",
+        "name": "San Jose",
+        "full_name": "San Jose, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.035311,
+                37.193164
+              ],
+              [
+                -121.71215,
+                37.193164
+              ],
+              [
+                -121.71215,
+                37.469154
+              ],
+              [
+                -122.035311,
+                37.469154
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4324,
+      "favorite_count": 3560,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 634448061138358274,
+            "id_str": "634448061138358274",
+            "indices": [
+              27,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+            "media_url_https": "https://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+            "url": "http://t.co/TgFVuYVkex",
+            "display_url": "pic.twitter.com/TgFVuYVkex",
+            "expanded_url": "http://twitter.com/flipzagging/status/634448062040162304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 298,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 350,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 350,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 634448061138358274,
+            "id_str": "634448061138358274",
+            "indices": [
+              27,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+            "media_url_https": "https://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+            "url": "http://t.co/TgFVuYVkex",
+            "display_url": "pic.twitter.com/TgFVuYVkex",
+            "expanded_url": "http://twitter.com/flipzagging/status/634448062040162304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 298,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 350,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 350,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4324,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "flipzagging",
+          "name": "Neil Kandalgaonkar",
+          "id": 633793,
+          "id_str": "633793",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 634448061138358274,
+          "id_str": "634448061138358274",
+          "indices": [
+            44,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+          "media_url_https": "https://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+          "url": "http://t.co/TgFVuYVkex",
+          "display_url": "pic.twitter.com/TgFVuYVkex",
+          "expanded_url": "http://twitter.com/flipzagging/status/634448062040162304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 298,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 350,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 350,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 634448062040162304,
+          "source_status_id_str": "634448062040162304",
+          "source_user_id": 633793,
+          "source_user_id_str": "633793"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 634448061138358274,
+          "id_str": "634448061138358274",
+          "indices": [
+            44,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+          "media_url_https": "https://pbs.twimg.com/media/CM4DJnCWUAI_Slu.png",
+          "url": "http://t.co/TgFVuYVkex",
+          "display_url": "pic.twitter.com/TgFVuYVkex",
+          "expanded_url": "http://twitter.com/flipzagging/status/634448062040162304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 298,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 350,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 350,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 634448062040162304,
+          "source_status_id_str": "634448062040162304",
+          "source_user_id": 633793,
+          "source_user_id_str": "633793"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 21:56:26 +0000 2016",
+    "id": 696452484357730304,
+    "id_str": "696452484357730304",
+    "text": "RT @xjoeduffyx: My next Midori essay is up, The Error Model, about our multi-year journey building a robust system. Enjoy! https://t.co/DSk…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 07 19:08:55 +0000 2016",
+      "id": 696410326888132608,
+      "id_str": "696410326888132608",
+      "text": "My next Midori essay is up, The Error Model, about our multi-year journey building a robust system. Enjoy! https://t.co/DSkwa53L8F #midori",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1591568383,
+        "id_str": "1591568383",
+        "name": "Joe Duffy",
+        "screen_name": "xjoeduffyx",
+        "location": "Mercer Island, WA",
+        "description": "Engineering director for languages, @microsoft. Big time code monkey.",
+        "url": "https://t.co/Xc5iNOeIdC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Xc5iNOeIdC",
+                "expanded_url": "http://joeduffyblog.com",
+                "display_url": "joeduffyblog.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2326,
+        "friends_count": 177,
+        "listed_count": 68,
+        "created_at": "Sat Jul 13 18:09:39 +0000 2013",
+        "favourites_count": 957,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1052,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657221949366538240/zqNbsYKc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657221949366538240/zqNbsYKc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591568383/1429975486",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 93,
+      "favorite_count": 105,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "midori",
+            "indices": [
+              131,
+              138
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DSkwa53L8F",
+            "expanded_url": "http://joeduffyblog.com/2016/02/07/the-error-model/",
+            "display_url": "joeduffyblog.com/2016/02/07/the…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 93,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "midori",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "xjoeduffyx",
+          "name": "Joe Duffy",
+          "id": 1591568383,
+          "id_str": "1591568383",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DSkwa53L8F",
+          "expanded_url": "http://joeduffyblog.com/2016/02/07/the-error-model/",
+          "display_url": "joeduffyblog.com/2016/02/07/the…",
+          "indices": [
+            123,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 21:53:52 +0000 2016",
+    "id": 696451839923871744,
+    "id_str": "696451839923871744",
+    "text": "RT @mashable: One thing that will be rare in this year's #SuperBowl commercials: sexism. https://t.co/hHLQMG1SKO",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 07 13:11:04 +0000 2016",
+      "id": 696320270462775296,
+      "id_str": "696320270462775296",
+      "text": "One thing that will be rare in this year's #SuperBowl commercials: sexism. https://t.co/hHLQMG1SKO",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 972651,
+        "id_str": "972651",
+        "name": "Mashable",
+        "screen_name": "mashable",
+        "location": "",
+        "description": "News, resources, inspiration and fun for the connected generation. Tweets by @mashable staff.",
+        "url": "http://t.co/1Gm8aVACKn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/1Gm8aVACKn",
+                "expanded_url": "http://mashable.com",
+                "display_url": "mashable.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6649818,
+        "friends_count": 2837,
+        "listed_count": 128256,
+        "created_at": "Mon Mar 12 01:28:01 +0000 2007",
+        "favourites_count": 595,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 177353,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00AEEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672144573725044737/eEOLvMTQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672144573725044737/eEOLvMTQ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+        "profile_link_color": "00AEEF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88DBF4",
+        "profile_text_color": "3B3B3B",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 99,
+      "favorite_count": 116,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SuperBowl",
+            "indices": [
+              43,
+              53
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hHLQMG1SKO",
+            "expanded_url": "http://on.mash.to/1PtE7QR",
+            "display_url": "on.mash.to/1PtE7QR",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 99,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperBowl",
+          "indices": [
+            57,
+            67
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mashable",
+          "name": "Mashable",
+          "id": 972651,
+          "id_str": "972651",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hHLQMG1SKO",
+          "expanded_url": "http://on.mash.to/1PtE7QR",
+          "display_url": "on.mash.to/1PtE7QR",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 21:53:00 +0000 2016",
+    "id": 696451622067539968,
+    "id_str": "696451622067539968",
+    "text": "The complex rules of Sticker Club https://t.co/0iN3Z9cr01",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0iN3Z9cr01",
+          "expanded_url": "https://opensource.com/business/15/11/open-source-stickers",
+          "display_url": "opensource.com/business/15/11…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Feb 07 20:27:05 +0000 2016",
+    "id": 696429998559760384,
+    "id_str": "696429998559760384",
+    "text": "Azure Resource Explorer is a great companion to the #Azure web portal. Here's a nice intro from @davidebbo https://t.co/8yKpyQdtVy",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Azure",
+          "indices": [
+            52,
+            58
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "davidebbo",
+          "name": "David Ebbo",
+          "id": 18367762,
+          "id_str": "18367762",
+          "indices": [
+            96,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8yKpyQdtVy",
+          "expanded_url": "https://azure.microsoft.com/en-us/documentation/videos/azure-resource-manager-explorer-with-david-ebbo/",
+          "display_url": "azure.microsoft.com/en-us/document…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Feb 05 17:35:58 +0000 2016",
     "id": 695662160626655232,
     "id_str": "695662160626655232",
