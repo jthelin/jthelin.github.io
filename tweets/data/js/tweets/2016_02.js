@@ -1,5 +1,319 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Thu Feb 11 21:12:42 +0000 2016",
+    "id": 697891030541082624,
+    "id_str": "697891030541082624",
+    "text": "Einstein’s Gravitational Waves Have Been Detected For The First Time - TechCrunch https://t.co/OGVzCDs9DZ",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OGVzCDs9DZ",
+          "expanded_url": "https://apple.news/Aq6QkypJgNFW1CDPtIOZ9Gg",
+          "display_url": "apple.news/Aq6QkypJgNFW1C…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 11 07:27:01 +0000 2016",
+    "id": 697683241763893248,
+    "id_str": "697683241763893248",
+    "text": "RT @odbmsorg: Orleans, the technology behind @Xbox #Halo4 and #Halo5. Interview with Phil Bernstein @MSFTResearch\nhttps://t.co/k519N1hMRr\n#…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 09 19:15:52 +0000 2016",
+      "id": 697136851241590785,
+      "id_str": "697136851241590785",
+      "text": "Orleans, the technology behind @Xbox #Halo4 and #Halo5. Interview with Phil Bernstein @MSFTResearch\nhttps://t.co/k519N1hMRr\n#Microsoft",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 68668492,
+        "id_str": "68668492",
+        "name": "odbms.org",
+        "screen_name": "odbmsorg",
+        "location": "San Francisco/ Frankfurt",
+        "description": "Prof. Roberto V. Zicari is the editor of http://t.co/Ns9apgfjzQ -The Resource Portal for Big Data, New Data Management Technologies and Data Science.",
+        "url": "http://t.co/o2L5Nsr25k",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/o2L5Nsr25k",
+                "expanded_url": "http://www.odbms.org",
+                "display_url": "odbms.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/Ns9apgfjzQ",
+                "expanded_url": "http://ODBMS.org",
+                "display_url": "ODBMS.org",
+                "indices": [
+                  41,
+                  63
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1813,
+        "friends_count": 1991,
+        "listed_count": 410,
+        "created_at": "Tue Aug 25 11:23:34 +0000 2009",
+        "favourites_count": 1346,
+        "utc_offset": 3600,
+        "time_zone": "Berlin",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11066,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F0F0E4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458961027887923200/6DqALjpt.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458961027887923200/6DqALjpt.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458967131015487488/C-MaLm5G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458967131015487488/C-MaLm5G_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68668492/1398258887",
+        "profile_link_color": "2C45D1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "9C9C9C",
+        "profile_text_color": "E6D1B1",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Halo4",
+            "indices": [
+              37,
+              43
+            ]
+          },
+          {
+            "text": "Halo5",
+            "indices": [
+              48,
+              54
+            ]
+          },
+          {
+            "text": "Microsoft",
+            "indices": [
+              124,
+              134
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Xbox",
+            "name": "Xbox",
+            "id": 24742040,
+            "id_str": "24742040",
+            "indices": [
+              31,
+              36
+            ]
+          },
+          {
+            "screen_name": "MSFTResearch",
+            "name": "Microsoft Research",
+            "id": 21457289,
+            "id_str": "21457289",
+            "indices": [
+              86,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/k519N1hMRr",
+            "expanded_url": "http://www.odbms.org/blog/2016/02/orleans-the-technology-behind-xbox-halo4-and-halo5-interview-with-phil-bernstein/",
+            "display_url": "odbms.org/blog/2016/02/o…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Halo4",
+          "indices": [
+            51,
+            57
+          ]
+        },
+        {
+          "text": "Halo5",
+          "indices": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "Microsoft",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "odbmsorg",
+          "name": "odbms.org",
+          "id": 68668492,
+          "id_str": "68668492",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "Xbox",
+          "name": "Xbox",
+          "id": 24742040,
+          "id_str": "24742040",
+          "indices": [
+            45,
+            50
+          ]
+        },
+        {
+          "screen_name": "MSFTResearch",
+          "name": "Microsoft Research",
+          "id": 21457289,
+          "id_str": "21457289",
+          "indices": [
+            100,
+            113
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k519N1hMRr",
+          "expanded_url": "http://www.odbms.org/blog/2016/02/orleans-the-technology-behind-xbox-halo4-and-halo5-interview-with-phil-bernstein/",
+          "display_url": "odbms.org/blog/2016/02/o…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Feb 09 17:57:34 +0000 2016",
     "id": 697117148045389824,
     "id_str": "697117148045389824",
