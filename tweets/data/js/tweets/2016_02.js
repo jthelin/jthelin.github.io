@@ -1,5 +1,532 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Fri Feb 12 06:26:04 +0000 2016",
+    "id": 698030290912964608,
+    "id_str": "698030290912964608",
+    "text": "RT @oss_csharp: spreads - Series and Panels for Real-time and Exploratory Analysis of Data Streams https://t.co/yURmzhsGjC",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 12 03:54:24 +0000 2016",
+      "id": 697992123023540224,
+      "id_str": "697992123023540224",
+      "text": "spreads - Series and Panels for Real-time and Exploratory Analysis of Data Streams https://t.co/yURmzhsGjC",
+      "source": "<a href=\"https://github.com/benbjohnson/scuttlebutt\" rel=\"nofollow\">Scuttlebuttd</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 261331094,
+        "id_str": "261331094",
+        "name": "C# OSS",
+        "screen_name": "oss_csharp",
+        "location": "",
+        "description": "A news feed of open source C# repos being talked about on Twitter. Maintained by @benbjohnson.",
+        "url": "https://t.co/oaZOTzG7r3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oaZOTzG7r3",
+                "expanded_url": "https://github.com/benbjohnson/scuttlebutt",
+                "display_url": "github.com/benbjohnson/sc…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2222,
+        "friends_count": 0,
+        "listed_count": 98,
+        "created_at": "Sat Mar 05 18:51:35 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": -25200,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1961,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/456556893347905536/hhFmhmdy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/456556893347905536/hhFmhmdy_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yURmzhsGjC",
+            "expanded_url": "https://github.com/spreads/spreads",
+            "display_url": "github.com/spreads/spreads",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "oss_csharp",
+          "name": "C# OSS",
+          "id": 261331094,
+          "id_str": "261331094",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yURmzhsGjC",
+          "expanded_url": "https://github.com/spreads/spreads",
+          "display_url": "github.com/spreads/spreads",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 12 06:24:18 +0000 2016",
+    "id": 698029843816951808,
+    "id_str": "698029843816951808",
+    "text": "RT @mikelikesitalot: Virtual tour of the Microsoft #Azure data centers: https://t.co/Azn4xOtI6T",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 12 03:57:56 +0000 2016",
+      "id": 697993008709570562,
+      "id_str": "697993008709570562",
+      "text": "Virtual tour of the Microsoft #Azure data centers: https://t.co/Azn4xOtI6T",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 38332268,
+        "id_str": "38332268",
+        "name": "Michael Yeaney",
+        "screen_name": "mikelikesitalot",
+        "location": "State College, PA",
+        "description": "Cloud Solution Architect at Microsoft, geek, and working on being an awesome maker-Dad.",
+        "url": "http://t.co/rERO54C72L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/rERO54C72L",
+                "expanded_url": "http://mjyeaney.github.io/",
+                "display_url": "mjyeaney.github.io",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 297,
+        "listed_count": 31,
+        "created_at": "Thu May 07 01:26:46 +0000 2009",
+        "favourites_count": 1553,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3575,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605764665231208448/bemMzTY7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605764665231208448/bemMzTY7.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/460774122038263808/DVvg3PkH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/460774122038263808/DVvg3PkH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38332268/1360290435",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Azure",
+            "indices": [
+              30,
+              36
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Azn4xOtI6T",
+            "expanded_url": "https://www.microsoft.com/en-us/server-cloud/ms.datacenter.tour/datacenter/",
+            "display_url": "microsoft.com/en-us/server-c…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Azure",
+          "indices": [
+            51,
+            57
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mikelikesitalot",
+          "name": "Michael Yeaney",
+          "id": 38332268,
+          "id_str": "38332268",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Azn4xOtI6T",
+          "expanded_url": "https://www.microsoft.com/en-us/server-cloud/ms.datacenter.tour/datacenter/",
+          "display_url": "microsoft.com/en-us/server-c…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 12 05:54:35 +0000 2016",
+    "id": 698022365695881216,
+    "id_str": "698022365695881216",
+    "text": "RT @newsycombinator: Netflix Shuts Down Final Bits of Own Data Center Infrastructure https://t.co/eyREzBW6wm",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 12 05:01:22 +0000 2016",
+      "id": 698008972259885056,
+      "id_str": "698008972259885056",
+      "text": "Netflix Shuts Down Final Bits of Own Data Center Infrastructure https://t.co/eyREzBW6wm",
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 123722,
+        "friends_count": 2,
+        "listed_count": 6589,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 81224,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 36,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eyREzBW6wm",
+            "expanded_url": "http://www.datacenterknowledge.com/archives/2016/02/11/netflix-shuts-down-final-bits-of-own-data-center-infrastructure/",
+            "display_url": "datacenterknowledge.com/archives/2016/…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eyREzBW6wm",
+          "expanded_url": "http://www.datacenterknowledge.com/archives/2016/02/11/netflix-shuts-down-final-bits-of-own-data-center-infrastructure/",
+          "display_url": "datacenterknowledge.com/archives/2016/…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Feb 11 21:12:42 +0000 2016",
     "id": 697891030541082624,
     "id_str": "697891030541082624",
