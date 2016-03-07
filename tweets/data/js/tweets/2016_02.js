@@ -1,5 +1,677 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Mon Feb 29 16:08:31 +0000 2016",
+    "id": 704337461321682944,
+    "id_str": "704337461321682944",
+    "text": "RT @PCMag: Raspberry Pi 3 Offers Big Performance Leap, Same $35 Price: https://t.co/cMM29JgOBs https://t.co/98sNhFSlLj",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 29 16:00:10 +0000 2016",
+      "id": 704335360126525441,
+      "id_str": "704335360126525441",
+      "text": "Raspberry Pi 3 Offers Big Performance Leap, Same $35 Price: https://t.co/cMM29JgOBs https://t.co/98sNhFSlLj",
+      "truncated": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15066271,
+        "id_str": "15066271",
+        "name": "PCMag",
+        "screen_name": "PCMag",
+        "location": "New York, NY",
+        "description": "Redefining technology news and reviews since 1982.",
+        "url": "http://t.co/TyRVHVPBr6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TyRVHVPBr6",
+                "expanded_url": "http://www.pcmag.com",
+                "display_url": "pcmag.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 310249,
+        "friends_count": 811,
+        "listed_count": 8245,
+        "created_at": "Mon Jun 09 22:01:33 +0000 2008",
+        "favourites_count": 396,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 25665,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687384377735659520/zrmTBplP.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/687384377735659520/zrmTBplP.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615477602166407168/fXzrvYmG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615477602166407168/fXzrvYmG_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15066271/1402340813",
+        "profile_link_color": "E2030A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BABABA",
+        "profile_text_color": "3B3B3B",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 32,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cMM29JgOBs",
+            "expanded_url": "http://bit.ly/21DCVlv",
+            "display_url": "bit.ly/21DCVlv",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 704335359996518400,
+            "id_str": "704335359996518400",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+            "url": "https://t.co/98sNhFSlLj",
+            "display_url": "pic.twitter.com/98sNhFSlLj",
+            "expanded_url": "http://twitter.com/PCMag/status/704335360126525441/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 192,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 740,
+                "h": 417,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704335359996518400,
+            "id_str": "704335359996518400",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+            "url": "https://t.co/98sNhFSlLj",
+            "display_url": "pic.twitter.com/98sNhFSlLj",
+            "expanded_url": "http://twitter.com/PCMag/status/704335360126525441/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 192,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 740,
+                "h": 417,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "PCMag",
+          "name": "PCMag",
+          "id": 15066271,
+          "id_str": "15066271",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cMM29JgOBs",
+          "expanded_url": "http://bit.ly/21DCVlv",
+          "display_url": "bit.ly/21DCVlv",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 704335359996518400,
+          "id_str": "704335359996518400",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+          "url": "https://t.co/98sNhFSlLj",
+          "display_url": "pic.twitter.com/98sNhFSlLj",
+          "expanded_url": "http://twitter.com/PCMag/status/704335360126525441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 740,
+              "h": 417,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 704335360126525441,
+          "source_status_id_str": "704335360126525441",
+          "source_user_id": 15066271,
+          "source_user_id_str": "15066271"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 704335359996518400,
+          "id_str": "704335359996518400",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcZNRzdW4AAGI16.jpg",
+          "url": "https://t.co/98sNhFSlLj",
+          "display_url": "pic.twitter.com/98sNhFSlLj",
+          "expanded_url": "http://twitter.com/PCMag/status/704335360126525441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 740,
+              "h": 417,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 704335360126525441,
+          "source_status_id_str": "704335360126525441",
+          "source_user_id": 15066271,
+          "source_user_id_str": "15066271"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 29 16:06:57 +0000 2016",
+    "id": 704337067132583937,
+    "id_str": "704337067132583937",
+    "text": "RT @WindowsITPro: Security Sense: These Days, A Car is Just Another IoT Device https://t.co/mPb8TWyLer https://t.co/FGpehibOi7",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 29 16:01:22 +0000 2016",
+      "id": 704335662762364928,
+      "id_str": "704335662762364928",
+      "text": "Security Sense: These Days, A Car is Just Another IoT Device https://t.co/mPb8TWyLer https://t.co/FGpehibOi7",
+      "truncated": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17601852,
+        "id_str": "17601852",
+        "name": "Windows IT Pro",
+        "screen_name": "WindowsITPro",
+        "location": "Fort Collins, CO",
+        "description": "The independent resource for Microsoft product news, information, and community.",
+        "url": "http://t.co/6QICEWfCEj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/6QICEWfCEj",
+                "expanded_url": "http://www.windowsitpro.com",
+                "display_url": "windowsitpro.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16805,
+        "friends_count": 1594,
+        "listed_count": 757,
+        "created_at": "Mon Nov 24 21:32:22 +0000 2008",
+        "favourites_count": 8,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25615,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3890C7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/869203792/933b9081c9970803e083ad0e5cc212e2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/869203792/933b9081c9970803e083ad0e5cc212e2.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3663013956/989574ee127fab4a98cffcbf4ac1cef7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3663013956/989574ee127fab4a98cffcbf4ac1cef7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17601852/1368637836",
+        "profile_link_color": "051254",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "87A38D",
+        "profile_text_color": "795D4F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mPb8TWyLer",
+            "expanded_url": "http://buff.ly/1TKUmxZ",
+            "display_url": "buff.ly/1TKUmxZ",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 704335662619758592,
+            "id_str": "704335662619758592",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+            "url": "https://t.co/FGpehibOi7",
+            "display_url": "pic.twitter.com/FGpehibOi7",
+            "expanded_url": "http://twitter.com/WindowsITPro/status/704335662762364928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 595,
+                "h": 335,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 595,
+                "h": 335,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704335662619758592,
+            "id_str": "704335662619758592",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+            "url": "https://t.co/FGpehibOi7",
+            "display_url": "pic.twitter.com/FGpehibOi7",
+            "expanded_url": "http://twitter.com/WindowsITPro/status/704335662762364928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 595,
+                "h": 335,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 595,
+                "h": 335,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WindowsITPro",
+          "name": "Windows IT Pro",
+          "id": 17601852,
+          "id_str": "17601852",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mPb8TWyLer",
+          "expanded_url": "http://buff.ly/1TKUmxZ",
+          "display_url": "buff.ly/1TKUmxZ",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 704335662619758592,
+          "id_str": "704335662619758592",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+          "url": "https://t.co/FGpehibOi7",
+          "display_url": "pic.twitter.com/FGpehibOi7",
+          "expanded_url": "http://twitter.com/WindowsITPro/status/704335662762364928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 595,
+              "h": 335,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 595,
+              "h": 335,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 704335662762364928,
+          "source_status_id_str": "704335662762364928",
+          "source_user_id": 17601852,
+          "source_user_id_str": "17601852"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 704335662619758592,
+          "id_str": "704335662619758592",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcZNja0XEAAFIin.jpg",
+          "url": "https://t.co/FGpehibOi7",
+          "display_url": "pic.twitter.com/FGpehibOi7",
+          "expanded_url": "http://twitter.com/WindowsITPro/status/704335662762364928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 595,
+              "h": 335,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 595,
+              "h": 335,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 704335662762364928,
+          "source_status_id_str": "704335662762364928",
+          "source_user_id": 17601852,
+          "source_user_id_str": "17601852"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Feb 28 20:04:53 +0000 2016",
     "id": 704034555578036224,
     "id_str": "704034555578036224",
