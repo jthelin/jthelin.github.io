@@ -1,5 +1,388 @@
 Grailbird.data.tweets_2016_03 = [
   {
+    "created_at": "Mon Mar 07 16:01:09 +0000 2016",
+    "id": 706872321915498496,
+    "id_str": "706872321915498496",
+    "text": "RT @WhiteHouse: \"As a mark of respect for the memory of Nancy Reagan...the flag of the United States shall be flown at half-staff\" https://…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Mar 07 15:46:48 +0000 2016",
+      "id": 706868713589493761,
+      "id_str": "706868713589493761",
+      "text": "\"As a mark of respect for the memory of Nancy Reagan...the flag of the United States shall be flown at half-staff\" https://t.co/MsK8itEFHs",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 30313925,
+        "id_str": "30313925",
+        "name": "The White House",
+        "screen_name": "WhiteHouse",
+        "location": "Washington, DC",
+        "description": "Follow for the latest from President Obama and his Administration. For tweets from the President, follow @POTUS. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+        "url": "http://t.co/NgUd6eRXCR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NgUd6eRXCR",
+                "expanded_url": "http://whitehouse.gov",
+                "display_url": "whitehouse.gov",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/eVVzoBb3Zr",
+                "expanded_url": "http://wh.gov/privacy",
+                "display_url": "wh.gov/privacy",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9477522,
+        "friends_count": 222,
+        "listed_count": 65128,
+        "created_at": "Fri Apr 10 21:10:30 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 23841,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "D0CFCB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013910263/9426106939082a6e8935fc31fe5efd31.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013910263/9426106939082a6e8935fc31fe5efd31.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686775860012150784/YI4gl12-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/686775860012150784/YI4gl12-_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30313925/1455032315",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E1E8EE",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 688,
+      "favorite_count": 1420,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 706868330187988992,
+            "id_str": "706868330187988992",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+            "url": "https://t.co/MsK8itEFHs",
+            "display_url": "pic.twitter.com/MsK8itEFHs",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/706868713589493761/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 706868330187988992,
+            "id_str": "706868330187988992",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+            "url": "https://t.co/MsK8itEFHs",
+            "display_url": "pic.twitter.com/MsK8itEFHs",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/706868713589493761/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 688,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WhiteHouse",
+          "name": "The White House",
+          "id": 30313925,
+          "id_str": "30313925",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 706868330187988992,
+          "id_str": "706868330187988992",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+          "url": "https://t.co/MsK8itEFHs",
+          "display_url": "pic.twitter.com/MsK8itEFHs",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/706868713589493761/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 706868713589493761,
+          "source_status_id_str": "706868713589493761",
+          "source_user_id": 30313925,
+          "source_user_id_str": "30313925"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 706868330187988992,
+          "id_str": "706868330187988992",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cc9NAEvUIAA1TRW.jpg",
+          "url": "https://t.co/MsK8itEFHs",
+          "display_url": "pic.twitter.com/MsK8itEFHs",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/706868713589493761/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 706868713589493761,
+          "source_status_id_str": "706868713589493761",
+          "source_user_id": 30313925,
+          "source_user_id_str": "30313925"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 07 15:57:37 +0000 2016",
+    "id": 706871433624838144,
+    "id_str": "706871433624838144",
+    "text": "@gkliot And RAFT is the new PAXOS! ;)",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 706746634932064258,
+    "in_reply_to_status_id_str": "706746634932064258",
+    "in_reply_to_user_id": 738071048,
+    "in_reply_to_user_id_str": "738071048",
+    "in_reply_to_screen_name": "gkliot",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gkliot",
+          "name": "Gabriel Kliot",
+          "id": 738071048,
+          "id_str": "738071048",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Mar 07 05:24:12 +0000 2016",
     "id": 706712030460268544,
     "id_str": "706712030460268544",
