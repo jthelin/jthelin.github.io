@@ -1,5 +1,481 @@
 Grailbird.data.tweets_2016_03 = [
   {
+    "created_at": "Wed Mar 09 05:51:05 +0000 2016",
+    "id": 707443569112563712,
+    "id_str": "707443569112563712",
+    "text": "How to debug an autonomous vehicle. By @AndyGrove73  https://t.co/BMJnQG3ISg",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "andygrove73",
+          "name": "Andy Grove",
+          "id": 3024251804,
+          "id_str": "3024251804",
+          "indices": [
+            39,
+            51
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BMJnQG3ISg",
+          "expanded_url": "http://theotherandygrove.com/how-to-debug-an-autonomous-vehicle/",
+          "display_url": "theotherandygrove.com/how-to-debug-a…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 08 19:58:11 +0000 2016",
+    "id": 707294362082811905,
+    "id_str": "707294362082811905",
+    "text": "My home for the next 2 days! #TechFest @MSFTResearch https://t.co/kJVinU7cqs",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "07d9d214d6883004",
+      "url": "https://api.twitter.com/1.1/geo/id/07d9d214d6883004.json",
+      "place_type": "poi",
+      "name": "Microsoft Conference Center / Executive Briefing Center",
+      "full_name": "Microsoft Conference Center / Executive Briefing Center",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.12530139952335,
+              47.64279916368528
+            ],
+            [
+              -122.12530139952335,
+              47.64279916368528
+            ],
+            [
+              -122.12530139952335,
+              47.64279916368528
+            ],
+            [
+              -122.12530139952335,
+              47.64279916368528
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TechFest",
+          "indices": [
+            29,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MSFTResearch",
+          "name": "Microsoft Research",
+          "id": 21457289,
+          "id_str": "21457289",
+          "indices": [
+            39,
+            52
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 707294361898209280,
+          "id_str": "707294361898209280",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/CdDQeYiUUAAnm9y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdDQeYiUUAAnm9y.jpg",
+          "url": "https://t.co/kJVinU7cqs",
+          "display_url": "pic.twitter.com/kJVinU7cqs",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/707294362082811905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 707294361898209280,
+          "id_str": "707294361898209280",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/CdDQeYiUUAAnm9y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdDQeYiUUAAnm9y.jpg",
+          "url": "https://t.co/kJVinU7cqs",
+          "display_url": "pic.twitter.com/kJVinU7cqs",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/707294362082811905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 08 16:35:55 +0000 2016",
+    "id": 707243462123397120,
+    "id_str": "707243462123397120",
+    "text": "RT @tpemurphy: Love this: https://t.co/7bvtx97G5w Reminds me of the definition of squirrels as 'bushy tailed rats with good PR' :)",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 08 16:31:09 +0000 2016",
+      "id": 707242262418165760,
+      "id_str": "707242262418165760",
+      "text": "Love this: https://t.co/7bvtx97G5w Reminds me of the definition of squirrels as 'bushy tailed rats with good PR' :)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 654403,
+        "id_str": "654403",
+        "name": "Tom Murphy",
+        "screen_name": "tpemurphy",
+        "location": "Redmond, WA, USA",
+        "description": "PR & Marcomms guy from Dublin. Live in Seattle. Talk about marketing, PR, social media, CSR, sports, & lots of random stuff... #Microsoft",
+        "url": "http://t.co/65je8I2CQF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/65je8I2CQF",
+                "expanded_url": "http://www.tpemurphy.com",
+                "display_url": "tpemurphy.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6541,
+        "friends_count": 5720,
+        "listed_count": 347,
+        "created_at": "Wed Jan 17 13:33:02 +0000 2007",
+        "favourites_count": 306,
+        "utc_offset": -28800,
+        "time_zone": "America/Los_Angeles",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7969,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451512340035272704/3h5mqhKM.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451512340035272704/3h5mqhKM.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567902283065610240/yHQC2AMd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567902283065610240/yHQC2AMd_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/654403/1405481218",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7bvtx97G5w",
+            "expanded_url": "http://pandawhale.com/post/20575/killer-whales-or-sea-pandas",
+            "display_url": "pandawhale.com/post/20575/kil…",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tpemurphy",
+          "name": "Tom Murphy",
+          "id": 654403,
+          "id_str": "654403",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7bvtx97G5w",
+          "expanded_url": "http://pandawhale.com/post/20575/killer-whales-or-sea-pandas",
+          "display_url": "pandawhale.com/post/20575/kil…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Mar 08 15:10:19 +0000 2016",
+    "id": 707221916298268672,
+    "id_str": "707221916298268672",
+    "text": "Another game launch plagued by server problems.Is it coincidence that doesn't seem to happen using @ProjectOrleans ?\nhttps://t.co/pRdTDy2p1H",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            99,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pRdTDy2p1H",
+          "expanded_url": "http://www.theouterhaven.net/2016/03/division-experiencing-server-issues/",
+          "display_url": "theouterhaven.net/2016/03/divisi…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Mar 07 16:01:09 +0000 2016",
     "id": 706872321915498496,
     "id_str": "706872321915498496",
