@@ -1,5 +1,3095 @@
 Grailbird.data.tweets_2016_03 = [
   {
+    "created_at": "Sat Mar 19 19:22:51 +0000 2016",
+    "id": 711271737317392384,
+    "id_str": "711271737317392384",
+    "text": "RT @PegasusMission: Pegasus II forecast for Mar 26th beyond operating parameters (81 miles radially).  Waiting for break in weather. Still …",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 19 10:18:59 +0000 2016",
+      "id": 711134869665873920,
+      "id_str": "711134869665873920",
+      "text": "Pegasus II forecast for Mar 26th beyond operating parameters (81 miles radially).  Waiting for break in weather. Still day-2-day.",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2984127754,
+        "id_str": "2984127754",
+        "name": "Pegasus Mission",
+        "screen_name": "PegasusMission",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 241,
+        "friends_count": 6,
+        "listed_count": 3,
+        "created_at": "Sun Jan 18 13:47:25 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 120,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563379197997899777/bAYkM6HP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563379197997899777/bAYkM6HP_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2984127754/1429960362",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "PegasusMission",
+          "name": "Pegasus Mission",
+          "id": 2984127754,
+          "id_str": "2984127754",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 19:20:26 +0000 2016",
+    "id": 711271130384891904,
+    "id_str": "711271130384891904",
+    "text": "RT @PatrickMcFadin: It was a matter of time but I'm surprised how soon. Redox – A Unix-Like Operating System Written in Rust https://t.co/n…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 19 15:26:54 +0000 2016",
+      "id": 711212360074010624,
+      "id_str": "711212360074010624",
+      "text": "It was a matter of time but I'm surprised how soon. Redox – A Unix-Like Operating System Written in Rust https://t.co/nSZaTvGKos",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 100711909,
+        "id_str": "100711909",
+        "name": "Patrick McFadin",
+        "screen_name": "PatrickMcFadin",
+        "location": "SF Bay Area North",
+        "description": "Chief Evangelist for Cassandra. Data Modeling. Operations. Architecture. DataStax. I travel the world educating and advocating. Can I help you?",
+        "url": "https://t.co/ZH5LEGeM9p",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZH5LEGeM9p",
+                "expanded_url": "http://www.linkedin.com/pub/patrick-mcfadin/6/804/53a",
+                "display_url": "linkedin.com/pub/patrick-mc…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5209,
+        "friends_count": 439,
+        "listed_count": 239,
+        "created_at": "Thu Dec 31 07:28:59 +0000 2009",
+        "favourites_count": 528,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7880,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000755380001/2853f269ab4c6c9e8718bb631fa7cf3e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000755380001/2853f269ab4c6c9e8718bb631fa7cf3e_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nSZaTvGKos",
+            "expanded_url": "http://www.redox-os.org/",
+            "display_url": "redox-os.org",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "PatrickMcFadin",
+          "name": "Patrick McFadin",
+          "id": 100711909,
+          "id_str": "100711909",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nSZaTvGKos",
+          "expanded_url": "http://www.redox-os.org/",
+          "display_url": "redox-os.org",
+          "indices": [
+            125,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 19:17:28 +0000 2016",
+    "id": 711270383677153281,
+    "id_str": "711270383677153281",
+    "text": "RT @DigitalTrends: Weekend Workshop: Wrap modern tech in retro style with a DIY Bluetooth Boombox https://t.co/0bUVACEMw7 https://t.co/c3dB…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 19 17:04:10 +0000 2016",
+      "id": 711236834626379776,
+      "id_str": "711236834626379776",
+      "text": "Weekend Workshop: Wrap modern tech in retro style with a DIY Bluetooth Boombox https://t.co/0bUVACEMw7 https://t.co/c3dBSeTve1",
+      "truncated": false,
+      "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14763734,
+        "id_str": "14763734",
+        "name": "Digital Trends",
+        "screen_name": "DigitalTrends",
+        "location": "Portland, OR, and New York, NY",
+        "description": "Follow for the best tech news, product reviews, and info for your digital lifestyle. | Instagram: @DigitalTrends | Snapchat: digitaltrends",
+        "url": "https://t.co/wxxwes6lsF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wxxwes6lsF",
+                "expanded_url": "http://www.digitaltrends.com",
+                "display_url": "digitaltrends.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 405552,
+        "friends_count": 304558,
+        "listed_count": 8055,
+        "created_at": "Tue May 13 20:01:41 +0000 2008",
+        "favourites_count": 2620,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 52089,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169461861/b6wn8EWJ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169461861/b6wn8EWJ.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/684244861587865603/T-8yNDuQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/684244861587865603/T-8yNDuQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14763734/1453417443",
+        "profile_link_color": "0095DA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "2D3C4F",
+        "profile_text_color": "878787",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 19,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0bUVACEMw7",
+            "expanded_url": "http://bit.ly/1ZdEnd0",
+            "display_url": "bit.ly/1ZdEnd0",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 711236834496360448,
+            "id_str": "711236834496360448",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+            "url": "https://t.co/c3dBSeTve1",
+            "display_url": "pic.twitter.com/c3dBSeTve1",
+            "expanded_url": "http://twitter.com/DigitalTrends/status/711236834626379776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 179,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 538,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 711236834496360448,
+            "id_str": "711236834496360448",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+            "url": "https://t.co/c3dBSeTve1",
+            "display_url": "pic.twitter.com/c3dBSeTve1",
+            "expanded_url": "http://twitter.com/DigitalTrends/status/711236834626379776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 179,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 538,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DigitalTrends",
+          "name": "Digital Trends",
+          "id": 14763734,
+          "id_str": "14763734",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0bUVACEMw7",
+          "expanded_url": "http://bit.ly/1ZdEnd0",
+          "display_url": "bit.ly/1ZdEnd0",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 711236834496360448,
+          "id_str": "711236834496360448",
+          "indices": [
+            122,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+          "url": "https://t.co/c3dBSeTve1",
+          "display_url": "pic.twitter.com/c3dBSeTve1",
+          "expanded_url": "http://twitter.com/DigitalTrends/status/711236834626379776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 179,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 538,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 711236834626379776,
+          "source_status_id_str": "711236834626379776",
+          "source_user_id": 14763734,
+          "source_user_id_str": "14763734"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 711236834496360448,
+          "id_str": "711236834496360448",
+          "indices": [
+            122,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cd7SIfdUMAAXvh4.jpg",
+          "url": "https://t.co/c3dBSeTve1",
+          "display_url": "pic.twitter.com/c3dBSeTve1",
+          "expanded_url": "http://twitter.com/DigitalTrends/status/711236834626379776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 179,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 538,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 711236834626379776,
+          "source_status_id_str": "711236834626379776",
+          "source_user_id": 14763734,
+          "source_user_id_str": "14763734"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 19:16:00 +0000 2016",
+    "id": 711270013173309440,
+    "id_str": "711270013173309440",
+    "text": "RT @dharmeshkakadia: Dragon: A distributed graph query engine from Facebook https://t.co/ASlX8i5UZN",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 19 19:01:37 +0000 2016",
+      "id": 711266392968826881,
+      "id_str": "711266392968826881",
+      "text": "Dragon: A distributed graph query engine from Facebook https://t.co/ASlX8i5UZN",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 348294615,
+        "id_str": "348294615",
+        "name": "Dharmesh Kakadia",
+        "screen_name": "dharmeshkakadia",
+        "location": "",
+        "description": "Learner. @ Microsoft Research India. IIIT-H alumnus. Likes Data and Distributed Systems. Author of Apache Mesos Essentials - https://t.co/gESRezpLe1",
+        "url": "http://t.co/dJ2ToLoKEY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/dJ2ToLoKEY",
+                "expanded_url": "http://researchweb.iiit.ac.in/~dharmesh.kakadia/",
+                "display_url": "researchweb.iiit.ac.in/~dharmesh.kaka…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/gESRezpLe1",
+                "expanded_url": "https://www.packtpub.com/big-data-and-business-intelligence/apache-mesos-essentials",
+                "display_url": "packtpub.com/big-data-and-b…",
+                "indices": [
+                  125,
+                  148
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 504,
+        "friends_count": 1506,
+        "listed_count": 59,
+        "created_at": "Thu Aug 04 05:45:10 +0000 2011",
+        "favourites_count": 1223,
+        "utc_offset": 19800,
+        "time_zone": "Mumbai",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2674,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642014276928995329/uCYsxp2f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642014276928995329/uCYsxp2f_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 11,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ASlX8i5UZN",
+            "expanded_url": "http://pocket.co/soWpAP",
+            "display_url": "pocket.co/soWpAP",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dharmeshkakadia",
+          "name": "Dharmesh Kakadia",
+          "id": 348294615,
+          "id_str": "348294615",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ASlX8i5UZN",
+          "expanded_url": "http://pocket.co/soWpAP",
+          "display_url": "pocket.co/soWpAP",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 03:38:18 +0000 2016",
+    "id": 711034034638327809,
+    "id_str": "711034034638327809",
+    "text": "RT @Azure: Announcing the #Docker Volume Plugin for #Azure File Storage! See how it works: https://t.co/hsRdpV6tvO",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 18 18:00:01 +0000 2016",
+      "id": 710888503819825152,
+      "id_str": "710888503819825152",
+      "text": "Announcing the #Docker Volume Plugin for #Azure File Storage! See how it works: https://t.co/hsRdpV6tvO",
+      "truncated": false,
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17000457,
+        "id_str": "17000457",
+        "name": "Microsoft Azure",
+        "screen_name": "Azure",
+        "location": "Redmond, WA",
+        "description": "The official account for Microsoft Azure. Follow for news and updates from the team and community.",
+        "url": "http://t.co/vFtkLITsAX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/vFtkLITsAX",
+                "expanded_url": "http://azure.microsoft.com",
+                "display_url": "azure.microsoft.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 436532,
+        "friends_count": 2945,
+        "listed_count": 4738,
+        "created_at": "Mon Oct 27 15:34:46 +0000 2008",
+        "favourites_count": 1840,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 18386,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451786593955610624/iomf2rSv.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451786593955610624/iomf2rSv.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/546024114272468993/W9gT7hZo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/546024114272468993/W9gT7hZo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17000457/1440619501",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 69,
+      "favorite_count": 67,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Docker",
+            "indices": [
+              15,
+              22
+            ]
+          },
+          {
+            "text": "Azure",
+            "indices": [
+              41,
+              47
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hsRdpV6tvO",
+            "expanded_url": "http://msft.it/6012BgBg8",
+            "display_url": "msft.it/6012BgBg8",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 69,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Docker",
+          "indices": [
+            26,
+            33
+          ]
+        },
+        {
+          "text": "Azure",
+          "indices": [
+            52,
+            58
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Azure",
+          "name": "Microsoft Azure",
+          "id": 17000457,
+          "id_str": "17000457",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hsRdpV6tvO",
+          "expanded_url": "http://msft.it/6012BgBg8",
+          "display_url": "msft.it/6012BgBg8",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 05:20:48 +0000 2016",
+    "id": 710697438156185601,
+    "id_str": "710697438156185601",
+    "text": "RT @TwitterEng: How we added strong consistency to Manhattan, our distributed key/value database #TwitterManhattan https://t.co/gNvjqACk0n",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 17 21:37:26 +0000 2016",
+      "id": 710580831094382593,
+      "id_str": "710580831094382593",
+      "text": "How we added strong consistency to Manhattan, our distributed key/value database #TwitterManhattan https://t.co/gNvjqACk0n",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6844292,
+        "id_str": "6844292",
+        "name": "Twitter Engineering",
+        "screen_name": "TwitterEng",
+        "location": "San Francisco, CA",
+        "description": "The official account for Twitter Engineering.",
+        "url": "http://t.co/gJvsjUZJ3O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gJvsjUZJ3O",
+                "expanded_url": "http://engineering.twitter.com",
+                "display_url": "engineering.twitter.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1092266,
+        "friends_count": 2,
+        "listed_count": 4063,
+        "created_at": "Sat Jun 16 00:14:36 +0000 2007",
+        "favourites_count": 9,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 336,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2284174594/apcu4c9tu2zkefnev0jt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2284174594/apcu4c9tu2zkefnev0jt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6844292/1396958504",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 73,
+      "favorite_count": 107,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TwitterManhattan",
+            "indices": [
+              81,
+              98
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gNvjqACk0n",
+            "expanded_url": "https://blog.twitter.com/2016/strong-consistency-in-manhattan",
+            "display_url": "blog.twitter.com/2016/strong-co…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 73,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TwitterManhattan",
+          "indices": [
+            97,
+            114
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TwitterEng",
+          "name": "Twitter Engineering",
+          "id": 6844292,
+          "id_str": "6844292",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gNvjqACk0n",
+          "expanded_url": "https://blog.twitter.com/2016/strong-consistency-in-manhattan",
+          "display_url": "blog.twitter.com/2016/strong-co…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 21:18:25 +0000 2016",
+    "id": 710576043808071680,
+    "id_str": "710576043808071680",
+    "text": "A brief history of C# style and related style checking tools. #DotNet #StyleCop #FxCop #FrameworkDesignGuide \nhttps://t.co/AinADpecbw",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DotNet",
+          "indices": [
+            62,
+            69
+          ]
+        },
+        {
+          "text": "StyleCop",
+          "indices": [
+            70,
+            79
+          ]
+        },
+        {
+          "text": "FxCop",
+          "indices": [
+            80,
+            86
+          ]
+        },
+        {
+          "text": "FrameworkDesignGuide",
+          "indices": [
+            87,
+            108
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AinADpecbw",
+          "expanded_url": "https://blogs.msdn.microsoft.com/sourceanalysis/2008/05/25/a-brief-history-of-c-style/",
+          "display_url": "blogs.msdn.microsoft.com/sourceanalysis…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 02:16:55 +0000 2016",
+    "id": 710288778200363008,
+    "id_str": "710288778200363008",
+    "text": "RT @mikelikesitalot: Important changes coming for Service Bus and Events Hubs: https://t.co/72gFCG77Nm   #azure",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 17 02:06:14 +0000 2016",
+      "id": 710286085990064129,
+      "id_str": "710286085990064129",
+      "text": "Important changes coming for Service Bus and Events Hubs: https://t.co/72gFCG77Nm   #azure",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 38332268,
+        "id_str": "38332268",
+        "name": "Michael Yeaney",
+        "screen_name": "mikelikesitalot",
+        "location": "State College, PA",
+        "description": "Cloud Solution Architect at Microsoft, geek, and working on being an awesome maker-Dad.",
+        "url": "http://t.co/rERO54C72L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/rERO54C72L",
+                "expanded_url": "http://mjyeaney.github.io/",
+                "display_url": "mjyeaney.github.io",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 296,
+        "listed_count": 30,
+        "created_at": "Thu May 07 01:26:46 +0000 2009",
+        "favourites_count": 1600,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3678,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605764665231208448/bemMzTY7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605764665231208448/bemMzTY7.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/460774122038263808/DVvg3PkH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/460774122038263808/DVvg3PkH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38332268/1360290435",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "azure",
+            "indices": [
+              84,
+              90
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/72gFCG77Nm",
+            "expanded_url": "https://azure.microsoft.com/en-us/blog/important-changes-coming-for-service-bus-and-events-hubs/",
+            "display_url": "azure.microsoft.com/en-us/blog/imp…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "azure",
+          "indices": [
+            105,
+            111
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mikelikesitalot",
+          "name": "Michael Yeaney",
+          "id": 38332268,
+          "id_str": "38332268",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/72gFCG77Nm",
+          "expanded_url": "https://azure.microsoft.com/en-us/blog/important-changes-coming-for-service-bus-and-events-hubs/",
+          "display_url": "azure.microsoft.com/en-us/blog/imp…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 02:08:12 +0000 2016",
+    "id": 710286584885547016,
+    "id_str": "710286584885547016",
+    "text": "RT @opensourceway: Turn your old Raspberry Pi into an automatic backup server: https://t.co/KLZvB3TBuc",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 17 00:07:00 +0000 2016",
+      "id": 710256083487498241,
+      "id_str": "710256083487498241",
+      "text": "Turn your old Raspberry Pi into an automatic backup server: https://t.co/KLZvB3TBuc",
+      "truncated": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 80589255,
+        "id_str": "80589255",
+        "name": "Open Source Way",
+        "screen_name": "opensourceway",
+        "location": "",
+        "description": "Discover an open source world. Tweets from http://t.co/olzt8M25oa",
+        "url": "http://t.co/LKeSWDNTm2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/LKeSWDNTm2",
+                "expanded_url": "http://www.opensource.com",
+                "display_url": "opensource.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/olzt8M25oa",
+                "expanded_url": "http://opensource.com",
+                "display_url": "opensource.com",
+                "indices": [
+                  43,
+                  65
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 30216,
+        "friends_count": 6452,
+        "listed_count": 1773,
+        "created_at": "Wed Oct 07 14:25:06 +0000 2009",
+        "favourites_count": 6894,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29717,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/469124620969185280/4EsGseYv.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/469124620969185280/4EsGseYv.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469124275572453376/8fd3035c_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469124275572453376/8fd3035c_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80589255/1400683504",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 16,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KLZvB3TBuc",
+            "expanded_url": "http://red.ht/1RmtoHW",
+            "display_url": "red.ht/1RmtoHW",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "opensourceway",
+          "name": "Open Source Way",
+          "id": 80589255,
+          "id_str": "80589255",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KLZvB3TBuc",
+          "expanded_url": "http://red.ht/1RmtoHW",
+          "display_url": "red.ht/1RmtoHW",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 01:55:43 +0000 2016",
+    "id": 710283441728651264,
+    "id_str": "710283441728651264",
+    "text": "RT @appleinsider: Study seeks to detect strokes with #AppleWatch, Cardiogram HealthKit-enabled app https://t.co/DSCNEPyFso https://t.co/sfr…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 17 01:38:10 +0000 2016",
+      "id": 710279026615525377,
+      "id_str": "710279026615525377",
+      "text": "Study seeks to detect strokes with #AppleWatch, Cardiogram HealthKit-enabled app https://t.co/DSCNEPyFso https://t.co/sfrsYKCpmk",
+      "truncated": false,
+      "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20542450,
+        "id_str": "20542450",
+        "name": "AppleInsider",
+        "screen_name": "appleinsider",
+        "location": "Cupertino, California",
+        "description": "In-depth Apple news, analysis, reviews, how-tos and more since 1997. Like us on Facebook at: http://t.co/4sonFyLhfu",
+        "url": "http://t.co/md1VnraJc5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/md1VnraJc5",
+                "expanded_url": "http://www.appleinsider.com",
+                "display_url": "appleinsider.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/4sonFyLhfu",
+                "expanded_url": "http://facebook.com/appleinsiderdotcom",
+                "display_url": "facebook.com/appleinsiderdo…",
+                "indices": [
+                  93,
+                  115
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 245007,
+        "friends_count": 34,
+        "listed_count": 9692,
+        "created_at": "Tue Feb 10 20:27:09 +0000 2009",
+        "favourites_count": 1282,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 24201,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563064706462535680/h1p6ZJ7V_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563064706462535680/h1p6ZJ7V_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20542450/1436810030",
+        "profile_link_color": "4A535A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 29,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AppleWatch",
+            "indices": [
+              35,
+              46
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DSCNEPyFso",
+            "expanded_url": "http://ainsdr.co/1QYYOZe",
+            "display_url": "ainsdr.co/1QYYOZe",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 710279026514857984,
+            "id_str": "710279026514857984",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+            "url": "https://t.co/sfrsYKCpmk",
+            "display_url": "pic.twitter.com/sfrsYKCpmk",
+            "expanded_url": "http://twitter.com/appleinsider/status/710279026615525377/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 395,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 526,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 224,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 710279026514857984,
+            "id_str": "710279026514857984",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+            "url": "https://t.co/sfrsYKCpmk",
+            "display_url": "pic.twitter.com/sfrsYKCpmk",
+            "expanded_url": "http://twitter.com/appleinsider/status/710279026615525377/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 395,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 526,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 224,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AppleWatch",
+          "indices": [
+            53,
+            64
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "appleinsider",
+          "name": "AppleInsider",
+          "id": 20542450,
+          "id_str": "20542450",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DSCNEPyFso",
+          "expanded_url": "http://ainsdr.co/1QYYOZe",
+          "display_url": "ainsdr.co/1QYYOZe",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 710279026514857984,
+          "id_str": "710279026514857984",
+          "indices": [
+            123,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+          "url": "https://t.co/sfrsYKCpmk",
+          "display_url": "pic.twitter.com/sfrsYKCpmk",
+          "expanded_url": "http://twitter.com/appleinsider/status/710279026615525377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 395,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 526,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 224,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 710279026615525377,
+          "source_status_id_str": "710279026615525377",
+          "source_user_id": 20542450,
+          "source_user_id_str": "20542450"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 710279026514857984,
+          "id_str": "710279026514857984",
+          "indices": [
+            123,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdtrAurUEAAx9Jh.jpg",
+          "url": "https://t.co/sfrsYKCpmk",
+          "display_url": "pic.twitter.com/sfrsYKCpmk",
+          "expanded_url": "http://twitter.com/appleinsider/status/710279026615525377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 395,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 526,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 224,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 710279026615525377,
+          "source_status_id_str": "710279026615525377",
+          "source_user_id": 20542450,
+          "source_user_id_str": "20542450"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 16 23:51:42 +0000 2016",
+    "id": 710252230008397824,
+    "id_str": "710252230008397824",
+    "text": "30 Years of “Hello, World” - DZone https://t.co/cebtEtovkq",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cebtEtovkq",
+          "expanded_url": "https://apple.news/AQHLPp-2mNkiD9_7-Y4pQQA",
+          "display_url": "apple.news/AQHLPp-2mNkiD9…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 16 14:52:44 +0000 2016",
+    "id": 710116594060365824,
+    "id_str": "710116594060365824",
+    "text": "RT @sbykov_work: .@projectorleans on @Forbes as part of \"Microsoft has got the best IoT reference architecture with Pegasus 2.\"   https://t…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 16 04:31:11 +0000 2016",
+      "id": 709960179543052288,
+      "id_str": "709960179543052288",
+      "text": ".@projectorleans on @Forbes as part of \"Microsoft has got the best IoT reference architecture with Pegasus 2.\"   https://t.co/wDkgh3hUxt",
+      "truncated": false,
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2421698636,
+        "id_str": "2421698636",
+        "name": "Sergey Bykov",
+        "screen_name": "sbykov_work",
+        "location": "Redmond WA, USA",
+        "description": "Lead of the Orleans project at Microsoft. Acting on actors.",
+        "url": "https://t.co/z6wj6MChiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z6wj6MChiI",
+                "expanded_url": "https://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 559,
+        "friends_count": 164,
+        "listed_count": 32,
+        "created_at": "Tue Apr 01 07:15:10 +0000 2014",
+        "favourites_count": 728,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2394,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 709401198995087360,
+      "quoted_status_id_str": "709401198995087360",
+      "quoted_status": {
+        "created_at": "Mon Mar 14 15:30:00 +0000 2016",
+        "id": 709401198995087360,
+        "id_str": "709401198995087360",
+        "text": "#MSFTResearch is deploying a balloon in the stratosphere which is connected to #AzureIoT. Read via @Forbes: https://t.co/TCowmX7Jvf",
+        "truncated": false,
+        "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2752683769,
+          "id_str": "2752683769",
+          "name": "Microsoft IoT",
+          "screen_name": "MicrosoftIoT",
+          "location": "Redmond, Wash.",
+          "description": "Microsoft’s official Twitter account for the Internet of Things (IoT). We help businesses capitalize on new opportunities provided by IoT.",
+          "url": "http://t.co/o9tu6A6X1r",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/o9tu6A6X1r",
+                  "expanded_url": "http://InternetofYourThings.com",
+                  "display_url": "InternetofYourThings.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 16572,
+          "friends_count": 316,
+          "listed_count": 716,
+          "created_at": "Thu Aug 21 17:33:18 +0000 2014",
+          "favourites_count": 4,
+          "utc_offset": -25200,
+          "time_zone": "Arizona",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 985,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/516614065871794180/itWKdwvY_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/516614065871794180/itWKdwvY_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2752683769/1412005354",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 13,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "MSFTResearch",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "text": "AzureIoT",
+              "indices": [
+                79,
+                88
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "Forbes",
+              "name": "Forbes",
+              "id": 91478624,
+              "id_str": "91478624",
+              "indices": [
+                99,
+                106
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TCowmX7Jvf",
+              "expanded_url": "http://msft.it/6010B5uEi",
+              "display_url": "msft.it/6010B5uEi",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "retweet_count": 5,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              1,
+              16
+            ]
+          },
+          {
+            "screen_name": "Forbes",
+            "name": "Forbes",
+            "id": 91478624,
+            "id_str": "91478624",
+            "indices": [
+              20,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wDkgh3hUxt",
+            "expanded_url": "https://twitter.com/MicrosoftIoT/status/709401198995087360",
+            "display_url": "twitter.com/MicrosoftIoT/s…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sbykov_work",
+          "name": "Sergey Bykov",
+          "id": 2421698636,
+          "id_str": "2421698636",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            18,
+            33
+          ]
+        },
+        {
+          "screen_name": "Forbes",
+          "name": "Forbes",
+          "id": 91478624,
+          "id_str": "91478624",
+          "indices": [
+            37,
+            44
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wDkgh3hUxt",
+          "expanded_url": "https://twitter.com/MicrosoftIoT/status/709401198995087360",
+          "display_url": "twitter.com/MicrosoftIoT/s…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 16 00:13:35 +0000 2016",
+    "id": 709895350090248193,
+    "id_str": "709895350090248193",
+    "text": "RT @github: Kindly closing pull requests: how to close them in a way that encourages positive behavior in your community: https://t.co/NT6F…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 15 19:23:30 +0000 2016",
+      "id": 709822347440738304,
+      "id_str": "709822347440738304",
+      "text": "Kindly closing pull requests: how to close them in a way that encourages positive behavior in your community: https://t.co/NT6FxNItww",
+      "truncated": false,
+      "source": "<a href=\"http://hubot.github.com/\" rel=\"nofollow\">The Danger Room</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13334762,
+        "id_str": "13334762",
+        "name": "GitHub",
+        "screen_name": "github",
+        "location": "San Francisco, CA",
+        "description": "How people build software",
+        "url": "https://t.co/FoKGHcCyJJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FoKGHcCyJJ",
+                "expanded_url": "https://github.com",
+                "display_url": "github.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 805940,
+        "friends_count": 182,
+        "listed_count": 12229,
+        "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+        "favourites_count": 155,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3174,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EEEEEE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4229589/header_bg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4229589/header_bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1415719104",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "BBBBBB",
+        "profile_sidebar_fill_color": "DDDDDD",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 282,
+      "favorite_count": 363,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NT6FxNItww",
+            "expanded_url": "https://github.com/blog/2124-kindly-closing-pull-requests",
+            "display_url": "github.com/blog/2124-kind…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 282,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "github",
+          "name": "GitHub",
+          "id": 13334762,
+          "id_str": "13334762",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NT6FxNItww",
+          "expanded_url": "https://github.com/blog/2124-kindly-closing-pull-requests",
+          "display_url": "github.com/blog/2124-kind…",
+          "indices": [
+            122,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 16 00:08:06 +0000 2016",
+    "id": 709893969501487104,
+    "id_str": "709893969501487104",
+    "text": "RT @mashable: Can a patent be ironic? Google's bus detection algorithm for self-driving cars is: https://t.co/yeSQW18Qh1 https://t.co/AnV2T…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 15 23:59:01 +0000 2016",
+      "id": 709891683635298304,
+      "id_str": "709891683635298304",
+      "text": "Can a patent be ironic? Google's bus detection algorithm for self-driving cars is: https://t.co/yeSQW18Qh1 https://t.co/AnV2T1YqrR",
+      "truncated": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 972651,
+        "id_str": "972651",
+        "name": "Mashable",
+        "screen_name": "mashable",
+        "location": "",
+        "description": "News, resources, inspiration and fun for the connected generation. Tweets by @mashable staff.",
+        "url": "http://t.co/1Gm8aVACKn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/1Gm8aVACKn",
+                "expanded_url": "http://mashable.com",
+                "display_url": "mashable.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6867812,
+        "friends_count": 2836,
+        "listed_count": 128816,
+        "created_at": "Mon Mar 12 01:28:01 +0000 2007",
+        "favourites_count": 608,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 184954,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00AEEF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705312036/bf7ca2a3f077d7e57b12a5ea4f1db268.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672144573725044737/eEOLvMTQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672144573725044737/eEOLvMTQ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+        "profile_link_color": "00AEEF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88DBF4",
+        "profile_text_color": "3B3B3B",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 29,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yeSQW18Qh1",
+            "expanded_url": "http://on.mash.to/1QVBHNX",
+            "display_url": "on.mash.to/1QVBHNX",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 709891683102683136,
+            "id_str": "709891683102683136",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+            "url": "https://t.co/AnV2T1YqrR",
+            "display_url": "pic.twitter.com/AnV2T1YqrR",
+            "expanded_url": "http://twitter.com/mashable/status/709891683635298304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 950,
+                "h": 534,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 709891683102683136,
+            "id_str": "709891683102683136",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+            "url": "https://t.co/AnV2T1YqrR",
+            "display_url": "pic.twitter.com/AnV2T1YqrR",
+            "expanded_url": "http://twitter.com/mashable/status/709891683635298304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 950,
+                "h": 534,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mashable",
+          "name": "Mashable",
+          "id": 972651,
+          "id_str": "972651",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yeSQW18Qh1",
+          "expanded_url": "http://on.mash.to/1QVBHNX",
+          "display_url": "on.mash.to/1QVBHNX",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 709891683102683136,
+          "id_str": "709891683102683136",
+          "indices": [
+            121,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+          "url": "https://t.co/AnV2T1YqrR",
+          "display_url": "pic.twitter.com/AnV2T1YqrR",
+          "expanded_url": "http://twitter.com/mashable/status/709891683635298304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 950,
+              "h": 534,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 709891683635298304,
+          "source_status_id_str": "709891683635298304",
+          "source_user_id": 972651,
+          "source_user_id_str": "972651"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 709891683102683136,
+          "id_str": "709891683102683136",
+          "indices": [
+            121,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdoKuYBW8AAw1cP.jpg",
+          "url": "https://t.co/AnV2T1YqrR",
+          "display_url": "pic.twitter.com/AnV2T1YqrR",
+          "expanded_url": "http://twitter.com/mashable/status/709891683635298304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 950,
+              "h": 534,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 709891683635298304,
+          "source_status_id_str": "709891683635298304",
+          "source_user_id": 972651,
+          "source_user_id_str": "972651"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 14 20:16:22 +0000 2016",
+    "id": 709473265505284097,
+    "id_str": "709473265505284097",
+    "text": "How to share IntelliJ IDE configurations with your co-developers.\nhttps://t.co/2aqS9yyhe0",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2aqS9yyhe0",
+          "expanded_url": "https://intellij-support.jetbrains.com/hc/en-us/articles/206544839",
+          "display_url": "intellij-support.jetbrains.com/hc/en-us/artic…",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 14 17:00:28 +0000 2016",
+    "id": 709423965123403778,
+    "id_str": "709423965123403778",
+    "text": "Geeks everywhere let's celebrate all the great teachers that cultivated the love of Math in our youth. Happy Pi Day! https://t.co/dUw04MPdT0",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dUw04MPdT0",
+          "expanded_url": "http://www.piday.org/learn-about-pi/",
+          "display_url": "piday.org/learn-about-pi/",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 13 06:32:56 +0000 2016",
+    "id": 708903652853833728,
+    "id_str": "708903652853833728",
+    "text": "Started watching Season 1 of @BoschAmazon on Amazon Prime Video. A good LAPD murder mystery detective series. https://t.co/duBBK7f4RC",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BoschAmazon",
+          "name": "Bosch",
+          "id": 2149613827,
+          "id_str": "2149613827",
+          "indices": [
+            29,
+            41
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/duBBK7f4RC",
+          "expanded_url": "http://amzn.to/1QPWa7Z",
+          "display_url": "amzn.to/1QPWa7Z",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Mar 12 04:23:28 +0000 2016",
     "id": 708508686281388032,
     "id_str": "708508686281388032",
