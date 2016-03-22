@@ -1,5 +1,331 @@
 Grailbird.data.tweets_2016_03 = [
   {
+    "created_at": "Sun Mar 20 21:58:57 +0000 2016",
+    "id": 711673409948626944,
+    "id_str": "711673409948626944",
+    "text": "RT @stewartbrand: The towering paywall around academic journals is a barrier to citizen science and an informed public discourse.  Tear dow…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Mar 20 17:18:57 +0000 2016",
+      "id": 711602942457982978,
+      "id_str": "711602942457982978",
+      "text": "The towering paywall around academic journals is a barrier to citizen science and an informed public discourse.  Tear down this wall.",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4435227552,
+        "id_str": "4435227552",
+        "name": "Stewart Brand",
+        "screen_name": "stewartbrand",
+        "location": "Sausalito, CA",
+        "description": "President of The Long Now Foundation",
+        "url": "https://t.co/0C7UG12lmc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0C7UG12lmc",
+                "expanded_url": "http://sb.longnow.org/SB_homepage/",
+                "display_url": "sb.longnow.org/SB_homepage/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3808,
+        "friends_count": 76,
+        "listed_count": 143,
+        "created_at": "Wed Dec 02 21:48:41 +0000 2015",
+        "favourites_count": 1546,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 436,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672173884725002244/0Y38BKog_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672173884725002244/0Y38BKog_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4435227552/1456105286",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 535,
+      "favorite_count": 552,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 535,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "stewartbrand",
+          "name": "Stewart Brand",
+          "id": 4435227552,
+          "id_str": "4435227552",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 21:48:02 +0000 2016",
+    "id": 711308274096689156,
+    "id_str": "711308274096689156",
+    "text": "RT @newsycombinator: 10M Concurrent Websockets https://t.co/myI87aSEZd",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 19 21:02:24 +0000 2016",
+      "id": 711296791203942400,
+      "id_str": "711296791203942400",
+      "text": "10M Concurrent Websockets https://t.co/myI87aSEZd",
+      "truncated": false,
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 126621,
+        "friends_count": 2,
+        "listed_count": 6676,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 82261,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 105,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/myI87aSEZd",
+            "expanded_url": "http://goroutines.com/10m",
+            "display_url": "goroutines.com/10m",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/myI87aSEZd",
+          "expanded_url": "http://goroutines.com/10m",
+          "display_url": "goroutines.com/10m",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Mar 19 19:22:51 +0000 2016",
     "id": 711271737317392384,
     "id_str": "711271737317392384",
