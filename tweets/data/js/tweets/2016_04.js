@@ -1,5 +1,341 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Wed Apr 06 01:01:46 +0000 2016",
+    "id": 717517623680901120,
+    "id_str": "717517623680901120",
+    "text": "RT @Halo: You can now 3D print your Spartans in five new stances, &amp; in extra-large size! More details: https://t.co/3khNqY9nbk https://t.co…",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Halo",
+          "name": "Halo",
+          "id": 59414975,
+          "id_str": "59414975",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3khNqY9nbk",
+          "expanded_url": "https://www.halowaypoint.com/en-us/games/halo-5-guardians/3d-printing",
+          "display_url": "halowaypoint.com/en-us/games/ha…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 717511606192635904,
+          "id_str": "717511606192635904",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+          "url": "https://t.co/UdVc6sFD7S",
+          "display_url": "pic.twitter.com/UdVc6sFD7S",
+          "expanded_url": "http://twitter.com/Halo/status/717511606561734657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 660,
+              "h": 371,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 717511606561734657,
+          "source_status_id_str": "717511606561734657",
+          "source_user_id": 59414975,
+          "source_user_id_str": "59414975"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 717511606192635904,
+          "id_str": "717511606192635904",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+          "url": "https://t.co/UdVc6sFD7S",
+          "display_url": "pic.twitter.com/UdVc6sFD7S",
+          "expanded_url": "http://twitter.com/Halo/status/717511606561734657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 660,
+              "h": 371,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 717511606561734657,
+          "source_status_id_str": "717511606561734657",
+          "source_user_id": 59414975,
+          "source_user_id_str": "59414975"
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 06 00:37:52 +0000 2016",
+      "id": 717511606561734657,
+      "id_str": "717511606561734657",
+      "text": "You can now 3D print your Spartans in five new stances, &amp; in extra-large size! More details: https://t.co/3khNqY9nbk https://t.co/UdVc6sFD7S",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3khNqY9nbk",
+            "expanded_url": "https://www.halowaypoint.com/en-us/games/halo-5-guardians/3d-printing",
+            "display_url": "halowaypoint.com/en-us/games/ha…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 717511606192635904,
+            "id_str": "717511606192635904",
+            "indices": [
+              121,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+            "url": "https://t.co/UdVc6sFD7S",
+            "display_url": "pic.twitter.com/UdVc6sFD7S",
+            "expanded_url": "http://twitter.com/Halo/status/717511606561734657/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 660,
+                "h": 371,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 717511606192635904,
+            "id_str": "717511606192635904",
+            "indices": [
+              121,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfUdARlVAAAfcfy.jpg",
+            "url": "https://t.co/UdVc6sFD7S",
+            "display_url": "pic.twitter.com/UdVc6sFD7S",
+            "expanded_url": "http://twitter.com/Halo/status/717511606561734657/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 660,
+                "h": 371,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 59414975,
+        "id_str": "59414975",
+        "name": "Halo",
+        "screen_name": "Halo",
+        "location": "Seattle, WA",
+        "description": "Halo 5: Guardians is out now for Xbox One! #Halo ESRB Rating TEEN",
+        "url": "http://t.co/17uTOmtXvh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/17uTOmtXvh",
+                "expanded_url": "http://halowaypoint.com",
+                "display_url": "halowaypoint.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 717604,
+        "friends_count": 757,
+        "listed_count": 3593,
+        "created_at": "Thu Jul 23 09:56:07 +0000 2009",
+        "favourites_count": 1323,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 22368,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050C13",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/469575169455820800/yeYu_qKB.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/469575169455820800/yeYu_qKB.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712743714884456448/8ZaIbX8e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712743714884456448/8ZaIbX8e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59414975/1434403401",
+        "profile_link_color": "156996",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "90A8C2",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 211,
+      "favorite_count": 540,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 211,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Apr 04 23:49:52 +0000 2016",
     "id": 717137138249113601,
     "id_str": "717137138249113601",
