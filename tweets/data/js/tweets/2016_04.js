@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Wed Apr 06 17:49:26 +0000 2016",
+    "id": 717771210394697728,
+    "id_str": "717771210394697728",
+    "text": "Visual Studio 2015 Update 2 - What's changed and download link. https://t.co/umYkiyW4yv",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/umYkiyW4yv",
+          "expanded_url": "https://www.visualstudio.com/en-us/news/vs2015-update2-vs.aspx",
+          "display_url": "visualstudio.com/en-us/news/vs2…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Apr 06 01:01:46 +0000 2016",
     "id": 717517623680901120,
     "id_str": "717517623680901120",
