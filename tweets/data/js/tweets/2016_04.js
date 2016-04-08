@@ -1,5 +1,1022 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Fri Apr 08 02:06:13 +0000 2016",
+    "id": 718258614989889538,
+    "id_str": "718258614989889538",
+    "text": "RT @TechCrunch: Here’s the first full trailer for the next Star Wars movie, Rogue One https://t.co/iT1a6sUfuH https://t.co/KSwWJCyZHx",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TechCrunch",
+          "name": "TechCrunch",
+          "id": 816653,
+          "id_str": "816653",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iT1a6sUfuH",
+          "expanded_url": "http://tcrn.ch/23eyrWE",
+          "display_url": "tcrn.ch/23eyrWE",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 718253296562085888,
+          "id_str": "718253296562085888",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+          "url": "https://t.co/KSwWJCyZHx",
+          "display_url": "pic.twitter.com/KSwWJCyZHx",
+          "expanded_url": "http://twitter.com/TechCrunch/status/718253298218844160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 205,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 478,
+              "h": 288,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 478,
+              "h": 288,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 718253298218844160,
+          "source_status_id_str": "718253298218844160",
+          "source_user_id": 816653,
+          "source_user_id_str": "816653"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 718253296562085888,
+          "id_str": "718253296562085888",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+          "url": "https://t.co/KSwWJCyZHx",
+          "display_url": "pic.twitter.com/KSwWJCyZHx",
+          "expanded_url": "http://twitter.com/TechCrunch/status/718253298218844160/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 205,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 478,
+              "h": 288,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 478,
+              "h": 288,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 718253298218844160,
+          "source_status_id_str": "718253298218844160",
+          "source_user_id": 816653,
+          "source_user_id_str": "816653",
+          "video_info": {
+            "aspect_ratio": [
+              239,
+              144
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/Cfe_kVhWIAAwHOh.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 08 01:45:05 +0000 2016",
+      "id": 718253298218844160,
+      "id_str": "718253298218844160",
+      "text": "Here’s the first full trailer for the next Star Wars movie, Rogue One https://t.co/iT1a6sUfuH https://t.co/KSwWJCyZHx",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iT1a6sUfuH",
+            "expanded_url": "http://tcrn.ch/23eyrWE",
+            "display_url": "tcrn.ch/23eyrWE",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 718253296562085888,
+            "id_str": "718253296562085888",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+            "url": "https://t.co/KSwWJCyZHx",
+            "display_url": "pic.twitter.com/KSwWJCyZHx",
+            "expanded_url": "http://twitter.com/TechCrunch/status/718253298218844160/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 205,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 478,
+                "h": 288,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 478,
+                "h": 288,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 718253296562085888,
+            "id_str": "718253296562085888",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cfe_kVhWIAAwHOh.jpg",
+            "url": "https://t.co/KSwWJCyZHx",
+            "display_url": "pic.twitter.com/KSwWJCyZHx",
+            "expanded_url": "http://twitter.com/TechCrunch/status/718253298218844160/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 205,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 478,
+                "h": 288,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 478,
+                "h": 288,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                239,
+                144
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/Cfe_kVhWIAAwHOh.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 816653,
+        "id_str": "816653",
+        "name": "TechCrunch",
+        "screen_name": "TechCrunch",
+        "location": "San Francisco, CA",
+        "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+        "url": "http://t.co/b5Oyx12qGG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/b5Oyx12qGG",
+                "expanded_url": "http://techcrunch.com",
+                "display_url": "techcrunch.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6544982,
+        "friends_count": 794,
+        "listed_count": 104543,
+        "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+        "favourites_count": 1136,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 123438,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "149500",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1431096993",
+        "profile_link_color": "097000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "222222",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 129,
+      "favorite_count": 132,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 129,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 08 01:40:10 +0000 2016",
+    "id": 718252061234696193,
+    "id_str": "718252061234696193",
+    "text": "RT @verge: A self-driving truck convoy completed its first major journey across Europe https://t.co/k9h3fDvOCT https://t.co/rp93n5vW1P",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "verge",
+          "name": "The Verge",
+          "id": 275686563,
+          "id_str": "275686563",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k9h3fDvOCT",
+          "expanded_url": "http://www.theverge.com/2016/4/7/11383392/self-driving-truck-platooning-europe?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+          "display_url": "theverge.com/2016/4/7/11383…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 718059286904053760,
+          "id_str": "718059286904053760",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+          "url": "https://t.co/rp93n5vW1P",
+          "display_url": "pic.twitter.com/rp93n5vW1P",
+          "expanded_url": "http://twitter.com/verge/status/718059287042461696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 718059287042461696,
+          "source_status_id_str": "718059287042461696",
+          "source_user_id": 275686563,
+          "source_user_id_str": "275686563"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 718059286904053760,
+          "id_str": "718059286904053760",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+          "url": "https://t.co/rp93n5vW1P",
+          "display_url": "pic.twitter.com/rp93n5vW1P",
+          "expanded_url": "http://twitter.com/verge/status/718059287042461696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 718059287042461696,
+          "source_status_id_str": "718059287042461696",
+          "source_user_id": 275686563,
+          "source_user_id_str": "275686563"
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 07 23:22:01 +0000 2016",
+      "id": 718217293407256576,
+      "id_str": "718217293407256576",
+      "text": "A self-driving truck convoy completed its first major journey across Europe https://t.co/k9h3fDvOCT https://t.co/rp93n5vW1P",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/k9h3fDvOCT",
+            "expanded_url": "http://www.theverge.com/2016/4/7/11383392/self-driving-truck-platooning-europe?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "display_url": "theverge.com/2016/4/7/11383…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 718059286904053760,
+            "id_str": "718059286904053760",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+            "url": "https://t.co/rp93n5vW1P",
+            "display_url": "pic.twitter.com/rp93n5vW1P",
+            "expanded_url": "http://twitter.com/verge/status/718059287042461696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 718059287042461696,
+            "source_status_id_str": "718059287042461696",
+            "source_user_id": 275686563,
+            "source_user_id_str": "275686563"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 718059286904053760,
+            "id_str": "718059286904053760",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfcPHfOWIAAZTJ7.jpg",
+            "url": "https://t.co/rp93n5vW1P",
+            "display_url": "pic.twitter.com/rp93n5vW1P",
+            "expanded_url": "http://twitter.com/verge/status/718059287042461696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 718059287042461696,
+            "source_status_id_str": "718059287042461696",
+            "source_user_id": 275686563,
+            "source_user_id_str": "275686563"
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 275686563,
+        "id_str": "275686563",
+        "name": "The Verge",
+        "screen_name": "verge",
+        "location": "New York",
+        "description": "https://t.co/W2SFxIXkC4 covers the future of technology, science, art, and culture. Snapchat: verge",
+        "url": "http://t.co/W2SFxIXkC4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/W2SFxIXkC4",
+                "expanded_url": "http://www.theverge.com",
+                "display_url": "theverge.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/W2SFxIXkC4",
+                "expanded_url": "http://www.theverge.com",
+                "display_url": "theverge.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1214382,
+        "friends_count": 145,
+        "listed_count": 29728,
+        "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+        "favourites_count": 1250,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 90846,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615501837341466624/I4jVBBp-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615501837341466624/I4jVBBp-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1433249898",
+        "profile_link_color": "FA4D2A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 217,
+      "favorite_count": 196,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 217,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Apr 07 18:15:23 +0000 2016",
+    "id": 718140128175128576,
+    "id_str": "718140128175128576",
+    "text": "RT @shanselman: Here's the documentation on the new command-like features coming in Windows 10, like running bash and Ubuntu! https://t.co/…",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shanselman",
+          "name": "Scott Hanselman",
+          "id": 5676102,
+          "id_str": "5676102",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NxXg4k4Cfz",
+          "expanded_url": "https://msdn.microsoft.com/commandline/wsl/about",
+          "display_url": "msdn.microsoft.com/commandline/ws…",
+          "indices": [
+            126,
+            140
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 01 21:05:40 +0000 2016",
+      "id": 716008655783469056,
+      "id_str": "716008655783469056",
+      "text": "Here's the documentation on the new command-like features coming in Windows 10, like running bash and Ubuntu! https://t.co/NxXg4k4Cfz",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NxXg4k4Cfz",
+            "expanded_url": "https://msdn.microsoft.com/commandline/wsl/about",
+            "display_url": "msdn.microsoft.com/commandline/ws…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5676102,
+        "id_str": "5676102",
+        "name": "Scott Hanselman",
+        "screen_name": "shanselman",
+        "location": "Portland, Oregon",
+        "description": "Tech, Code, YouTube, Race, Linguistics, Web, Parenting, Black Hair, STEM, Inclusion, @OSCON chair, Phony. MSFT, but these are my opinions. @overheardathome",
+        "url": "https://t.co/KWE5X1BBOh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KWE5X1BBOh",
+                "expanded_url": "http://hanselman.com",
+                "display_url": "hanselman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 160798,
+        "friends_count": 5753,
+        "listed_count": 7497,
+        "created_at": "Tue May 01 05:55:26 +0000 2007",
+        "favourites_count": 27619,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 137694,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D1CDC1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+        "profile_link_color": "72412C",
+        "profile_sidebar_border_color": "B8AA9C",
+        "profile_sidebar_fill_color": "B8AA9C",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 140,
+      "favorite_count": 198,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 140,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Apr 07 18:12:00 +0000 2016",
+    "id": 718139274671992832,
+    "id_str": "718139274671992832",
+    "text": "The new dawn for developers arrived this morning to Windows Insider Fast Ring with Build 14316. #bashonwindows https://t.co/MVRo8TgsBr",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bashonwindows",
+          "indices": [
+            96,
+            110
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 718139274361634816,
+          "id_str": "718139274361634816",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CfdX3XuVAAAaTAP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CfdX3XuVAAAaTAP.jpg",
+          "url": "https://t.co/MVRo8TgsBr",
+          "display_url": "pic.twitter.com/MVRo8TgsBr",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/718139274671992832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 136,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 502,
+              "h": 201,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 502,
+              "h": 201,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 718139274361634816,
+          "id_str": "718139274361634816",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CfdX3XuVAAAaTAP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CfdX3XuVAAAaTAP.jpg",
+          "url": "https://t.co/MVRo8TgsBr",
+          "display_url": "pic.twitter.com/MVRo8TgsBr",
+          "expanded_url": "http://twitter.com/JorgenThelin/status/718139274671992832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 136,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 502,
+              "h": 201,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 502,
+              "h": 201,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Apr 06 17:49:26 +0000 2016",
     "id": 717771210394697728,
     "id_str": "717771210394697728",
