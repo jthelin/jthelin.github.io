@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Fri Apr 08 16:31:49 +0000 2016",
+    "id": 718476450798510080,
+    "id_str": "718476450798510080",
+    "text": "Disk Inventory X is basically WinDirStat for Mac OS X - a disk utility to show folder sizes in graphical \"treemap\". \nhttps://t.co/eytfHT84tj",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eytfHT84tj",
+          "expanded_url": "http://www.derlien.com/",
+          "display_url": "derlien.com",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Apr 08 02:06:13 +0000 2016",
     "id": 718258614989889538,
     "id_str": "718258614989889538",
