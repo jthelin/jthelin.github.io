@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Sat Apr 09 17:30:01 +0000 2016",
+    "id": 718853485014306816,
+    "id_str": "718853485014306816",
+    "text": "How to use the Azure Data Lake Store Java SDK to upload and download data files to/from Azure Data Lake.  \nhttps://t.co/k8tJ70OS8N",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k8tJ70OS8N",
+          "expanded_url": "https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-get-started-java-sdk/",
+          "display_url": "azure.microsoft.com/en-us/document…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://klout.com\" rel=\"nofollow\">Post with Klout</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Apr 08 16:31:49 +0000 2016",
     "id": 718476450798510080,
     "id_str": "718476450798510080",
