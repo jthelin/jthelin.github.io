@@ -1,5 +1,386 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Sat Apr 30 00:59:41 +0000 2016",
+    "id": 726214404904083458,
+    "id_str": "726214404904083458",
+    "text": "RT @Marissa__Miller: adulthood is emailing \"sorry for the delayed response!\" back and forth until one of you dies",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Marissa__Miller",
+          "name": "Marissa Miller",
+          "id": 264568819,
+          "id_str": "264568819",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 26 05:12:58 +0000 2016",
+      "id": 703085321643278336,
+      "id_str": "703085321643278336",
+      "text": "adulthood is emailing \"sorry for the delayed response!\" back and forth until one of you dies",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 264568819,
+        "id_str": "264568819",
+        "name": "Marissa Miller",
+        "screen_name": "Marissa__Miller",
+        "location": "marissa@marissa-miller.com",
+        "description": "Words: The New York Times, Vogue, BBC, Teen Vogue, Cosmopolitan. Digital Editor at Yellow Pages Group. I interviewed Kylie on Keeping Up With The Kardashians.",
+        "url": "https://t.co/Xjp90dwvU5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Xjp90dwvU5",
+                "expanded_url": "http://www.marissa-miller.com",
+                "display_url": "marissa-miller.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4294,
+        "friends_count": 894,
+        "listed_count": 65,
+        "created_at": "Sat Mar 12 03:29:33 +0000 2011",
+        "favourites_count": 4811,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6639,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/724237866/83ff6ea88bab8072363d669b648009fc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/724237866/83ff6ea88bab8072363d669b648009fc.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651087725467189248/vmCt_TBh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651087725467189248/vmCt_TBh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264568819/1412198453",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20024,
+      "favorite_count": 29071,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20024,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 29 23:21:41 +0000 2016",
+    "id": 726189742123962368,
+    "id_str": "726189742123962368",
+    "text": "RT @adriancolyer: Actors are great, but what about all that fine-grained remoting in distributed systems? Orleans &amp; Halo Presence: https://…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adriancolyer",
+          "name": "Adrian Colyer",
+          "id": 23971403,
+          "id_str": "23971403",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BqkQfaMfxK",
+          "expanded_url": "http://blog.acolyer.org/2016/04/29/optimizing-distributed-actor-systems-for-dynamic-interactive-services",
+          "display_url": "blog.acolyer.org/2016/04/29/opt…",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 29 15:50:08 +0000 2016",
+      "id": 726076106529509376,
+      "id_str": "726076106529509376",
+      "text": "Actors are great, but what about all that fine-grained remoting in distributed systems? Orleans &amp; Halo Presence: https://t.co/BqkQfaMfxK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BqkQfaMfxK",
+            "expanded_url": "http://blog.acolyer.org/2016/04/29/optimizing-distributed-actor-systems-for-dynamic-interactive-services",
+            "display_url": "blog.acolyer.org/2016/04/29/opt…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23971403,
+        "id_str": "23971403",
+        "name": "Adrian Colyer",
+        "screen_name": "adriancolyer",
+        "location": "Romsey, England",
+        "description": "Author: #themorningpaper, Venture Partner with Accel Partners, London after many years as CTO for SpringSource and then apps at VMware, Pivotal",
+        "url": "https://t.co/b74UImWlMg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b74UImWlMg",
+                "expanded_url": "http://www.accel.com/team/venture-development/london/adrian-colyer",
+                "display_url": "accel.com/team/venture-d…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8277,
+        "friends_count": 247,
+        "listed_count": 425,
+        "created_at": "Thu Mar 12 15:51:34 +0000 2009",
+        "favourites_count": 1058,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3184,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716555935670472704/y2pwX3eb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716555935670472704/y2pwX3eb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23971403/1412244432",
+        "profile_link_color": "C6A168",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 38,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 29 06:06:39 +0000 2016",
+    "id": 725929271022129154,
+    "id_str": "725929271022129154",
+    "text": "A Photographer’s Guide to Donegal, Ireland - National Geographic https://t.co/PpdVW8UqBO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PpdVW8UqBO",
+          "expanded_url": "https://apple.news/AoBHDjbC6TkWedRSGfWvStg",
+          "display_url": "apple.news/AoBHDjbC6TkWed…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Apr 27 22:35:42 +0000 2016",
     "id": 725453395767652353,
     "id_str": "725453395767652353",
