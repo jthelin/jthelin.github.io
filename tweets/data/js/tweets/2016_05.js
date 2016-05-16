@@ -1,5 +1,396 @@
 Grailbird.data.tweets_2016_05 = [
   {
+    "created_at": "Sun May 15 21:13:54 +0000 2016",
+    "id": 731955789707890688,
+    "id_str": "731955789707890688",
+    "text": "RT @J_OnTheBeach: We are delighted to have @sbykov_work as opening keynote at #J_OnTheBeach to talk about @projectorleans @Microsoft https:…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "J_OnTheBeach",
+          "indices": [
+            78,
+            91
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "J_OnTheBeach",
+          "name": "J On The Beach 2016",
+          "id": 3899375963,
+          "id_str": "3899375963",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "sbykov_work",
+          "name": "Sergey Bykov",
+          "id": 2421698636,
+          "id_str": "2421698636",
+          "indices": [
+            43,
+            55
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            106,
+            121
+          ]
+        },
+        {
+          "screen_name": "Microsoft",
+          "name": "Microsoft",
+          "id": 74286565,
+          "id_str": "74286565",
+          "indices": [
+            122,
+            132
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 731907132828884993,
+          "id_str": "731907132828884993",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+          "url": "https://t.co/qHmWlMCTP7",
+          "display_url": "pic.twitter.com/qHmWlMCTP7",
+          "expanded_url": "http://twitter.com/J_OnTheBeach/status/731907133348978688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1022,
+              "h": 368,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 216,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 122,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 731907133348978688,
+          "source_status_id_str": "731907133348978688",
+          "source_user_id": 3899375963,
+          "source_user_id_str": "3899375963"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 731907132828884993,
+          "id_str": "731907132828884993",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+          "url": "https://t.co/qHmWlMCTP7",
+          "display_url": "pic.twitter.com/qHmWlMCTP7",
+          "expanded_url": "http://twitter.com/J_OnTheBeach/status/731907133348978688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1022,
+              "h": 368,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 216,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 122,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 731907133348978688,
+          "source_status_id_str": "731907133348978688",
+          "source_user_id": 3899375963,
+          "source_user_id_str": "3899375963"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 15 18:00:33 +0000 2016",
+      "id": 731907133348978688,
+      "id_str": "731907133348978688",
+      "text": "We are delighted to have @sbykov_work as opening keynote at #J_OnTheBeach to talk about @projectorleans @Microsoft https://t.co/qHmWlMCTP7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "J_OnTheBeach",
+            "indices": [
+              60,
+              73
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "sbykov_work",
+            "name": "Sergey Bykov",
+            "id": 2421698636,
+            "id_str": "2421698636",
+            "indices": [
+              25,
+              37
+            ]
+          },
+          {
+            "screen_name": "projectorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              88,
+              103
+            ]
+          },
+          {
+            "screen_name": "Microsoft",
+            "name": "Microsoft",
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              104,
+              114
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 731907132828884993,
+            "id_str": "731907132828884993",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+            "url": "https://t.co/qHmWlMCTP7",
+            "display_url": "pic.twitter.com/qHmWlMCTP7",
+            "expanded_url": "http://twitter.com/J_OnTheBeach/status/731907133348978688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1022,
+                "h": 368,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 216,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 122,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 731907132828884993,
+            "id_str": "731907132828884993",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CihBqNTXIAE7xBR.jpg",
+            "url": "https://t.co/qHmWlMCTP7",
+            "display_url": "pic.twitter.com/qHmWlMCTP7",
+            "expanded_url": "http://twitter.com/J_OnTheBeach/status/731907133348978688/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1022,
+                "h": 368,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 216,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 122,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3899375963,
+        "id_str": "3899375963",
+        "name": "J On The Beach 2016",
+        "screen_name": "J_OnTheBeach",
+        "location": "Málaga, España",
+        "description": "An international rendezvous that brings developers and DevOps together around Big Data on the beach!",
+        "url": "https://t.co/Bqe7AQHtaH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Bqe7AQHtaH",
+                "expanded_url": "http://www.jonthebeach.com",
+                "display_url": "jonthebeach.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 802,
+        "friends_count": 176,
+        "listed_count": 72,
+        "created_at": "Thu Oct 08 12:20:55 +0000 2015",
+        "favourites_count": 395,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 417,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713398767022653440/yB87eCdh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713398767022653440/yB87eCdh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3899375963/1458643776",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat May 14 22:59:15 +0000 2016",
     "id": 731619915031973888,
     "id_str": "731619915031973888",
