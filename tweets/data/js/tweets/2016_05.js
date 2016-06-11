@@ -1,5 +1,573 @@
 Grailbird.data.tweets_2016_05 = [
   {
+    "created_at": "Tue May 31 04:23:19 +0000 2016",
+    "id": 737499676996304898,
+    "id_str": "737499676996304898",
+    "text": "RT @newsycombinator: How to win the coding interview https://t.co/d6oJOiJ8Rm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d6oJOiJ8Rm",
+          "expanded_url": "https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.dy3irg8ei",
+          "display_url": "blog.devmastery.com/how-to-win-the…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue May 31 04:01:41 +0000 2016",
+      "id": 737494229748842496,
+      "id_str": "737494229748842496",
+      "text": "How to win the coding interview https://t.co/d6oJOiJ8Rm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/d6oJOiJ8Rm",
+            "expanded_url": "https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.dy3irg8ei",
+            "display_url": "blog.devmastery.com/how-to-win-the…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 132817,
+        "friends_count": 2,
+        "listed_count": 6822,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84530,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 45,
+      "favorite_count": 153,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 31 03:51:26 +0000 2016",
+    "id": 737491650566455296,
+    "id_str": "737491650566455296",
+    "text": "RT @CityOfRedmond: We pause…to honor all those who've served &amp; their families for their sacrifices to protect our country #MemorialDay http…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MemorialDay",
+          "indices": [
+            126,
+            138
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CityOfRedmond",
+          "name": "City of Redmond",
+          "id": 46755413,
+          "id_str": "46755413",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 737329896523849729,
+          "id_str": "737329896523849729",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+          "url": "https://t.co/1476dN2nlf",
+          "display_url": "pic.twitter.com/1476dN2nlf",
+          "expanded_url": "http://twitter.com/CityOfRedmond/status/737329915872190465/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 737329915872190465,
+          "source_status_id_str": "737329915872190465",
+          "source_user_id": 46755413,
+          "source_user_id_str": "46755413"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 737329896523849729,
+          "id_str": "737329896523849729",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+          "url": "https://t.co/1476dN2nlf",
+          "display_url": "pic.twitter.com/1476dN2nlf",
+          "expanded_url": "http://twitter.com/CityOfRedmond/status/737329915872190465/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 737329915872190465,
+          "source_status_id_str": "737329915872190465",
+          "source_user_id": 46755413,
+          "source_user_id_str": "46755413"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon May 30 17:08:45 +0000 2016",
+      "id": 737329915872190465,
+      "id_str": "737329915872190465",
+      "text": "We pause…to honor all those who've served &amp; their families for their sacrifices to protect our country #MemorialDay https://t.co/1476dN2nlf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MemorialDay",
+            "indices": [
+              107,
+              119
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 737329896523849729,
+            "id_str": "737329896523849729",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+            "url": "https://t.co/1476dN2nlf",
+            "display_url": "pic.twitter.com/1476dN2nlf",
+            "expanded_url": "http://twitter.com/CityOfRedmond/status/737329915872190465/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 737329896523849729,
+            "id_str": "737329896523849729",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CjuFomSUYAE6cLp.jpg",
+            "url": "https://t.co/1476dN2nlf",
+            "display_url": "pic.twitter.com/1476dN2nlf",
+            "expanded_url": "http://twitter.com/CityOfRedmond/status/737329915872190465/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 682,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 46755413,
+        "id_str": "46755413",
+        "name": "City of Redmond",
+        "screen_name": "CityOfRedmond",
+        "location": "Redmond, WA USA",
+        "description": "Officially tweeting the good life from the hub of tech and...all around coolest place to live, play, work & invest!",
+        "url": "https://t.co/c3s1cJiq0r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/c3s1cJiq0r",
+                "expanded_url": "http://www.redmond.gov",
+                "display_url": "redmond.gov",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3883,
+        "friends_count": 102,
+        "listed_count": 137,
+        "created_at": "Fri Jun 12 21:39:08 +0000 2009",
+        "favourites_count": 58,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4616,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "959E42",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736479788/7a8cddd3b080321a8839a8b99fb3e536.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736479788/7a8cddd3b080321a8839a8b99fb3e536.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/431178413731102720/0Ho7IDTT_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431178413731102720/0Ho7IDTT_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46755413/1463761493",
+        "profile_link_color": "894813",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D1C5A5",
+        "profile_text_color": "4D3339",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon May 30 17:36:02 +0000 2016",
+    "id": 737336783000604672,
+    "id_str": "737336783000604672",
+    "text": "Take your Git knowledge to the next level with @MaryRoseCook step-by-step deep dive into Git internal data structs https://t.co/l4NknUDLd0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "maryrosecook",
+          "name": "Mary Rose Cook",
+          "id": 1493071,
+          "id_str": "1493071",
+          "indices": [
+            47,
+            60
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l4NknUDLd0",
+          "expanded_url": "https://maryrosecook.com/blog/post/git-from-the-inside-out",
+          "display_url": "maryrosecook.com/blog/post/git-…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon May 30 06:25:33 +0000 2016",
     "id": 737168049023815680,
     "id_str": "737168049023815680",
