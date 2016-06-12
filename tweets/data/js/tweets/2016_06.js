@@ -1,5 +1,395 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Sat Jun 11 15:13:06 +0000 2016",
+    "id": 741649464314626048,
+    "id_str": "741649464314626048",
+    "text": "RT @josephsirosh: #ApacheSpark for #Azure #HDInsight now generally available: https://t.co/OOnNMfipln  #Hadoop https://t.co/rEwkG7gXP9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ApacheSpark",
+          "indices": [
+            18,
+            30
+          ]
+        },
+        {
+          "text": "Azure",
+          "indices": [
+            35,
+            41
+          ]
+        },
+        {
+          "text": "HDInsight",
+          "indices": [
+            42,
+            52
+          ]
+        },
+        {
+          "text": "Hadoop",
+          "indices": [
+            103,
+            110
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "josephsirosh",
+          "name": "Joseph Sirosh",
+          "id": 2485229282,
+          "id_str": "2485229282",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OOnNMfipln",
+          "expanded_url": "http://aka.ms/ukdjqd",
+          "display_url": "aka.ms/ukdjqd",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 739912222072131584,
+          "id_str": "739912222072131584",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+          "url": "https://t.co/rEwkG7gXP9",
+          "display_url": "pic.twitter.com/rEwkG7gXP9",
+          "expanded_url": "http://twitter.com/josephsirosh/status/739912225024966656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 605,
+              "h": 341,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 605,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 605,
+              "h": 341,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 739912225024966656,
+          "source_status_id_str": "739912225024966656",
+          "source_user_id": 2485229282,
+          "source_user_id_str": "2485229282"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 739912222072131584,
+          "id_str": "739912222072131584",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+          "url": "https://t.co/rEwkG7gXP9",
+          "display_url": "pic.twitter.com/rEwkG7gXP9",
+          "expanded_url": "http://twitter.com/josephsirosh/status/739912225024966656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 605,
+              "h": 341,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 605,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 605,
+              "h": 341,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 739912225024966656,
+          "source_status_id_str": "739912225024966656",
+          "source_user_id": 2485229282,
+          "source_user_id_str": "2485229282"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 06 20:09:56 +0000 2016",
+      "id": 739912225024966656,
+      "id_str": "739912225024966656",
+      "text": "#ApacheSpark for #Azure #HDInsight now generally available: https://t.co/OOnNMfipln  #Hadoop https://t.co/rEwkG7gXP9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ApacheSpark",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "Azure",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "text": "HDInsight",
+            "indices": [
+              24,
+              34
+            ]
+          },
+          {
+            "text": "Hadoop",
+            "indices": [
+              85,
+              92
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OOnNMfipln",
+            "expanded_url": "http://aka.ms/ukdjqd",
+            "display_url": "aka.ms/ukdjqd",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 739912222072131584,
+            "id_str": "739912222072131584",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+            "url": "https://t.co/rEwkG7gXP9",
+            "display_url": "pic.twitter.com/rEwkG7gXP9",
+            "expanded_url": "http://twitter.com/josephsirosh/status/739912225024966656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 605,
+                "h": 341,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 605,
+                "h": 341,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 605,
+                "h": 341,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 739912222072131584,
+            "id_str": "739912222072131584",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkSyPumUUAA6RVE.jpg",
+            "url": "https://t.co/rEwkG7gXP9",
+            "display_url": "pic.twitter.com/rEwkG7gXP9",
+            "expanded_url": "http://twitter.com/josephsirosh/status/739912225024966656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 605,
+                "h": 341,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 605,
+                "h": 341,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 605,
+                "h": 341,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2485229282,
+        "id_str": "2485229282",
+        "name": "Joseph Sirosh",
+        "screen_name": "josephsirosh",
+        "location": "Bellevue, Washington",
+        "description": "Sharing thoughts about big data, data science, machine learning & advanced analytics. Day job: Corp VP for the Data Group at Microsoft.",
+        "url": "https://t.co/FNyiqxQA0t",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FNyiqxQA0t",
+                "expanded_url": "https://www.linkedin.com/pub/joseph-sirosh/1/3b/398",
+                "display_url": "linkedin.com/pub/joseph-sir…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4843,
+        "friends_count": 331,
+        "listed_count": 343,
+        "created_at": "Fri May 09 11:43:57 +0000 2014",
+        "favourites_count": 113,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 949,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/464737468311289856/UxDeSZ3B_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/464737468311289856/UxDeSZ3B_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2485229282/1433450167",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 141,
+      "favorite_count": 110,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 141,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Jun 10 03:25:28 +0000 2016",
     "id": 741108995167911936,
     "id_str": "741108995167911936",
