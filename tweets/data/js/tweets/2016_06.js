@@ -1,5 +1,1252 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Mon Jun 13 03:39:20 +0000 2016",
+    "id": 742199649432272896,
+    "id_str": "742199649432272896",
+    "text": "Java Logging Framework Log4j 2.6 Goes Garbage-Free - InfoQ https://t.co/XcvA08vESG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XcvA08vESG",
+          "expanded_url": "https://apple.news/Ai508G0ISSVORincLaXLfpg",
+          "display_url": "apple.news/Ai508G0ISSVORi…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 13 01:17:12 +0000 2016",
+    "id": 742163879799623680,
+    "id_str": "742163879799623680",
+    "text": "The \"official\" Style Guide for Python Code for the #Python standard library - aka PEP-8 https://t.co/XqKthjsx1u",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            51,
+            58
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XqKthjsx1u",
+          "expanded_url": "https://www.python.org/dev/peps/pep-0008/",
+          "display_url": "python.org/dev/peps/pep-0…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 13 00:58:39 +0000 2016",
+    "id": 742159211367256064,
+    "id_str": "742159211367256064",
+    "text": "Python Style Guide document from Google. Combine with PyLint for cleaner and more readable #Python source code. https://t.co/UPG0WUwDWd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            91,
+            98
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UPG0WUwDWd",
+          "expanded_url": "https://google.github.io/styleguide/pyguide.html",
+          "display_url": "google.github.io/styleguide/pyg…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 12 23:16:05 +0000 2016",
+    "id": 742133399943413760,
+    "id_str": "742133399943413760",
+    "text": "RT @pcworld: These 20 deep, absorbing PC games will eat days of your life https://t.co/h33Bk9L8oh by @BradChacos https://t.co/QkhUomlFaG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pcworld",
+          "name": "PCWorld",
+          "id": 6070762,
+          "id_str": "6070762",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "BradChacos",
+          "name": "Brad Chacos",
+          "id": 575440132,
+          "id_str": "575440132",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h33Bk9L8oh",
+          "expanded_url": "http://www.pcworld.com/article/2449807/software-games/lose-days-of-your-life-to-these-13-deep-and-meaty-pc-games.html",
+          "display_url": "pcworld.com/article/244980…",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 742122538155802624,
+          "id_str": "742122538155802624",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+          "url": "https://t.co/QkhUomlFaG",
+          "display_url": "pic.twitter.com/QkhUomlFaG",
+          "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 742122545659269125,
+          "source_status_id_str": "742122545659269125",
+          "source_user_id": 6070762,
+          "source_user_id_str": "6070762"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 742122538155802624,
+          "id_str": "742122538155802624",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+          "url": "https://t.co/QkhUomlFaG",
+          "display_url": "pic.twitter.com/QkhUomlFaG",
+          "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 742122545659269125,
+          "source_status_id_str": "742122545659269125",
+          "source_user_id": 6070762,
+          "source_user_id_str": "6070762"
+        },
+        {
+          "id": 742122537031770112,
+          "id_str": "742122537031770112",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkyMg_eXIAAEfLr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkyMg_eXIAAEfLr.jpg",
+          "url": "https://t.co/QkhUomlFaG",
+          "display_url": "pic.twitter.com/QkhUomlFaG",
+          "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 580,
+              "h": 326,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 580,
+              "h": 326,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 580,
+              "h": 326,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 742122545659269125,
+          "source_status_id_str": "742122545659269125",
+          "source_user_id": 6070762,
+          "source_user_id_str": "6070762"
+        },
+        {
+          "id": 742122542010380288,
+          "id_str": "742122542010380288",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkyMhSBWsAAzZVZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkyMhSBWsAAzZVZ.jpg",
+          "url": "https://t.co/QkhUomlFaG",
+          "display_url": "pic.twitter.com/QkhUomlFaG",
+          "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 742122545659269125,
+          "source_status_id_str": "742122545659269125",
+          "source_user_id": 6070762,
+          "source_user_id_str": "6070762"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 12 22:32:57 +0000 2016",
+      "id": 742122545659269125,
+      "id_str": "742122545659269125",
+      "text": "These 20 deep, absorbing PC games will eat days of your life https://t.co/h33Bk9L8oh by @BradChacos https://t.co/QkhUomlFaG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "BradChacos",
+            "name": "Brad Chacos",
+            "id": 575440132,
+            "id_str": "575440132",
+            "indices": [
+              88,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/h33Bk9L8oh",
+            "expanded_url": "http://www.pcworld.com/article/2449807/software-games/lose-days-of-your-life-to-these-13-deep-and-meaty-pc-games.html",
+            "display_url": "pcworld.com/article/244980…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 742122538155802624,
+            "id_str": "742122538155802624",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+            "url": "https://t.co/QkhUomlFaG",
+            "display_url": "pic.twitter.com/QkhUomlFaG",
+            "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1000,
+                "h": 563,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 563,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 742122538155802624,
+            "id_str": "742122538155802624",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkyMhDqWgAAuCFM.jpg",
+            "url": "https://t.co/QkhUomlFaG",
+            "display_url": "pic.twitter.com/QkhUomlFaG",
+            "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1000,
+                "h": 563,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 563,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 742122537031770112,
+            "id_str": "742122537031770112",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkyMg_eXIAAEfLr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkyMg_eXIAAEfLr.jpg",
+            "url": "https://t.co/QkhUomlFaG",
+            "display_url": "pic.twitter.com/QkhUomlFaG",
+            "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 580,
+                "h": 326,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 580,
+                "h": 326,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 580,
+                "h": 326,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 742122542010380288,
+            "id_str": "742122542010380288",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkyMhSBWsAAzZVZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkyMhSBWsAAzZVZ.jpg",
+            "url": "https://t.co/QkhUomlFaG",
+            "display_url": "pic.twitter.com/QkhUomlFaG",
+            "expanded_url": "http://twitter.com/pcworld/status/742122545659269125/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6070762,
+        "id_str": "6070762",
+        "name": "PCWorld",
+        "screen_name": "pcworld",
+        "location": "United States",
+        "description": "PCWorld from IDG helps you navigate the consumer tech ecosystem to find the products you want and the advice you need. (We are not the UK retail store.)",
+        "url": "http://t.co/IuH7nzmWik",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/IuH7nzmWik",
+                "expanded_url": "http://www.pcworld.com/",
+                "display_url": "pcworld.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 352025,
+        "friends_count": 235,
+        "listed_count": 9150,
+        "created_at": "Tue May 15 19:20:20 +0000 2007",
+        "favourites_count": 83,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 22746,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/167468390/TwitterBG_PCW-1010.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/167468390/TwitterBG_PCW-1010.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2620137796/fie3csu09oulnl1g54jq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2620137796/fie3csu09oulnl1g54jq_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6070762/1464289083",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "A6A6A6",
+        "profile_sidebar_fill_color": "EDEDED",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 14,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 12 23:09:29 +0000 2016",
+    "id": 742131738814517248,
+    "id_str": "742131738814517248",
+    "text": "RT @TarasNovak: great summary on why using MS Orleans actor-based architecture might be a good alt for your next .Net SOA solution: https:/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TarasNovak",
+          "name": "TarasNovak",
+          "id": 17837255,
+          "id_str": "17837255",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tbLk7aaRrq",
+          "expanded_url": "https://lnkd.in/edSWJ_J",
+          "display_url": "lnkd.in/edSWJ_J",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 05 11:43:53 +0000 2016",
+      "id": 739422486731755520,
+      "id_str": "739422486731755520",
+      "text": "great summary on why using MS Orleans actor-based architecture might be a good alt for your next .Net SOA solution: https://t.co/tbLk7aaRrq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tbLk7aaRrq",
+            "expanded_url": "https://lnkd.in/edSWJ_J",
+            "display_url": "lnkd.in/edSWJ_J",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17837255,
+        "id_str": "17837255",
+        "name": "TarasNovak",
+        "screen_name": "TarasNovak",
+        "location": "Chicago",
+        "description": "I apply math to data and use geometry to plot it. I also like to read science fiction, learn new languages, and chop things",
+        "url": "https://t.co/CmY302HN7h",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CmY302HN7h",
+                "expanded_url": "https://www.linkedin.com/in/tarasnovak",
+                "display_url": "linkedin.com/in/tarasnovak",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 399,
+        "friends_count": 492,
+        "listed_count": 51,
+        "created_at": "Wed Dec 03 14:25:45 +0000 2008",
+        "favourites_count": 655,
+        "utc_offset": -21600,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7100,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D5D9C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/192306293/xecfbcc36f3f8fd589969c40b71de82d.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/192306293/xecfbcc36f3f8fd589969c40b71de82d.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/634711777/blueLights_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/634711777/blueLights_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17837255/1449248536",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "DC4093",
+        "profile_sidebar_fill_color": "233235",
+        "profile_text_color": "73AFC9",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 12 23:04:05 +0000 2016",
+    "id": 742130379977461760,
+    "id_str": "742130379977461760",
+    "text": "RT @Gizmodo: This ugly color may be useful after all https://t.co/nzcYwMEM29 https://t.co/1vxUIGJKWz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Gizmodo",
+          "name": "Gizmodo",
+          "id": 2890961,
+          "id_str": "2890961",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nzcYwMEM29",
+          "expanded_url": "http://gizmo.do/xr1lPc6",
+          "display_url": "gizmo.do/xr1lPc6",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 742128262982164480,
+          "id_str": "742128262982164480",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+          "url": "https://t.co/1vxUIGJKWz",
+          "display_url": "pic.twitter.com/1vxUIGJKWz",
+          "expanded_url": "http://twitter.com/Gizmodo/status/742128265951891457/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1238,
+              "h": 714,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 692,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 392,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 742128265951891457,
+          "source_status_id_str": "742128265951891457",
+          "source_user_id": 2890961,
+          "source_user_id_str": "2890961"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 742128262982164480,
+          "id_str": "742128262982164480",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+          "url": "https://t.co/1vxUIGJKWz",
+          "display_url": "pic.twitter.com/1vxUIGJKWz",
+          "expanded_url": "http://twitter.com/Gizmodo/status/742128265951891457/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1238,
+              "h": 714,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 692,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 392,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 742128265951891457,
+          "source_status_id_str": "742128265951891457",
+          "source_user_id": 2890961,
+          "source_user_id_str": "2890961"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 12 22:55:41 +0000 2016",
+      "id": 742128265951891457,
+      "id_str": "742128265951891457",
+      "text": "This ugly color may be useful after all https://t.co/nzcYwMEM29 https://t.co/1vxUIGJKWz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nzcYwMEM29",
+            "expanded_url": "http://gizmo.do/xr1lPc6",
+            "display_url": "gizmo.do/xr1lPc6",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 742128262982164480,
+            "id_str": "742128262982164480",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+            "url": "https://t.co/1vxUIGJKWz",
+            "display_url": "pic.twitter.com/1vxUIGJKWz",
+            "expanded_url": "http://twitter.com/Gizmodo/status/742128265951891457/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1238,
+                "h": 714,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 692,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 392,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 742128262982164480,
+            "id_str": "742128262982164480",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkyRuSTUYAAQYub.jpg",
+            "url": "https://t.co/1vxUIGJKWz",
+            "display_url": "pic.twitter.com/1vxUIGJKWz",
+            "expanded_url": "http://twitter.com/Gizmodo/status/742128265951891457/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1238,
+                "h": 714,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 692,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 392,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2890961,
+        "id_str": "2890961",
+        "name": "Gizmodo",
+        "screen_name": "Gizmodo",
+        "location": "",
+        "description": "We come from the future",
+        "url": "http://t.co/TKRR4S1jOT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TKRR4S1jOT",
+                "expanded_url": "http://gizmodo.com",
+                "display_url": "gizmodo.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1987499,
+        "friends_count": 130,
+        "listed_count": 44315,
+        "created_at": "Thu Mar 29 20:40:39 +0000 2007",
+        "favourites_count": 60,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 54681,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDF6F8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436934792/gizmodo-twitter-background-final.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590508740010348544/eS1F7mN5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590508740010348544/eS1F7mN5_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2890961/1434551436",
+        "profile_link_color": "3697B3",
+        "profile_sidebar_border_color": "E9E9E9",
+        "profile_sidebar_fill_color": "E9E9E9",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "favorite_count": 28,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 12 22:59:57 +0000 2016",
+    "id": 742129340360450048,
+    "id_str": "742129340360450048",
+    "text": "Cruise Mapper - great for tracking the progress of my parent on their cruise of Baltic Cities and St Petersburg. https://t.co/Sx3nE0ezjo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Sx3nE0ezjo",
+          "expanded_url": "http://www.cruisemapper.com/Magellan-location?imo=8217881",
+          "display_url": "cruisemapper.com/Magellan-locat…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jun 11 15:13:06 +0000 2016",
     "id": 741649464314626048,
     "id_str": "741649464314626048",
