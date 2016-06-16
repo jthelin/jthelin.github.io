@@ -1,5 +1,643 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Thu Jun 16 02:32:12 +0000 2016",
+    "id": 743269916590014464,
+    "id_str": "743269916590014464",
+    "text": "Microsoft's Project Bletchley will let companies add middleware to blockchains - PCWorld https://t.co/Kc8CxXGzqC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kc8CxXGzqC",
+          "expanded_url": "https://apple.news/AKTUoIcnZPhuyA997rpGUTA",
+          "display_url": "apple.news/AKTUoIcnZPhuyA…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 16 02:25:26 +0000 2016",
+    "id": 743268216730902528,
+    "id_str": "743268216730902528",
+    "text": "The trouble with bots: A parent’s musings on SmarterChild - VentureBeat https://t.co/qOfdQceIw9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qOfdQceIw9",
+          "expanded_url": "https://apple.news/AJiehcUiyNoG8rXvvrc_DqA",
+          "display_url": "apple.news/AJiehcUiyNoG8r…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 15 14:37:52 +0000 2016",
+    "id": 743090152210190339,
+    "id_str": "743090152210190339",
+    "text": "\"Two-phase commit is the anti-availability protocol.\"  https://t.co/anLPzoSZHa via @ACMQueue",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ACMQueue",
+          "name": "ACM Queue",
+          "id": 86967199,
+          "id_str": "86967199",
+          "indices": [
+            83,
+            92
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/anLPzoSZHa",
+          "expanded_url": "http://queue.acm.org/detail.cfm?id=2953944",
+          "display_url": "queue.acm.org/detail.cfm?id=…",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 15 02:15:18 +0000 2016",
+    "id": 742903279575699456,
+    "id_str": "742903279575699456",
+    "text": "Details emerge about Apple's new file system APFS https://t.co/AwJwOsneYS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AwJwOsneYS",
+          "expanded_url": "http://www.macobserver.com/tmo/article/details-emerge-on-the-macs-new-file-system-apfs-what-does-it-all-mean",
+          "display_url": "macobserver.com/tmo/article/de…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 15 01:59:21 +0000 2016",
+    "id": 742899265333125120,
+    "id_str": "742899265333125120",
+    "text": "We’ve Almost Reached Peak Fossil Fuels for Electricity - Bloomberg https://t.co/kzthZKCIL6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kzthZKCIL6",
+          "expanded_url": "https://apple.news/AgrrOYzvlRR6jlFdPx2DWqA",
+          "display_url": "apple.news/AgrrOYzvlRR6jl…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 15 01:13:45 +0000 2016",
+    "id": 742887786429054976,
+    "id_str": "742887786429054976",
+    "text": "TIL there are 783 Hadoop config properties when running on YARN + another 24 config properties for Spark. Now try to optimize that lot .....",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 15 00:52:56 +0000 2016",
+    "id": 742882550427713540,
+    "id_str": "742882550427713540",
+    "text": "RT @richorama: Inconvenient truth: one of the most useful contributions you can make to open source software is good documentation.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "richorama",
+          "name": "Richard Astbury",
+          "id": 21290781,
+          "id_str": "21290781",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 14 18:24:51 +0000 2016",
+      "id": 742784886684192769,
+      "id_str": "742784886684192769",
+      "text": "Inconvenient truth: one of the most useful contributions you can make to open source software is good documentation.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21290781,
+        "id_str": "21290781",
+        "name": "Richard Astbury",
+        "screen_name": "richorama",
+        "location": "Woodbridge, Suffolk, UK",
+        "description": "Cloud computing guy who loves node, c# & python. Pluralsight author. Microsoft MVP for #Azure. Works at @two10degrees",
+        "url": "https://t.co/gyXs0gtOPy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gyXs0gtOPy",
+                "expanded_url": "https://richorama.github.io",
+                "display_url": "richorama.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 967,
+        "friends_count": 527,
+        "listed_count": 65,
+        "created_at": "Thu Feb 19 11:27:11 +0000 2009",
+        "favourites_count": 585,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6083,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601675027/6d7xvz3z53te1k1b8cs3.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601675027/6d7xvz3z53te1k1b8cs3.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704661140014555138/QP3Qp1Us_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704661140014555138/QP3Qp1Us_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21290781/1456228817",
+        "profile_link_color": "00AAD3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 58,
+      "favorite_count": 62,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 14 04:04:08 +0000 2016",
+    "id": 742568278422212608,
+    "id_str": "742568278422212608",
+    "text": "RT @kkbava: As I am attempting to forget the dot com era, we are now talking of a bot comm era! Peak, trough and plateau hype cycle applies…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kkbava",
+          "name": "Krishna Kishore (KK)",
+          "id": 18597778,
+          "id_str": "18597778",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 14 03:55:18 +0000 2016",
+      "id": 742566055227199488,
+      "id_str": "742566055227199488",
+      "text": "As I am attempting to forget the dot com era, we are now talking of a bot comm era! Peak, trough and plateau hype cycle applies here too!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18597778,
+        "id_str": "18597778",
+        "name": "Krishna Kishore (KK)",
+        "screen_name": "kkbava",
+        "location": "ÜT: 12.734885,80.009684",
+        "description": "Cloud, SaaS and Agile - still love and will live these! @RamcoSystems",
+        "url": "https://t.co/Em7ls0mEJV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Em7ls0mEJV",
+                "expanded_url": "https://in.linkedin.com/in/krishnakishorebhavaraju",
+                "display_url": "in.linkedin.com/in/krishnakish…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 929,
+        "friends_count": 976,
+        "listed_count": 111,
+        "created_at": "Sun Jan 04 07:03:14 +0000 2009",
+        "favourites_count": 464,
+        "utc_offset": 19800,
+        "time_zone": "Chennai",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3828,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "59BEE4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103902271/7b1cad0896d22d75b85f5f86fc69b59f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103902271/7b1cad0896d22d75b85f5f86fc69b59f.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000550485109/3fccff0cc02777b966a8c226c03d84bd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000550485109/3fccff0cc02777b966a8c226c03d84bd_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18597778/1457952054",
+        "profile_link_color": "8FCAE0",
+        "profile_sidebar_border_color": "4BB7DF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Jun 13 03:39:20 +0000 2016",
     "id": 742199649432272896,
     "id_str": "742199649432272896",
