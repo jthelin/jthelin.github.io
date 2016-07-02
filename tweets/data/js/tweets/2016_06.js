@@ -1,5 +1,1882 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Thu Jun 30 23:58:15 +0000 2016",
+    "id": 748666991813095424,
+    "id_str": "748666991813095424",
+    "text": "RT @JoeNBC: Wall Street is melting down!! Wall Street is melting...uh...whoa. \nThey just had two of the best days of the year? You don't sa…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JoeNBC",
+          "name": "Joe Scarborough",
+          "id": 21619519,
+          "id_str": "21619519",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 29 22:28:10 +0000 2016",
+      "id": 748281935705870342,
+      "id_str": "748281935705870342",
+      "text": "Wall Street is melting down!! Wall Street is melting...uh...whoa. \nThey just had two of the best days of the year? You don't say. My bad.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21619519,
+        "id_str": "21619519",
+        "name": "Joe Scarborough",
+        "screen_name": "JoeNBC",
+        "location": "Connecticut",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 402380,
+        "friends_count": 400,
+        "listed_count": 7574,
+        "created_at": "Mon Feb 23 01:23:24 +0000 2009",
+        "favourites_count": 44,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 32357,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "7A0B0B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/732540565/3372930f016e26eb13e9366179a6216f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/732540565/3372930f016e26eb13e9366179a6216f.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748279945961549824/mvBYW__A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748279945961549824/mvBYW__A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21619519/1467238824",
+        "profile_link_color": "191514",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FDFCFC",
+        "profile_text_color": "181010",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 197,
+      "favorite_count": 461,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 197,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 30 23:34:24 +0000 2016",
+    "id": 748660991596982272,
+    "id_str": "748660991596982272",
+    "text": "RT @Number10gov: 2 minute silence at 7:28am tomorrow marks when the first soldiers went over the top in Battle of the Somme #Somme100\nhttps…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Somme100",
+          "indices": [
+            124,
+            133
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Number10gov",
+          "name": "UK Prime Minister",
+          "id": 14224719,
+          "id_str": "14224719",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BKl3jzqY1K",
+          "expanded_url": "https://amp.twimg.com/v/a443db08-4a76-4e0a-9e9a-e1b2e755a0d5",
+          "display_url": "amp.twimg.com/v/a443db08-4a7…",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jun 30 19:31:32 +0000 2016",
+      "id": 748599870924029952,
+      "id_str": "748599870924029952",
+      "text": "2 minute silence at 7:28am tomorrow marks when the first soldiers went over the top in Battle of the Somme #Somme100\nhttps://t.co/BKl3jzqY1K",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Somme100",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BKl3jzqY1K",
+            "expanded_url": "https://amp.twimg.com/v/a443db08-4a76-4e0a-9e9a-e1b2e755a0d5",
+            "display_url": "amp.twimg.com/v/a443db08-4a7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14224719,
+        "id_str": "14224719",
+        "name": "UK Prime Minister",
+        "screen_name": "Number10gov",
+        "location": "10 Downing Street, London",
+        "description": "The official channel for Prime Minister David Cameron's office, based at 10 Downing Street. \n\nRead our social media policy: https://t.co/d3gtbSx5d2",
+        "url": "http://t.co/q64Af4X3K3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/q64Af4X3K3",
+                "expanded_url": "http://www.gov.uk/number10",
+                "display_url": "gov.uk/number10",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/d3gtbSx5d2",
+                "expanded_url": "http://ow.ly/ZIxgI",
+                "display_url": "ow.ly/ZIxgI",
+                "indices": [
+                  124,
+                  147
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4556195,
+        "friends_count": 754,
+        "listed_count": 21554,
+        "created_at": "Wed Mar 26 11:16:02 +0000 2008",
+        "favourites_count": 1792,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11003,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/423867949/brick-repeat-backgh.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/423867949/brick-repeat-backgh.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664788086971310080/LdKD4jhz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664788086971310080/LdKD4jhz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14224719/1450706699",
+        "profile_link_color": "912B89",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3366,
+      "favorite_count": 3351,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3366,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 30 22:02:34 +0000 2016",
+    "id": 748637882026336256,
+    "id_str": "748637882026336256",
+    "text": "Is Iceland Really Green and Greenland Really Icy? - National Geographic https://t.co/TWRBdtqcvQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TWRBdtqcvQ",
+          "expanded_url": "https://apple.news/AY8zzWEceRhiZtu7onRgvCg",
+          "display_url": "apple.news/AY8zzWEceRhiZt…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 30 20:25:29 +0000 2016",
+    "id": 748613447881879554,
+    "id_str": "748613447881879554",
+    "text": "RT @climagic: \"awk/sed 201[0-9] Together We Can Change Anything\" bumper sticker now available at https://t.co/FP7f4LUULT #vote4cli https://…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "vote4cli",
+          "indices": [
+            121,
+            130
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "climagic",
+          "name": "Command Line Magic",
+          "id": 91333167,
+          "id_str": "91333167",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FP7f4LUULT",
+          "expanded_url": "http://store.climagic.com/awksed-sticker.php",
+          "display_url": "store.climagic.com/awksed-sticker…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 748603201771945984,
+          "id_str": "748603201771945984",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+          "url": "https://t.co/BBk8Ya9QIR",
+          "display_url": "pic.twitter.com/BBk8Ya9QIR",
+          "expanded_url": "http://twitter.com/climagic/status/748604988990046208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 700,
+              "h": 210,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 210,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 204,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 748604988990046208,
+          "source_status_id_str": "748604988990046208",
+          "source_user_id": 91333167,
+          "source_user_id_str": "91333167"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 748603201771945984,
+          "id_str": "748603201771945984",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+          "url": "https://t.co/BBk8Ya9QIR",
+          "display_url": "pic.twitter.com/BBk8Ya9QIR",
+          "expanded_url": "http://twitter.com/climagic/status/748604988990046208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 700,
+              "h": 210,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 210,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 204,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 748604988990046208,
+          "source_status_id_str": "748604988990046208",
+          "source_user_id": 91333167,
+          "source_user_id_str": "91333167"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jun 30 19:51:52 +0000 2016",
+      "id": 748604988990046208,
+      "id_str": "748604988990046208",
+      "text": "\"awk/sed 201[0-9] Together We Can Change Anything\" bumper sticker now available at https://t.co/FP7f4LUULT #vote4cli https://t.co/BBk8Ya9QIR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "vote4cli",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FP7f4LUULT",
+            "expanded_url": "http://store.climagic.com/awksed-sticker.php",
+            "display_url": "store.climagic.com/awksed-sticker…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 748603201771945984,
+            "id_str": "748603201771945984",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+            "url": "https://t.co/BBk8Ya9QIR",
+            "display_url": "pic.twitter.com/BBk8Ya9QIR",
+            "expanded_url": "http://twitter.com/climagic/status/748604988990046208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 700,
+                "h": 210,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 700,
+                "h": 210,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 204,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 748603201771945984,
+            "id_str": "748603201771945984",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmOSpU9WQAA2CjU.jpg",
+            "url": "https://t.co/BBk8Ya9QIR",
+            "display_url": "pic.twitter.com/BBk8Ya9QIR",
+            "expanded_url": "http://twitter.com/climagic/status/748604988990046208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 700,
+                "h": 210,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 700,
+                "h": 210,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 204,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 91333167,
+        "id_str": "91333167",
+        "name": "Command Line Magic",
+        "screen_name": "climagic",
+        "location": "BASHLAND",
+        "description": "Cool Unix/Linux Command Line tricks you can use in 140 characters or less.",
+        "url": "http://t.co/dUakp9EMPS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/dUakp9EMPS",
+                "expanded_url": "http://www.climagic.org/",
+                "display_url": "climagic.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 121745,
+        "friends_count": 10096,
+        "listed_count": 3305,
+        "created_at": "Fri Nov 20 12:49:35 +0000 2009",
+        "favourites_count": 147,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9444,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/60122174/checkertermbackground.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/60122174/checkertermbackground.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535876218/climagic-icon_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/535876218/climagic-icon_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 121,
+      "favorite_count": 151,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 121,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 30 20:21:52 +0000 2016",
+    "id": 748612537629827072,
+    "id_str": "748612537629827072",
+    "text": "Useful cliff-notes: Bash - the art of command line. https://t.co/KXlUCTQcMc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KXlUCTQcMc",
+          "expanded_url": "https://github.com/jlevy/the-art-of-command-line/blob/master/README.md",
+          "display_url": "github.com/jlevy/the-art-…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 27 22:51:27 +0000 2016",
+    "id": 747563019920564225,
+    "id_str": "747563019920564225",
+    "text": "RT @caitie: Slides from my #Monitorama talk Tackling Alert Fatigue\nhttps://t.co/wWcxpRGapg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Monitorama",
+          "indices": [
+            27,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "caitie",
+          "name": "Caitie McCaffrey",
+          "id": 20719205,
+          "id_str": "20719205",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wWcxpRGapg",
+          "expanded_url": "https://speakerdeck.com/caitiem20/tackling-alert-fatigue",
+          "display_url": "speakerdeck.com/caitiem20/tack…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 27 22:30:09 +0000 2016",
+      "id": 747557657393790976,
+      "id_str": "747557657393790976",
+      "text": "Slides from my #Monitorama talk Tackling Alert Fatigue\nhttps://t.co/wWcxpRGapg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Monitorama",
+            "indices": [
+              15,
+              26
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wWcxpRGapg",
+            "expanded_url": "https://speakerdeck.com/caitiem20/tackling-alert-fatigue",
+            "display_url": "speakerdeck.com/caitiem20/tack…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20719205,
+        "id_str": "20719205",
+        "name": "Caitie McCaffrey",
+        "screen_name": "caitie",
+        "location": "San Francisco, CA",
+        "description": "Backend Brat & Distributed Systems Diva @twitter Formerly @hbo & 343i building @Halo Services. Novice Yogini, Valkyrie AF.",
+        "url": "https://t.co/436CWqBoFi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/436CWqBoFi",
+                "expanded_url": "http://caitiem.com/",
+                "display_url": "caitiem.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9205,
+        "friends_count": 603,
+        "listed_count": 320,
+        "created_at": "Thu Feb 12 21:13:17 +0000 2009",
+        "favourites_count": 13328,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7357,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746467613736263680/dh49jvE6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746467613736263680/dh49jvE6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20719205/1466806773",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 101,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 27 22:50:20 +0000 2016",
+    "id": 747562737081819136,
+    "id_str": "747562737081819136",
+    "text": "RT @MTFIII: The Alternate Timeline of the New Star Trek Movies Finally Has an Official Name https://t.co/g3jzAkAUG7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MTFIII",
+          "name": "Michael T Ford III",
+          "id": 27449834,
+          "id_str": "27449834",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g3jzAkAUG7",
+          "expanded_url": "http://io9.gizmodo.com/the-alternate-star-trek-timeline-of-the-new-movies-fina-1782687811/amp",
+          "display_url": "io9.gizmodo.com/the-alternate-…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 27 22:33:22 +0000 2016",
+      "id": 747558466877788160,
+      "id_str": "747558466877788160",
+      "text": "The Alternate Timeline of the New Star Trek Movies Finally Has an Official Name https://t.co/g3jzAkAUG7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g3jzAkAUG7",
+            "expanded_url": "http://io9.gizmodo.com/the-alternate-star-trek-timeline-of-the-new-movies-fina-1782687811/amp",
+            "display_url": "io9.gizmodo.com/the-alternate-…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27449834,
+        "id_str": "27449834",
+        "name": "Michael T Ford III",
+        "screen_name": "MTFIII",
+        "location": "Brooklyn, NY",
+        "description": "Sports, Politics, Entertainment, Commerce, Technology, Relationships and Law (SPECTRaL) Enthusiast; Public Intellectual; 9% Blogger",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1036,
+        "friends_count": 665,
+        "listed_count": 75,
+        "created_at": "Sun Mar 29 16:11:24 +0000 2009",
+        "favourites_count": 5608,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 125445,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74944075/madmen_standard.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74944075/madmen_standard.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/678805399596744704/wpVhVhJ4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/678805399596744704/wpVhVhJ4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27449834/1465001629",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 26 22:27:13 +0000 2016",
+    "id": 747194532287021057,
+    "id_str": "747194532287021057",
+    "text": "RT @mknz: The electoral map for the referendum is damning for UK political parties: https://t.co/R053mqSIHx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mknz",
+          "name": "Neil Mackenzie",
+          "id": 23634463,
+          "id_str": "23634463",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R053mqSIHx",
+          "expanded_url": "http://www.bbc.com/news/politics/eu_referendum/results",
+          "display_url": "bbc.com/news/politics/…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 24 05:34:27 +0000 2016",
+      "id": 746214886200336387,
+      "id_str": "746214886200336387",
+      "text": "The electoral map for the referendum is damning for UK political parties: https://t.co/R053mqSIHx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R053mqSIHx",
+            "expanded_url": "http://www.bbc.com/news/politics/eu_referendum/results",
+            "display_url": "bbc.com/news/politics/…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23634463,
+        "id_str": "23634463",
+        "name": "Neil Mackenzie",
+        "screen_name": "mknz",
+        "location": "San Francisco, CA",
+        "description": "Cloud Solution Architect at Microsoft",
+        "url": "http://t.co/2NqzY2wIXL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2NqzY2wIXL",
+                "expanded_url": "http://aka.ms/csablog",
+                "display_url": "aka.ms/csablog",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1636,
+        "friends_count": 1262,
+        "listed_count": 181,
+        "created_at": "Tue Mar 10 19:05:00 +0000 2009",
+        "favourites_count": 370,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6447,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390350996/Neil_Mackenzie_Thumbnail_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390350996/Neil_Mackenzie_Thumbnail_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23634463/1438826599",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 26 22:10:37 +0000 2016",
+    "id": 747190356534427648,
+    "id_str": "747190356534427648",
+    "text": "RT @Queen_UK: Is now the time for Absolute Monarchy? Asking for a friend.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Queen_UK",
+          "name": "Elizabeth Windsor",
+          "id": 140118545,
+          "id_str": "140118545",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 26 17:19:59 +0000 2016",
+      "id": 747117215720300544,
+      "id_str": "747117215720300544",
+      "text": "Is now the time for Absolute Monarchy? Asking for a friend.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 140118545,
+        "id_str": "140118545",
+        "name": "Elizabeth Windsor",
+        "screen_name": "Queen_UK",
+        "location": "",
+        "description": "Queen of everywhere you'd want to visit. One's new book 'Still Reigning' is out now: https://t.co/TEGVgO35iZ (FICTIONAL/SATIRE)",
+        "url": "https://t.co/FHVDcvCvmj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FHVDcvCvmj",
+                "expanded_url": "http://www.gin-oclock.com",
+                "display_url": "gin-oclock.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/TEGVgO35iZ",
+                "expanded_url": "http://amzn.to/1A08A2P",
+                "display_url": "amzn.to/1A08A2P",
+                "indices": [
+                  85,
+                  108
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1353241,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Tue May 04 16:49:30 +0000 2010",
+        "favourites_count": 1,
+        "utc_offset": 0,
+        "time_zone": "Casablanca",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9449,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4EC712",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/498571391650652160/8uCEQk6Q.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/498571391650652160/8uCEQk6Q.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650063543350505472/i6Hy22im_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650063543350505472/i6Hy22im_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140118545/1443822112",
+        "profile_link_color": "F708D3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4929,
+      "favorite_count": 5921,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4929,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 26 21:48:35 +0000 2016",
+    "id": 747184811282837506,
+    "id_str": "747184811282837506",
+    "text": "RT @ZDNet: Hackers would like to join your LinkedIn network &amp; you'd probably accept them https://t.co/1rz0SHvr7q @dannyjpalmer https://t.co…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ZDNet",
+          "name": "ZDNet",
+          "id": 3819701,
+          "id_str": "3819701",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "dannyjpalmer",
+          "name": "Danny Palmer",
+          "id": 38427411,
+          "id_str": "38427411",
+          "indices": [
+            117,
+            130
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1rz0SHvr7q",
+          "expanded_url": "http://zd.net/28PFT5k",
+          "display_url": "zd.net/28PFT5k",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 746961352544092160,
+          "id_str": "746961352544092160",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+          "url": "https://t.co/vBsPK9mn8O",
+          "display_url": "pic.twitter.com/vBsPK9mn8O",
+          "expanded_url": "http://twitter.com/ZDNet/status/746961354716766208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 770,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 770,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 746961354716766208,
+          "source_status_id_str": "746961354716766208",
+          "source_user_id": 3819701,
+          "source_user_id_str": "3819701"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 746961352544092160,
+          "id_str": "746961352544092160",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+          "url": "https://t.co/vBsPK9mn8O",
+          "display_url": "pic.twitter.com/vBsPK9mn8O",
+          "expanded_url": "http://twitter.com/ZDNet/status/746961354716766208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 770,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 770,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 746961354716766208,
+          "source_status_id_str": "746961354716766208",
+          "source_user_id": 3819701,
+          "source_user_id_str": "3819701"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 26 07:00:39 +0000 2016",
+      "id": 746961354716766208,
+      "id_str": "746961354716766208",
+      "text": "Hackers would like to join your LinkedIn network &amp; you'd probably accept them https://t.co/1rz0SHvr7q @dannyjpalmer https://t.co/vBsPK9mn8O",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "dannyjpalmer",
+            "name": "Danny Palmer",
+            "id": 38427411,
+            "id_str": "38427411",
+            "indices": [
+              106,
+              119
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1rz0SHvr7q",
+            "expanded_url": "http://zd.net/28PFT5k",
+            "display_url": "zd.net/28PFT5k",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 746961352544092160,
+            "id_str": "746961352544092160",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+            "url": "https://t.co/vBsPK9mn8O",
+            "display_url": "pic.twitter.com/vBsPK9mn8O",
+            "expanded_url": "http://twitter.com/ZDNet/status/746961354716766208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 770,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 770,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 746961352544092160,
+            "id_str": "746961352544092160",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl29ZH9WAAACSxz.jpg",
+            "url": "https://t.co/vBsPK9mn8O",
+            "display_url": "pic.twitter.com/vBsPK9mn8O",
+            "expanded_url": "http://twitter.com/ZDNet/status/746961354716766208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 770,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 770,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3819701,
+        "id_str": "3819701",
+        "name": "ZDNet",
+        "screen_name": "ZDNet",
+        "location": "USA | UK | Asia | Australia",
+        "description": "Where technology meets business",
+        "url": "http://t.co/5onVPZr4O4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/5onVPZr4O4",
+                "expanded_url": "http://www.zdnet.com",
+                "display_url": "zdnet.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 297974,
+        "friends_count": 151,
+        "listed_count": 11086,
+        "created_at": "Sun Apr 08 21:05:10 +0000 2007",
+        "favourites_count": 100,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 128921,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "11182A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820487456/e72316fd2b1aead91d29b7c2c8227939.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/706961982545473536/Ibj46-DX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3819701/1427131317",
+        "profile_link_color": "11182A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDE4E9",
+        "profile_text_color": "6A6D6E",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 14,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 26 19:23:02 +0000 2016",
+    "id": 747148183390683136,
+    "id_str": "747148183390683136",
+    "text": "@mknz So democracy is a bad thing when the unwashed masses don't vote the way the politicians want them to. Got it.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mknz",
+          "name": "Neil Mackenzie",
+          "id": 23634463,
+          "id_str": "23634463",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 747124592162963456,
+    "in_reply_to_status_id_str": "747124592162963456",
+    "in_reply_to_user_id": 23634463,
+    "in_reply_to_user_id_str": "23634463",
+    "in_reply_to_screen_name": "mknz",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Jun 24 17:54:56 +0000 2016",
     "id": 746401236811821057,
     "id_str": "746401236811821057",
