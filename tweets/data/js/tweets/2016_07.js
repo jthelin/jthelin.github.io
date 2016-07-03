@@ -1,5 +1,185 @@
 Grailbird.data.tweets_2016_07 = [
   {
+    "created_at": "Sat Jul 02 23:18:54 +0000 2016",
+    "id": 749381865107169281,
+    "id_str": "749381865107169281",
+    "text": "RT @arungupta: \"syslog -k Sender Docker” gives you Docker daemon log on Docker for Mac, more details: https://t.co/AD9vqIzpBg Also integrat…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arungupta",
+          "name": "Arun Gupta",
+          "id": 12387972,
+          "id_str": "12387972",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AD9vqIzpBg",
+          "expanded_url": "https://docs.docker.com/docker-for-mac/troubleshoot/#/checking-the-logs",
+          "display_url": "docs.docker.com/docker-for-mac…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jul 02 16:56:05 +0000 2016",
+      "id": 749285526557958144,
+      "id_str": "749285526557958144",
+      "text": "\"syslog -k Sender Docker” gives you Docker daemon log on Docker for Mac, more details: https://t.co/AD9vqIzpBg Also integrated with Console.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AD9vqIzpBg",
+            "expanded_url": "https://docs.docker.com/docker-for-mac/troubleshoot/#/checking-the-logs",
+            "display_url": "docs.docker.com/docker-for-mac…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12387972,
+        "id_str": "12387972",
+        "name": "Arun Gupta",
+        "screen_name": "arungupta",
+        "location": "Mountain View, CA",
+        "description": "Runner, Author, Father, Husband, Java Champion, JavaOne Rockstar, JUG Leader, Minecraft Modder, Devoxx4Kids, https://t.co/NYwJuxKmOr, Couchbase ...",
+        "url": "https://t.co/J6CLhFVhDu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/J6CLhFVhDu",
+                "expanded_url": "http://blog.couchbase.com/facet/Author/Arun+Gupta",
+                "display_url": "blog.couchbase.com/facet/Author/A…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/NYwJuxKmOr",
+                "expanded_url": "http://devrelcon.com",
+                "display_url": "devrelcon.com",
+                "indices": [
+                  109,
+                  132
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20866,
+        "friends_count": 153,
+        "listed_count": 859,
+        "created_at": "Fri Jan 18 05:44:36 +0000 2008",
+        "favourites_count": 2271,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30144,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000050857136/46b9895a7c64f7a755a5b68082bdbd05.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000050857136/46b9895a7c64f7a755a5b68082bdbd05.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/679450122640437248/eqg5YA0F_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/679450122640437248/eqg5YA0F_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12387972/1447369943",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 9,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Jul 01 18:41:10 +0000 2016",
     "id": 748949584370495488,
     "id_str": "748949584370495488",
