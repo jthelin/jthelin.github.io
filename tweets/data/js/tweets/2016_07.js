@@ -1,5 +1,469 @@
 Grailbird.data.tweets_2016_07 = [
   {
+    "created_at": "Tue Jul 19 22:54:59 +0000 2016",
+    "id": 755536443158597632,
+    "id_str": "755536443158597632",
+    "text": "RT @adriancolyer: Large scale anomaly (outlier) detection in streaming analytics, the SOP algorithm: https://t.co/zpgu717OcV https://t.co/a…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adriancolyer",
+          "name": "Adrian Colyer",
+          "id": 23971403,
+          "id_str": "23971403",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zpgu717OcV",
+          "expanded_url": "http://blog.acolyer.org/2016/07/19/sharing-aware-outlier-analytics-over-high-volume-data-streams",
+          "display_url": "blog.acolyer.org/2016/07/19/sha…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 755429529523544064,
+          "id_str": "755429529523544064",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+          "url": "https://t.co/a6OC1zI8Ku",
+          "display_url": "pic.twitter.com/a6OC1zI8Ku",
+          "expanded_url": "http://twitter.com/adriancolyer/status/755429533583568900/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 942,
+              "h": 620,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 942,
+              "h": 620,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 755429533583568900,
+          "source_status_id_str": "755429533583568900",
+          "source_user_id": 23971403,
+          "source_user_id_str": "23971403"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 755429529523544064,
+          "id_str": "755429529523544064",
+          "indices": [
+            125,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+          "url": "https://t.co/a6OC1zI8Ku",
+          "display_url": "pic.twitter.com/a6OC1zI8Ku",
+          "expanded_url": "http://twitter.com/adriancolyer/status/755429533583568900/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 942,
+              "h": 620,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 942,
+              "h": 620,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 755429533583568900,
+          "source_status_id_str": "755429533583568900",
+          "source_user_id": 23971403,
+          "source_user_id_str": "23971403"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 19 15:50:10 +0000 2016",
+      "id": 755429533583568900,
+      "id_str": "755429533583568900",
+      "text": "Large scale anomaly (outlier) detection in streaming analytics, the SOP algorithm: https://t.co/zpgu717OcV https://t.co/a6OC1zI8Ku",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zpgu717OcV",
+            "expanded_url": "http://blog.acolyer.org/2016/07/19/sharing-aware-outlier-analytics-over-high-volume-data-streams",
+            "display_url": "blog.acolyer.org/2016/07/19/sha…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 755429529523544064,
+            "id_str": "755429529523544064",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+            "url": "https://t.co/a6OC1zI8Ku",
+            "display_url": "pic.twitter.com/a6OC1zI8Ku",
+            "expanded_url": "http://twitter.com/adriancolyer/status/755429533583568900/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 942,
+                "h": 620,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 942,
+                "h": 620,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 448,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 755429529523544064,
+            "id_str": "755429529523544064",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnvTJ5gXYAA7AxC.jpg",
+            "url": "https://t.co/a6OC1zI8Ku",
+            "display_url": "pic.twitter.com/a6OC1zI8Ku",
+            "expanded_url": "http://twitter.com/adriancolyer/status/755429533583568900/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 942,
+                "h": 620,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 942,
+                "h": 620,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 448,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23971403,
+        "id_str": "23971403",
+        "name": "Adrian Colyer",
+        "screen_name": "adriancolyer",
+        "location": "Romsey, England",
+        "description": "Author: #themorningpaper, Venture Partner with Accel Partners, London after many years as CTO for SpringSource and then apps at VMware, Pivotal",
+        "url": "https://t.co/b74UImWlMg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b74UImWlMg",
+                "expanded_url": "http://www.accel.com/team/venture-development/london/adrian-colyer",
+                "display_url": "accel.com/team/venture-d…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9153,
+        "friends_count": 255,
+        "listed_count": 457,
+        "created_at": "Thu Mar 12 15:51:34 +0000 2009",
+        "favourites_count": 1266,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3446,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/756041698904596480/qm6IkUot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/756041698904596480/qm6IkUot_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23971403/1412244432",
+        "profile_link_color": "C6A168",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 57,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 19 22:53:30 +0000 2016",
+    "id": 755536067726422016,
+    "id_str": "755536067726422016",
+    "text": "VW’s Plot to Cheat America Revealed - how @VW execs and engineers tried to defraud car buyers and deceive regulators https://t.co/E11rPDwKwl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VW",
+          "name": "Volkswagen USA",
+          "id": 28165910,
+          "id_str": "28165910",
+          "indices": [
+            42,
+            45
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E11rPDwKwl",
+          "expanded_url": "http://a.msn.com/08/en-us/BBuvq8k?ocid=st",
+          "display_url": "a.msn.com/08/en-us/BBuvq…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 19 16:30:02 +0000 2016",
+    "id": 755439564555116544,
+    "id_str": "755439564555116544",
+    "text": "@reubenbond Some minor API finalization but issue is correctness test - blocked by #1859 bug in gateway failover. https://t.co/MueZ3jeiTm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "reubenbond",
+          "name": "Reuben Bond",
+          "id": 57183972,
+          "id_str": "57183972",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MueZ3jeiTm",
+          "expanded_url": "https://github.com/dotnet/orleans/pull/1859",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 754820159844474880,
+    "in_reply_to_status_id_str": "754820159844474880",
+    "in_reply_to_user_id": 57183972,
+    "in_reply_to_user_id_str": "57183972",
+    "in_reply_to_screen_name": "reubenbond",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jul 17 22:27:47 +0000 2016",
     "id": 754804819525718016,
     "id_str": "754804819525718016",
