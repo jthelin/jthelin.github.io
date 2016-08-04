@@ -1,5 +1,288 @@
 Grailbird.data.tweets_2016_07 = [
   {
+    "created_at": "Sat Jul 30 21:10:20 +0000 2016",
+    "id": 759496371464318976,
+    "id_str": "759496371464318976",
+    "text": "RT @mpapas: @projectorleans I'm looking for any Orleans case studies in the financial services industry. Any help/pointers to public info w…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mpapas",
+          "name": "Michael Papasevastos",
+          "id": 18721430,
+          "id_str": "18721430",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            12,
+            27
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jul 30 17:23:54 +0000 2016",
+      "id": 759439386295562240,
+      "id_str": "759439386295562240",
+      "text": "@projectorleans I'm looking for any Orleans case studies in the financial services industry. Any help/pointers to public info would be great",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3366266218,
+      "in_reply_to_user_id_str": "3366266218",
+      "in_reply_to_screen_name": "projectorleans",
+      "user": {
+        "id": 18721430,
+        "id_str": "18721430",
+        "name": "Michael Papasevastos",
+        "screen_name": "mpapas",
+        "location": "Planet Earth",
+        "description": "Father•husband•software developer•life explorer•thinker•martial artist•always evolving•tweets are personal and do not reflect the views of my employer",
+        "url": "https://t.co/X2Mc1vzXsy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/X2Mc1vzXsy",
+                "expanded_url": "https://www.linkedin.com/in/mpapas",
+                "display_url": "linkedin.com/in/mpapas",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 222,
+        "friends_count": 924,
+        "listed_count": 4,
+        "created_at": "Wed Jan 07 13:51:30 +0000 2009",
+        "favourites_count": 6,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 718,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/368671770/Face_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/368671770/Face_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18721430/1379531042",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jul 30 17:06:55 +0000 2016",
+    "id": 759435112240914434,
+    "id_str": "759435112240914434",
+    "text": "New Wall Street movie 'Equity' should open up the dialogue about gender equality and treatment of women in finance. https://t.co/7qRNnNorQ2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7qRNnNorQ2",
+          "expanded_url": "https://apple.news/ANwSJf4AXSRe2-QUw9FKW1Q",
+          "display_url": "apple.news/ANwSJf4AXSRe2-…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jul 30 16:55:06 +0000 2016",
+    "id": 759432142203916288,
+    "id_str": "759432142203916288",
+    "text": "5 Up-and-Coming Programming Languages to Know About - DZone https://t.co/pVUgeFTdRo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pVUgeFTdRo",
+          "expanded_url": "https://apple.news/A0SP8glrePv-NkTnIe6_2Uw",
+          "display_url": "apple.news/A0SP8glrePv-Nk…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jul 30 03:00:00 +0000 2016",
     "id": 759221980679766016,
     "id_str": "759221980679766016",
