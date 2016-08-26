@@ -1,5 +1,853 @@
 Grailbird.data.tweets_2016_08 = [
   {
+    "created_at": "Fri Aug 26 05:26:10 +0000 2016",
+    "id": 769043237306785793,
+    "id_str": "769043237306785793",
+    "text": "Atlassian now lets you hire freelancers right from JIRA https://t.co/mzPrqYVIMG via @techcrunch",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TechCrunch",
+          "name": "TechCrunch",
+          "id": 816653,
+          "id_str": "816653",
+          "indices": [
+            84,
+            95
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mzPrqYVIMG",
+          "expanded_url": "http://tcrn.ch/2bCEGuY",
+          "display_url": "tcrn.ch/2bCEGuY",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 25 21:42:06 +0000 2016",
+    "id": 768926451479384064,
+    "id_str": "768926451479384064",
+    "text": "RT @sbykov_work: Learned today that Orbit (JVM impl of the @projectorleans virt actor model) is used by Netflix, Facebook, and a bunch of o…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sbykov_work",
+          "name": "Sergey Bykov",
+          "id": 2421698636,
+          "id_str": "2421698636",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            59,
+            74
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 25 06:25:45 +0000 2016",
+      "id": 768695842416885760,
+      "id_str": "768695842416885760",
+      "text": "Learned today that Orbit (JVM impl of the @projectorleans virt actor model) is used by Netflix, Facebook, and a bunch of other companies.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              42,
+              57
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2421698636,
+        "id_str": "2421698636",
+        "name": "Sergey Bykov",
+        "screen_name": "sbykov_work",
+        "location": "Redmond WA, USA",
+        "description": "Lead of the Orleans project at Microsoft. Acting on actors.",
+        "url": "https://t.co/z6wj6MChiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z6wj6MChiI",
+                "expanded_url": "https://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 732,
+        "friends_count": 239,
+        "listed_count": 65,
+        "created_at": "Tue Apr 01 07:15:10 +0000 2014",
+        "favourites_count": 926,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3128,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "favorite_count": 41,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 25 21:33:46 +0000 2016",
+    "id": 768924353819840512,
+    "id_str": "768924353819840512",
+    "text": "New @MobiusForSpark release 1.6.200 for @ApacheSpark. Features C#-based REPL + net optimizations + better @Linux sup https://t.co/CUDx1pAcQ1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MobiusForSpark",
+          "name": "Mobius API for Spark",
+          "id": 4098446472,
+          "id_str": "4098446472",
+          "indices": [
+            4,
+            19
+          ]
+        },
+        {
+          "screen_name": "ApacheSpark",
+          "name": "Apache Spark",
+          "id": 1551361069,
+          "id_str": "1551361069",
+          "indices": [
+            40,
+            52
+          ]
+        },
+        {
+          "screen_name": "Linux",
+          "name": "Linux",
+          "id": 8633582,
+          "id_str": "8633582",
+          "indices": [
+            106,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CUDx1pAcQ1",
+          "expanded_url": "https://github.com/Microsoft/Mobius/releases/tag/v1.6.200",
+          "display_url": "github.com/Microsoft/Mobi…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 25 21:12:14 +0000 2016",
+    "id": 768918933021745153,
+    "id_str": "768918933021745153",
+    "text": "RT @databricks: Developing #ApacheSpark Applications in .NET using Mobius—Extending Spark to the .NET developer community https://t.co/IjMn…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ApacheSpark",
+          "indices": [
+            27,
+            39
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "databricks",
+          "name": "Databricks",
+          "id": 1562518867,
+          "id_str": "1562518867",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IjMnFpgGRd",
+          "expanded_url": "http://dbricks.co/2asUwcq",
+          "display_url": "dbricks.co/2asUwcq",
+          "indices": [
+            122,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Aug 03 15:22:51 +0000 2016",
+      "id": 760858474351820800,
+      "id_str": "760858474351820800",
+      "text": "Developing #ApacheSpark Applications in .NET using Mobius—Extending Spark to the .NET developer community https://t.co/IjMnFpgGRd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ApacheSpark",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IjMnFpgGRd",
+            "expanded_url": "http://dbricks.co/2asUwcq",
+            "display_url": "dbricks.co/2asUwcq",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1562518867,
+        "id_str": "1562518867",
+        "name": "Databricks",
+        "screen_name": "databricks",
+        "location": "",
+        "description": "Databricks’ vision is to empower anyone to easily build and deploy advanced analytics solutions with Apache® Spark™.",
+        "url": "http://t.co/PoQGTE0sky",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/PoQGTE0sky",
+                "expanded_url": "http://databricks.com",
+                "display_url": "databricks.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16143,
+        "friends_count": 13,
+        "listed_count": 578,
+        "created_at": "Tue Jul 02 07:28:36 +0000 2013",
+        "favourites_count": 69,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1419,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650042091909722112/j9Rbs5vq_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650042091909722112/j9Rbs5vq_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562518867/1469204142",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 26,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 25 03:48:18 +0000 2016",
+    "id": 768656220429299712,
+    "id_str": "768656220429299712",
+    "text": "RT @FiveThirtyEight: Be suspicious of online movie ratings, especially Fandango's: https://t.co/hmRtUfgbS3   https://t.co/yWsuQVkigw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FiveThirtyEight",
+          "name": "FiveThirtyEight",
+          "id": 2303751216,
+          "id_str": "2303751216",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hmRtUfgbS3",
+          "expanded_url": "http://53eig.ht/1jD9wqC",
+          "display_url": "53eig.ht/1jD9wqC",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 726119705686106114,
+          "id_str": "726119705686106114",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+          "url": "https://t.co/yWsuQVkigw",
+          "display_url": "pic.twitter.com/yWsuQVkigw",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/726411814716624897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 816,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 271,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 478,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 726411814716624897,
+          "source_status_id_str": "726411814716624897",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 726119705686106114,
+          "id_str": "726119705686106114",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+          "url": "https://t.co/yWsuQVkigw",
+          "display_url": "pic.twitter.com/yWsuQVkigw",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/726411814716624897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 816,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 271,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 478,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 726411814716624897,
+          "source_status_id_str": "726411814716624897",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 25 03:32:20 +0000 2016",
+      "id": 768652200100986881,
+      "id_str": "768652200100986881",
+      "text": "Be suspicious of online movie ratings, especially Fandango's: https://t.co/hmRtUfgbS3   https://t.co/yWsuQVkigw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hmRtUfgbS3",
+            "expanded_url": "http://53eig.ht/1jD9wqC",
+            "display_url": "53eig.ht/1jD9wqC",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 726119705686106114,
+            "id_str": "726119705686106114",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+            "url": "https://t.co/yWsuQVkigw",
+            "display_url": "pic.twitter.com/yWsuQVkigw",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/726411814716624897/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 816,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 271,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 478,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 726411814716624897,
+            "source_status_id_str": "726411814716624897",
+            "source_user_id": 2303751216,
+            "source_user_id_str": "2303751216"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 726119705686106114,
+            "id_str": "726119705686106114",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ChOyBnHU4AIkMgC.jpg",
+            "url": "https://t.co/yWsuQVkigw",
+            "display_url": "pic.twitter.com/yWsuQVkigw",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/726411814716624897/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 816,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 271,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 478,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 726411814716624897,
+            "source_status_id_str": "726411814716624897",
+            "source_user_id": 2303751216,
+            "source_user_id_str": "2303751216"
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2303751216,
+        "id_str": "2303751216",
+        "name": "FiveThirtyEight",
+        "screen_name": "FiveThirtyEight",
+        "location": "New York, NY",
+        "description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+        "url": "https://t.co/BDdsHpm7og",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BDdsHpm7og",
+                "expanded_url": "http://www.fivethirtyeight.com",
+                "display_url": "fivethirtyeight.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 675593,
+        "friends_count": 216,
+        "listed_count": 10631,
+        "created_at": "Tue Jan 21 21:39:32 +0000 2014",
+        "favourites_count": 504,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 24681,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710816309815152640/lr0G7afK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710816309815152640/lr0G7afK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1422903447",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 38,
+      "favorite_count": 74,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Aug 20 21:14:16 +0000 2016",
     "id": 767107507646980096,
     "id_str": "767107507646980096",
