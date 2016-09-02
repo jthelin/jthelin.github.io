@@ -1,5 +1,1270 @@
 Grailbird.data.tweets_2016_08 = [
   {
+    "created_at": "Wed Aug 31 06:28:33 +0000 2016",
+    "id": 770870874786324480,
+    "id_str": "770870874786324480",
+    "text": "The Ultimate SSD Optimization Guide - Windows 10 Update. https://t.co/4xuY72ucyz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4xuY72ucyz",
+          "expanded_url": "http://www.custompcreview.com/articles/ultimate-ssd-optimization-guide-windows-10-update/32129/#.V8Z45SzgZYU.twitter",
+          "display_url": "custompcreview.com/articles/ultim…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Aug 31 00:54:57 +0000 2016",
+    "id": 770786920871845888,
+    "id_str": "770786920871845888",
+    "text": "The EU continues to dig its own grave and the Eurocrats in Brussels are tone deaf about national sovereignty topics. https://t.co/ZUHWRPcoQ7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZUHWRPcoQ7",
+          "expanded_url": "http://www.wsj.com/articles/europes-apple-tax-ambush-1472599362?ru=yahoo?mod=yahoo_itp",
+          "display_url": "wsj.com/articles/europ…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Aug 30 03:44:12 +0000 2016",
+    "id": 770467128780713984,
+    "id_str": "770467128780713984",
+    "text": "Did the Tay chatbot get a new job at Facebook? https://t.co/seaIWepkHT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/seaIWepkHT",
+          "expanded_url": "https://www.theguardian.com/technology/2016/aug/29/facebook-fires-trending-topics-team-algorithm",
+          "display_url": "theguardian.com/technology/201…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Aug 27 23:28:18 +0000 2016",
+    "id": 769677952418140160,
+    "id_str": "769677952418140160",
+    "text": "RT @FiveThirtyEight: How to tell someone's age when all you know is her name: https://t.co/Ah6YysMbOX  https://t.co/lXvl0n4m4H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FiveThirtyEight",
+          "name": "FiveThirtyEight",
+          "id": 2303751216,
+          "id_str": "2303751216",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ah6YysMbOX",
+          "expanded_url": "http://53eig.ht/1HAbW2j",
+          "display_url": "53eig.ht/1HAbW2j",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 704145350756601857,
+          "id_str": "704145350756601857",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+          "url": "https://t.co/lXvl0n4m4H",
+          "display_url": "pic.twitter.com/lXvl0n4m4H",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/704145351775821825/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 409,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 722,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 722,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 704145351775821825,
+          "source_status_id_str": "704145351775821825",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 704145350756601857,
+          "id_str": "704145350756601857",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+          "url": "https://t.co/lXvl0n4m4H",
+          "display_url": "pic.twitter.com/lXvl0n4m4H",
+          "expanded_url": "http://twitter.com/FiveThirtyEight/status/704145351775821825/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 409,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 722,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 722,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 704145351775821825,
+          "source_status_id_str": "704145351775821825",
+          "source_user_id": 2303751216,
+          "source_user_id_str": "2303751216"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 27 23:03:02 +0000 2016",
+      "id": 769671594272694273,
+      "id_str": "769671594272694273",
+      "text": "How to tell someone's age when all you know is her name: https://t.co/Ah6YysMbOX  https://t.co/lXvl0n4m4H",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ah6YysMbOX",
+            "expanded_url": "http://53eig.ht/1HAbW2j",
+            "display_url": "53eig.ht/1HAbW2j",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 704145350756601857,
+            "id_str": "704145350756601857",
+            "indices": [
+              82,
+              105
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+            "url": "https://t.co/lXvl0n4m4H",
+            "display_url": "pic.twitter.com/lXvl0n4m4H",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/704145351775821825/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 409,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 722,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 722,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 704145351775821825,
+            "source_status_id_str": "704145351775821825",
+            "source_user_id": 2303751216,
+            "source_user_id_str": "2303751216"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704145350756601857,
+            "id_str": "704145350756601857",
+            "indices": [
+              82,
+              105
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcWgdz4XEAE2S-5.jpg",
+            "url": "https://t.co/lXvl0n4m4H",
+            "display_url": "pic.twitter.com/lXvl0n4m4H",
+            "expanded_url": "http://twitter.com/FiveThirtyEight/status/704145351775821825/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 409,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 722,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 722,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 704145351775821825,
+            "source_status_id_str": "704145351775821825",
+            "source_user_id": 2303751216,
+            "source_user_id_str": "2303751216"
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2303751216,
+        "id_str": "2303751216",
+        "name": "FiveThirtyEight",
+        "screen_name": "FiveThirtyEight",
+        "location": "New York, NY",
+        "description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+        "url": "https://t.co/BDdsHpm7og",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BDdsHpm7og",
+                "expanded_url": "http://www.fivethirtyeight.com",
+                "display_url": "fivethirtyeight.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 678942,
+        "friends_count": 219,
+        "listed_count": 10696,
+        "created_at": "Tue Jan 21 21:39:32 +0000 2014",
+        "favourites_count": 504,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 24893,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710816309815152640/lr0G7afK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710816309815152640/lr0G7afK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1422903447",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 154,
+      "favorite_count": 248,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 154,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Aug 27 23:06:56 +0000 2016",
+    "id": 769672573743341568,
+    "id_str": "769672573743341568",
+    "text": "RT @SPACEdotcom: #Venus and #Jupiter will have their closest encounter until 2065  tonight. Want to see it?  https://t.co/hrNnqQbjrl https:…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Venus",
+          "indices": [
+            17,
+            23
+          ]
+        },
+        {
+          "text": "Jupiter",
+          "indices": [
+            28,
+            36
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SPACEdotcom",
+          "name": "SPACE.com",
+          "id": 15431856,
+          "id_str": "15431856",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hrNnqQbjrl",
+          "expanded_url": "http://goo.gl/rxijr0",
+          "display_url": "goo.gl/rxijr0",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 769229666972495876,
+          "id_str": "769229666972495876",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+          "url": "https://t.co/Sr1uNl5XqM",
+          "display_url": "pic.twitter.com/Sr1uNl5XqM",
+          "expanded_url": "https://twitter.com/SPACEdotcom/status/769602935391084545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 636,
+              "h": 392,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 636,
+              "h": 392,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 636,
+              "h": 392,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 769602935391084545,
+          "source_status_id_str": "769602935391084545",
+          "source_user_id": 15431856,
+          "source_user_id_str": "15431856"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 769229666972495876,
+          "id_str": "769229666972495876",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+          "url": "https://t.co/Sr1uNl5XqM",
+          "display_url": "pic.twitter.com/Sr1uNl5XqM",
+          "expanded_url": "https://twitter.com/SPACEdotcom/status/769602935391084545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 636,
+              "h": 392,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 636,
+              "h": 392,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 636,
+              "h": 392,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 769602935391084545,
+          "source_status_id_str": "769602935391084545",
+          "source_user_id": 15431856,
+          "source_user_id_str": "15431856"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 27 18:30:12 +0000 2016",
+      "id": 769602935391084545,
+      "id_str": "769602935391084545",
+      "text": "#Venus and #Jupiter will have their closest encounter until 2065  tonight. Want to see it?  https://t.co/hrNnqQbjrl https://t.co/Sr1uNl5XqM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Venus",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "Jupiter",
+            "indices": [
+              11,
+              19
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hrNnqQbjrl",
+            "expanded_url": "http://goo.gl/rxijr0",
+            "display_url": "goo.gl/rxijr0",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 769229666972495876,
+            "id_str": "769229666972495876",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+            "url": "https://t.co/Sr1uNl5XqM",
+            "display_url": "pic.twitter.com/Sr1uNl5XqM",
+            "expanded_url": "https://twitter.com/SPACEdotcom/status/769602935391084545/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 636,
+                "h": 392,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 636,
+                "h": 392,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 636,
+                "h": 392,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 769229666972495876,
+            "id_str": "769229666972495876",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CqzaTnqWcAQU3PO.jpg",
+            "url": "https://t.co/Sr1uNl5XqM",
+            "display_url": "pic.twitter.com/Sr1uNl5XqM",
+            "expanded_url": "https://twitter.com/SPACEdotcom/status/769602935391084545/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 636,
+                "h": 392,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 636,
+                "h": 392,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 636,
+                "h": 392,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15431856,
+        "id_str": "15431856",
+        "name": "SPACE.com",
+        "screen_name": "SPACEdotcom",
+        "location": "NYC",
+        "description": "News coverage and conversation about space science, astronomy and exploration. Part of @Purch",
+        "url": "http://t.co/bM1RQmJD6M",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/bM1RQmJD6M",
+                "expanded_url": "http://www.SPACE.com",
+                "display_url": "SPACE.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 404682,
+        "friends_count": 742,
+        "listed_count": 8872,
+        "created_at": "Mon Jul 14 20:30:10 +0000 2008",
+        "favourites_count": 376,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 41542,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/171872230/spaceBKG.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/171872230/spaceBKG.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/702230733683871744/m1BIofCt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/702230733683871744/m1BIofCt_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15431856/1398268064",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 86,
+      "favorite_count": 93,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 86,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Aug 27 22:09:09 +0000 2016",
+    "id": 769658033219575808,
+    "id_str": "769658033219575808",
+    "text": "RT @newsycombinator: Z3 SMT solver interactive tutorial https://t.co/aiHzeRK3t3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "newsycombinator",
+          "name": "Hacker News",
+          "id": 14335498,
+          "id_str": "14335498",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aiHzeRK3t3",
+          "expanded_url": "http://rise4fun.com/z3/tutorial/guide",
+          "display_url": "rise4fun.com/z3/tutorial/gu…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 27 22:03:08 +0000 2016",
+      "id": 769656518702759937,
+      "id_str": "769656518702759937",
+      "text": "Z3 SMT solver interactive tutorial https://t.co/aiHzeRK3t3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/aiHzeRK3t3",
+            "expanded_url": "http://rise4fun.com/z3/tutorial/guide",
+            "display_url": "rise4fun.com/z3/tutorial/gu…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14335498,
+        "id_str": "14335498",
+        "name": "Hacker News",
+        "screen_name": "newsycombinator",
+        "location": "The Internet",
+        "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+        "url": "http://t.co/gliZLgXpD1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gliZLgXpD1",
+                "expanded_url": "http://news.ycombinator.com/",
+                "display_url": "news.ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 137419,
+        "friends_count": 2,
+        "listed_count": 6919,
+        "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 86829,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+        "profile_link_color": "F06200",
+        "profile_sidebar_border_color": "F5F5F5",
+        "profile_sidebar_fill_color": "FF6600",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 29,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Aug 27 00:45:42 +0000 2016",
+    "id": 769335041704865792,
+    "id_str": "769335041704865792",
+    "text": "RT @dsyme: Great to see some initial F# examples being added to @Azure Mobius. Mobius is @ApacheSpark + .NET. https://t.co/EHDAaRKgGH #apac…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "apachespark",
+          "indices": [
+            134,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dsyme",
+          "name": "Don Syme",
+          "id": 25663453,
+          "id_str": "25663453",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "Azure",
+          "name": "Microsoft Azure",
+          "id": 17000457,
+          "id_str": "17000457",
+          "indices": [
+            64,
+            70
+          ]
+        },
+        {
+          "screen_name": "ApacheSpark",
+          "name": "Apache Spark",
+          "id": 1551361069,
+          "id_str": "1551361069",
+          "indices": [
+            89,
+            101
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EHDAaRKgGH",
+          "expanded_url": "https://github.com/Microsoft/Mobius/pull/525",
+          "display_url": "github.com/Microsoft/Mobi…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 26 17:45:10 +0000 2016",
+      "id": 769229212662259712,
+      "id_str": "769229212662259712",
+      "text": "Great to see some initial F# examples being added to @Azure Mobius. Mobius is @ApacheSpark + .NET. https://t.co/EHDAaRKgGH #apachespark",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "apachespark",
+            "indices": [
+              123,
+              135
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Azure",
+            "name": "Microsoft Azure",
+            "id": 17000457,
+            "id_str": "17000457",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "screen_name": "ApacheSpark",
+            "name": "Apache Spark",
+            "id": 1551361069,
+            "id_str": "1551361069",
+            "indices": [
+              78,
+              90
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EHDAaRKgGH",
+            "expanded_url": "https://github.com/Microsoft/Mobius/pull/525",
+            "display_url": "github.com/Microsoft/Mobi…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 25663453,
+        "id_str": "25663453",
+        "name": "Don Syme",
+        "screen_name": "dsyme",
+        "location": "",
+        "description": "",
+        "url": "http://t.co/FNdmncbXmQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/FNdmncbXmQ",
+                "expanded_url": "http://blogs.msdn.com/b/dsyme",
+                "display_url": "blogs.msdn.com/b/dsyme",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5811,
+        "friends_count": 309,
+        "listed_count": 390,
+        "created_at": "Sat Mar 21 11:17:51 +0000 2009",
+        "favourites_count": 7236,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14089,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2534151212/nzrzcybpx76l76hs1rvf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2534151212/nzrzcybpx76l76hs1rvf_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 22,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Aug 26 05:26:10 +0000 2016",
     "id": 769043237306785793,
     "id_str": "769043237306785793",
