@@ -1,5 +1,839 @@
 Grailbird.data.tweets_2016_09 = [
   {
+    "created_at": "Sat Sep 24 20:40:48 +0000 2016",
+    "id": 779782659090243586,
+    "id_str": "779782659090243586",
+    "text": "Microsoft aims to 'solve' cancer within 10 years by 'reprogramming' diseased cells. https://t.co/u74Ng5ZGHh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/u74Ng5ZGHh",
+          "expanded_url": "https://apple.news/AszLPcZ1WS7OnfGAop2EamA",
+          "display_url": "apple.news/AszLPcZ1WS7Onf…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 24 13:47:15 +0000 2016",
+    "id": 779678587943137280,
+    "id_str": "779678587943137280",
+    "text": "Go on, you know you want to! - How to make your own iMessage sticker pack, no coding required. https://t.co/GNSeDeEv9z",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GNSeDeEv9z",
+          "expanded_url": "http://www.theverge.com/tech/2016/9/23/13005160/imessage-sticker-pack-make-your-own-xcode-app-store",
+          "display_url": "theverge.com/tech/2016/9/23…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Sep 22 21:40:09 +0000 2016",
+    "id": 779072819363663872,
+    "id_str": "779072819363663872",
+    "text": "2016 Duke's Choice Award for Open Source awarded to @OrbitFramework at JavaOne this week. Congrats to @JoeHega &amp; Co. https://t.co/Wyby608BmJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OrbitFramework",
+          "name": "Orbit",
+          "id": 3122084288,
+          "id_str": "3122084288",
+          "indices": [
+            52,
+            67
+          ]
+        },
+        {
+          "screen_name": "JoeHega",
+          "name": "Joe Hegarty",
+          "id": 120222891,
+          "id_str": "120222891",
+          "indices": [
+            102,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wyby608BmJ",
+          "expanded_url": "https://github.com/orbit/orbit/wiki/Duke's-Choice-Award-2016",
+          "display_url": "github.com/orbit/orbit/wi…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Sep 22 21:31:49 +0000 2016",
+    "id": 779070724531105792,
+    "id_str": "779070724531105792",
+    "text": "@JoeHega Congrats!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JoeHega",
+          "name": "Joe Hegarty",
+          "id": 120222891,
+          "id_str": "120222891",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 778418930691940352,
+    "in_reply_to_status_id_str": "778418930691940352",
+    "in_reply_to_user_id": 120222891,
+    "in_reply_to_user_id_str": "120222891",
+    "in_reply_to_screen_name": "JoeHega",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 19 08:33:25 +0000 2016",
+    "id": 777787670785384448,
+    "id_str": "777787670785384448",
+    "text": "A systemic problem - Many car brands emit more pollution than @VW and NOX causes 23,500 deaths per year in UK alone. https://t.co/KFMtqA7tMi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VW",
+          "name": "Volkswagen USA",
+          "id": 28165910,
+          "id_str": "28165910",
+          "indices": [
+            62,
+            65
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KFMtqA7tMi",
+          "expanded_url": "https://apple.news/AyJ30jMLLRuSe4Eh_mJi3dg",
+          "display_url": "apple.news/AyJ30jMLLRuSe4…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 14 04:43:35 +0000 2016",
+    "id": 775917891522695169,
+    "id_str": "775917891522695169",
+    "text": "Is there any industry left that isn't hiding skeletons in their closets? How the Sugar industry shifted blame to fat https://t.co/RQovvEs00w",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RQovvEs00w",
+          "expanded_url": "http://mobile.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html",
+          "display_url": "mobile.nytimes.com/2016/09/13/wel…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Sep 08 17:29:31 +0000 2016",
+    "id": 773936316539031552,
+    "id_str": "773936316539031552",
+    "text": "Another work anniversary arrived today - 13 years at Microsoft.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 07 22:22:35 +0000 2016",
+    "id": 773647679553282048,
+    "id_str": "773647679553282048",
+    "text": "RT @sbykov_work: OrleansContrib is a place for a number of new ideas and plugins for @projectorleans   https://t.co/CqWrkRrBne",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sbykov_work",
+          "name": "Sergey Bykov",
+          "id": 2421698636,
+          "id_str": "2421698636",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "projectorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            85,
+            100
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CqWrkRrBne",
+          "expanded_url": "https://twitter.com/danvanderboom/status/773218461266829312",
+          "display_url": "twitter.com/danvanderboom/…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 06 23:16:38 +0000 2016",
+      "id": 773298894302175232,
+      "id_str": "773298894302175232",
+      "text": "OrleansContrib is a place for a number of new ideas and plugins for @projectorleans   https://t.co/CqWrkRrBne",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "projectorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              68,
+              83
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CqWrkRrBne",
+            "expanded_url": "https://twitter.com/danvanderboom/status/773218461266829312",
+            "display_url": "twitter.com/danvanderboom/…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2421698636,
+        "id_str": "2421698636",
+        "name": "Sergey Bykov",
+        "screen_name": "sbykov_work",
+        "location": "Redmond WA, USA",
+        "description": "Lead of the Orleans project at Microsoft. Acting on actors.",
+        "url": "https://t.co/z6wj6MChiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z6wj6MChiI",
+                "expanded_url": "https://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 769,
+        "friends_count": 249,
+        "listed_count": 66,
+        "created_at": "Tue Apr 01 07:15:10 +0000 2014",
+        "favourites_count": 977,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3302,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498554653127479296/Tpj_vuT4_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 773218461266829312,
+      "quoted_status_id_str": "773218461266829312",
+      "quoted_status": {
+        "created_at": "Tue Sep 06 17:57:01 +0000 2016",
+        "id": 773218461266829312,
+        "id_str": "773218461266829312",
+        "text": "Serilog plugin for @projectorleans tracing and logging TelemetryConsumer: https://t.co/tsaywn8z8J",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "projectorleans",
+              "name": "Microsoft Orleans",
+              "id": 3366266218,
+              "id_str": "3366266218",
+              "indices": [
+                19,
+                34
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/tsaywn8z8J",
+              "expanded_url": "https://github.com/OrleansContrib/Orleans.Telemetry.SerilogConsumer",
+              "display_url": "github.com/OrleansContrib…",
+              "indices": [
+                74,
+                97
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 18170489,
+          "id_str": "18170489",
+          "name": "Dan Vanderboom",
+          "screen_name": "danvanderboom",
+          "location": "Colorado, USA",
+          "description": "Software Strategist & Architect, Mobile Software Designer, Xamarin Certified Mobile Developer, Data-Intensive Solutions Focus, Extra Ham KE0EZL",
+          "url": "https://t.co/54cBzLRK5l",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/54cBzLRK5l",
+                  "expanded_url": "http://dvanderboom.wordpress.com",
+                  "display_url": "dvanderboom.wordpress.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 986,
+          "friends_count": 1629,
+          "listed_count": 121,
+          "created_at": "Tue Dec 16 19:43:17 +0000 2008",
+          "favourites_count": 1269,
+          "utc_offset": -18000,
+          "time_zone": "Central Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 21685,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "8B542B",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/727525879165767680/4bf1SBwY_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/727525879165767680/4bf1SBwY_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/18170489/1462289249",
+          "profile_link_color": "9D582E",
+          "profile_sidebar_border_color": "D9B17E",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 773218461266829312,
+    "quoted_status_id_str": "773218461266829312",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 06 16:55:01 +0000 2016",
+    "id": 773202859588399104,
+    "id_str": "773202859588399104",
+    "text": "GM Bolt EV finally gets regenerative braking, but is the extra 'Regen on Demand' paddle for handbreak turns or what? https://t.co/9RlIr5HOSS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9RlIr5HOSS",
+          "expanded_url": "https://apple.news/AHjSXXj5fQL2qyPr1FHd7tQ",
+          "display_url": "apple.news/AHjSXXj5fQL2qy…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 05 22:56:34 +0000 2016",
+    "id": 772931457417224192,
+    "id_str": "772931457417224192",
+    "text": "If EU is serious about punishing corporate wrong-doing then @VW should pay $255B for pro-rata resolution US applied. https://t.co/CMMMGL7YNj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VW",
+          "name": "Volkswagen USA",
+          "id": 28165910,
+          "id_str": "28165910",
+          "indices": [
+            60,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CMMMGL7YNj",
+          "expanded_url": "http://finance.yahoo.com/news/eu-finds-volkswagen-broke-consumer-laws-20-countries-050253886--finance.html",
+          "display_url": "finance.yahoo.com/news/eu-finds-…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Sep 04 16:46:59 +0000 2016",
     "id": 772476059384025088,
     "id_str": "772476059384025088",
