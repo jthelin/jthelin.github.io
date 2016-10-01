@@ -1,5 +1,739 @@
 Grailbird.data.tweets_2016_09 = [
   {
+    "created_at": "Fri Sep 30 15:52:30 +0000 2016",
+    "id": 781884434144374784,
+    "id_str": "781884434144374784",
+    "text": "Thank you to the driver of the black @bmw 5-series who cut me up bad on 520 last night. I managed to stop in time b… https://t.co/MAaM6MXvhK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BMW",
+          "name": "BMW",
+          "id": 1545994664,
+          "id_str": "1545994664",
+          "indices": [
+            37,
+            41
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MAaM6MXvhK",
+          "expanded_url": "https://twitter.com/i/web/status/781884434144374784",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Sep 29 00:45:22 +0000 2016",
+    "id": 781293757744361472,
+    "id_str": "781293757744361472",
+    "text": "RT @UnixToolTip: Stuart Feldman wrote the first makefile in 1977. All makefiles since have started by copying a previous one, in unbroken s…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "UnixToolTip",
+          "name": "Unix tool tip",
+          "id": 363210621,
+          "id_str": "363210621",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 28 21:32:17 +0000 2016",
+      "id": 781245167386976256,
+      "id_str": "781245167386976256",
+      "text": "Stuart Feldman wrote the first makefile in 1977. All makefiles since have started by copying a previous one, in unbroken succession.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 363210621,
+        "id_str": "363210621",
+        "name": "Unix tool tip",
+        "screen_name": "UnixToolTip",
+        "location": "",
+        "description": "Daily tips M-F on Unix utilities and related topics from @JohnDCook.",
+        "url": "https://t.co/vtMHCfZpoO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vtMHCfZpoO",
+                "expanded_url": "http://JohnDCook.com",
+                "display_url": "JohnDCook.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 53416,
+        "friends_count": 18,
+        "listed_count": 1573,
+        "created_at": "Sat Aug 27 18:23:08 +0000 2011",
+        "favourites_count": 68,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2370,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710925198724214785/g75FcET7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710925198724214785/g75FcET7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/363210621/1458355755",
+        "profile_link_color": "004899",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "00805E",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 928,
+      "favorite_count": 1093,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 928,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Sep 29 00:44:20 +0000 2016",
+    "id": 781293497600978944,
+    "id_str": "781293497600978944",
+    "text": "RT @SwiftOnSecurity: The Forever Computer: Linux security in a world without updates https://t.co/eKR4JBNSOs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SwiftOnSecurity",
+          "name": "Swift!On!Security!",
+          "id": 2436389418,
+          "id_str": "2436389418",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eKR4JBNSOs",
+          "expanded_url": "http://arstechnica.com/security/2016/09/linux-kernel-security-needs-fixing/",
+          "display_url": "arstechnica.com/security/2016/…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 28 19:17:34 +0000 2016",
+      "id": 781211263728615424,
+      "id_str": "781211263728615424",
+      "text": "The Forever Computer: Linux security in a world without updates https://t.co/eKR4JBNSOs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eKR4JBNSOs",
+            "expanded_url": "http://arstechnica.com/security/2016/09/linux-kernel-security-needs-fixing/",
+            "display_url": "arstechnica.com/security/2016/…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2436389418,
+        "id_str": "2436389418",
+        "name": "SwiftOnSecurity👸🏼",
+        "screen_name": "SwiftOnSecurity",
+        "location": "",
+        "description": "I'll steal your 🍯 like I stole your 🚲",
+        "url": "https://t.co/aWvonHTRoC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/aWvonHTRoC",
+                "expanded_url": "http://decentsecurity.com",
+                "display_url": "decentsecurity.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 142547,
+        "friends_count": 5836,
+        "listed_count": 3914,
+        "created_at": "Thu Apr 10 02:54:26 +0000 2014",
+        "favourites_count": 48434,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44250,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775161429326372865/ezoHOlBy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775161429326372865/ezoHOlBy_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "favorite_count": 91,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 26 00:46:14 +0000 2016",
+    "id": 780206813765472256,
+    "id_str": "780206813765472256",
+    "text": "RT @shanselman: How to make Self-contained @dotnet Core Applications https://t.co/dCNpJKJyBe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shanselman",
+          "name": "Scott Hanselman",
+          "id": 5676102,
+          "id_str": "5676102",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "dotnet",
+          "name": ".NET Team",
+          "id": 757891106,
+          "id_str": "757891106",
+          "indices": [
+            43,
+            50
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dCNpJKJyBe",
+          "expanded_url": "http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx",
+          "display_url": "hanselman.com/blog/Selfconta…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 18 05:35:31 +0000 2016",
+      "id": 777380512734121984,
+      "id_str": "777380512734121984",
+      "text": "How to make Self-contained @dotnet Core Applications https://t.co/dCNpJKJyBe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "dotnet",
+            "name": ".NET Team",
+            "id": 757891106,
+            "id_str": "757891106",
+            "indices": [
+              27,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dCNpJKJyBe",
+            "expanded_url": "http://www.hanselman.com/blog/SelfcontainedNETCoreApplications.aspx",
+            "display_url": "hanselman.com/blog/Selfconta…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5676102,
+        "id_str": "5676102",
+        "name": "Scott Hanselman",
+        "screen_name": "shanselman",
+        "location": "Portland, Oregon",
+        "description": "Tech, Code, YouTube, Race, Linguistics, Web, Parenting, Black Hair, STEM, Inclusion, @OSCON chair, Phony. MSFT, but these are my opinions. @overheardathome",
+        "url": "https://t.co/KWE5X1BBOh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KWE5X1BBOh",
+                "expanded_url": "http://hanselman.com",
+                "display_url": "hanselman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 172109,
+        "friends_count": 6323,
+        "listed_count": 7761,
+        "created_at": "Tue May 01 05:55:26 +0000 2007",
+        "favourites_count": 35119,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 143300,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D1CDC1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+        "profile_link_color": "72412C",
+        "profile_sidebar_border_color": "B8AA9C",
+        "profile_sidebar_fill_color": "B8AA9C",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 138,
+      "favorite_count": 212,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 138,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 26 00:39:16 +0000 2016",
+    "id": 780205061733355520,
+    "id_str": "780205061733355520",
+    "text": "RT @shanselman: Real success is reaching a level of success where others' success isn't threatening. Hold up your peers, say their names, a…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shanselman",
+          "name": "Scott Hanselman",
+          "id": 5676102,
+          "id_str": "5676102",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 07 23:46:13 +0000 2016",
+      "id": 773668727627714560,
+      "id_str": "773668727627714560",
+      "text": "Real success is reaching a level of success where others' success isn't threatening. Hold up your peers, say their names, and celebrate.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5676102,
+        "id_str": "5676102",
+        "name": "Scott Hanselman",
+        "screen_name": "shanselman",
+        "location": "Portland, Oregon",
+        "description": "Tech, Code, YouTube, Race, Linguistics, Web, Parenting, Black Hair, STEM, Inclusion, @OSCON chair, Phony. MSFT, but these are my opinions. @overheardathome",
+        "url": "https://t.co/KWE5X1BBOh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KWE5X1BBOh",
+                "expanded_url": "http://hanselman.com",
+                "display_url": "hanselman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 172109,
+        "friends_count": 6323,
+        "listed_count": 7761,
+        "created_at": "Tue May 01 05:55:26 +0000 2007",
+        "favourites_count": 35119,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 143300,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D1CDC1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/373869284/sepiabackground.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459455847165218816/I_sH-zvU_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+        "profile_link_color": "72412C",
+        "profile_sidebar_border_color": "B8AA9C",
+        "profile_sidebar_fill_color": "B8AA9C",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 260,
+      "favorite_count": 438,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 260,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Sep 24 20:40:48 +0000 2016",
     "id": 779782659090243586,
     "id_str": "779782659090243586",
