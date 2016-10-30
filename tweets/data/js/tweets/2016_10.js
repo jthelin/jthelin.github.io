@@ -1,5 +1,971 @@
 Grailbird.data.tweets_2016_10 = [
   {
+    "created_at": "Sun Oct 30 01:18:31 +0000 2016",
+    "id": 792536126988820481,
+    "id_str": "792536126988820481",
+    "text": "RT @galvesribeiro: Yay! @msftorleans running on .Net Core and @ubuntu !!! Great times are coming! https://t.co/OIBENoZuvl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "galvesribeiro",
+          "name": "Gutemberg Ribeiro",
+          "id": 166046392,
+          "id_str": "166046392",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            24,
+            36
+          ]
+        },
+        {
+          "screen_name": "ubuntu",
+          "name": "Ubuntu",
+          "id": 2480951,
+          "id_str": "2480951",
+          "indices": [
+            62,
+            69
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 792455396032143360,
+          "id_str": "792455396032143360",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+          "url": "https://t.co/OIBENoZuvl",
+          "display_url": "pic.twitter.com/OIBENoZuvl",
+          "expanded_url": "https://twitter.com/galvesribeiro/status/792455412746481664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 792455412746481664,
+          "source_status_id_str": "792455412746481664",
+          "source_user_id": 166046392,
+          "source_user_id_str": "166046392"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 792455396032143360,
+          "id_str": "792455396032143360",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+          "url": "https://t.co/OIBENoZuvl",
+          "display_url": "pic.twitter.com/OIBENoZuvl",
+          "expanded_url": "https://twitter.com/galvesribeiro/status/792455412746481664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 792455412746481664,
+          "source_status_id_str": "792455412746481664",
+          "source_user_id": 166046392,
+          "source_user_id_str": "166046392"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 29 19:57:48 +0000 2016",
+      "id": 792455412746481664,
+      "id_str": "792455412746481664",
+      "text": "Yay! @msftorleans running on .Net Core and @ubuntu !!! Great times are coming! https://t.co/OIBENoZuvl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              5,
+              17
+            ]
+          },
+          {
+            "screen_name": "ubuntu",
+            "name": "Ubuntu",
+            "id": 2480951,
+            "id_str": "2480951",
+            "indices": [
+              43,
+              50
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 792455396032143360,
+            "id_str": "792455396032143360",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+            "url": "https://t.co/OIBENoZuvl",
+            "display_url": "pic.twitter.com/OIBENoZuvl",
+            "expanded_url": "https://twitter.com/galvesribeiro/status/792455412746481664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 792455396032143360,
+            "id_str": "792455396032143360",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cv9d--zWYAApQga.jpg",
+            "url": "https://t.co/OIBENoZuvl",
+            "display_url": "pic.twitter.com/OIBENoZuvl",
+            "expanded_url": "https://twitter.com/galvesribeiro/status/792455412746481664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 166046392,
+        "id_str": "166046392",
+        "name": "Gutemberg Ribeiro",
+        "screen_name": "galvesribeiro",
+        "location": "São Paulo - Brazil",
+        "description": "Enterprise Architect",
+        "url": "http://t.co/heEG3frMbC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/heEG3frMbC",
+                "expanded_url": "http://galvesribeiro.wordpress.com",
+                "display_url": "galvesribeiro.wordpress.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 172,
+        "friends_count": 235,
+        "listed_count": 10,
+        "created_at": "Tue Jul 13 05:23:09 +0000 2010",
+        "favourites_count": 58,
+        "utc_offset": -7200,
+        "time_zone": "Brasilia",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3092,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134397961/5c30e411-7089-46a3-a096-e49b43ea8309_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134397961/5c30e411-7089-46a3-a096-e49b43ea8309_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166046392/1477784323",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 32,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 30 01:16:34 +0000 2016",
+    "id": 792535635441569792,
+    "id_str": "792535635441569792",
+    "text": "This is great toolkit for anyone doing iPhone repairs. Hardest part is getting screen off - check videos on YouTube.\nhttps://t.co/gJkzd7pm0L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gJkzd7pm0L",
+          "expanded_url": "http://amzn.to/2e9G7ES",
+          "display_url": "amzn.to/2e9G7ES",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 30 01:10:39 +0000 2016",
+    "id": 792534146480386049,
+    "id_str": "792534146480386049",
+    "text": "Replaced the broken Home button on old iPhone 5S with this kit. Plenty of How-To videos on YouTube, so not too hard.\nhttps://t.co/DDp0FQuTAa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DDp0FQuTAa",
+          "expanded_url": "http://amzn.to/2fimkGc",
+          "display_url": "amzn.to/2fimkGc",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 29 22:44:59 +0000 2016",
+    "id": 792497488728993792,
+    "id_str": "792497488728993792",
+    "text": "RT @juliandominguez: First Orleans app is running entirely in .NET Core! Still more work to do, but it's a good start https://t.co/sCdLTc6H…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "juliandominguez",
+          "name": "Julian Dominguez",
+          "id": 18262032,
+          "id_str": "18262032",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 29 04:06:17 +0000 2016",
+      "id": 792215957724733440,
+      "id_str": "792215957724733440",
+      "text": "First Orleans app is running entirely in .NET Core! Still more work to do, but it's a good start https://t.co/sCdLTc6H4J @msftorleans",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              121,
+              133
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sCdLTc6H4J",
+            "expanded_url": "https://github.com/jdom/OrleansHelloWorldSample.Core",
+            "display_url": "github.com/jdom/OrleansHe…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18262032,
+        "id_str": "18262032",
+        "name": "Julian Dominguez",
+        "screen_name": "juliandominguez",
+        "location": "Redmond, WA",
+        "description": "Developer / journeyman. Currently working in @projectorleans. Loves learning. NO soy el político K ese...",
+        "url": "http://t.co/IARZmuFGbx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/IARZmuFGbx",
+                "expanded_url": "http://blogs.msdn.com/b/jdom/",
+                "display_url": "blogs.msdn.com/b/jdom/",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 376,
+        "friends_count": 263,
+        "listed_count": 19,
+        "created_at": "Sat Dec 20 05:35:02 +0000 2008",
+        "favourites_count": 118,
+        "utc_offset": -25200,
+        "time_zone": "Tijuana",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 905,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/80350775/space_needle_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/80350775/space_needle_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 18,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 29 22:44:23 +0000 2016",
+    "id": 792497338027651072,
+    "id_str": "792497338027651072",
+    "text": "RT @nuget: 3.5 RTM is now out - https://t.co/wEiz7Uat9T. Better mono compat, SemVer 2.0.0 support in client, Performance Improvements and m…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nuget",
+          "name": "NuGet Team",
+          "id": 266877025,
+          "id_str": "266877025",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wEiz7Uat9T",
+          "expanded_url": "http://blog.nuget.org/",
+          "display_url": "blog.nuget.org",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 28 00:31:15 +0000 2016",
+      "id": 791799456412733440,
+      "id_str": "791799456412733440",
+      "text": "3.5 RTM is now out - https://t.co/wEiz7Uat9T. Better mono compat, SemVer 2.0.0 support in client, Performance Improvements and more.. #nuget",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "nuget",
+            "indices": [
+              134,
+              140
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wEiz7Uat9T",
+            "expanded_url": "http://blog.nuget.org/",
+            "display_url": "blog.nuget.org",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 266877025,
+        "id_str": "266877025",
+        "name": "NuGet Team",
+        "screen_name": "nuget",
+        "location": "Redmond",
+        "description": "Package manager for the Microsoft development platform. #NuGet https://t.co/EWCNrWTDex https://t.co/3VERSOesuS https://t.co/vKMH3k7Rpp https://t.co/amqfvo9Syu",
+        "url": "http://t.co/4P01PQkYsk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/4P01PQkYsk",
+                "expanded_url": "http://www.nuget.org/",
+                "display_url": "nuget.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EWCNrWTDex",
+                "expanded_url": "https://docs.nuget.org",
+                "display_url": "docs.nuget.org",
+                "indices": [
+                  63,
+                  86
+                ]
+              },
+              {
+                "url": "https://t.co/3VERSOesuS",
+                "expanded_url": "https://github.com/nuget/home",
+                "display_url": "github.com/nuget/home",
+                "indices": [
+                  87,
+                  110
+                ]
+              },
+              {
+                "url": "https://t.co/vKMH3k7Rpp",
+                "expanded_url": "https://status.nuget.org",
+                "display_url": "status.nuget.org",
+                "indices": [
+                  111,
+                  134
+                ]
+              },
+              {
+                "url": "https://t.co/amqfvo9Syu",
+                "expanded_url": "http://blog.nuget.org/",
+                "display_url": "blog.nuget.org",
+                "indices": [
+                  135,
+                  158
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14691,
+        "friends_count": 31,
+        "listed_count": 333,
+        "created_at": "Tue Mar 15 23:53:37 +0000 2011",
+        "favourites_count": 48,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 560,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459035051645083648/kM6uyYA1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459035051645083648/kM6uyYA1_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266877025/1464211390",
+        "profile_link_color": "47A2C9",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 87,
+      "favorite_count": 61,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 87,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 24 22:06:33 +0000 2016",
+    "id": 790675876635561984,
+    "id_str": "790675876635561984",
+    "text": "The Biggest Money Mistakes People Make - Decade by Decade https://t.co/YLYrKDuGhp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YLYrKDuGhp",
+          "expanded_url": "https://apple.news/Apn2yGO2gR0aurxSt-vt9_A",
+          "display_url": "apple.news/Apn2yGO2gR0aur…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 24 00:21:29 +0000 2016",
+    "id": 790347445284712448,
+    "id_str": "790347445284712448",
+    "text": "Deep Learning Reading Roadmap - A suggested roadmap for many of the most important papers about deep learning. https://t.co/GqXDLMuFm1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GqXDLMuFm1",
+          "expanded_url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+          "display_url": "github.com/songrotek/Deep…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Oct 22 22:58:29 +0000 2016",
     "id": 789964168745013248,
     "id_str": "789964168745013248",
