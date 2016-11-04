@@ -1,5 +1,604 @@
 Grailbird.data.tweets_2016_10 = [
   {
+    "created_at": "Sun Oct 30 22:28:28 +0000 2016",
+    "id": 792855716717481985,
+    "id_str": "792855716717481985",
+    "text": "Developing Cloud Services Using the Orleans Virtual Actor Model - IEEE Internet Computing (Vol 20.05) @msftorleans https://t.co/bqMoKefg6n",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            102,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bqMoKefg6n",
+          "expanded_url": "http://ieeexplore.ieee.org/abstract/document/7676196/",
+          "display_url": "ieeexplore.ieee.org/abstract/docum…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 30 21:25:28 +0000 2016",
+    "id": 792839862357340160,
+    "id_str": "792839862357340160",
+    "text": "RT @CNET: In 1938, Orson Welles broadcasts \"The War of the Worlds\" on the radio, which reportedly caused major panic among listeners. #This…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CNET",
+          "name": "CNET",
+          "id": 30261067,
+          "id_str": "30261067",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 30 20:48:31 +0000 2016",
+      "id": 792830563971395584,
+      "id_str": "792830563971395584",
+      "text": "In 1938, Orson Welles broadcasts \"The War of the Worlds\" on the radio, which reportedly caused major panic among li… https://t.co/f1LnD1HQ6J",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/f1LnD1HQ6J",
+            "expanded_url": "https://twitter.com/i/web/status/792830563971395584",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 30261067,
+        "id_str": "30261067",
+        "name": "CNET",
+        "screen_name": "CNET",
+        "location": "San Francisco",
+        "description": "CNET is the place to find out what's happening in tech and why it matters. Read our exclusive look into the new MacBook: https://t.co/Z2dniTXBvC",
+        "url": "http://t.co/NajCuIAUyl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NajCuIAUyl",
+                "expanded_url": "http://www.cnet.com",
+                "display_url": "cnet.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Z2dniTXBvC",
+                "expanded_url": "http://cnet.co/2edckZJ",
+                "display_url": "cnet.co/2edckZJ",
+                "indices": [
+                  121,
+                  144
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1273127,
+        "friends_count": 302,
+        "listed_count": 25316,
+        "created_at": "Fri Apr 10 17:10:53 +0000 2009",
+        "favourites_count": 1177,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 124225,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344156202/CNET-Twitter-Design4.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344156202/CNET-Twitter-Design4.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793493662172717057/T7a7Joz-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793493662172717057/T7a7Joz-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30261067/1478213883",
+        "profile_link_color": "0164A1",
+        "profile_sidebar_border_color": "DDDDDD",
+        "profile_sidebar_fill_color": "DDDDDD",
+        "profile_text_color": "404040",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 112,
+      "favorite_count": 97,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 112,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 30 21:24:07 +0000 2016",
+    "id": 792839525512785920,
+    "id_str": "792839525512785920",
+    "text": "RT @ddoomen: Principles for successful package management inspired by the SOLID principles https://t.co/J54CXJeggC https://t.co/Z66nCqtrp9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ddoomen",
+          "name": "Dennis Doomen",
+          "id": 16983225,
+          "id_str": "16983225",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J54CXJeggC",
+          "expanded_url": "http://www.continuousimprover.com/2016/10/principles-for-successful-package.html",
+          "display_url": "continuousimprover.com/2016/10/princi…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 792798203003428865,
+          "id_str": "792798203003428865",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+          "url": "https://t.co/Z66nCqtrp9",
+          "display_url": "pic.twitter.com/Z66nCqtrp9",
+          "expanded_url": "https://twitter.com/ddoomen/status/792798501805682691/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 301,
+              "h": 391,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 301,
+              "h": 391,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 301,
+              "h": 391,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 792798501805682691,
+          "source_status_id_str": "792798501805682691",
+          "source_user_id": 16983225,
+          "source_user_id_str": "16983225"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 792798203003428865,
+          "id_str": "792798203003428865",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+          "url": "https://t.co/Z66nCqtrp9",
+          "display_url": "pic.twitter.com/Z66nCqtrp9",
+          "expanded_url": "https://twitter.com/ddoomen/status/792798501805682691/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 301,
+              "h": 391,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 301,
+              "h": 391,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 301,
+              "h": 391,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 792798501805682691,
+          "source_status_id_str": "792798501805682691",
+          "source_user_id": 16983225,
+          "source_user_id_str": "16983225"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 30 18:41:06 +0000 2016",
+      "id": 792798501805682691,
+      "id_str": "792798501805682691",
+      "text": "Principles for successful package management inspired by the SOLID principles https://t.co/J54CXJeggC https://t.co/Z66nCqtrp9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/J54CXJeggC",
+            "expanded_url": "http://www.continuousimprover.com/2016/10/principles-for-successful-package.html",
+            "display_url": "continuousimprover.com/2016/10/princi…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 792798203003428865,
+            "id_str": "792798203003428865",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+            "url": "https://t.co/Z66nCqtrp9",
+            "display_url": "pic.twitter.com/Z66nCqtrp9",
+            "expanded_url": "https://twitter.com/ddoomen/status/792798501805682691/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 301,
+                "h": 391,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 301,
+                "h": 391,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 301,
+                "h": 391,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 792798203003428865,
+            "id_str": "792798203003428865",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwCVw-SWYAEbNDX.jpg",
+            "url": "https://t.co/Z66nCqtrp9",
+            "display_url": "pic.twitter.com/Z66nCqtrp9",
+            "expanded_url": "https://twitter.com/ddoomen/status/792798501805682691/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 301,
+                "h": 391,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 301,
+                "h": 391,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 301,
+                "h": 391,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16983225,
+        "id_str": "16983225",
+        "name": "Dennis Doomen",
+        "screen_name": "ddoomen",
+        "location": "The Hague, The Netherlands",
+        "description": "a.k.a. the https://t.co/biIOE10p8m, works at @avivasolutions, speaker, loves .NET & agile, author of http://t.co/C96aOZeRkJ and http://t.co/nHQaCNLj3T.",
+        "url": "http://t.co/YugVgi7ZxH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/YugVgi7ZxH",
+                "expanded_url": "http://www.continuousimprover.com",
+                "display_url": "continuousimprover.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/biIOE10p8m",
+                "expanded_url": "http://www.continuousimprover.com",
+                "display_url": "continuousimprover.com",
+                "indices": [
+                  11,
+                  34
+                ]
+              },
+              {
+                "url": "http://t.co/C96aOZeRkJ",
+                "expanded_url": "http://www.csharpcodingguidelines.com",
+                "display_url": "csharpcodingguidelines.com",
+                "indices": [
+                  101,
+                  123
+                ]
+              },
+              {
+                "url": "http://t.co/nHQaCNLj3T",
+                "expanded_url": "http://www.fluentassertions.com",
+                "display_url": "fluentassertions.com",
+                "indices": [
+                  128,
+                  150
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1531,
+        "friends_count": 411,
+        "listed_count": 150,
+        "created_at": "Sun Oct 26 17:54:48 +0000 2008",
+        "favourites_count": 415,
+        "utc_offset": 3600,
+        "time_zone": "Amsterdam",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21522,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245295987/Dennis_2011.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245295987/Dennis_2011.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/776131662639951872/pwsHpNFC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/776131662639951872/pwsHpNFC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16983225/1421434669",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Oct 30 01:18:31 +0000 2016",
     "id": 792536126988820481,
     "id_str": "792536126988820481",
