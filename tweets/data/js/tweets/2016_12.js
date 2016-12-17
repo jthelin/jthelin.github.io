@@ -1,5 +1,177 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Sat Dec 17 23:24:49 +0000 2016",
+    "id": 810264515161956352,
+    "id_str": "810264515161956352",
+    "text": "RT @FredericLambert: The growth of Tesla's Supercharger in North America over the past 2 years + next year's projection via Sidenotes on ht…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FredericLambert",
+          "name": "Fred Lambert",
+          "id": 38253449,
+          "id_str": "38253449",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 17 21:15:06 +0000 2016",
+      "id": 810231873762893824,
+      "id_str": "810231873762893824",
+      "text": "The growth of Tesla's Supercharger in North America over the past 2 years + next year's projection via Sidenotes on… https://t.co/RrRHtFKvCJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RrRHtFKvCJ",
+            "expanded_url": "https://twitter.com/i/web/status/810231873762893824",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 38253449,
+        "id_str": "38253449",
+        "name": "Fred Lambert",
+        "screen_name": "FredericLambert",
+        "location": "Québec, Canada",
+        "description": "Writer at https://t.co/gFef1qm2kt - @ElectrekCo Occasional contributor at @9to5mac and @9to5Google. email: fred@9to5mac.com",
+        "url": "https://t.co/0me9nAFADP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0me9nAFADP",
+                "expanded_url": "http://electrek.co/author/fredericclambert/",
+                "display_url": "electrek.co/author/frederi…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/gFef1qm2kt",
+                "expanded_url": "http://Electrek.co",
+                "display_url": "Electrek.co",
+                "indices": [
+                  10,
+                  33
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4843,
+        "friends_count": 282,
+        "listed_count": 56,
+        "created_at": "Wed May 06 19:18:04 +0000 2009",
+        "favourites_count": 387,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 1207,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657665443918970880/y9PLix_U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657665443918970880/y9PLix_U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38253449/1445910548",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 32,
+      "favorite_count": 42,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Dec 08 19:21:16 +0000 2016",
     "id": 806941733565009920,
     "id_str": "806941733565009920",
