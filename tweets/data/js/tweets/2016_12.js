@@ -1,5 +1,1505 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Fri Dec 23 19:27:53 +0000 2016",
+    "id": 812379217681731584,
+    "id_str": "812379217681731584",
+    "text": "First ECCM, then what next? Chaff launchers? - Amazon gets US patent for 'countermeasures' to protect drone delivery https://t.co/9KmbUV3OKI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9KmbUV3OKI",
+          "expanded_url": "https://www.yahoo.com/finance/news/amazon-gets-us-patent-countermeasures-214604374.html",
+          "display_url": "yahoo.com/finance/news/a…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 23 04:44:12 +0000 2016",
+    "id": 812156833641086976,
+    "id_str": "812156833641086976",
+    "text": "RT @lifehacker: Seven ideas for making the most of your time off during the holiday break: https://t.co/sL9Q6ttp76 https://t.co/enMdZtOxTc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lifehacker",
+          "name": "Lifehacker",
+          "id": 7144422,
+          "id_str": "7144422",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sL9Q6ttp76",
+          "expanded_url": "http://lifehac.kr/NC6ZQ8V",
+          "display_url": "lifehac.kr/NC6ZQ8V",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 811911779295133696,
+          "id_str": "811911779295133696",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+          "url": "https://t.co/enMdZtOxTc",
+          "display_url": "pic.twitter.com/enMdZtOxTc",
+          "expanded_url": "https://twitter.com/lifehacker/status/811911783430684672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1153,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 811911783430684672,
+          "source_status_id_str": "811911783430684672",
+          "source_user_id": 7144422,
+          "source_user_id_str": "7144422"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 811911779295133696,
+          "id_str": "811911779295133696",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+          "url": "https://t.co/enMdZtOxTc",
+          "display_url": "pic.twitter.com/enMdZtOxTc",
+          "expanded_url": "https://twitter.com/lifehacker/status/811911783430684672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1153,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 811911783430684672,
+          "source_status_id_str": "811911783430684672",
+          "source_user_id": 7144422,
+          "source_user_id_str": "7144422"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 22 12:30:28 +0000 2016",
+      "id": 811911783430684672,
+      "id_str": "811911783430684672",
+      "text": "Seven ideas for making the most of your time off during the holiday break: https://t.co/sL9Q6ttp76 https://t.co/enMdZtOxTc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sL9Q6ttp76",
+            "expanded_url": "http://lifehac.kr/NC6ZQ8V",
+            "display_url": "lifehac.kr/NC6ZQ8V",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 811911779295133696,
+            "id_str": "811911779295133696",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+            "url": "https://t.co/enMdZtOxTc",
+            "display_url": "pic.twitter.com/enMdZtOxTc",
+            "expanded_url": "https://twitter.com/lifehacker/status/811911783430684672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1153,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 811911779295133696,
+            "id_str": "811911779295133696",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0R9dinXgAAY_WK.jpg",
+            "url": "https://t.co/enMdZtOxTc",
+            "display_url": "pic.twitter.com/enMdZtOxTc",
+            "expanded_url": "https://twitter.com/lifehacker/status/811911783430684672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1153,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7144422,
+        "id_str": "7144422",
+        "name": "Lifehacker",
+        "screen_name": "lifehacker",
+        "location": "",
+        "description": "Don't live to geek; geek to live.",
+        "url": "http://t.co/CY03sH1tMd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/CY03sH1tMd",
+                "expanded_url": "http://lifehacker.com",
+                "display_url": "lifehacker.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3630962,
+        "friends_count": 41,
+        "listed_count": 36864,
+        "created_at": "Fri Jun 29 03:44:14 +0000 2007",
+        "favourites_count": 18,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 51908,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "F8FAF0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/737119470/fdd37f1c288b6d195391a05c46f4068d.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/737119470/fdd37f1c288b6d195391a05c46f4068d.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590971614545612800/eV8h6rz7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590971614545612800/eV8h6rz7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7144422/1355413751",
+        "profile_link_color": "94B330",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCE4B2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "favorite_count": 65,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 23 04:37:21 +0000 2016",
+    "id": 812155108368609280,
+    "id_str": "812155108368609280",
+    "text": "RT @cbquist: The first test flight of the SR-71 'Blackbird' took place 52 years ago today. And the thing STILL looks like it's from the fut…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cbquist",
+          "name": "Charles Bergquist",
+          "id": 16785742,
+          "id_str": "16785742",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 22 14:39:30 +0000 2016",
+      "id": 811944256982151168,
+      "id_str": "811944256982151168",
+      "text": "The first test flight of the SR-71 'Blackbird' took place 52 years ago today. And the thing STILL looks like it's f… https://t.co/SG1AifGPqh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SG1AifGPqh",
+            "expanded_url": "https://twitter.com/i/web/status/811944256982151168",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16785742,
+        "id_str": "16785742",
+        "name": "Charles Bergquist",
+        "screen_name": "cbquist",
+        "location": "East Coast USA",
+        "description": "Director of Science Friday (@scifri) on Public Radio International (@PRI). Carbon-based, but still mostly water and empty space. These words are my own fault.",
+        "url": "http://t.co/dMVPhMihsE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/dMVPhMihsE",
+                "expanded_url": "http://www.sciencefriday.com",
+                "display_url": "sciencefriday.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3494,
+        "friends_count": 797,
+        "listed_count": 176,
+        "created_at": "Wed Oct 15 16:24:20 +0000 2008",
+        "favourites_count": 2794,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 7063,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562454709261172738/OrQrpDJe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562454709261172738/OrQrpDJe_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16785742/1420556821",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2539,
+      "favorite_count": 6901,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2539,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 23 02:35:04 +0000 2016",
+    "id": 812124334642733056,
+    "id_str": "812124334642733056",
+    "text": "RT @el33th4xor: Cool new breakthrough tech for #Bitcoin and #blockchain: \nScaling Bitcoin with Secure Hardware\n https://t.co/SP6ac1gO8y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bitcoin",
+          "indices": [
+            47,
+            55
+          ]
+        },
+        {
+          "text": "blockchain",
+          "indices": [
+            60,
+            71
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "el33th4xor",
+          "name": "Emin Gün Sirer",
+          "id": 399412477,
+          "id_str": "399412477",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SP6ac1gO8y",
+          "expanded_url": "http://hackingdistributed.com/2016/12/22/scaling-bitcoin-with-secure-hardware/",
+          "display_url": "hackingdistributed.com/2016/12/22/sca…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 22 14:32:01 +0000 2016",
+      "id": 811942374574321664,
+      "id_str": "811942374574321664",
+      "text": "Cool new breakthrough tech for #Bitcoin and #blockchain: \nScaling Bitcoin with Secure Hardware\n https://t.co/SP6ac1gO8y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "text": "blockchain",
+            "indices": [
+              44,
+              55
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SP6ac1gO8y",
+            "expanded_url": "http://hackingdistributed.com/2016/12/22/scaling-bitcoin-with-secure-hardware/",
+            "display_url": "hackingdistributed.com/2016/12/22/sca…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 399412477,
+        "id_str": "399412477",
+        "name": "Emin Gün Sirer",
+        "screen_name": "el33th4xor",
+        "location": "",
+        "description": "Prof @Cornell, co-director @ https://t.co/hzEhWhTa3j, system builder. Passionate about Dist Sys, OSes, Blockchains, NoSQL, and Bitcoin.",
+        "url": "https://t.co/LDS44pnOOB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LDS44pnOOB",
+                "expanded_url": "http://www.hackingdistributed.com",
+                "display_url": "hackingdistributed.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/hzEhWhTa3j",
+                "expanded_url": "https://initc3.org",
+                "display_url": "initc3.org",
+                "indices": [
+                  29,
+                  52
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12130,
+        "friends_count": 1384,
+        "listed_count": 649,
+        "created_at": "Thu Oct 27 13:20:41 +0000 2011",
+        "favourites_count": 15648,
+        "utc_offset": 7200,
+        "time_zone": "Europe/Istanbul",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11958,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000128036484/W54-sJgX.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000128036484/W54-sJgX.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593192767888629760/3tFV3N0k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593192767888629760/3tFV3N0k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/399412477/1413951522",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "94965b2c45386f87",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+        "place_type": "admin",
+        "name": "New York",
+        "full_name": "New York, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.76259,
+                40.477383
+              ],
+              [
+                -71.777492,
+                40.477383
+              ],
+              [
+                -71.777492,
+                45.015851
+              ],
+              [
+                -79.76259,
+                45.015851
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 159,
+      "favorite_count": 207,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 159,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 23 02:34:38 +0000 2016",
+    "id": 812124224248680449,
+    "id_str": "812124224248680449",
+    "text": "RT @romainrouphael: How to scale #bitcoin, without modifying its underlying protocol! By @el33th4xor and @ittayeyal https://t.co/5ZnitaIVxX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            33,
+            41
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "romainrouphael",
+          "name": "Romain Rouphaël",
+          "id": 526552072,
+          "id_str": "526552072",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "el33th4xor",
+          "name": "Emin Gün Sirer",
+          "id": 399412477,
+          "id_str": "399412477",
+          "indices": [
+            89,
+            100
+          ]
+        },
+        {
+          "screen_name": "ittayeyal",
+          "name": "Ittay Eyal",
+          "id": 594589669,
+          "id_str": "594589669",
+          "indices": [
+            105,
+            115
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ZnitaIVxX",
+          "expanded_url": "http://hackingdistributed.com/2016/12/22/scaling-bitcoin-with-secure-hardware/",
+          "display_url": "hackingdistributed.com/2016/12/22/sca…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 22 15:17:44 +0000 2016",
+      "id": 811953876169584640,
+      "id_str": "811953876169584640",
+      "text": "How to scale #bitcoin, without modifying its underlying protocol! By @el33th4xor and @ittayeyal https://t.co/5ZnitaIVxX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bitcoin",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "el33th4xor",
+            "name": "Emin Gün Sirer",
+            "id": 399412477,
+            "id_str": "399412477",
+            "indices": [
+              69,
+              80
+            ]
+          },
+          {
+            "screen_name": "ittayeyal",
+            "name": "Ittay Eyal",
+            "id": 594589669,
+            "id_str": "594589669",
+            "indices": [
+              85,
+              95
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5ZnitaIVxX",
+            "expanded_url": "http://hackingdistributed.com/2016/12/22/scaling-bitcoin-with-secure-hardware/",
+            "display_url": "hackingdistributed.com/2016/12/22/sca…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 526552072,
+        "id_str": "526552072",
+        "name": "Romain Rouphaël",
+        "screen_name": "romainrouphael",
+        "location": "Paris, France",
+        "description": "Co-Founder @BELEM_Project - Blockchain Explorer. FinTech / Data Science / EdTech enthusiast",
+        "url": "https://t.co/XrlbTXOXp7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XrlbTXOXp7",
+                "expanded_url": "http://www.belem.io",
+                "display_url": "belem.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 361,
+        "friends_count": 343,
+        "listed_count": 181,
+        "created_at": "Fri Mar 16 16:20:40 +0000 2012",
+        "favourites_count": 373,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 627,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723420744772767745/fErpoznE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723420744772767745/fErpoznE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/526552072/1460716931",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 48,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 22 21:50:23 +0000 2016",
+    "id": 812052689571876864,
+    "id_str": "812052689571876864",
+    "text": "Good list, but Flash Boys by Michael Lewis should also be required reading to understand the games Wall Street plays https://t.co/zGU90rjvl1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zGU90rjvl1",
+          "expanded_url": "https://apple.news/Amar1ZTRgRa6A5ln4AI_K2g",
+          "display_url": "apple.news/Amar1ZTRgRa6A5…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 22 02:29:30 +0000 2016",
+    "id": 811760546340966400,
+    "id_str": "811760546340966400",
+    "text": "A Linux history lesson - How Linux got to be Linux: Test driving 1993-2003 distros https://t.co/uIENMVxEKJ via @opensourceway",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "opensourceway",
+          "name": "Open Source Way",
+          "id": 80589255,
+          "id_str": "80589255",
+          "indices": [
+            111,
+            125
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uIENMVxEKJ",
+          "expanded_url": "http://red.ht/2h7HSF0",
+          "display_url": "red.ht/2h7HSF0",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 22 02:16:09 +0000 2016",
+    "id": 811757184413372416,
+    "id_str": "811757184413372416",
+    "text": "RT @dharmeshkakadia: Windows Server Support Comes to Kubernetes https://t.co/4OPoE0nTOS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dharmeshkakadia",
+          "name": "Dharmesh Kakadia",
+          "id": 348294615,
+          "id_str": "348294615",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4OPoE0nTOS",
+          "expanded_url": "http://blog.kubernetes.io/2016/12/windows-server-support-kubernetes.html?m=1",
+          "display_url": "blog.kubernetes.io/2016/12/window…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 22 01:04:05 +0000 2016",
+      "id": 811739047932461058,
+      "id_str": "811739047932461058",
+      "text": "Windows Server Support Comes to Kubernetes https://t.co/4OPoE0nTOS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4OPoE0nTOS",
+            "expanded_url": "http://blog.kubernetes.io/2016/12/windows-server-support-kubernetes.html?m=1",
+            "display_url": "blog.kubernetes.io/2016/12/window…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 348294615,
+        "id_str": "348294615",
+        "name": "Dharmesh Kakadia",
+        "screen_name": "dharmeshkakadia",
+        "location": "Redmond, WA",
+        "description": "Learner. @ Microsoft. MSR and IIIT-H alumnus. Data and Distributed Systems. Author of Apache Mesos Essentials",
+        "url": "https://t.co/2dWseesPrp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2dWseesPrp",
+                "expanded_url": "http://bit.ly/mesosbook",
+                "display_url": "bit.ly/mesosbook",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 589,
+        "friends_count": 1662,
+        "listed_count": 83,
+        "created_at": "Thu Aug 04 05:45:10 +0000 2011",
+        "favourites_count": 1858,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3358,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642014276928995329/uCYsxp2f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642014276928995329/uCYsxp2f_normal.png",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 22 00:05:49 +0000 2016",
+    "id": 811724387611086848,
+    "id_str": "811724387611086848",
+    "text": "Who needs parking bays when you drive a Tonka truck? #ParkingFail https://t.co/GbxnvU7oq4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ParkingFail",
+          "indices": [
+            53,
+            65
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 811724347903643648,
+          "id_str": "811724347903643648",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/C0PS_mRVEAAK0rP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C0PS_mRVEAAK0rP.jpg",
+          "url": "https://t.co/GbxnvU7oq4",
+          "display_url": "pic.twitter.com/GbxnvU7oq4",
+          "expanded_url": "https://twitter.com/JorgenThelin/status/811724387611086848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 811724347903643648,
+          "id_str": "811724347903643648",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/C0PS_mRVEAAK0rP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C0PS_mRVEAAK0rP.jpg",
+          "url": "https://t.co/GbxnvU7oq4",
+          "display_url": "pic.twitter.com/GbxnvU7oq4",
+          "expanded_url": "https://twitter.com/JorgenThelin/status/811724387611086848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 21 15:48:22 +0000 2016",
+    "id": 811599200349622273,
+    "id_str": "811599200349622273",
+    "text": "Universal search across 50 tv \"channel\" apps is great until you realize you need 50 diff accounts to watch programs? https://t.co/jcORXu5Okd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jcORXu5Okd",
+          "expanded_url": "https://apple.news/ArCquVmipNXqA4iXrPQDmww",
+          "display_url": "apple.news/ArCquVmipNXqA4…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Dec 20 19:46:41 +0000 2016",
     "id": 811296784437964800,
     "id_str": "811296784437964800",
