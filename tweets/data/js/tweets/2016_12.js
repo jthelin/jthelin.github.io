@@ -1,5 +1,1273 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Sat Dec 31 05:23:22 +0000 2016",
+    "id": 815065789485039616,
+    "id_str": "815065789485039616",
+    "text": "George Michael 1963 - 2016 -- Such a great musical talent. Such a great loss. ☹️ https://t.co/fzgWoJSVwC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fzgWoJSVwC",
+          "expanded_url": "http://amzn.to/2hDNbNp",
+          "display_url": "amzn.to/2hDNbNp",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Dec 31 04:53:17 +0000 2016",
+    "id": 815058219454169089,
+    "id_str": "815058219454169089",
+    "text": "Guide to using TCP network utilities with IPv6 and how to configure various *nix communication services to use IPv6. https://t.co/SqoeuZwpoN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SqoeuZwpoN",
+          "expanded_url": "https://www.digitalocean.com/community/tutorials/how-to-configure-tools-to-use-ipv6-on-a-linux-vps",
+          "display_url": "digitalocean.com/community/tuto…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 29 23:32:30 +0000 2016",
+    "id": 814615107070140416,
+    "id_str": "814615107070140416",
+    "text": "RT @jenstirrup: #DataViz News: 7 Visualizations You Should Learn in R | R-bloggers https://t.co/g1dVNgFHSi, see more https://t.co/6oyvjUiMZH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DataViz",
+          "indices": [
+            16,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jenstirrup",
+          "name": "Jen Stirrup",
+          "id": 23242773,
+          "id_str": "23242773",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g1dVNgFHSi",
+          "expanded_url": "https://www.r-bloggers.com/7-visualizations-you-should-learn-in-r/",
+          "display_url": "r-bloggers.com/7-visualizatio…",
+          "indices": [
+            83,
+            106
+          ]
+        },
+        {
+          "url": "https://t.co/6oyvjUiMZH",
+          "expanded_url": "http://tweetedtimes.com/v/1228?s=tnp",
+          "display_url": "tweetedtimes.com/v/1228?s=tnp",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 29 22:16:58 +0000 2016",
+      "id": 814596097364660224,
+      "id_str": "814596097364660224",
+      "text": "#DataViz News: 7 Visualizations You Should Learn in R | R-bloggers https://t.co/g1dVNgFHSi, see more https://t.co/6oyvjUiMZH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DataViz",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g1dVNgFHSi",
+            "expanded_url": "https://www.r-bloggers.com/7-visualizations-you-should-learn-in-r/",
+            "display_url": "r-bloggers.com/7-visualizatio…",
+            "indices": [
+              67,
+              90
+            ]
+          },
+          {
+            "url": "https://t.co/6oyvjUiMZH",
+            "expanded_url": "http://tweetedtimes.com/v/1228?s=tnp",
+            "display_url": "tweetedtimes.com/v/1228?s=tnp",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetedtimes.com\" rel=\"nofollow\">The Tweeted Times</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23242773,
+        "id_str": "23242773",
+        "name": "Jen Stirrup",
+        "screen_name": "jenstirrup",
+        "location": "Hertfordshire",
+        "description": "#BusinessIntelligence. #DataViz. #Analytics Terrible at following instructions. Acquired taste but plays nicely with others. https://t.co/omRrFjUtrO \nhttps://t.co/W653ZVzmuU",
+        "url": "https://t.co/JlkRBFxh8y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JlkRBFxh8y",
+                "expanded_url": "http://www.jenstirrup.com",
+                "display_url": "jenstirrup.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/omRrFjUtrO",
+                "expanded_url": "http://datarelish.com",
+                "display_url": "datarelish.com",
+                "indices": [
+                  125,
+                  148
+                ]
+              },
+              {
+                "url": "https://t.co/W653ZVzmuU",
+                "expanded_url": "http://jenstirrup.com",
+                "display_url": "jenstirrup.com",
+                "indices": [
+                  150,
+                  173
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10053,
+        "friends_count": 3630,
+        "listed_count": 1536,
+        "created_at": "Sat Mar 07 22:27:44 +0000 2009",
+        "favourites_count": 1131,
+        "utc_offset": 0,
+        "time_zone": "Europe/London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 56472,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "214542",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/696103361762959360/0FkruTed.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/696103361762959360/0FkruTed.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787777502911561728/CTedEj-M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787777502911561728/CTedEj-M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23242773/1476314696",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "3B615D",
+        "profile_text_color": "B4D9AD",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 29 22:32:09 +0000 2016",
+    "id": 814599917314265088,
+    "id_str": "814599917314265088",
+    "text": "RT @verge: Twitter wants to make tweets editable, but it’s complicated https://t.co/K4QgCV3uDO https://t.co/bNdk7eQxQ7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "verge",
+          "name": "The Verge",
+          "id": 275686563,
+          "id_str": "275686563",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K4QgCV3uDO",
+          "expanded_url": "http://www.theverge.com/2016/12/29/14117890/twitter-edit-tweets-jack-dorsey?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+          "display_url": "theverge.com/2016/12/29/141…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 814572254323494912,
+          "id_str": "814572254323494912",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+          "url": "https://t.co/bNdk7eQxQ7",
+          "display_url": "pic.twitter.com/bNdk7eQxQ7",
+          "expanded_url": "https://twitter.com/verge/status/814572256781332484/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 814572256781332484,
+          "source_status_id_str": "814572256781332484",
+          "source_user_id": 275686563,
+          "source_user_id_str": "275686563"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 814572254323494912,
+          "id_str": "814572254323494912",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+          "url": "https://t.co/bNdk7eQxQ7",
+          "display_url": "pic.twitter.com/bNdk7eQxQ7",
+          "expanded_url": "https://twitter.com/verge/status/814572256781332484/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 814572256781332484,
+          "source_status_id_str": "814572256781332484",
+          "source_user_id": 275686563,
+          "source_user_id_str": "275686563"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 29 20:42:14 +0000 2016",
+      "id": 814572256781332484,
+      "id_str": "814572256781332484",
+      "text": "Twitter wants to make tweets editable, but it’s complicated https://t.co/K4QgCV3uDO https://t.co/bNdk7eQxQ7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/K4QgCV3uDO",
+            "expanded_url": "http://www.theverge.com/2016/12/29/14117890/twitter-edit-tweets-jack-dorsey?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+            "display_url": "theverge.com/2016/12/29/141…",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 814572254323494912,
+            "id_str": "814572254323494912",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+            "url": "https://t.co/bNdk7eQxQ7",
+            "display_url": "pic.twitter.com/bNdk7eQxQ7",
+            "expanded_url": "https://twitter.com/verge/status/814572256781332484/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814572254323494912,
+            "id_str": "814572254323494912",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C03xJkbXUAABfc8.jpg",
+            "url": "https://t.co/bNdk7eQxQ7",
+            "display_url": "pic.twitter.com/bNdk7eQxQ7",
+            "expanded_url": "https://twitter.com/verge/status/814572256781332484/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 275686563,
+        "id_str": "275686563",
+        "name": "The Verge",
+        "screen_name": "verge",
+        "location": "New York",
+        "description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+        "url": "http://t.co/W2SFxIXkC4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/W2SFxIXkC4",
+                "expanded_url": "http://www.theverge.com",
+                "display_url": "theverge.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/W2SFxIXkC4",
+                "expanded_url": "http://www.theverge.com",
+                "display_url": "theverge.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1586088,
+        "friends_count": 153,
+        "listed_count": 31958,
+        "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+        "favourites_count": 1554,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 109369,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481546505468145664/a59ZFvIP.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793336456718782464/cf1nuXC0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1477981156",
+        "profile_link_color": "EC008C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 98,
+      "favorite_count": 146,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 98,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 29 22:26:58 +0000 2016",
+    "id": 814598612579557376,
+    "id_str": "814598612579557376",
+    "text": "RT @arduino: Create a cozy atmosphere in your home with some Arduino-controlled artificial candle lights: https://t.co/kvg7kISqrk https://t…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arduino",
+          "name": "Arduino",
+          "id": 266400754,
+          "id_str": "266400754",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kvg7kISqrk",
+          "expanded_url": "http://bit.ly/2hxmisX",
+          "display_url": "bit.ly/2hxmisX",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 29 21:31:25 +0000 2016",
+      "id": 814584635317481472,
+      "id_str": "814584635317481472",
+      "text": "Create a cozy atmosphere in your home with some Arduino-controlled artificial candle lights: https://t.co/kvg7kISqrk https://t.co/A1bknoiG30",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kvg7kISqrk",
+            "expanded_url": "http://bit.ly/2hxmisX",
+            "display_url": "bit.ly/2hxmisX",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 814584602278801408,
+            "id_str": "814584602278801408",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/C038YUJUsAA_XRN.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C038YUJUsAA_XRN.jpg",
+            "url": "https://t.co/A1bknoiG30",
+            "display_url": "pic.twitter.com/A1bknoiG30",
+            "expanded_url": "https://twitter.com/arduino/status/814584635317481472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814584602278801408,
+            "id_str": "814584602278801408",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/C038YUJUsAA_XRN.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C038YUJUsAA_XRN.jpg",
+            "url": "https://t.co/A1bknoiG30",
+            "display_url": "pic.twitter.com/A1bknoiG30",
+            "expanded_url": "https://twitter.com/arduino/status/814584635317481472/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 270,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/C038YUJUsAA_XRN.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 266400754,
+        "id_str": "266400754",
+        "name": "Arduino",
+        "screen_name": "arduino",
+        "location": "",
+        "description": "Arduino is an open-source electronics platform based on flexible, easy-to-use hardware and software.",
+        "url": "https://t.co/Ha5xslgzZg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ha5xslgzZg",
+                "expanded_url": "https://www.arduino.cc",
+                "display_url": "arduino.cc",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 214428,
+        "friends_count": 308,
+        "listed_count": 4126,
+        "created_at": "Tue Mar 15 04:57:49 +0000 2011",
+        "favourites_count": 3212,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 5503,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110737671/a5094a9622e360200bb516ff413340bb.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110737671/a5094a9622e360200bb516ff413340bb.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000704356438/9d19310763171b0d958d23a18b3d7e1c_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000704356438/9d19310763171b0d958d23a18b3d7e1c_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266400754/1480601698",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 38,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 29 22:21:42 +0000 2016",
+    "id": 814597288618172416,
+    "id_str": "814597288618172416",
+    "text": "Win10 users, some advice for  staying safe - Penetration testers’ guide to improving Windows 10 privacy &amp; security.  https://t.co/pL5wK1igAY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pL5wK1igAY",
+          "expanded_url": "https://medium.com/@securitystreak/the-2017-pentester-guide-to-windows-10-privacy-security-cf734c510b8d#.787cpo7yz",
+          "display_url": "medium.com/@securitystrea…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 29 17:46:20 +0000 2016",
+    "id": 814527989056577536,
+    "id_str": "814527989056577536",
+    "text": "For those who feel 2016 has flown by too quickly - have an extra \"leap second\" + interesting science of timekeeping https://t.co/nYUZlAPkvm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nYUZlAPkvm",
+          "expanded_url": "https://apple.news/AM1KK4OMgQUKSBgp6Suudbw",
+          "display_url": "apple.news/AM1KK4OMgQUKSB…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 28 18:26:24 +0000 2016",
+    "id": 814175684608200704,
+    "id_str": "814175684608200704",
+    "text": "RT @HansNoordsij: Original video, authorisation from the owner. Essential, no one could predict the accident but the radar did and acted by…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HansNoordsij",
+          "name": "Hans Noordsij",
+          "id": 53617712,
+          "id_str": "53617712",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 27 20:45:56 +0000 2016",
+      "id": 813848411611025408,
+      "id_str": "813848411611025408",
+      "text": "Original video, authorisation from the owner. Essential, no one could predict the accident but the radar did and ac… https://t.co/Y33ZY9QTsM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Y33ZY9QTsM",
+            "expanded_url": "https://twitter.com/i/web/status/813848411611025408",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 53617712,
+        "id_str": "53617712",
+        "name": "Hans Noordsij",
+        "screen_name": "HansNoordsij",
+        "location": "51.580122,5.073237",
+        "description": "Enthousiast coordinator bij iLetsel, letselschadespecialist en fervent voorstander van volledig elektrisch rijden. Rijdt een Nissan Leaf en een Tesla Model S.",
+        "url": "https://t.co/AZSqkK0PmS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/AZSqkK0PmS",
+                "expanded_url": "http://www.iletsel.nl",
+                "display_url": "iletsel.nl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 12,
+        "listed_count": 9,
+        "created_at": "Sat Jul 04 06:54:53 +0000 2009",
+        "favourites_count": 6,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 188,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/682668666681487360/RIUTZk5s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/682668666681487360/RIUTZk5s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53617712/1451595810",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2272,
+      "favorite_count": 2235,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2272,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 28 18:25:32 +0000 2016",
+    "id": 814175465015361536,
+    "id_str": "814175465015361536",
+    "text": "Artificial intelligence making real difference - Tesla Autopilot feature detects &amp; avoids accident before it happens https://t.co/jqoDlgITDN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jqoDlgITDN",
+          "expanded_url": "http://www.bizjournals.com/sanjose/news/2016/12/28/video-tesla-predicts-high-speed-car-crash-moments.html?ana=yahoo",
+          "display_url": "bizjournals.com/sanjose/news/2…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Dec 23 19:27:53 +0000 2016",
     "id": 812379217681731584,
     "id_str": "812379217681731584",
