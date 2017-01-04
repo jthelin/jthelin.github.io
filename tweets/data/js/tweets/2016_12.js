@@ -1,5 +1,400 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Sat Dec 31 20:36:40 +0000 2016",
+    "id": 815295632206274560,
+    "id_str": "815295632206274560",
+    "text": "Seems practically impossible to host your own email server now without PTR Reverse DNS configured.Trying @digitalocean hosting w. PTR setup.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "digitalocean",
+          "name": "DigitalOcean",
+          "id": 457033547,
+          "id_str": "457033547",
+          "indices": [
+            105,
+            118
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Dec 31 08:29:12 +0000 2016",
+    "id": 815112557849518080,
+    "id_str": "815112557849518080",
+    "text": "RT @mipsytipsy: pro tip: if you think debugging is hard, it's probably because you aren't instrumenting your code enough.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mipsytipsy",
+          "name": "Charity Majors",
+          "id": 90488576,
+          "id_str": "90488576",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 30 22:38:11 +0000 2016",
+      "id": 814963825128525824,
+      "id_str": "814963825128525824",
+      "text": "pro tip: if you think debugging is hard, it's probably because you aren't instrumenting your code enough.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 90488576,
+        "id_str": "90488576",
+        "name": "Charity Majors",
+        "screen_name": "mipsytipsy",
+        "location": "San Francisco",
+        "description": "engineer/cofounder at @honeycombio, formerly Parse/Facebook. likes whiskey, rainbows, and systems engineering",
+        "url": "https://t.co/pclyb12Rqt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pclyb12Rqt",
+                "expanded_url": "http://charity.wtf",
+                "display_url": "charity.wtf",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8930,
+        "friends_count": 421,
+        "listed_count": 376,
+        "created_at": "Mon Nov 16 21:28:13 +0000 2009",
+        "favourites_count": 11874,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17927,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "7FBDC9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019505942/8577881085bab657d50b7b530d796f74.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019505942/8577881085bab657d50b7b530d796f74.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/728346518734790656/oC_svH5r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/728346518734790656/oC_svH5r_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90488576/1393103352",
+        "profile_link_color": "E66109",
+        "profile_sidebar_border_color": "7FBDCA",
+        "profile_sidebar_fill_color": "91D0DC",
+        "profile_text_color": "CF5736",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 85,
+      "favorite_count": 228,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 85,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Dec 31 08:27:59 +0000 2016",
+    "id": 815112251573051393,
+    "id_str": "815112251573051393",
+    "text": "RT @nvartolomei: So that was 2016 (in papers) https://t.co/xdsjU1ST7U #paperswelove",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "paperswelove",
+          "indices": [
+            70,
+            83
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nvartolomei",
+          "name": "Nicolae Vartolomei",
+          "id": 15936881,
+          "id_str": "15936881",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xdsjU1ST7U",
+          "expanded_url": "https://blog.acolyer.org/2016/12/19/so-that-was-2016/",
+          "display_url": "blog.acolyer.org/2016/12/19/so-…",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 20 09:15:55 +0000 2016",
+      "id": 811138048876544000,
+      "id_str": "811138048876544000",
+      "text": "So that was 2016 (in papers) https://t.co/xdsjU1ST7U #paperswelove",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "paperswelove",
+            "indices": [
+              53,
+              66
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xdsjU1ST7U",
+            "expanded_url": "https://blog.acolyer.org/2016/12/19/so-that-was-2016/",
+            "display_url": "blog.acolyer.org/2016/12/19/so-…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15936881,
+        "id_str": "15936881",
+        "name": "Nicolae Vartolomei",
+        "screen_name": "nvartolomei",
+        "location": "",
+        "description": "geek by day • superhero by night • startup engineering • dataist",
+        "url": "https://t.co/K809ddKsKx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/K809ddKsKx",
+                "expanded_url": "https://medium.com/@nvartolomei",
+                "display_url": "medium.com/@nvartolomei",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1527,
+        "friends_count": 577,
+        "listed_count": 73,
+        "created_at": "Thu Aug 21 21:03:20 +0000 2008",
+        "favourites_count": 1216,
+        "utc_offset": 7200,
+        "time_zone": "Bucharest",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3725,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587361183188918272/YxRcrVm6.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587361183188918272/YxRcrVm6.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/784261568406048768/lsSp6JjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/784261568406048768/lsSp6JjD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15936881/1466775834",
+        "profile_link_color": "0074D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6E4EC",
+        "profile_text_color": "0B2B3D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Dec 31 05:23:22 +0000 2016",
     "id": 815065789485039616,
     "id_str": "815065789485039616",
