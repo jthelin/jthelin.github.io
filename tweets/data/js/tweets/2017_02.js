@@ -1,5 +1,185 @@
 Grailbird.data.tweets_2017_02 = [
   {
+    "created_at": "Tue Feb 28 07:46:52 +0000 2017",
+    "id": 836482789671219200,
+    "id_str": "836482789671219200",
+    "text": "When the lawyers start loosing their jobs to machine automation, you know change is afoot! https://t.co/8aTbiCbdrL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8aTbiCbdrL",
+          "expanded_url": "https://apple.news/ATVoHQ4PvSx6WWBWsbUFx4g",
+          "display_url": "apple.news/ATVoHQ4PvSx6WW…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 27 15:48:21 +0000 2017",
+    "id": 836241569757843461,
+    "id_str": "836241569757843461",
+    "text": "Another snow day for Redmond! https://t.co/C9CoXxvqtC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 836241567534833664,
+          "id_str": "836241567534833664",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/C5rtRmtUYAAzviV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C5rtRmtUYAAzviV.jpg",
+          "url": "https://t.co/C9CoXxvqtC",
+          "display_url": "pic.twitter.com/C9CoXxvqtC",
+          "expanded_url": "https://twitter.com/JorgenThelin/status/836241569757843461/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 836241567534833664,
+          "id_str": "836241567534833664",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/C5rtRmtUYAAzviV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C5rtRmtUYAAzviV.jpg",
+          "url": "https://t.co/C9CoXxvqtC",
+          "display_url": "pic.twitter.com/C9CoXxvqtC",
+          "expanded_url": "https://twitter.com/JorgenThelin/status/836241569757843461/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Feb 23 19:10:12 +0000 2017",
     "id": 834842814366126080,
     "id_str": "834842814366126080",
