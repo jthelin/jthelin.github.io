@@ -1,0 +1,8 @@
+title: JThelin.GitHub.io
+description: JThelin @ GitHub
+google_analytics: UA-214535-5
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
