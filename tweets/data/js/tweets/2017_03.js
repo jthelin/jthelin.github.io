@@ -1,5 +1,362 @@
 Grailbird.data.tweets_2017_03 = [
   {
+    "created_at": "Fri Mar 31 18:26:20 +0000 2017",
+    "id": 847877740254552064,
+    "id_str": "847877740254552064",
+    "text": "R.I.P. CodePlex. Microsoft has come a long way from its first baby-steps into the open source world ~11 years ago. https://t.co/IAe2Il6wYh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IAe2Il6wYh",
+          "expanded_url": "https://blogs.msdn.microsoft.com/bharry/2017/03/31/shutting-down-codeplex/",
+          "display_url": "blogs.msdn.microsoft.com/bharry/2017/03…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 29 06:08:48 +0000 2017",
+    "id": 846967356182159361,
+    "id_str": "846967356182159361",
+    "text": "\"In Order of Disappearance\" is an interesting movie paradox -- an engaging Norwegian black-comedy! https://t.co/OJO2OiOTaX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OJO2OiOTaX",
+          "expanded_url": "http://www.imdb.com/title/tt2675914/",
+          "display_url": "imdb.com/title/tt267591…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 29 05:54:50 +0000 2017",
+    "id": 846963844245307394,
+    "id_str": "846963844245307394",
+    "text": "RT @richorama: Subscribe to the announcements repository for the latest @msftorleans news: \n\nhttps://t.co/MFrW0y5fL9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "richorama",
+          "name": "Richard Astbury",
+          "id": 21290781,
+          "id_str": "21290781",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            72,
+            84
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MFrW0y5fL9",
+          "expanded_url": "https://github.com/OrleansContrib/Announcements",
+          "display_url": "github.com/OrleansContrib…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 24 14:12:53 +0000 2017",
+      "id": 845277240246124544,
+      "id_str": "845277240246124544",
+      "text": "Subscribe to the announcements repository for the latest @msftorleans news: \n\nhttps://t.co/MFrW0y5fL9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              57,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MFrW0y5fL9",
+            "expanded_url": "https://github.com/OrleansContrib/Announcements",
+            "display_url": "github.com/OrleansContrib…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21290781,
+        "id_str": "21290781",
+        "name": "Richard Astbury",
+        "screen_name": "richorama",
+        "location": "Woodbridge, Suffolk, UK",
+        "description": "Cloud computing guy who loves node, c# & python. Pluralsight author. Microsoft MVP for #Azure. Works at @two10degrees",
+        "url": "https://t.co/gyXs0gtOPy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gyXs0gtOPy",
+                "expanded_url": "https://richorama.github.io",
+                "display_url": "richorama.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1099,
+        "friends_count": 556,
+        "listed_count": 74,
+        "created_at": "Thu Feb 19 11:27:11 +0000 2009",
+        "favourites_count": 751,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6602,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601675027/6d7xvz3z53te1k1b8cs3.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601675027/6d7xvz3z53te1k1b8cs3.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704661140014555138/QP3Qp1Us_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704661140014555138/QP3Qp1Us_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21290781/1481287032",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 29 05:51:19 +0000 2017",
+    "id": 846962958194393089,
+    "id_str": "846962958194393089",
+    "text": "TIL some interesting things about C# for-loop performance when using different object types. https://t.co/dXvDWmMYSo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dXvDWmMYSo",
+          "expanded_url": "https://www.infoq.com/articles/For-Each-Performance",
+          "display_url": "infoq.com/articles/For-E…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Mar 22 23:18:05 +0000 2017",
     "id": 844689671086981121,
     "id_str": "844689671086981121",
