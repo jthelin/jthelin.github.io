@@ -1,5 +1,124 @@
 Grailbird.data.tweets_2017_05 = [
   {
+    "created_at": "Fri May 26 01:36:44 +0000 2017",
+    "id": 867917385910542336,
+    "id_str": "867917385910542336",
+    "text": "Smoking gun @vw - Researchers find the computer program code that Volkswagen used to cheat emissions tests. https://t.co/UQU0fnO63D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VW",
+          "name": "Volkswagen USA",
+          "id": 28165910,
+          "id_str": "28165910",
+          "indices": [
+            12,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UQU0fnO63D",
+          "expanded_url": "http://ucsdnews.ucsd.edu/pressrelease/researchers_find_computer_code_that_volkswagen_used_to_cheat_emissions_test",
+          "display_url": "ucsdnews.ucsd.edu/pressrelease/r…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 25 14:29:07 +0000 2017",
+    "id": 867749375241363456,
+    "id_str": "867749375241363456",
+    "text": "Windows switch to Git almost complete: 8,500 commits and 1,760 builds each day - Ars Technica https://t.co/WqnLBHvEWQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WqnLBHvEWQ",
+          "expanded_url": "https://apple.news/AF9AHR6f1QXaSsc9_uIoeug",
+          "display_url": "apple.news/AF9AHR6f1QXaSs…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed May 24 00:06:39 +0000 2017",
     "id": 867169941127966720,
     "id_str": "867169941127966720",
