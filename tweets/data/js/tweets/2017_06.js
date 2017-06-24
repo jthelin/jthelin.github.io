@@ -1,5 +1,466 @@
 Grailbird.data.tweets_2017_06 = [
   {
+    "created_at": "Thu Jun 22 15:00:11 +0000 2017",
+    "id": 877904054164140033,
+    "id_str": "877904054164140033",
+    "text": "IFTTT's new Data Access Project initiative connects up with government data streams. https://t.co/WhuwDFtHRk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WhuwDFtHRk",
+          "expanded_url": "https://apple.news/AJIe2NzLOSyyT-7bgyBXinw",
+          "display_url": "apple.news/AJIe2NzLOSyyT-…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 21 01:38:54 +0000 2017",
+    "id": 877340014543159296,
+    "id_str": "877340014543159296",
+    "text": "RT @thenewstack: How Microsoft Is Shifting Focus to Open Source https://t.co/yBuGZFZ8e6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thenewstack",
+          "name": "The New Stack",
+          "id": 2327560616,
+          "id_str": "2327560616",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yBuGZFZ8e6",
+          "expanded_url": "http://bit.ly/2tKe7g3",
+          "display_url": "bit.ly/2tKe7g3",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 20 20:04:06 +0000 2017",
+      "id": 877255758517346306,
+      "id_str": "877255758517346306",
+      "text": "How Microsoft Is Shifting Focus to Open Source https://t.co/yBuGZFZ8e6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yBuGZFZ8e6",
+            "expanded_url": "http://bit.ly/2tKe7g3",
+            "display_url": "bit.ly/2tKe7g3",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2327560616,
+        "id_str": "2327560616",
+        "name": "The New Stack",
+        "screen_name": "thenewstack",
+        "location": "Portland, Oregon",
+        "description": "All about application development and management at scale. Follow us for tech news, analysis, data research, podcasts, and more! #devops #containers #docker",
+        "url": "https://t.co/GAtnYGiMZT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GAtnYGiMZT",
+                "expanded_url": "http://thenewstack.io",
+                "display_url": "thenewstack.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13369,
+        "friends_count": 2297,
+        "listed_count": 1102,
+        "created_at": "Tue Feb 04 18:48:50 +0000 2014",
+        "favourites_count": 3441,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18475,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461139730499772419/m-n-U_By.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461139730499772419/m-n-U_By.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650494844536647680/kxpz8kAv_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650494844536647680/kxpz8kAv_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2327560616/1443925069",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 31,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 20 17:50:45 +0000 2017",
+    "id": 877222199442030592,
+    "id_str": "877222199442030592",
+    "text": "Apache Spark Connector for Azure CosmosDB. \n@ApacheSpark #Azure #CosmosDB \nhttps://t.co/lzRX8XwpTq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Azure",
+          "indices": [
+            57,
+            63
+          ]
+        },
+        {
+          "text": "CosmosDB",
+          "indices": [
+            64,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ApacheSpark",
+          "name": "Apache Spark",
+          "id": 1551361069,
+          "id_str": "1551361069",
+          "indices": [
+            44,
+            56
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lzRX8XwpTq",
+          "expanded_url": "https://azure.microsoft.com/en-us/blog/spark-connector-for-cosmosdb-seamless-interaction-with-globally-distributed-multi-model-data/",
+          "display_url": "azure.microsoft.com/en-us/blog/spa…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+  },
+  {
+    "created_at": "Tue Jun 20 03:47:16 +0000 2017",
+    "id": 877009931194388482,
+    "id_str": "877009931194388482",
+    "text": "Hasbro launches a subscription service for board games. https://t.co/GgDFPGJuZ6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GgDFPGJuZ6",
+          "expanded_url": "https://apple.news/Aj0kpJyvYTJS_BBP1e6avOQ",
+          "display_url": "apple.news/Aj0kpJyvYTJS_B…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 19 17:01:30 +0000 2017",
+    "id": 876847419610193920,
+    "id_str": "876847419610193920",
+    "text": "Today I start my fifth year as a Tesla driver! It simply would not have been possible without all those short sellers, both then and now.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 19 15:15:00 +0000 2017",
+    "id": 876820618267680769,
+    "id_str": "876820618267680769",
+    "text": "macOS High Sierra tech preview: A quick look at the stuff you can’t see - Ars Technica https://t.co/bcZrtoxPLO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bcZrtoxPLO",
+          "expanded_url": "https://apple.news/ANmmHew4jSFGA81r7L8wiZQ",
+          "display_url": "apple.news/ANmmHew4jSFGA8…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jun 18 04:38:48 +0000 2017",
     "id": 876298126629363712,
     "id_str": "876298126629363712",
