@@ -1,5 +1,287 @@
 Grailbird.data.tweets_2017_06 = [
   {
+    "created_at": "Fri Jun 30 14:38:44 +0000 2017",
+    "id": 880797758034137089,
+    "id_str": "880797758034137089",
+    "text": "Confluent achieves holy grail of \"exactly once\" delivery on Kafka messaging service. https://t.co/hM5cTGyk6c",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hM5cTGyk6c",
+          "expanded_url": "https://apple.news/A1iWZp1elRaC1SwPvPgre7g",
+          "display_url": "apple.news/A1iWZp1elRaC1S…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 28 05:26:17 +0000 2017",
+    "id": 879933952038797312,
+    "id_str": "879933952038797312",
+    "text": "Hubris kills again. \"The [UK] construction industry appears to be stronger &amp; more powerful than the safety lobby.\" https://t.co/AEAVJepryl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AEAVJepryl",
+          "expanded_url": "https://nyti.ms/2t2jcU5",
+          "display_url": "nyti.ms/2t2jcU5",
+          "indices": [
+            119,
+            142
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 26 15:30:28 +0000 2017",
+    "id": 879361223619366912,
+    "id_str": "879361223619366912",
+    "text": "RT @ziki_cz: Just published Networking stack - Technical roadmap for .NET Core\r\rhttps://t.co/s9rUuK0Vd5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ziki_cz",
+          "name": "Karel Zikmund",
+          "id": 1710568508,
+          "id_str": "1710568508",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s9rUuK0Vd5",
+          "expanded_url": "https://github.com/dotnet/designs/issues/9",
+          "display_url": "github.com/dotnet/designs…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 25 19:37:07 +0000 2017",
+      "id": 879060910341472256,
+      "id_str": "879060910341472256",
+      "text": "Just published Networking stack - Technical roadmap for .NET Core\r\rhttps://t.co/s9rUuK0Vd5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/s9rUuK0Vd5",
+            "expanded_url": "https://github.com/dotnet/designs/issues/9",
+            "display_url": "github.com/dotnet/designs…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1710568508,
+        "id_str": "1710568508",
+        "name": "Karel Zikmund",
+        "screen_name": "ziki_cz",
+        "location": "Redmond, WA",
+        "description": "Developer on .NET team in Microsoft - .NET Core, CoreFX GitHub repo. Opinions are my own.",
+        "url": "https://t.co/P0c3TVNdYx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/P0c3TVNdYx",
+                "expanded_url": "https://karelz.github.io",
+                "display_url": "karelz.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 854,
+        "friends_count": 133,
+        "listed_count": 12,
+        "created_at": "Thu Aug 29 17:26:36 +0000 2013",
+        "favourites_count": 13548,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2200,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/801963866938671104/q6l78_L2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/801963866938671104/q6l78_L2_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 107,
+      "favorite_count": 191,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 107,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Jun 22 15:00:11 +0000 2017",
     "id": 877904054164140033,
     "id_str": "877904054164140033",
