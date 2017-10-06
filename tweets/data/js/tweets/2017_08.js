@@ -1,5 +1,798 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Thu Aug 31 21:42:10 +0000 2017",
+    "id": 903372367698681856,
+    "id_str": "903372367698681856",
+    "text": "RT @msftorleans: v1.5.1 is out - https://t.co/27RiXf5tnQ  https://t.co/lC8QJf3CxT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/27RiXf5tnQ",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v1.5.1",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            33,
+            56
+          ]
+        },
+        {
+          "url": "https://t.co/lC8QJf3CxT",
+          "expanded_url": "https://twitter.com/juliandominguez/status/902296059254157312",
+          "display_url": "twitter.com/juliandomingue…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 31 05:38:58 +0000 2017",
+      "id": 903129968485347328,
+      "id_str": "903129968485347328",
+      "text": "v1.5.1 is out - https://t.co/27RiXf5tnQ  https://t.co/lC8QJf3CxT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/27RiXf5tnQ",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v1.5.1",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              16,
+              39
+            ]
+          },
+          {
+            "url": "https://t.co/lC8QJf3CxT",
+            "expanded_url": "https://twitter.com/juliandominguez/status/902296059254157312",
+            "display_url": "twitter.com/juliandomingue…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 914,
+        "friends_count": 0,
+        "listed_count": 14,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 1,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 105,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1437068035",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 902296059254157312,
+      "quoted_status_id_str": "902296059254157312",
+      "quoted_status": {
+        "created_at": "Mon Aug 28 22:25:19 +0000 2017",
+        "id": 902296059254157312,
+        "id_str": "902296059254157312",
+        "text": "Orleans 1.5.1 released with some bug fixes, especially if you were using Service Fabric as host: https://t.co/ELVEgbx6Ig @msftorleans",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "msftorleans",
+              "name": "Microsoft Orleans",
+              "id": 3366266218,
+              "id_str": "3366266218",
+              "indices": [
+                121,
+                133
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ELVEgbx6Ig",
+              "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v1.5.1",
+              "display_url": "github.com/dotnet/orleans…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 18262032,
+          "id_str": "18262032",
+          "name": "Julian Dominguez",
+          "screen_name": "juliandominguez",
+          "location": "Redmond, WA",
+          "description": "Developer / journeyman. Currently working in @msftorleans. Loves learning. NO soy el político K ese, dejen de arrobar!",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 414,
+          "friends_count": 273,
+          "listed_count": 17,
+          "created_at": "Sat Dec 20 05:35:02 +0000 2008",
+          "favourites_count": 297,
+          "utc_offset": -25200,
+          "time_zone": "Tijuana",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 967,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/80350775/space_needle_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/80350775/space_needle_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 15,
+      "favorite_count": 23,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 902296059254157312,
+    "quoted_status_id_str": "902296059254157312",
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 27 19:17:24 +0000 2017",
+    "id": 901886382892736513,
+    "id_str": "901886382892736513",
+    "text": "Drones will watch Australian beaches for sharks with AI help - Engadget https://t.co/GS8jYQ2QHo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GS8jYQ2QHo",
+          "expanded_url": "https://apple.news/Anc9-SZnPT562uRypTuwe2Q",
+          "display_url": "apple.news/Anc9-SZnPT562u…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 27 19:13:50 +0000 2017",
+    "id": 901885485760446464,
+    "id_str": "901885485760446464",
+    "text": "Cybersecurity 101: How universities are dealing with hackers - CNET https://t.co/AQmt72FHT9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AQmt72FHT9",
+          "expanded_url": "https://apple.news/AUVi-AOzEQdupQStDo8-iQA",
+          "display_url": "apple.news/AUVi-AOzEQdupQ…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Aug 25 19:34:11 +0000 2017",
+    "id": 901165832583036928,
+    "id_str": "901165832583036928",
+    "text": "Continental rethinks the wheel—and the brake—for electric cars - Ars Technica https://t.co/HPo4op53R7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HPo4op53R7",
+          "expanded_url": "https://apple.news/AWJZCrcTQTIieYfukmvqB5Q",
+          "display_url": "apple.news/AWJZCrcTQTIieY…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Aug 24 15:23:08 +0000 2017",
+    "id": 900740262879674368,
+    "id_str": "900740262879674368",
+    "text": "Tesla Model 3: Exclusive first look at Tesla's new battery pack architecture - Electrek https://t.co/NPmsk6RpNR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NPmsk6RpNR",
+          "expanded_url": "https://apple.news/APEm-rA6kSiC8xopIL9JmAQ",
+          "display_url": "apple.news/APEm-rA6kSiC8x…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Aug 21 15:10:25 +0000 2017",
+    "id": 899649900853342216,
+    "id_str": "899649900853342216",
+    "text": "Third-party open source .NET libraries to add to your dev toolbox. https://t.co/dm9etpkgvV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dm9etpkgvV",
+          "expanded_url": "https://www.domstamand.com/3rd-party-dotnet-libraries-to-add-to-your-toolbox/",
+          "display_url": "domstamand.com/3rd-party-dotn…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 20 22:15:12 +0000 2017",
+    "id": 899394411448025088,
+    "id_str": "899394411448025088",
+    "text": "RT @TheOfficialACM: More young women took an Advanced Placement Computer Science exam last year than in 2007 through 2013 combined: https:/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TheOfficialACM",
+          "name": "Official ACM",
+          "id": 115763683,
+          "id_str": "115763683",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 20 13:05:10 +0000 2017",
+      "id": 899255990138408960,
+      "id_str": "899255990138408960",
+      "text": "More young women took an Advanced Placement Computer Science exam last year than in 2007 through 2013 combined: https://t.co/BUJ9rasRoH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BUJ9rasRoH",
+            "expanded_url": "http://ow.ly/Adb830eweQo",
+            "display_url": "ow.ly/Adb830eweQo",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 115763683,
+        "id_str": "115763683",
+        "name": "Official ACM",
+        "screen_name": "TheOfficialACM",
+        "location": "New York, NY",
+        "description": "ACM is the world’s largest educational and scientific computing society with more than 100,000 members. Be Creative. Stay Connected. Keep Inventing.",
+        "url": "http://t.co/uuWFtq4Jab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/uuWFtq4Jab",
+                "expanded_url": "http://www.acm.org",
+                "display_url": "acm.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 35979,
+        "friends_count": 491,
+        "listed_count": 1291,
+        "created_at": "Fri Feb 19 21:27:46 +0000 2010",
+        "favourites_count": 632,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6423,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656872290492284928/6Vk-M4KK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656872290492284928/6Vk-M4KK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115763683/1445445521",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 45,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Aug 20 19:44:07 +0000 2017",
+    "id": 899356390929473536,
+    "id_str": "899356390929473536",
+    "text": "More progress towards SSO nirvana - Microsoft launches Chrome extension for Azure Active-Directory sign-in. https://t.co/183vV04zUL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/183vV04zUL",
+          "expanded_url": "https://www.onmsft.com/news/microsoft-launches-a-chrome-extension-designed-for-a-single-azure-active-directory-sign-in",
+          "display_url": "onmsft.com/news/microsoft…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Aug 19 17:23:53 +0000 2017",
     "id": 898958711498055680,
     "id_str": "898958711498055680",
