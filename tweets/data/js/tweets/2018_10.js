@@ -1,5 +1,1750 @@
 Grailbird.data.tweets_2018_10 = [
   {
+    "created_at": "Wed Oct 31 23:13:47 +0000 2018",
+    "id": 1057772653564452864,
+    "id_str": "1057772653564452864",
+    "text": "RT @Policy: To better serve public conversations, particularly during elections, we've expanded our spam reporting to gather additional sig…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Policy",
+          "name": "Twitter Public Policy",
+          "id": 218984871,
+          "id_str": "218984871",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 31 17:18:03 +0000 2018",
+      "id": 1057683130721755136,
+      "id_str": "1057683130721755136",
+      "text": "To better serve public conversations, particularly during elections, we've expanded our spam reporting to gather ad… https://t.co/VucV2eheWx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VucV2eheWx",
+            "expanded_url": "https://twitter.com/i/web/status/1057683130721755136",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 218984871,
+        "id_str": "218984871",
+        "name": "Twitter Public Policy",
+        "screen_name": "Policy",
+        "location": "",
+        "description": "The voice of Twitter's global public policy team",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 303799,
+        "friends_count": 73,
+        "listed_count": 996,
+        "created_at": "Tue Nov 23 16:45:21 +0000 2010",
+        "favourites_count": 170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1511,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880132255011586048/rlZKfFFe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880132255011586048/rlZKfFFe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218984871/1498674897",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1057675174735155200,
+      "quoted_status_id_str": "1057675174735155200",
+      "quoted_status": {
+        "created_at": "Wed Oct 31 16:46:26 +0000 2018",
+        "id": 1057675174735155200,
+        "id_str": "1057675174735155200",
+        "text": "Activity that attempts to manipulate or disrupt Twitter’s service is not allowed. We remove this when we see it.\n\nY… https://t.co/v1pU8Ur5OD",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/v1pU8Ur5OD",
+              "expanded_url": "https://twitter.com/i/web/status/1057675174735155200",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 95731075,
+          "id_str": "95731075",
+          "name": "Twitter Safety",
+          "screen_name": "TwitterSafety",
+          "location": "Twitter HQ",
+          "description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/jTMg7YsLw5",
+          "url": "https://t.co/mAjmahDpAR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/mAjmahDpAR",
+                  "expanded_url": "https://safety.twitter.com",
+                  "display_url": "safety.twitter.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/jTMg7YsLw5",
+                  "expanded_url": "https://support.twitter.com",
+                  "display_url": "support.twitter.com",
+                  "indices": [
+                    91,
+                    114
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3308228,
+          "friends_count": 130,
+          "listed_count": 8073,
+          "created_at": "Wed Dec 09 21:00:57 +0000 2009",
+          "favourites_count": 168,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 784,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1497491858",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "A8C7F7",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3664,
+        "favorite_count": 15075,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 25,
+      "favorite_count": 36,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1057675174735155200,
+    "quoted_status_id_str": "1057675174735155200",
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Oct 31 23:12:13 +0000 2018",
+    "id": 1057772258435903489,
+    "id_str": "1057772258435903489",
+    "text": "@matthewwarren One of my favorite questions when I was recruiting Java developers in one of my past lives was “Have… https://t.co/XZW9jdH3ZT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "matthewwarren",
+          "name": "Matt Warren",
+          "id": 14953457,
+          "id_str": "14953457",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XZW9jdH3ZT",
+          "expanded_url": "https://twitter.com/i/web/status/1057772258435903489",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1057639455425622017,
+    "in_reply_to_status_id_str": "1057639455425622017",
+    "in_reply_to_user_id": 14953457,
+    "in_reply_to_user_id_str": "14953457",
+    "in_reply_to_screen_name": "matthewwarren",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Oct 31 22:36:21 +0000 2018",
+    "id": 1057763232268476416,
+    "id_str": "1057763232268476416",
+    "text": "RT @natfriedman: 🎉 We've just shipped the ability to transfer an issue from one repo to another. This is one of the most-requested GitHub f…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "natfriedman",
+          "name": "Nat Friedman",
+          "id": 13235832,
+          "id_str": "13235832",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 31 16:59:09 +0000 2018",
+      "id": 1057678371256119297,
+      "id_str": "1057678371256119297",
+      "text": "🎉 We've just shipped the ability to transfer an issue from one repo to another. This is one of the most-requested G… https://t.co/DPlCWvJwlv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DPlCWvJwlv",
+            "expanded_url": "https://twitter.com/i/web/status/1057678371256119297",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13235832,
+        "id_str": "13235832",
+        "name": "Nat Friedman",
+        "screen_name": "natfriedman",
+        "location": "San Francisco",
+        "description": "CEO of GitHub. Married to @she_travels.",
+        "url": "https://t.co/d10brIeI1h",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/d10brIeI1h",
+                "expanded_url": "http://nat.org",
+                "display_url": "nat.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 37767,
+        "friends_count": 2257,
+        "listed_count": 790,
+        "created_at": "Fri Feb 08 05:20:41 +0000 2008",
+        "favourites_count": 16361,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13235832/1438132115",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 712,
+      "favorite_count": 2624,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 712,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 30 21:17:56 +0000 2018",
+    "id": 1057381111188283392,
+    "id_str": "1057381111188283392",
+    "text": "RT @matthewwarren: Interesting announcement by @terrajobst 'The future of JSON in .NET Core 3.0' https://t.co/tFX9ycZKXd especially as they…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "matthewwarren",
+          "name": "Matt Warren",
+          "id": 14953457,
+          "id_str": "14953457",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "terrajobst",
+          "name": "Immo Landwerth",
+          "id": 512620228,
+          "id_str": "512620228",
+          "indices": [
+            47,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tFX9ycZKXd",
+          "expanded_url": "https://github.com/dotnet/announcements/issues/90",
+          "display_url": "github.com/dotnet/announc…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 29 22:05:49 +0000 2018",
+      "id": 1057030771914010632,
+      "id_str": "1057030771914010632",
+      "text": "Interesting announcement by @terrajobst 'The future of JSON in .NET Core 3.0' https://t.co/tFX9ycZKXd especially as… https://t.co/4G1UiCue6D",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "terrajobst",
+            "name": "Immo Landwerth",
+            "id": 512620228,
+            "id_str": "512620228",
+            "indices": [
+              28,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tFX9ycZKXd",
+            "expanded_url": "https://github.com/dotnet/announcements/issues/90",
+            "display_url": "github.com/dotnet/announc…",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "url": "https://t.co/4G1UiCue6D",
+            "expanded_url": "https://twitter.com/i/web/status/1057030771914010632",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14953457,
+        "id_str": "14953457",
+        "name": "Matt Warren",
+        "screen_name": "matthewwarren",
+        "location": "",
+        "description": "Christian, husband & father. Also a C# Dev who loves finding and fixing performance issues, Microsoft MVP, contributor to #BenchmarkDotNet",
+        "url": "https://t.co/aUoVqLXQJU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/aUoVqLXQJU",
+                "expanded_url": "http://mattwarren.org",
+                "display_url": "mattwarren.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4656,
+        "friends_count": 3123,
+        "listed_count": 136,
+        "created_at": "Fri May 30 10:27:19 +0000 2008",
+        "favourites_count": 4742,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11864,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059409633113227265/pat7XJbo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059409633113227265/pat7XJbo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14953457/1494510552",
+        "profile_link_color": "17060B",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 47,
+      "favorite_count": 89,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 29 20:01:18 +0000 2018",
+    "id": 1056999438495805441,
+    "id_str": "1056999438495805441",
+    "text": "RT @tfsbuck: We've updated our roadmap for Azure DevOps (cloud &amp; on-premises). Highlights:\n* Markdown in work items\n* YAML web editor, VS C…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tfsbuck",
+          "name": "Buck Hodges",
+          "id": 373532774,
+          "id_str": "373532774",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 29 17:06:24 +0000 2018",
+      "id": 1056955423352348672,
+      "id_str": "1056955423352348672",
+      "text": "We've updated our roadmap for Azure DevOps (cloud &amp; on-premises). Highlights:\n* Markdown in work items\n* YAML web e… https://t.co/D2TCazjRrS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D2TCazjRrS",
+            "expanded_url": "https://twitter.com/i/web/status/1056955423352348672",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 373532774,
+        "id_str": "373532774",
+        "name": "Buck Hodges",
+        "screen_name": "tfsbuck",
+        "location": "Raleigh, North Carolina",
+        "description": "Director of Engineering, Microsoft Azure DevOps @AzureDevOps | Agile, Git, Build, Release - Join us in NC or Redmond: https://t.co/2PH7Ku7OLT",
+        "url": "https://t.co/wkyxtrI1VJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wkyxtrI1VJ",
+                "expanded_url": "https://blogs.msdn.microsoft.com/buckh/",
+                "display_url": "blogs.msdn.microsoft.com/buckh/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/2PH7Ku7OLT",
+                "expanded_url": "http://aka.ms/devopsjobs",
+                "display_url": "aka.ms/devopsjobs",
+                "indices": [
+                  118,
+                  141
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6380,
+        "friends_count": 377,
+        "listed_count": 285,
+        "created_at": "Wed Sep 14 19:05:32 +0000 2011",
+        "favourites_count": 3047,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12199,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2891246516/fbf7f9fbf2da6ccc2baa265d3e2c121a_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2891246516/fbf7f9fbf2da6ccc2baa265d3e2c121a_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373532774/1510454221",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 143,
+      "favorite_count": 230,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 143,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 27 06:38:02 +0000 2018",
+    "id": 1056072511756980229,
+    "id_str": "1056072511756980229",
+    "text": "RT @terrajobst: Very cool. NuGet is working on a feature to allow package authors to mark packages as deprecated. https://t.co/a2rknaKtuV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "terrajobst",
+          "name": "Immo Landwerth",
+          "id": 512620228,
+          "id_str": "512620228",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a2rknaKtuV",
+          "expanded_url": "https://github.com/NuGet/Home/wiki/Deprecate-packages",
+          "display_url": "github.com/NuGet/Home/wik…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 27 05:57:36 +0000 2018",
+      "id": 1056062337172434944,
+      "id_str": "1056062337172434944",
+      "text": "Very cool. NuGet is working on a feature to allow package authors to mark packages as deprecated. https://t.co/a2rknaKtuV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a2rknaKtuV",
+            "expanded_url": "https://github.com/NuGet/Home/wiki/Deprecate-packages",
+            "display_url": "github.com/NuGet/Home/wik…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 512620228,
+        "id_str": "512620228",
+        "name": "Immo Landwerth",
+        "screen_name": "terrajobst",
+        "location": "Redmond, WA",
+        "description": "Program manager on .NET at Microsoft. Opinions are my own. I tweet in GIFs and typo for a livng.",
+        "url": "https://t.co/pfw9pKc4sL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pfw9pKc4sL",
+                "expanded_url": "http://immo.landwerth.net",
+                "display_url": "immo.landwerth.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13136,
+        "friends_count": 634,
+        "listed_count": 310,
+        "created_at": "Sat Mar 03 00:48:21 +0000 2012",
+        "favourites_count": 30283,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34540,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970581417422872576/XOQG6g70_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970581417422872576/XOQG6g70_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512620228/1379201221",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 94,
+      "favorite_count": 273,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 94,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 25 15:15:14 +0000 2018",
+    "id": 1055477894489694208,
+    "id_str": "1055477894489694208",
+    "text": "The Azure Application Architecture Guide should be required reading for anyone designing services on Azure. https://t.co/1QPf75Pm9Q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1QPf75Pm9Q",
+          "expanded_url": "https://docs.microsoft.com/en-us/azure/architecture/guide/",
+          "display_url": "docs.microsoft.com/en-us/azure/ar…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Oct 24 17:11:58 +0000 2018",
+    "id": 1055144883650875392,
+    "id_str": "1055144883650875392",
+    "text": "RT @Policy: Today we are releasing all the content associated with previously disclosed information operations that we have found on our se…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Policy",
+          "name": "Twitter Public Policy",
+          "id": 218984871,
+          "id_str": "218984871",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 17 12:55:19 +0000 2018",
+      "id": 1052543582199050240,
+      "id_str": "1052543582199050240",
+      "text": "Today we are releasing all the content associated with previously disclosed information operations that we have fou… https://t.co/jZQiwyj1kO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jZQiwyj1kO",
+            "expanded_url": "https://twitter.com/i/web/status/1052543582199050240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 218984871,
+        "id_str": "218984871",
+        "name": "Twitter Public Policy",
+        "screen_name": "Policy",
+        "location": "",
+        "description": "The voice of Twitter's global public policy team",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 303799,
+        "friends_count": 73,
+        "listed_count": 996,
+        "created_at": "Tue Nov 23 16:45:21 +0000 2010",
+        "favourites_count": 170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1511,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880132255011586048/rlZKfFFe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880132255011586048/rlZKfFFe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218984871/1498674897",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 574,
+      "favorite_count": 736,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 574,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 23 20:37:28 +0000 2018",
+    "id": 1054834209372594176,
+    "id_str": "1054834209372594176",
+    "text": "RT @terrajobst: HOOOOOOOORAY! Span&lt;T&gt; just got approved for .NET Standard 2.1. https://t.co/QMsKKPSlHa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "terrajobst",
+          "name": "Immo Landwerth",
+          "id": 512620228,
+          "id_str": "512620228",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1054431974453010434,
+          "id_str": "1054431974453010434",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+          "url": "https://t.co/QMsKKPSlHa",
+          "display_url": "pic.twitter.com/QMsKKPSlHa",
+          "expanded_url": "https://twitter.com/terrajobst/status/1054431989728595968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 651,
+              "h": 274,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 651,
+              "h": 274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 651,
+              "h": 274,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1054431989728595968,
+          "source_status_id_str": "1054431989728595968",
+          "source_user_id": 512620228,
+          "source_user_id_str": "512620228"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1054431974453010434,
+          "id_str": "1054431974453010434",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+          "url": "https://t.co/QMsKKPSlHa",
+          "display_url": "pic.twitter.com/QMsKKPSlHa",
+          "expanded_url": "https://twitter.com/terrajobst/status/1054431989728595968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 651,
+              "h": 274,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 651,
+              "h": 274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 651,
+              "h": 274,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1054431989728595968,
+          "source_status_id_str": "1054431989728595968",
+          "source_user_id": 512620228,
+          "source_user_id_str": "512620228"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 22 17:59:11 +0000 2018",
+      "id": 1054431989728595968,
+      "id_str": "1054431989728595968",
+      "text": "HOOOOOOOORAY! Span&lt;T&gt; just got approved for .NET Standard 2.1. https://t.co/QMsKKPSlHa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1054431974453010434,
+            "id_str": "1054431974453010434",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+            "url": "https://t.co/QMsKKPSlHa",
+            "display_url": "pic.twitter.com/QMsKKPSlHa",
+            "expanded_url": "https://twitter.com/terrajobst/status/1054431989728595968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 651,
+                "h": 274,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 651,
+                "h": 274,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 651,
+                "h": 274,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1054431974453010434,
+            "id_str": "1054431974453010434",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqIYS00V4AI-M_I.jpg",
+            "url": "https://t.co/QMsKKPSlHa",
+            "display_url": "pic.twitter.com/QMsKKPSlHa",
+            "expanded_url": "https://twitter.com/terrajobst/status/1054431989728595968/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 651,
+                "h": 274,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 651,
+                "h": 274,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 651,
+                "h": 274,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 512620228,
+        "id_str": "512620228",
+        "name": "Immo Landwerth",
+        "screen_name": "terrajobst",
+        "location": "Redmond, WA",
+        "description": "Program manager on .NET at Microsoft. Opinions are my own. I tweet in GIFs and typo for a livng.",
+        "url": "https://t.co/pfw9pKc4sL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pfw9pKc4sL",
+                "expanded_url": "http://immo.landwerth.net",
+                "display_url": "immo.landwerth.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13136,
+        "friends_count": 634,
+        "listed_count": 310,
+        "created_at": "Sat Mar 03 00:48:21 +0000 2012",
+        "favourites_count": 30283,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34540,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/970581417422872576/XOQG6g70_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/970581417422872576/XOQG6g70_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512620228/1379201221",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 148,
+      "favorite_count": 484,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 148,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 23 18:19:43 +0000 2018",
+    "id": 1054799547010965504,
+    "id_str": "1054799547010965504",
+    "text": "RT @msftorleans: v2.2.0-beta1 is out, on the glide path to production ready transactions. \nhttps://t.co/CFMXOdSXwA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CFMXOdSXwA",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v2.2.0-beta1",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 22 16:57:41 +0000 2018",
+      "id": 1054416514357563392,
+      "id_str": "1054416514357563392",
+      "text": "v2.2.0-beta1 is out, on the glide path to production ready transactions. \nhttps://t.co/CFMXOdSXwA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CFMXOdSXwA",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v2.2.0-beta1",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1460,
+        "friends_count": 0,
+        "listed_count": 24,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 134,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1437068035",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 20,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Oct 17 14:49:30 +0000 2018",
     "id": 1052572316528402433,
     "id_str": "1052572316528402433",
