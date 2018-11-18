@@ -1,5 +1,560 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Thu Nov 15 15:28:45 +0000 2018",
+    "id": 1063091441218408448,
+    "id_str": "1063091441218408448",
+    "text": "Surprisingly good headphones. Ignore the title and read the article. https://t.co/qp21MOrZPX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qp21MOrZPX",
+          "expanded_url": "https://apple.news/AG_wwXMR_S0S-KNXt74GY6w",
+          "display_url": "apple.news/AG_wwXMR_S0S-K…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 15 05:25:33 +0000 2018",
+    "id": 1062939641442054145,
+    "id_str": "1062939641442054145",
+    "text": "RT @CodeWisdom: \"Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime.\" - Dav…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CodeWisdom",
+          "name": "Programming Wisdom",
+          "id": 396238794,
+          "id_str": "396238794",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 13 14:34:00 +0000 2018",
+      "id": 1062352886829629440,
+      "id_str": "1062352886829629440",
+      "text": "\"Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime.\" - David Leinweber",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 396238794,
+        "id_str": "396238794",
+        "name": "Programming Wisdom",
+        "screen_name": "CodeWisdom",
+        "location": "In the ALU on an 80186",
+        "description": "Computer programming wisdom and quotes from throughout the years. Curated by @Zae_Johnson and @peterc.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 149877,
+        "friends_count": 2481,
+        "listed_count": 2095,
+        "created_at": "Sat Oct 22 23:50:32 +0000 2011",
+        "favourites_count": 2238,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2942,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/396238794/1500998687",
+        "profile_link_color": "00A7C5",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 367,
+      "favorite_count": 1005,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 367,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 15 05:23:00 +0000 2018",
+    "id": 1062938999092797440,
+    "id_str": "1062938999092797440",
+    "text": "RT @cmeik: I've recently been inspired by a several new programming models for building distributed systems.  I'm planning on writing about…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cmeik",
+          "name": "Christopher S. Meiklejohn",
+          "id": 6815762,
+          "id_str": "6815762",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 14 23:26:42 +0000 2018",
+      "id": 1062849331273912322,
+      "id_str": "1062849331273912322",
+      "text": "I've recently been inspired by a several new programming models for building distributed systems.  I'm planning on… https://t.co/R6zlnGPg5X",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R6zlnGPg5X",
+            "expanded_url": "https://twitter.com/i/web/status/1062849331273912322",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6815762,
+        "id_str": "6815762",
+        "name": "Christopher S. Meiklejohn",
+        "screen_name": "cmeik",
+        "location": "Pittsburgh, PA",
+        "description": "I live for distributed programming.  Formerly @berkleeonline, @basho, @mesosphere; 2x intern at @MSFTResearch, and currently @isrcmu Ph.D. student.",
+        "url": "https://t.co/OteoES1wPB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OteoES1wPB",
+                "expanded_url": "http://christophermeiklejohn.com",
+                "display_url": "christophermeiklejohn.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6044,
+        "friends_count": 2716,
+        "listed_count": 275,
+        "created_at": "Thu Jun 14 16:35:49 +0000 2007",
+        "favourites_count": 77036,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 76251,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054421066645495809/QJZeWs9G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054421066645495809/QJZeWs9G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6815762/1420224089",
+        "profile_link_color": "4E5A5E",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 36,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 15 05:10:47 +0000 2018",
+    "id": 1062935925624205312,
+    "id_str": "1062935925624205312",
+    "text": "RT @adriancolyer: \"Unikernels as processes\" Williams et al., SoCC'18 https://t.co/azAatHiVxq #themorningpaper\n\nRunning unikernels as proces…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "themorningpaper",
+          "indices": [
+            93,
+            109
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adriancolyer",
+          "name": "Adrian Colyer",
+          "id": 23971403,
+          "id_str": "23971403",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/azAatHiVxq",
+          "expanded_url": "http://blog.acolyer.org/2018/11/14/unikernels-as-processes",
+          "display_url": "blog.acolyer.org/2018/11/14/uni…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 14 08:30:03 +0000 2018",
+      "id": 1062623683271897088,
+      "id_str": "1062623683271897088",
+      "text": "\"Unikernels as processes\" Williams et al., SoCC'18 https://t.co/azAatHiVxq #themorningpaper\n\nRunning unikernels as… https://t.co/PFtZL6FDB6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "themorningpaper",
+            "indices": [
+              75,
+              91
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/azAatHiVxq",
+            "expanded_url": "http://blog.acolyer.org/2018/11/14/unikernels-as-processes",
+            "display_url": "blog.acolyer.org/2018/11/14/uni…",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "url": "https://t.co/PFtZL6FDB6",
+            "expanded_url": "https://twitter.com/i/web/status/1062623683271897088",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23971403,
+        "id_str": "23971403",
+        "name": "Adrian Colyer",
+        "screen_name": "adriancolyer",
+        "location": "Romsey, England",
+        "description": "Author: #themorningpaper, Venture Partner with Accel Partners, London after many years as CTO for SpringSource and then apps at VMware, Pivotal",
+        "url": "https://t.co/b74UImWlMg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b74UImWlMg",
+                "expanded_url": "http://www.accel.com/team/venture-development/london/adrian-colyer",
+                "display_url": "accel.com/team/venture-d…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20499,
+        "friends_count": 326,
+        "listed_count": 729,
+        "created_at": "Thu Mar 12 15:51:34 +0000 2009",
+        "favourites_count": 2799,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5282,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/902829228990709760/mWT4DjHt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/902829228990709760/mWT4DjHt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23971403/1412244432",
+        "profile_link_color": "C6A168",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 48,
+      "favorite_count": 104,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Nov 13 00:39:44 +0000 2018",
     "id": 1062142937394425856,
     "id_str": "1062142937394425856",
