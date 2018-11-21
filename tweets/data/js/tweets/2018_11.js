@@ -1,5 +1,217 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Tue Nov 20 07:05:23 +0000 2018",
+    "id": 1064776704944570369,
+    "id_str": "1064776704944570369",
+    "text": "RT @sergeybykov: Very sad news for the @msftorleans community about Dmitry Vakulenko (@dVakulen).\nhttps://t.co/Y0igKKBkiC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sergeybykov",
+          "name": "Sergey Bykov",
+          "id": 2421698636,
+          "id_str": "2421698636",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            39,
+            51
+          ]
+        },
+        {
+          "screen_name": "dVakulen",
+          "name": "Dmytro Vakulenko",
+          "id": 2558909828,
+          "id_str": "2558909828",
+          "indices": [
+            86,
+            95
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y0igKKBkiC",
+          "expanded_url": "https://blogs.msdn.microsoft.com/orleans/2018/11/19/dmitry-vakulenko/",
+          "display_url": "blogs.msdn.microsoft.com/orleans/2018/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 19 22:02:18 +0000 2018",
+      "id": 1064640032152129536,
+      "id_str": "1064640032152129536",
+      "text": "Very sad news for the @msftorleans community about Dmitry Vakulenko (@dVakulen).\nhttps://t.co/Y0igKKBkiC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              22,
+              34
+            ]
+          },
+          {
+            "screen_name": "dVakulen",
+            "name": "Dmytro Vakulenko",
+            "id": 2558909828,
+            "id_str": "2558909828",
+            "indices": [
+              69,
+              78
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Y0igKKBkiC",
+            "expanded_url": "https://blogs.msdn.microsoft.com/orleans/2018/11/19/dmitry-vakulenko/",
+            "display_url": "blogs.msdn.microsoft.com/orleans/2018/1…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2421698636,
+        "id_str": "2421698636",
+        "name": "Sergey Bykov",
+        "screen_name": "sergeybykov",
+        "location": "Redmond WA, USA",
+        "description": "Lead of the Orleans project at Microsoft. Acting on actors.\nOpinions are a complex function of my genetics, upbringing, education, life experiences, and biases.",
+        "url": "https://t.co/z6wj6MChiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z6wj6MChiI",
+                "expanded_url": "https://github.com/dotnet/orleans",
+                "display_url": "github.com/dotnet/orleans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1287,
+        "friends_count": 330,
+        "listed_count": 82,
+        "created_at": "Tue Apr 01 07:15:10 +0000 2014",
+        "favourites_count": 1467,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5047,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002016143874277376/tYrmhYMU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002016143874277376/tYrmhYMU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2421698636/1486937885",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Nov 15 15:28:45 +0000 2018",
     "id": 1063091441218408448,
     "id_str": "1063091441218408448",
