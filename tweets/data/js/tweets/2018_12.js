@@ -1,5 +1,113 @@
 Grailbird.data.tweets_2018_12 = [
   {
+    "created_at": "Fri Dec 28 18:00:27 +0000 2018",
+    "id": 1078712295876788224,
+    "id_str": "1078712295876788224",
+    "text": ".... and I know i am not supposed to turn off my machine during an OS update, but the update process has been stuck… https://t.co/qajfbxE0RB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qajfbxE0RB",
+          "expanded_url": "https://twitter.com/i/web/status/1078712295876788224",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1078712295176327169,
+    "in_reply_to_status_id_str": "1078712295176327169",
+    "in_reply_to_user_id": 63211254,
+    "in_reply_to_user_id_str": "63211254",
+    "in_reply_to_screen_name": "JorgenThelin",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 28 18:00:27 +0000 2018",
+    "id": 1078712295176327169,
+    "id_str": "1078712295176327169",
+    "text": "Dear Windows 10, I know you thought it would be a good time to try to update my home PC to 1809 this week, because… https://t.co/COVccOi6Rk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/COVccOi6Rk",
+          "expanded_url": "https://twitter.com/i/web/status/1078712295176327169",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Dec 23 20:17:56 +0000 2018",
     "id": 1076934956054532096,
     "id_str": "1076934956054532096",
