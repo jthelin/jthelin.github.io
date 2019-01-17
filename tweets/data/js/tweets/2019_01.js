@@ -1,5 +1,407 @@
 Grailbird.data.tweets_2019_01 = [
   {
+    "created_at": "Wed Jan 16 07:03:55 +0000 2019",
+    "id": 1085432444868689921,
+    "id_str": "1085432444868689921",
+    "text": "RT @adriancolyer: \"Serverless computing, one step forward, two steps back\" Hellerstein et al., CIDR'19 https://t.co/aV5Vc8JqcD #themorningp…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adriancolyer",
+          "name": "Adrian Colyer",
+          "id": 23971403,
+          "id_str": "23971403",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aV5Vc8JqcD",
+          "expanded_url": "http://blog.acolyer.org/2019/01/14/serverless-computing-one-step-forward-two-steps-back",
+          "display_url": "blog.acolyer.org/2019/01/14/ser…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 14 08:30:01 +0000 2019",
+      "id": 1084729333908992000,
+      "id_str": "1084729333908992000",
+      "text": "\"Serverless computing, one step forward, two steps back\" Hellerstein et al., CIDR'19 https://t.co/aV5Vc8JqcD… https://t.co/qusbL6L5GL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/aV5Vc8JqcD",
+            "expanded_url": "http://blog.acolyer.org/2019/01/14/serverless-computing-one-step-forward-two-steps-back",
+            "display_url": "blog.acolyer.org/2019/01/14/ser…",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "url": "https://t.co/qusbL6L5GL",
+            "expanded_url": "https://twitter.com/i/web/status/1084729333908992000",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23971403,
+        "id_str": "23971403",
+        "name": "Adrian Colyer",
+        "screen_name": "adriancolyer",
+        "location": "Romsey, England",
+        "description": "Author: #themorningpaper, Venture Partner with Accel Partners, London after many years as CTO for SpringSource and then apps at VMware, Pivotal",
+        "url": "https://t.co/b74UImWlMg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b74UImWlMg",
+                "expanded_url": "http://www.accel.com/team/venture-development/london/adrian-colyer",
+                "display_url": "accel.com/team/venture-d…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21068,
+        "friends_count": 332,
+        "listed_count": 751,
+        "created_at": "Thu Mar 12 15:51:34 +0000 2009",
+        "favourites_count": 2835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5335,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/902829228990709760/mWT4DjHt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/902829228990709760/mWT4DjHt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23971403/1412244432",
+        "profile_link_color": "C6A168",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 93,
+      "favorite_count": 202,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 93,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jan 12 00:59:18 +0000 2019",
+    "id": 1083891133116166149,
+    "id_str": "1083891133116166149",
+    "text": "RT @coolcsh: The #dotnet team has been doing open source for a long time. Here is an article I wrote going over the history of how we start…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dotnet",
+          "indices": [
+            17,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "coolcsh",
+          "name": "Scott Hunter",
+          "id": 14874571,
+          "id_str": "14874571",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 10 00:37:50 +0000 2019",
+      "id": 1083160955075190784,
+      "id_str": "1083160955075190784",
+      "text": "The #dotnet team has been doing open source for a long time. Here is an article I wrote going over the history of h… https://t.co/JngCmU0OMA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "dotnet",
+            "indices": [
+              4,
+              11
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JngCmU0OMA",
+            "expanded_url": "https://twitter.com/i/web/status/1083160955075190784",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14874571,
+        "id_str": "14874571",
+        "name": "Scott Hunter",
+        "screen_name": "coolcsh",
+        "location": "Redmond, WA",
+        "description": "I work at Microsoft on Visual Studio and .NET - Including .NET Core, .NET tooling, Languages, https://t.co/qKRmcNtLdU, Entity Framework and Web Tooling",
+        "url": "https://t.co/EfVIf2O1zT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/EfVIf2O1zT",
+                "expanded_url": "http://blogs.msdn.com/scothu/",
+                "display_url": "blogs.msdn.com/scothu/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/qKRmcNtLdU",
+                "expanded_url": "http://ASP.NET",
+                "display_url": "ASP.NET",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 31069,
+        "friends_count": 360,
+        "listed_count": 636,
+        "created_at": "Thu May 22 22:51:07 +0000 2008",
+        "favourites_count": 1498,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3268,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/57396899/ScottHead_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/57396899/ScottHead_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14874571/1469026582",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "58a4c3a0d54e1400",
+        "url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+        "place_type": "admin",
+        "name": "Central Region",
+        "full_name": "Central Region, Singapore",
+        "country_code": "SG",
+        "country": "Singapore",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                103.749959507073,
+                1.2123138339349
+              ],
+              [
+                103.918426999964,
+                1.2123138339349
+              ],
+              [
+                103.918426999964,
+                1.36874499902569
+              ],
+              [
+                103.749959507073,
+                1.36874499902569
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 153,
+      "favorite_count": 298,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 153,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Jan 11 02:19:03 +0000 2019",
     "id": 1083548815473299456,
     "id_str": "1083548815473299456",
