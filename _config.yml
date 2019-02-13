@@ -1,7 +1,7 @@
 title: JThelin.GitHub.io
 description: JThelin @ GitHub
 google_analytics: UA-214535-5
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
