@@ -1,5 +1,480 @@
 Grailbird.data.tweets_2019_02 = [
   {
+    "created_at": "Sun Feb 17 18:10:43 +0000 2019",
+    "id": 1097196662315933696,
+    "id_str": "1097196662315933696",
+    "text": "RT @craigaloewen: Blogged: What’s new for WSL in Windows 10 version 1903?\nExciting new features for WSL are now available to insiders! You…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "craigaloewen",
+          "name": "Craig Loewen",
+          "id": 855499525670174721,
+          "id_str": "855499525670174721",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 15 21:24:07 +0000 2019",
+      "id": 1096520553672790016,
+      "id_str": "1096520553672790016",
+      "text": "Blogged: What’s new for WSL in Windows 10 version 1903?\nExciting new features for WSL are now available to insiders… https://t.co/kZxsEkxcaQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kZxsEkxcaQ",
+            "expanded_url": "https://twitter.com/i/web/status/1096520553672790016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 855499525670174721,
+        "id_str": "855499525670174721",
+        "name": "Craig Loewen",
+        "screen_name": "craigaloewen",
+        "location": "Redmond, WA",
+        "description": "Program Manager at @Microsoft, working on the Windows Subsystem for Linux #WSLinux #WSL",
+        "url": "https://t.co/CK8PsZ4UNv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CK8PsZ4UNv",
+                "expanded_url": "http://www.craigloewen.com",
+                "display_url": "craigloewen.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1100,
+        "friends_count": 267,
+        "listed_count": 14,
+        "created_at": "Fri Apr 21 19:12:36 +0000 2017",
+        "favourites_count": 1969,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 780,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888171703750115328/p8I88RHv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888171703750115328/p8I88RHv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/855499525670174721/1548876208",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 141,
+      "favorite_count": 325,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 141,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 13 20:46:00 +0000 2019",
+    "id": 1095786188386914304,
+    "id_str": "1095786188386914304",
+    "text": "A nice write up about what we do ⁦@MSFTResearch⁩ https://t.co/Oft899PVHL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MSFTResearch",
+          "name": "Microsoft Research",
+          "id": 21457289,
+          "id_str": "21457289",
+          "indices": [
+            34,
+            47
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Oft899PVHL",
+          "expanded_url": "https://apple.news/AcK8dvAl_QJqmQbKVoaQHqg",
+          "display_url": "apple.news/AcK8dvAl_QJqmQ…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 13 20:24:10 +0000 2019",
+    "id": 1095780691797659648,
+    "id_str": "1095780691797659648",
+    "text": "RT @hsulriksen: After running @msftorleans with #fsharp in production for a week or two we're very pleased, excellent response times and da…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "fsharp",
+          "indices": [
+            48,
+            55
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hsulriksen",
+          "name": "Harald S. Ulriksen",
+          "id": 174589054,
+          "id_str": "174589054",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            30,
+            42
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 13 08:19:14 +0000 2019",
+      "id": 1095598258456576000,
+      "id_str": "1095598258456576000",
+      "text": "After running @msftorleans with #fsharp in production for a week or two we're very pleased, excellent response time… https://t.co/rRoKgfYPAl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "fsharp",
+            "indices": [
+              32,
+              39
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rRoKgfYPAl",
+            "expanded_url": "https://twitter.com/i/web/status/1095598258456576000",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 174589054,
+        "id_str": "174589054",
+        "name": "Harald S. Ulriksen",
+        "screen_name": "hsulriksen",
+        "location": "Oslo, Norway",
+        "description": "Worlds second best Harald. API shepherd & software head. Consultan/partner at @aurumnorge https://t.co/5krKAmf2Rd  Married to @karolikl, father of 2. #DoubleCache",
+        "url": "https://t.co/YkjkzdAohY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YkjkzdAohY",
+                "expanded_url": "http://blog.ulriksen.net",
+                "display_url": "blog.ulriksen.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/5krKAmf2Rd",
+                "expanded_url": "http://aurum.no",
+                "display_url": "aurum.no",
+                "indices": [
+                  90,
+                  113
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 495,
+        "friends_count": 751,
+        "listed_count": 35,
+        "created_at": "Wed Aug 04 08:52:53 +0000 2010",
+        "favourites_count": 604,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2090,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506306272975527936/RbY2S-TU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506306272975527936/RbY2S-TU_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 31,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 13 19:31:24 +0000 2019",
+    "id": 1095767412631171072,
+    "id_str": "1095767412631171072",
+    "text": "You know you are officially snowed-in when the snow is deeper than your Wellington boots!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Feb 12 23:12:11 +0000 2019",
     "id": 1095460588610711552,
     "id_str": "1095460588610711552",
