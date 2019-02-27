@@ -1,5 +1,575 @@
 Grailbird.data.tweets_2019_02 = [
   {
+    "created_at": "Mon Feb 25 19:47:47 +0000 2019",
+    "id": 1100120189637718016,
+    "id_str": "1100120189637718016",
+    "text": "This apt install problem started happening to me too on Friday in my WSL ubuntu shell on Win10. Can't [un]install a… https://t.co/z8b6J1JKvF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z8b6J1JKvF",
+          "expanded_url": "https://twitter.com/i/web/status/1100120189637718016",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Feb 25 06:43:36 +0000 2019",
+    "id": 1099922843519741952,
+    "id_str": "1099922843519741952",
+    "text": "RT @msftorleans: v2.2.4 is out with several fixes and improvements. \nhttps://t.co/3W2XghVSsx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3W2XghVSsx",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v2.2.4",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 25 03:58:51 +0000 2019",
+      "id": 1099881384250753024,
+      "id_str": "1099881384250753024",
+      "text": "v2.2.4 is out with several fixes and improvements. \nhttps://t.co/3W2XghVSsx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3W2XghVSsx",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v2.2.4",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1570,
+        "friends_count": 0,
+        "listed_count": 25,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 141,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1437068035",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 26,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 23 03:36:23 +0000 2019",
+    "id": 1099150952832020480,
+    "id_str": "1099150952832020480",
+    "text": "RT @CodeWisdom: “A program is never less than 90% complete, and never more than 95% complete.”– Terry Baker",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CodeWisdom",
+          "name": "Programming Wisdom",
+          "id": 396238794,
+          "id_str": "396238794",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 22 13:37:00 +0000 2019",
+      "id": 1098939718673285122,
+      "id_str": "1098939718673285122",
+      "text": "“A program is never less than 90% complete, and never more than 95% complete.”– Terry Baker",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 396238794,
+        "id_str": "396238794",
+        "name": "Programming Wisdom",
+        "screen_name": "CodeWisdom",
+        "location": "In the ALU on an 80186",
+        "description": "Computer programming wisdom and quotes from throughout the years. Curated by @Zae_Johnson and @peterc.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 157540,
+        "friends_count": 2470,
+        "listed_count": 2191,
+        "created_at": "Sat Oct 22 23:50:32 +0000 2011",
+        "favourites_count": 2221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3131,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/396238794/1500998687",
+        "profile_link_color": "00A7C5",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 320,
+      "favorite_count": 1080,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 320,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 20 21:55:28 +0000 2019",
+    "id": 1098340385548451840,
+    "id_str": "1098340385548451840",
+    "text": "RT @msftorleans: Orleans blog got migrated (and redirected) from https://t.co/tUVz6yyvY7 to https://t.co/AqDr6udj2h due to the progressing…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tUVz6yyvY7",
+          "expanded_url": "https://blogs.msdn.microsoft.com/orleans/",
+          "display_url": "blogs.msdn.microsoft.com/orleans/",
+          "indices": [
+            65,
+            88
+          ]
+        },
+        {
+          "url": "https://t.co/AqDr6udj2h",
+          "expanded_url": "http://dotnet.github.io/orleans/blog/",
+          "display_url": "dotnet.github.io/orleans/blog/",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 20 18:59:08 +0000 2019",
+      "id": 1098296007391993856,
+      "id_str": "1098296007391993856",
+      "text": "Orleans blog got migrated (and redirected) from https://t.co/tUVz6yyvY7 to https://t.co/AqDr6udj2h due to the progr… https://t.co/6YYOdyTyTu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tUVz6yyvY7",
+            "expanded_url": "https://blogs.msdn.microsoft.com/orleans/",
+            "display_url": "blogs.msdn.microsoft.com/orleans/",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "url": "https://t.co/AqDr6udj2h",
+            "expanded_url": "http://dotnet.github.io/orleans/blog/",
+            "display_url": "dotnet.github.io/orleans/blog/",
+            "indices": [
+              75,
+              98
+            ]
+          },
+          {
+            "url": "https://t.co/6YYOdyTyTu",
+            "expanded_url": "https://twitter.com/i/web/status/1098296007391993856",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1570,
+        "friends_count": 0,
+        "listed_count": 25,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 141,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1437068035",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Feb 17 18:10:43 +0000 2019",
     "id": 1097196662315933696,
     "id_str": "1097196662315933696",
