@@ -1,4 +1,8 @@
-# About me - [Jorgen Thelin][about-me]
+---
+title: About Me - Jorgen Thelin
+---
+
+## About me - [Jorgen Thelin][about-me]
 
 I work at [Microsoft Research][MSR] on distributed systems for big data and machine learning, focusing on next-generation cloud computing applications and systems infrastructure.
 

@@ -1,8 +1,21 @@
 title: JThelin.GitHub.io
 description: JThelin @ GitHub
-google_analytics: UA-214535-5
 show_downloads: false
 theme: jekyll-theme-hacker
 
-gems:
+plugins:
   - jekyll-mentions
+
+exclude: [
+  "*_keys.yaml",
+  "*tweets.csv",
+  "*README.md",
+  "*README.txt",
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/"
+]
