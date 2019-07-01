@@ -1,5 +1,569 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Mon Jun 24 20:27:13 +0000 2019",
+    "id": 1143254271900573696,
+    "id_str": "1143254271900573696",
+    "text": "RT @Raspberry_Pi: Raspberry Pi 4 is here! A tiny, dual-display desktop computer, with three RAM variants to choose from, and all the hackab…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Raspberry_Pi",
+          "name": "Raspberry Pi",
+          "id": 302666251,
+          "id_str": "302666251",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 24 06:00:18 +0000 2019",
+      "id": 1143036104314118144,
+      "id_str": "1143036104314118144",
+      "text": "Raspberry Pi 4 is here! A tiny, dual-display desktop computer, with three RAM variants to choose from, and all the… https://t.co/lk7SgTwE5Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lk7SgTwE5Z",
+            "expanded_url": "https://twitter.com/i/web/status/1143036104314118144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 302666251,
+        "id_str": "302666251",
+        "name": "Raspberry Pi",
+        "screen_name": "Raspberry_Pi",
+        "location": "Cambridge, UK",
+        "description": "The official Twitter account for the Raspberry Pi Foundation. News and info about our low-cost mini PC.",
+        "url": "http://t.co/1Ol8uNLO82",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/1Ol8uNLO82",
+                "expanded_url": "http://www.raspberrypi.org",
+                "display_url": "raspberrypi.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 423876,
+        "friends_count": 942,
+        "listed_count": 7358,
+        "created_at": "Sat May 21 15:20:40 +0000 2011",
+        "favourites_count": 6121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 34329,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135505658114183169/Hgp9HhYV_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135505658114183169/Hgp9HhYV_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/302666251/1561356611",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14425,
+      "favorite_count": 29977,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14425,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 20 14:35:54 +0000 2019",
+    "id": 1141716305721978880,
+    "id_str": "1141716305721978880",
+    "text": "Digging into the new features in OpenZFS post-Linux migration - Ars Technica https://t.co/bUJ3ZvVhyg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bUJ3ZvVhyg",
+          "expanded_url": "https://apple.news/APU-DdAsLSH2Ihlzv8wZ-WA",
+          "display_url": "apple.news/APU-DdAsLSH2Ih…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 19 05:13:24 +0000 2019",
+    "id": 1141212361606307841,
+    "id_str": "1141212361606307841",
+    "text": "RT @dotnet: The Evolving Infrastructure of .NET Core https://t.co/modbwJLbCR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dotnet",
+          "name": ".NET Team",
+          "id": 757891106,
+          "id_str": "757891106",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/modbwJLbCR",
+          "expanded_url": "https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/",
+          "display_url": "devblogs.microsoft.com/dotnet/the-evo…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 18 20:03:44 +0000 2019",
+      "id": 1141074032273453056,
+      "id_str": "1141074032273453056",
+      "text": "The Evolving Infrastructure of .NET Core https://t.co/modbwJLbCR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/modbwJLbCR",
+            "expanded_url": "https://devblogs.microsoft.com/dotnet/the-evolving-infrastructure-of-net-core/",
+            "display_url": "devblogs.microsoft.com/dotnet/the-evo…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 757891106,
+        "id_str": "757891106",
+        "name": ".NET Team",
+        "screen_name": "dotnet",
+        "location": "Redmond, WA",
+        "description": "A first hand look from the .NET engineering team at Microsoft.  https://t.co/LU1GDuh8hv",
+        "url": "https://t.co/5DHCeTygAS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5DHCeTygAS",
+                "expanded_url": "http://www.dot.net",
+                "display_url": "dot.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/LU1GDuh8hv",
+                "expanded_url": "https://blogs.msdn.microsoft.com/dotnet/",
+                "display_url": "blogs.msdn.microsoft.com/dotnet/",
+                "indices": [
+                  64,
+                  87
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 214565,
+        "friends_count": 918,
+        "listed_count": 1993,
+        "created_at": "Tue Aug 14 21:07:13 +0000 2012",
+        "favourites_count": 513,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 3868,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134847055136927744/VL61OJbk_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134847055136927744/VL61OJbk_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/757891106/1509746404",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 156,
+      "favorite_count": 318,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 156,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 18 06:35:02 +0000 2019",
+    "id": 1140870519270436864,
+    "id_str": "1140870519270436864",
+    "text": "RT @natfriedman: 🐼 Very happy to announce that Pull Panda is now part of GitHub. Pull Reminders, Pull Assigner, and Pull Analytics are free…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "natfriedman",
+          "name": "Nat Friedman",
+          "id": 13235832,
+          "id_str": "13235832",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 17 17:04:03 +0000 2019",
+      "id": 1140666428745342976,
+      "id_str": "1140666428745342976",
+      "text": "🐼 Very happy to announce that Pull Panda is now part of GitHub. Pull Reminders, Pull Assigner, and Pull Analytics a… https://t.co/LcTvFYo8j0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LcTvFYo8j0",
+            "expanded_url": "https://twitter.com/i/web/status/1140666428745342976",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13235832,
+        "id_str": "13235832",
+        "name": "Nat Friedman",
+        "screen_name": "natfriedman",
+        "location": "San Francisco",
+        "description": "CEO of GitHub. Married to @she_travels.",
+        "url": "https://t.co/d10brIeI1h",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/d10brIeI1h",
+                "expanded_url": "http://nat.org",
+                "display_url": "nat.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 52994,
+        "friends_count": 2427,
+        "listed_count": 927,
+        "created_at": "Fri Feb 08 05:20:41 +0000 2008",
+        "favourites_count": 19923,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14131,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1677873294/image_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13235832/1438132115",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 308,
+      "favorite_count": 1229,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 308,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Jun 07 15:00:57 +0000 2019",
     "id": 1137011569055846401,
     "id_str": "1137011569055846401",
