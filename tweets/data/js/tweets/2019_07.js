@@ -1,5 +1,288 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Mon Jul 08 03:07:26 +0000 2019",
+    "id": 1148066031736242176,
+    "id_str": "1148066031736242176",
+    "text": "A Government Guide to Keeping Insulin Unaffordable | Laura Williams https://t.co/wtwcw1ws64 via @feeonline",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "feeonline",
+          "name": "FEE",
+          "id": 18640094,
+          "id_str": "18640094",
+          "indices": [
+            96,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wtwcw1ws64",
+          "expanded_url": "https://fee.org/articles/a-government-guide-to-keeping-insulin-unaffordable-3-easy-steps-on-how-to-hogtie-a-market/",
+          "display_url": "fee.org/articles/a-gov…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 04 03:41:41 +0000 2019",
+    "id": 1146625097383366656,
+    "id_str": "1146625097383366656",
+    "text": "Cmake line by line - creating a header-only library | Dominik Berner https://t.co/rcG3go1ohy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rcG3go1ohy",
+          "expanded_url": "http://dominikberner.ch//cmake-interface-lib/",
+          "display_url": "dominikberner.ch//cmake-interfa…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jul 03 01:57:19 +0000 2019",
+    "id": 1146236445075464194,
+    "id_str": "1146236445075464194",
+    "text": "RT @matthewwarren: This thread is worth subscribing to if you're interested in \"tracing, logging, and performance counters\" in .NET Core ht…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "matthewwarren",
+          "name": "Matt Warren",
+          "id": 14953457,
+          "id_str": "14953457",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 02 10:05:32 +0000 2019",
+      "id": 1145996921183571968,
+      "id_str": "1145996921183571968",
+      "text": "This thread is worth subscribing to if you're interested in \"tracing, logging, and performance counters\" in .NET Co… https://t.co/1TU1Y9OH4B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1TU1Y9OH4B",
+            "expanded_url": "https://twitter.com/i/web/status/1145996921183571968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14953457,
+        "id_str": "14953457",
+        "name": "Matt Warren",
+        "screen_name": "matthewwarren",
+        "location": "",
+        "description": "Christian, husband & father. Also a C# Dev who loves finding and fixing performance issues, Microsoft MVP, contributor to #BenchmarkDotNet",
+        "url": "https://t.co/aUoVqLXQJU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/aUoVqLXQJU",
+                "expanded_url": "http://mattwarren.org",
+                "display_url": "mattwarren.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5869,
+        "friends_count": 3268,
+        "listed_count": 156,
+        "created_at": "Fri May 30 10:27:19 +0000 2008",
+        "favourites_count": 7319,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13371,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059409633113227265/pat7XJbo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059409633113227265/pat7XJbo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14953457/1494510552",
+        "profile_link_color": "17060B",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 66,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Jul 01 01:25:37 +0000 2019",
     "id": 1145503692633735168,
     "id_str": "1145503692633735168",
