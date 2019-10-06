@@ -2,7 +2,8 @@
 
 path_classifiers:
   library:
-    - exclude: tweets/js/
-    - exclude: tweets/lib/
+    - exclude: tweets/js/**
+    - exclude: tweets/lib/**
   generated:
-    - exclude: tweets/data/
+    - exclude: tweets/data/**
+
