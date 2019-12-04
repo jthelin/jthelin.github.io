@@ -1,5 +1,714 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Thu Nov 28 02:13:23 +0000 2019",
+    "id": 1199873894930247685,
+    "id_str": "1199873894930247685",
+    "text": "RT @adrahon: I just noticed the announcement for @msftorleans 3.0. It's astonishing how little discussion of it I'm seeing. One of the few…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adrahon",
+          "name": "Alex Drahon",
+          "id": 42009958,
+          "id_str": "42009958",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            49,
+            61
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 27 17:30:06 +0000 2019",
+      "id": 1199742203939172358,
+      "id_str": "1199742203939172358",
+      "text": "I just noticed the announcement for @msftorleans 3.0. It's astonishing how little discussion of it I'm seeing. One… https://t.co/AIdc9DfLz7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              36,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AIdc9DfLz7",
+            "expanded_url": "https://twitter.com/i/web/status/1199742203939172358",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42009958,
+        "id_str": "42009958",
+        "name": "Alex Drahon",
+        "screen_name": "adrahon",
+        "location": "Nice, France",
+        "description": "Works @Docker, lives in South of France. Slow learner. Software architecture, random opinions. Man no run",
+        "url": "https://t.co/vO7B0hnRIu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vO7B0hnRIu",
+                "expanded_url": "http://adrahon.org",
+                "display_url": "adrahon.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1276,
+        "friends_count": 654,
+        "listed_count": 79,
+        "created_at": "Sat May 23 11:01:39 +0000 2009",
+        "favourites_count": 2428,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19006,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "8899AA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193651174861426689/1PjgyQTM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193651174861426689/1PjgyQTM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42009958/1473414814",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 19,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 28 02:12:40 +0000 2019",
+    "id": 1199873712616427520,
+    "id_str": "1199873712616427520",
+    "text": "RT @msftorleans: v2.4.4 is out with a set of fixes and improvements backported from master.\n\nhttps://t.co/iyenLDTdxs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iyenLDTdxs",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v2.4.4",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 27 21:14:13 +0000 2019",
+      "id": 1199798607265722368,
+      "id_str": "1199798607265722368",
+      "text": "v2.4.4 is out with a set of fixes and improvements backported from master.\n\nhttps://t.co/iyenLDTdxs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iyenLDTdxs",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v2.4.4",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1919,
+        "friends_count": 0,
+        "listed_count": 29,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1572062814",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 17,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 28 02:10:56 +0000 2019",
+    "id": 1199873277675442176,
+    "id_str": "1199873277675442176",
+    "text": "RT @msftorleans: v3.0.1 is out with a set of fixes and improvements since 3.0.0.\n\nhttps://t.co/SYOFT01r73",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SYOFT01r73",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v3.0.1",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 27 21:15:27 +0000 2019",
+      "id": 1199798916440412161,
+      "id_str": "1199798916440412161",
+      "text": "v3.0.1 is out with a set of fixes and improvements since 3.0.0.\n\nhttps://t.co/SYOFT01r73",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SYOFT01r73",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v3.0.1",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1919,
+        "friends_count": 0,
+        "listed_count": 29,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1572062814",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 41,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 28 01:56:47 +0000 2019",
+    "id": 1199869717449560064,
+    "id_str": "1199869717449560064",
+    "text": "Code that changed our world, including \"Null-Terminated String - The most catastrophic design bug in the history of… https://t.co/8rIwAoJznE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8rIwAoJznE",
+          "expanded_url": "https://twitter.com/i/web/status/1199869717449560064",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 28 01:46:46 +0000 2019",
+    "id": 1199867194101755904,
+    "id_str": "1199867194101755904",
+    "text": "+ some good follow-up discussions about this article on Hacker News https://t.co/3HdbVWrWBt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3HdbVWrWBt",
+          "expanded_url": "https://news.ycombinator.com/item?id=21647038",
+          "display_url": "news.ycombinator.com/item?id=216470…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1199862562017275904,
+    "in_reply_to_status_id_str": "1199862562017275904",
+    "in_reply_to_user_id": 63211254,
+    "in_reply_to_user_id_str": "63211254",
+    "in_reply_to_screen_name": "JorgenThelin",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 28 01:28:21 +0000 2019",
+    "id": 1199862562017275904,
+    "id_str": "1199862562017275904",
+    "text": "https://t.co/VZuXlY4Mur - An analysis of some lessons learned building an ML trading system. https://t.co/kBDHp0HUnW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VZuXlY4Mur",
+          "expanded_url": "http://tradientblog.com",
+          "display_url": "tradientblog.com",
+          "indices": [
+            0,
+            23
+          ]
+        },
+        {
+          "url": "https://t.co/kBDHp0HUnW",
+          "expanded_url": "https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/",
+          "display_url": "tradientblog.com/2019/11/lesson…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue Nov 26 18:21:59 +0000 2019",
     "id": 1199392874145538048,
     "id_str": "1199392874145538048",
