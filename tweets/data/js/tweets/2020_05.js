@@ -1,5 +1,1944 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Sun May 31 20:58:07 +0000 2020",
+    "id": 1267198696728346624,
+    "id_str": "1267198696728346624",
+    "text": "RT @adidas: Together is how we move forward. ⁣\nTogether is how we make change.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adidas",
+          "name": "adidas (at 🏡)",
+          "id": 300114634,
+          "id_str": "300114634",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat May 30 04:59:12 +0000 2020",
+      "id": 1266594990559379457,
+      "id_str": "1266594990559379457",
+      "text": "Together is how we move forward. ⁣\nTogether is how we make change. https://t.co/U1nmvMhxB2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/U1nmvMhxB2",
+            "expanded_url": "https://twitter.com/Nike/status/1266502116463370241",
+            "display_url": "twitter.com/Nike/status/12…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 300114634,
+        "id_str": "300114634",
+        "name": "adidas (at 🏡)",
+        "screen_name": "adidas",
+        "location": "",
+        "description": "Every active minute counts. Sign up to join the #HOMETEAMHERO Challenge below.",
+        "url": "https://t.co/Gm7H4JAimN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Gm7H4JAimN",
+                "expanded_url": "https://adirun.app/7Zmg",
+                "display_url": "adirun.app/7Zmg",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3784573,
+        "friends_count": 157,
+        "listed_count": 4213,
+        "created_at": "Tue May 17 06:57:08 +0000 2011",
+        "favourites_count": 8483,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 13828,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198790230213574656/bY9wyrTr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198790230213574656/bY9wyrTr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/300114634/1589464769",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1266502116463370241,
+      "quoted_status_id_str": "1266502116463370241",
+      "quoted_status": {
+        "created_at": "Fri May 29 22:50:09 +0000 2020",
+        "id": 1266502116463370241,
+        "id_str": "1266502116463370241",
+        "text": "Let’s all be part of the change.\n\n#UntilWeAllWin https://t.co/guhAG48Wbp",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "UntilWeAllWin",
+              "indices": [
+                34,
+                48
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1266486408279023616,
+              "id_str": "1266486408279023616",
+              "indices": [
+                49,
+                72
+              ],
+              "media_url": "http://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+              "url": "https://t.co/guhAG48Wbp",
+              "display_url": "pic.twitter.com/guhAG48Wbp",
+              "expanded_url": "https://twitter.com/Nike/status/1266502116463370241/video/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1266486408279023616,
+              "id_str": "1266486408279023616",
+              "indices": [
+                49,
+                72
+              ],
+              "media_url": "http://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+              "url": "https://t.co/guhAG48Wbp",
+              "display_url": "pic.twitter.com/guhAG48Wbp",
+              "expanded_url": "https://twitter.com/Nike/status/1266502116463370241/video/1",
+              "type": "video",
+              "sizes": {
+                "small": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 320,
+                  "h": 320,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  1,
+                  1
+                ],
+                "duration_millis": 60060,
+                "variants": [
+                  {
+                    "bitrate": 432000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/320x320/TXVQ7jxvir5vXqXi.mp4?tag=13"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/720x720/4nik1ducRwaBw04s.mp4?tag=13"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/480x480/YJyAgj90ZouOPl53.mp4?tag=13"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1266486408279023616/pl/F4Ri6RR2FPBD3Qaj.m3u8?tag=13"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "title": "",
+                "description": "",
+                "embeddable": true,
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 415859364,
+          "id_str": "415859364",
+          "name": "Nike",
+          "screen_name": "Nike",
+          "location": "Beaverton, Oregon",
+          "description": "Just Do It.",
+          "url": "https://t.co/RBhnlkkzPV",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/RBhnlkkzPV",
+                  "expanded_url": "http://nike.com",
+                  "display_url": "nike.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8209962,
+          "friends_count": 116,
+          "listed_count": 10448,
+          "created_at": "Fri Nov 18 22:31:18 +0000 2011",
+          "favourites_count": 7018,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 36648,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/415859364/1516124378",
+          "profile_link_color": "FF8400",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 100086,
+        "favorite_count": 224424,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 75388,
+      "favorite_count": 236314,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1266502116463370241,
+    "quoted_status_id_str": "1266502116463370241",
+    "retweet_count": 75388,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 31 20:55:54 +0000 2020",
+    "id": 1267198139070480384,
+    "id_str": "1267198139070480384",
+    "text": "RT @Nike: Let’s all be part of the change.\n\n#UntilWeAllWin https://t.co/guhAG48Wbp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UntilWeAllWin",
+          "indices": [
+            44,
+            58
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Nike",
+          "name": "Nike",
+          "id": 415859364,
+          "id_str": "415859364",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1266486408279023616,
+          "id_str": "1266486408279023616",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+          "url": "https://t.co/guhAG48Wbp",
+          "display_url": "pic.twitter.com/guhAG48Wbp",
+          "expanded_url": "https://twitter.com/Nike/status/1266502116463370241/video/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 320,
+              "h": 320,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 320,
+              "h": 320,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 320,
+              "h": 320,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1266502116463370241,
+          "source_status_id_str": "1266502116463370241",
+          "source_user_id": 415859364,
+          "source_user_id_str": "415859364"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1266486408279023616,
+          "id_str": "1266486408279023616",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+          "url": "https://t.co/guhAG48Wbp",
+          "display_url": "pic.twitter.com/guhAG48Wbp",
+          "expanded_url": "https://twitter.com/Nike/status/1266502116463370241/video/1",
+          "type": "video",
+          "sizes": {
+            "small": {
+              "w": 320,
+              "h": 320,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 320,
+              "h": 320,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 320,
+              "h": 320,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1266502116463370241,
+          "source_status_id_str": "1266502116463370241",
+          "source_user_id": 415859364,
+          "source_user_id_str": "415859364",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 60060,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/320x320/TXVQ7jxvir5vXqXi.mp4?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/720x720/4nik1ducRwaBw04s.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/480x480/YJyAgj90ZouOPl53.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1266486408279023616/pl/F4Ri6RR2FPBD3Qaj.m3u8?tag=13"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "id": 415859364,
+              "id_str": "415859364",
+              "name": "Nike",
+              "screen_name": "Nike",
+              "location": "Beaverton, Oregon",
+              "description": "Just Do It.",
+              "url": "https://t.co/RBhnlkkzPV",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/RBhnlkkzPV",
+                      "expanded_url": "http://nike.com",
+                      "display_url": "nike.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 8209962,
+              "friends_count": 116,
+              "listed_count": 10448,
+              "created_at": "Fri Nov 18 22:31:18 +0000 2011",
+              "favourites_count": 7018,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 36648,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "FFFFFF",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/415859364/1516124378",
+              "profile_link_color": "FF8400",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 29 22:50:09 +0000 2020",
+      "id": 1266502116463370241,
+      "id_str": "1266502116463370241",
+      "text": "Let’s all be part of the change.\n\n#UntilWeAllWin https://t.co/guhAG48Wbp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UntilWeAllWin",
+            "indices": [
+              34,
+              48
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1266486408279023616,
+            "id_str": "1266486408279023616",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+            "url": "https://t.co/guhAG48Wbp",
+            "display_url": "pic.twitter.com/guhAG48Wbp",
+            "expanded_url": "https://twitter.com/Nike/status/1266502116463370241/video/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 320,
+                "h": 320,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 320,
+                "h": 320,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 320,
+                "h": 320,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1266486408279023616,
+            "id_str": "1266486408279023616",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZN2zL4UYAEPgcq.jpg",
+            "url": "https://t.co/guhAG48Wbp",
+            "display_url": "pic.twitter.com/guhAG48Wbp",
+            "expanded_url": "https://twitter.com/Nike/status/1266502116463370241/video/1",
+            "type": "video",
+            "sizes": {
+              "small": {
+                "w": 320,
+                "h": 320,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 320,
+                "h": 320,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 320,
+                "h": 320,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 60060,
+              "variants": [
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/320x320/TXVQ7jxvir5vXqXi.mp4?tag=13"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/720x720/4nik1ducRwaBw04s.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1266486408279023616/vid/480x480/YJyAgj90ZouOPl53.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1266486408279023616/pl/F4Ri6RR2FPBD3Qaj.m3u8?tag=13"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "",
+              "description": "",
+              "embeddable": true,
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 415859364,
+        "id_str": "415859364",
+        "name": "Nike",
+        "screen_name": "Nike",
+        "location": "Beaverton, Oregon",
+        "description": "Just Do It.",
+        "url": "https://t.co/RBhnlkkzPV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RBhnlkkzPV",
+                "expanded_url": "http://nike.com",
+                "display_url": "nike.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8209962,
+        "friends_count": 116,
+        "listed_count": 10448,
+        "created_at": "Fri Nov 18 22:31:18 +0000 2011",
+        "favourites_count": 7018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 36648,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/953320896101412864/UdE5mfkP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/415859364/1516124378",
+        "profile_link_color": "FF8400",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 100086,
+      "favorite_count": 224424,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 100086,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 31 15:21:31 +0000 2020",
+    "id": 1267113989290393607,
+    "id_str": "1267113989290393607",
+    "text": "Go SpaceX, go NASA! The first manned US space vehicle launch since 2011 and the first autonomous docking with the I… https://t.co/BHdgyRduIB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BHdgyRduIB",
+          "expanded_url": "https://twitter.com/i/web/status/1267113989290393607",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat May 30 15:26:54 +0000 2020",
+    "id": 1266752955534868487,
+    "id_str": "1266752955534868487",
+    "text": "40 million jobs lost and 100,000 lives lost. Remember the fallen.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 28 03:06:00 +0000 2020",
+    "id": 1265841727098589185,
+    "id_str": "1265841727098589185",
+    "text": "RT @USATODAY: We mourn those we've lost. https://t.co/7sDyJfqNSr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "USATODAY",
+          "name": "USA TODAY",
+          "id": 15754281,
+          "id_str": "15754281",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7sDyJfqNSr",
+          "expanded_url": "https://www.usatoday.com/pages/interactives/100000-lives-lost-honoring-coronavirus-victims/",
+          "display_url": "usatoday.com/pages/interact…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu May 28 02:26:17 +0000 2020",
+      "id": 1265831730931433476,
+      "id_str": "1265831730931433476",
+      "text": "We mourn those we've lost. https://t.co/7sDyJfqNSr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7sDyJfqNSr",
+            "expanded_url": "https://www.usatoday.com/pages/interactives/100000-lives-lost-honoring-coronavirus-victims/",
+            "display_url": "usatoday.com/pages/interact…",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1265831064011972611,
+      "in_reply_to_status_id_str": "1265831064011972611",
+      "in_reply_to_user_id": 15754281,
+      "in_reply_to_user_id_str": "15754281",
+      "in_reply_to_screen_name": "USATODAY",
+      "user": {
+        "id": 15754281,
+        "id_str": "15754281",
+        "name": "USA TODAY",
+        "screen_name": "USATODAY",
+        "location": "USA TODAY HQ, McLean, Va.",
+        "description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+        "url": "http://t.co/7xDl0vVHSt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/7xDl0vVHSt",
+                "expanded_url": "http://www.usatoday.com",
+                "display_url": "usatoday.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4097657,
+        "friends_count": 785,
+        "listed_count": 33494,
+        "created_at": "Wed Aug 06 19:55:31 +0000 2008",
+        "favourites_count": 2322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 320203,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0092D0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1509370165",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 88,
+      "favorite_count": 186,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 88,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 27 22:45:30 +0000 2020",
+    "id": 1265776169380532224,
+    "id_str": "1265776169380532224",
+    "text": "RT @Goodable: BREAKING GOOD NEWS ALERT:\n\nNew Zealand has announced it no longer has any patients in hospital being treated for coronavirus.…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Goodable",
+          "name": "Goodable",
+          "id": 1160957211369230343,
+          "id_str": "1160957211369230343",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 27 02:01:41 +0000 2020",
+      "id": 1265463153627889671,
+      "id_str": "1265463153627889671",
+      "text": "BREAKING GOOD NEWS ALERT:\n\nNew Zealand has announced it no longer has any patients in hospital being treated for co… https://t.co/tSfPfdBqYN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tSfPfdBqYN",
+            "expanded_url": "https://twitter.com/i/web/status/1265463153627889671",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1160957211369230343,
+        "id_str": "1160957211369230343",
+        "name": "Goodable",
+        "screen_name": "Goodable",
+        "location": "Canada and the World",
+        "description": "Good news, when you need it the most.\n\nJoin the movement \n\n❤ 🚀",
+        "url": "https://t.co/doA8ZGZndH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/doA8ZGZndH",
+                "expanded_url": "http://goodable.tv",
+                "display_url": "goodable.tv",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 57873,
+        "friends_count": 27,
+        "listed_count": 187,
+        "created_at": "Mon Aug 12 16:52:23 +0000 2019",
+        "favourites_count": 2691,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2150,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178365342688694272/Qusvlesd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178365342688694272/Qusvlesd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1160957211369230343/1585665096",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 76669,
+      "favorite_count": 342063,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 76669,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 27 22:38:28 +0000 2020",
+    "id": 1265774398855757824,
+    "id_str": "1265774398855757824",
+    "text": "100,000",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed May 27 15:18:17 +0000 2020",
+    "id": 1265663624590364674,
+    "id_str": "1265663624590364674",
+    "text": "Who knew that having a keyboard that actually works is more important than how it looks? Apple users learned that t… https://t.co/zdcKFV0LXg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zdcKFV0LXg",
+          "expanded_url": "https://twitter.com/i/web/status/1265663624590364674",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon May 25 19:30:41 +0000 2020",
+    "id": 1265002365096202240,
+    "id_str": "1265002365096202240",
+    "text": "RT @msftorleans: v3.2.0-rc2 is out with the same bug fix as in v3.1.7.\nhttps://t.co/9rLJVV9uo8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9rLJVV9uo8",
+          "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v3.2.0-rc2",
+          "display_url": "github.com/dotnet/orleans…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 20 01:15:06 +0000 2020",
+      "id": 1262914713618268160,
+      "id_str": "1262914713618268160",
+      "text": "v3.2.0-rc2 is out with the same bug fix as in v3.1.7.\nhttps://t.co/9rLJVV9uo8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9rLJVV9uo8",
+            "expanded_url": "https://github.com/dotnet/orleans/releases/tag/v3.2.0-rc2",
+            "display_url": "github.com/dotnet/orleans…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3366266218,
+        "id_str": "3366266218",
+        "name": "Microsoft Orleans",
+        "screen_name": "msftorleans",
+        "location": "All around the world",
+        "description": "Official account for Microsoft Orleans. Orleans is a framework that provides a straightforward approach to building distributed high-scale applications.",
+        "url": "https://t.co/l66ZAwxNBp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/l66ZAwxNBp",
+                "expanded_url": "https://github.com/dotnet/orleans/",
+                "display_url": "github.com/dotnet/orleans/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2064,
+        "friends_count": 0,
+        "listed_count": 28,
+        "created_at": "Wed Jul 08 16:52:41 +0000 2015",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 187,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787522221405118464/_30RoZBf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3366266218/1572062814",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon May 25 05:40:22 +0000 2020",
+    "id": 1264793409971052544,
+    "id_str": "1264793409971052544",
+    "text": "RT @GavinNewsom: They were not simply names on a list.\n\nThey were us.\n\n💔 https://t.co/s7DluiV86D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "GavinNewsom",
+          "name": "Gavin Newsom",
+          "id": 11347122,
+          "id_str": "11347122",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1264352580613763072,
+          "id_str": "1264352580613763072",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+          "url": "https://t.co/s7DluiV86D",
+          "display_url": "pic.twitter.com/s7DluiV86D",
+          "expanded_url": "https://twitter.com/GavinNewsom/status/1264352587198783488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 664,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1134,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 377,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1264352587198783488,
+          "source_status_id_str": "1264352587198783488",
+          "source_user_id": 11347122,
+          "source_user_id_str": "11347122"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1264352580613763072,
+          "id_str": "1264352580613763072",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+          "url": "https://t.co/s7DluiV86D",
+          "display_url": "pic.twitter.com/s7DluiV86D",
+          "expanded_url": "https://twitter.com/GavinNewsom/status/1264352587198783488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 664,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1134,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 377,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1264352587198783488,
+          "source_status_id_str": "1264352587198783488",
+          "source_user_id": 11347122,
+          "source_user_id_str": "11347122"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 24 00:28:41 +0000 2020",
+      "id": 1264352587198783488,
+      "id_str": "1264352587198783488",
+      "text": "They were not simply names on a list.\n\nThey were us.\n\n💔 https://t.co/s7DluiV86D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1264352580613763072,
+            "id_str": "1264352580613763072",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+            "url": "https://t.co/s7DluiV86D",
+            "display_url": "pic.twitter.com/s7DluiV86D",
+            "expanded_url": "https://twitter.com/GavinNewsom/status/1264352587198783488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 664,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1134,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 377,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1264352580613763072,
+            "id_str": "1264352580613763072",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYvh-SZU8AAs1wL.jpg",
+            "url": "https://t.co/s7DluiV86D",
+            "display_url": "pic.twitter.com/s7DluiV86D",
+            "expanded_url": "https://twitter.com/GavinNewsom/status/1264352587198783488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 664,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1134,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 377,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11347122,
+        "id_str": "11347122",
+        "name": "Gavin Newsom",
+        "screen_name": "GavinNewsom",
+        "location": "California",
+        "description": "Husband and father. 40th Governor of California. Former Lt. Governor of California. Former San Francisco Mayor. Personal account.",
+        "url": "https://t.co/FY42VMHC5n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FY42VMHC5n",
+                "expanded_url": "http://www.instagram.com/gavinnewsom",
+                "display_url": "instagram.com/gavinnewsom",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1771163,
+        "friends_count": 23081,
+        "listed_count": 8776,
+        "created_at": "Wed Dec 19 19:53:42 +0000 2007",
+        "favourites_count": 4575,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 12627,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000D48",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084175947413127168/WYByUf3s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084175947413127168/WYByUf3s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11347122/1587921510",
+        "profile_link_color": "000D48",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "B28251",
+        "profile_text_color": "8A795F",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8137,
+      "favorite_count": 37058,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8137,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 24 23:48:19 +0000 2020",
+    "id": 1264704816242024448,
+    "id_str": "1264704816242024448",
+    "text": "To put this into perspective, if NYT continued to publish every day a list of people who have died from Coronavirus… https://t.co/1B4gOuf0JE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1B4gOuf0JE",
+          "expanded_url": "https://twitter.com/i/web/status/1264704816242024448",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun May 24 01:39:14 +0000 2020",
     "id": 1264370340014116864,
     "id_str": "1264370340014116864",
