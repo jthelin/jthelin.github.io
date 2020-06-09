@@ -1,5 +1,1327 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Mon Jun 08 14:16:09 +0000 2020",
+    "id": 1269996642960199680,
+    "id_str": "1269996642960199680",
+    "text": "Easily rename your Git default branch from master to main - Scott Hanselman https://t.co/5spa4uvMlH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5spa4uvMlH",
+          "expanded_url": "https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx",
+          "display_url": "hanselman.com/blog/EasilyRen…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 08 04:53:58 +0000 2020",
+    "id": 1269855162668969984,
+    "id_str": "1269855162668969984",
+    "text": "And Bing is late to the party as usual :(",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1269854501915119617,
+    "in_reply_to_status_id_str": "1269854501915119617",
+    "in_reply_to_user_id": 63211254,
+    "in_reply_to_user_id_str": "63211254",
+    "in_reply_to_screen_name": "JorgenThelin",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 08 04:51:20 +0000 2020",
+    "id": 1269854501915119617,
+    "id_str": "1269854501915119617",
+    "text": "https://t.co/ePhClDDXW2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ePhClDDXW2",
+          "expanded_url": "https://apple.news/Aqzq_YUa8ROealIOUVqQ_BA",
+          "display_url": "apple.news/Aqzq_YUa8ROeal…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Mon Jun 08 02:29:27 +0000 2020",
+    "id": 1269818793359888384,
+    "id_str": "1269818793359888384",
+    "text": "RT @chrismessina: Bravo @Apple Maps! #BlackLivesMatter https://t.co/OpQwrwg1Rb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BlackLivesMatter",
+          "indices": [
+            37,
+            54
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "chrismessina",
+          "name": "Chris Messina",
+          "id": 1186,
+          "id_str": "1186",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "Apple",
+          "name": "Apple",
+          "id": 380749300,
+          "id_str": "380749300",
+          "indices": [
+            24,
+            30
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1269800844179865601,
+          "id_str": "1269800844179865601",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+          "url": "https://t.co/OpQwrwg1Rb",
+          "display_url": "pic.twitter.com/OpQwrwg1Rb",
+          "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1269800864165720064,
+          "source_status_id_str": "1269800864165720064",
+          "source_user_id": 1186,
+          "source_user_id_str": "1186"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1269800844179865601,
+          "id_str": "1269800844179865601",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+          "url": "https://t.co/OpQwrwg1Rb",
+          "display_url": "pic.twitter.com/OpQwrwg1Rb",
+          "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1269800864165720064,
+          "source_status_id_str": "1269800864165720064",
+          "source_user_id": 1186,
+          "source_user_id_str": "1186"
+        },
+        {
+          "id": 1269800844498579457,
+          "id_str": "1269800844498579457",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZ89I-_UMAE-zRQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZ89I-_UMAE-zRQ.jpg",
+          "url": "https://t.co/OpQwrwg1Rb",
+          "display_url": "pic.twitter.com/OpQwrwg1Rb",
+          "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1269800864165720064,
+          "source_status_id_str": "1269800864165720064",
+          "source_user_id": 1186,
+          "source_user_id_str": "1186"
+        },
+        {
+          "id": 1269800848235786240,
+          "id_str": "1269800848235786240",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZ89JM6VcAAit7Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZ89JM6VcAAit7Y.jpg",
+          "url": "https://t.co/OpQwrwg1Rb",
+          "display_url": "pic.twitter.com/OpQwrwg1Rb",
+          "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1269800864165720064,
+          "source_status_id_str": "1269800864165720064",
+          "source_user_id": 1186,
+          "source_user_id_str": "1186"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 08 01:18:12 +0000 2020",
+      "id": 1269800864165720064,
+      "id_str": "1269800864165720064",
+      "text": "Bravo @Apple Maps! #BlackLivesMatter https://t.co/OpQwrwg1Rb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BlackLivesMatter",
+            "indices": [
+              19,
+              36
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Apple",
+            "name": "Apple",
+            "id": 380749300,
+            "id_str": "380749300",
+            "indices": [
+              6,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1269800844179865601,
+            "id_str": "1269800844179865601",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+            "url": "https://t.co/OpQwrwg1Rb",
+            "display_url": "pic.twitter.com/OpQwrwg1Rb",
+            "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1269800844179865601,
+            "id_str": "1269800844179865601",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZ89I9zVAAEyiPZ.jpg",
+            "url": "https://t.co/OpQwrwg1Rb",
+            "display_url": "pic.twitter.com/OpQwrwg1Rb",
+            "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1269800844498579457,
+            "id_str": "1269800844498579457",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZ89I-_UMAE-zRQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZ89I-_UMAE-zRQ.jpg",
+            "url": "https://t.co/OpQwrwg1Rb",
+            "display_url": "pic.twitter.com/OpQwrwg1Rb",
+            "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1269800848235786240,
+            "id_str": "1269800848235786240",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZ89JM6VcAAit7Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZ89JM6VcAAit7Y.jpg",
+            "url": "https://t.co/OpQwrwg1Rb",
+            "display_url": "pic.twitter.com/OpQwrwg1Rb",
+            "expanded_url": "https://twitter.com/chrismessina/status/1269800864165720064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1186,
+        "id_str": "1186",
+        "name": "Chris Messina",
+        "screen_name": "chrismessina",
+        "location": "Oakland, CA",
+        "description": "Hashtag inventor, speaker, product designer, technologist. #1 Product Hunter! 🏆 ¶ Citizen of the web. ¶ Come for irreverence; stay for the snark.",
+        "url": "https://t.co/xhRHQJJSYy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xhRHQJJSYy",
+                "expanded_url": "https://chrismessina.me",
+                "display_url": "chrismessina.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 104365,
+        "friends_count": 5984,
+        "listed_count": 4664,
+        "created_at": "Sun Jul 16 06:53:48 +0000 2006",
+        "favourites_count": 22325,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 55013,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CF290C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268277846981541889/VNiONgO6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268277846981541889/VNiONgO6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186/1591071857",
+        "profile_link_color": "0B2436",
+        "profile_sidebar_border_color": "868686",
+        "profile_sidebar_fill_color": "F1F1F1",
+        "profile_text_color": "444444",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1a5fd1b93128bb9e",
+        "url": "https://api.twitter.com/1.1/geo/id/1a5fd1b93128bb9e.json",
+        "place_type": "city",
+        "name": "Castro Valley",
+        "full_name": "Castro Valley, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.130814,
+                37.678709
+              ],
+              [
+                -122.002131,
+                37.678709
+              ],
+              [
+                -122.002131,
+                37.752855
+              ],
+              [
+                -122.130814,
+                37.752855
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 26,
+      "favorite_count": 125,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 08 00:39:40 +0000 2020",
+    "id": 1269791169145233408,
+    "id_str": "1269791169145233408",
+    "text": "RT @NPR: Tear gas chemicals are banned in warfare. Their use against civilians as \"riot control agents\" is not.\n\nExperts say using them dur…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NPR",
+          "name": "NPR",
+          "id": 5392522,
+          "id_str": "5392522",
+          "indices": [
+            3,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 07 23:57:44 +0000 2020",
+      "id": 1269780613667737600,
+      "id_str": "1269780613667737600",
+      "text": "Tear gas chemicals are banned in warfare. Their use against civilians as \"riot control agents\" is not.\n\nExperts say… https://t.co/GZjslBnXet",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GZjslBnXet",
+            "expanded_url": "https://twitter.com/i/web/status/1269780613667737600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5392522,
+        "id_str": "5392522",
+        "name": "NPR",
+        "screen_name": "NPR",
+        "location": "",
+        "description": "News. Arts & Life. Music & more. This is NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+        "url": "http://t.co/SoL86ga4RI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/SoL86ga4RI",
+                "expanded_url": "http://www.npr.org",
+                "display_url": "npr.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/LPkf6Tsozm",
+                "expanded_url": "http://securedrop.npr.org",
+                "display_url": "securedrop.npr.org",
+                "indices": [
+                  78,
+                  101
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8216855,
+        "friends_count": 69967,
+        "listed_count": 66050,
+        "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+        "favourites_count": 2544,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 200010,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 770,
+      "favorite_count": 1540,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 770,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 07 23:36:16 +0000 2020",
+    "id": 1269775210141511680,
+    "id_str": "1269775210141511680",
+    "text": "Over 110,000 deaths from Coronavirus. Remember the fallen.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 07 23:08:39 +0000 2020",
+    "id": 1269768263140925440,
+    "id_str": "1269768263140925440",
+    "text": "RT @profmusgrave: Protesters Say Statue Tripped, Fell Into Water",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "profmusgrave",
+          "name": "Paul Musgrave🍕",
+          "id": 386513,
+          "id_str": "386513",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 07 20:14:41 +0000 2020",
+      "id": 1269724480731066375,
+      "id_str": "1269724480731066375",
+      "text": "Protesters Say Statue Tripped, Fell Into Water",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 386513,
+        "id_str": "386513",
+        "name": "Paul Musgrave🍕",
+        "screen_name": "profmusgrave",
+        "location": "Former theocracy of Mass.",
+        "description": "Political scientist. Mitchell Scholar. Reproached by Mikhail Gorbachev.",
+        "url": "https://t.co/6Q1Fy6ecAx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6Q1Fy6ecAx",
+                "expanded_url": "http://www.paulmusgrave.info",
+                "display_url": "paulmusgrave.info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 39052,
+        "friends_count": 3341,
+        "listed_count": 541,
+        "created_at": "Sun Dec 31 07:18:57 +0000 2006",
+        "favourites_count": 159984,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11654,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877663939521327104/c3smzHyg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877663939521327104/c3smzHyg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/386513/1498086481",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "01fbe706f872cb32",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "place_type": "city",
+        "name": "Washington",
+        "full_name": "Washington, DC",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 122573,
+      "favorite_count": 689407,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 122573,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 07 18:23:30 +0000 2020",
+    "id": 1269696503699828736,
+    "id_str": "1269696503699828736",
+    "text": "When your defense of a situation rests on linguistic word games, you are going to end up on the wrong side of histo… https://t.co/UTdxmqsoV1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UTdxmqsoV1",
+          "expanded_url": "https://twitter.com/i/web/status/1269696503699828736",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 06 23:58:23 +0000 2020",
+    "id": 1269418390575144960,
+    "id_str": "1269418390575144960",
+    "text": "RT @adelin: For the tech folks in the room: Just wanna reiterate this thing I’ve been trying to champion for years now:\n\n ̶B̶l̶a̶c̶k̶l̶i̶s̶…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adelin",
+          "name": "Adelin Cai",
+          "id": 18703111,
+          "id_str": "18703111",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 05 03:02:29 +0000 2020",
+      "id": 1268739942814846977,
+      "id_str": "1268739942814846977",
+      "text": "For the tech folks in the room: Just wanna reiterate this thing I’ve been trying to champion for years now:\n\n ̶B̶l̶… https://t.co/xNmqxVsnXA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xNmqxVsnXA",
+            "expanded_url": "https://twitter.com/i/web/status/1268739942814846977",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18703111,
+        "id_str": "18703111",
+        "name": "Adelin Cai",
+        "screen_name": "adelin",
+        "location": "",
+        "description": "Currently taking some time off. Most recently Head of Policy at @Pinterest, ex-@twitter, ex-@Google. Sidequest at @foreign0bject. (she/her)",
+        "url": "https://t.co/XsHiCPG02e",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XsHiCPG02e",
+                "expanded_url": "http://foreignobject.substack.com",
+                "display_url": "foreignobject.substack.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1818,
+        "friends_count": 1412,
+        "listed_count": 30,
+        "created_at": "Wed Jan 07 00:25:38 +0000 2009",
+        "favourites_count": 12339,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16650,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "85A29E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1267652617695457282/-f49YIp0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267652617695457282/-f49YIp0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18703111/1570582478",
+        "profile_link_color": "8A5B04",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F59330",
+        "profile_text_color": "F0D442",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1227,
+      "favorite_count": 3381,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1227,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jun 06 19:36:08 +0000 2020",
     "id": 1269352391503015936,
     "id_str": "1269352391503015936",
