@@ -1,5 +1,275 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Sat Jun 13 22:31:05 +0000 2020",
+    "id": 1271933136352378880,
+    "id_str": "1271933136352378880",
+    "text": "This is not even “fake news” - it is just outright propaganda! A new low at Fox “News”. https://t.co/ZdrZ6sjNHW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZdrZ6sjNHW",
+          "expanded_url": "https://apple.news/AHE2SVzNoQYSVELd84HQ0rQ",
+          "display_url": "apple.news/AHE2SVzNoQYSVE…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 10 15:30:16 +0000 2020",
+    "id": 1270740069192589317,
+    "id_str": "1270740069192589317",
+    "text": "$TSLA over 1000. Not a bad run from the fledgling auto-tech IPO around $20 in 2010.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+        {
+          "text": "TSLA",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 10 14:20:43 +0000 2020",
+    "id": 1270722566190071812,
+    "id_str": "1270722566190071812",
+    "text": "RT @USNavyCNO: Today, I directed my staff to begin crafting an order that would prohibit the Confederate battle flag from all public spaces…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "USNavyCNO",
+          "name": "USNavyCNO",
+          "id": 3194592704,
+          "id_str": "3194592704",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 09 20:24:36 +0000 2020",
+      "id": 1270451752459010049,
+      "id_str": "1270451752459010049",
+      "text": "Today, I directed my staff to begin crafting an order that would prohibit the Confederate battle flag from all publ… https://t.co/R5BRLaT6l8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R5BRLaT6l8",
+            "expanded_url": "https://twitter.com/i/web/status/1270451752459010049",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3194592704,
+        "id_str": "3194592704",
+        "name": "USNavyCNO",
+        "screen_name": "USNavyCNO",
+        "location": "",
+        "description": "The Chief of Naval Operations (CNO) is the senior military officer of the Department of the Navy. (Following, RTs and links ≠ endorsement)",
+        "url": "https://t.co/jzl7LzQlfp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jzl7LzQlfp",
+                "expanded_url": "http://www.navy.mil/cno",
+                "display_url": "navy.mil/cno",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 49600,
+        "friends_count": 114,
+        "listed_count": 400,
+        "created_at": "Wed May 13 17:57:55 +0000 2015",
+        "favourites_count": 821,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1849,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164555508273045504/VwJUDQOX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164555508273045504/VwJUDQOX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3194592704/1590086661",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13905,
+      "favorite_count": 75819,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13905,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Jun 08 14:16:09 +0000 2020",
     "id": 1269996642960199680,
     "id_str": "1269996642960199680",
