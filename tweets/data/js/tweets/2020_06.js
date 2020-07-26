@@ -1,5 +1,376 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Mon Jun 29 20:19:55 +0000 2020",
+    "id": 1277698330642923520,
+    "id_str": "1277698330642923520",
+    "text": "The C++ guidance around std::chrono is basically: \"use steady_clock for duration measurements (intervals), and syst… https://t.co/HQl4qquFxe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HQl4qquFxe",
+          "expanded_url": "https://twitter.com/i/web/status/1277698330642923520",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 23 05:15:26 +0000 2020",
+    "id": 1275296382232883200,
+    "id_str": "1275296382232883200",
+    "text": "$MSFT over $200",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+        {
+          "text": "MSFT",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 21 15:27:35 +0000 2020",
+    "id": 1274725660162809861,
+    "id_str": "1274725660162809861",
+    "text": "RT @shanselman: I’m so tired and my expectations of humanity are so low that I’m impressed when anyone can effectively learn the difference…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shanselman",
+          "name": "Scott Hanselman",
+          "id": 5676102,
+          "id_str": "5676102",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 19 19:55:20 +0000 2020",
+      "id": 1274068267041054720,
+      "id_str": "1274068267041054720",
+      "text": "I’m so tired and my expectations of humanity are so low that I’m impressed when anyone can effectively learn the di… https://t.co/HOSqe16MyI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HOSqe16MyI",
+            "expanded_url": "https://twitter.com/i/web/status/1274068267041054720",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5676102,
+        "id_str": "5676102",
+        "name": "Scott Hanselman",
+        "screen_name": "shanselman",
+        "location": "Portland, Oregon",
+        "description": "Code, Race, OSS, Dad, Open Web, Black Hair, STEM, Beyoncé, @TheOfficialACM, MSFT, #T1D. Umuntu ngumuntu ngabantu @Hanselminutes podcast=inclusive tech talk!",
+        "url": "https://t.co/KWE5X1k0pH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KWE5X1k0pH",
+                "expanded_url": "http://hanselman.com",
+                "display_url": "hanselman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 244302,
+        "friends_count": 9898,
+        "listed_count": 8145,
+        "created_at": "Tue May 01 05:55:26 +0000 2007",
+        "favourites_count": 116869,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 201888,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D1CDC1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+        "profile_link_color": "72412C",
+        "profile_sidebar_border_color": "B8AA9C",
+        "profile_sidebar_fill_color": "B8AA9C",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 74,
+      "favorite_count": 948,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 74,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jun 21 15:06:02 +0000 2020",
+    "id": 1274720238647443456,
+    "id_str": "1274720238647443456",
+    "text": "I guess we should spell flop with a T now?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 18 23:26:40 +0000 2020",
+    "id": 1273759064145530881,
+    "id_str": "1273759064145530881",
+    "text": "Apache Spark v3.0 just released, containing many interesting new features - especially Accelerator-aware Scheduler… https://t.co/Y8tMZapK8C",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y8tMZapK8C",
+          "expanded_url": "https://twitter.com/i/web/status/1273759064145530881",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Jun 13 22:31:05 +0000 2020",
     "id": 1271933136352378880,
     "id_str": "1271933136352378880",
