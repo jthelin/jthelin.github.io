@@ -1,5 +1,309 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Fri Jul 31 23:46:56 +0000 2020",
+    "id": 1289346841562120193,
+    "id_str": "1289346841562120193",
+    "text": "RT @reubenbond: Saber Interactive are using @msftorleans for their backend services - check it out 😁",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "reubenbond",
+          "name": "Reuben Bond",
+          "id": 57183972,
+          "id_str": "57183972",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "msftorleans",
+          "name": "Microsoft Orleans",
+          "id": 3366266218,
+          "id_str": "3366266218",
+          "indices": [
+            44,
+            56
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 16:58:33 +0000 2020",
+      "id": 1289244069554606080,
+      "id_str": "1289244069554606080",
+      "text": "Saber Interactive are using @msftorleans for their backend services - check it out 😁 https://t.co/T1je9Ujhxi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "msftorleans",
+            "name": "Microsoft Orleans",
+            "id": 3366266218,
+            "id_str": "3366266218",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/T1je9Ujhxi",
+            "expanded_url": "https://twitter.com/wwzthegame/status/1289215792983109634",
+            "display_url": "twitter.com/wwzthegame/sta…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 57183972,
+        "id_str": "57183972",
+        "name": "Reuben Bond",
+        "screen_name": "reubenbond",
+        "location": "Redmond, WA",
+        "description": "Dev at Microsoft on @msftorleans. Distributed Systems, Databases, Programming Models, @dotnet, https://t.co/Lldjtnpif6",
+        "url": "https://t.co/NqJ0zevu84",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NqJ0zevu84",
+                "expanded_url": "https://reubenbond.github.io",
+                "display_url": "reubenbond.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Lldjtnpif6",
+                "expanded_url": "https://github.com/ReubenBond",
+                "display_url": "github.com/ReubenBond",
+                "indices": [
+                  95,
+                  118
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2644,
+        "friends_count": 893,
+        "listed_count": 91,
+        "created_at": "Thu Jul 16 00:14:32 +0000 2009",
+        "favourites_count": 7111,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8011,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1263510873483558912/uC_RcJp-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263510873483558912/uC_RcJp-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57183972/1571686647",
+        "profile_link_color": "4C76B2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1289215792983109634,
+      "quoted_status_id_str": "1289215792983109634",
+      "quoted_status": {
+        "created_at": "Fri Jul 31 15:06:12 +0000 2020",
+        "id": 1289215792983109634,
+        "id_str": "1289215792983109634",
+        "text": "In case you missed it - check out how Saber Interactive leveraged Microsoft Azure to support World War Z's global o… https://t.co/Yn2msTFwPb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Yn2msTFwPb",
+              "expanded_url": "https://twitter.com/i/web/status/1289215792983109634",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 933037725002768384,
+          "id_str": "933037725002768384",
+          "name": "World War Z Game",
+          "screen_name": "wwzthegame",
+          "location": "",
+          "description": "Official Twitter page for World War Z, a coop shooter on PS4, Xbox One & PC!  ESRB Rating: Mature 17+ with Blood and Gore, Intense Violence, Strong Language",
+          "url": "https://t.co/B8z4qnbTci",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/B8z4qnbTci",
+                  "expanded_url": "http://wwzgame.com/",
+                  "display_url": "wwzgame.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 45074,
+          "friends_count": 0,
+          "listed_count": 89,
+          "created_at": "Tue Nov 21 18:21:43 +0000 2017",
+          "favourites_count": 715,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1864,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/938949034122797056/CCG6TxLk_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/938949034122797056/CCG6TxLk_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/933037725002768384/1588676257",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 124,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "en"
+      },
+      "retweet_count": 4,
+      "favorite_count": 14,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1289215792983109634,
+    "quoted_status_id_str": "1289215792983109634",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jul 29 21:06:44 +0000 2020",
     "id": 1288581750600294400,
     "id_str": "1288581750600294400",
