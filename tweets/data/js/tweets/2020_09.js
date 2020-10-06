@@ -1,5 +1,2905 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Wed Sep 30 15:30:42 +0000 2020",
+    "id": 1311327618889732096,
+    "id_str": "1311327618889732096",
+    "text": "Last night’s debate told us nothing about Trump’s plans and policies, and everything about his character.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 30 10:48:28 +0000 2020",
+    "id": 1311256593808240640,
+    "id_str": "1311256593808240640",
+    "text": "Mic-on, mic-off.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 30 05:39:00 +0000 2020",
+    "id": 1311178714156134401,
+    "id_str": "1311178714156134401",
+    "text": "It was a debate, but it wasn’t presidential",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 29 20:47:36 +0000 2020",
+    "id": 1311044980673183745,
+    "id_str": "1311044980673183745",
+    "text": "RT @ciura_victor: Swift on Windows 🎉\nhttps://t.co/hfD9oDXYwv\nand here's some of the effort behind the scenes: \nhttps://t.co/1Cfcv64Ngr \nCoo…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ciura_victor",
+          "name": "Victor Ciura @ 🏠",
+          "id": 932310381850169344,
+          "id_str": "932310381850169344",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hfD9oDXYwv",
+          "expanded_url": "https://swift.org/blog/swift-on-windows/",
+          "display_url": "swift.org/blog/swift-on-…",
+          "indices": [
+            37,
+            60
+          ]
+        },
+        {
+          "url": "https://t.co/1Cfcv64Ngr",
+          "expanded_url": "https://www.youtube.com/watch?v=Zjlxa1NIfJc",
+          "display_url": "youtube.com/watch?v=Zjlxa1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 28 20:51:33 +0000 2020",
+      "id": 1310683590569664512,
+      "id_str": "1310683590569664512",
+      "text": "Swift on Windows 🎉\nhttps://t.co/hfD9oDXYwv\nand here's some of the effort behind the scenes:… https://t.co/xyl0sNOsEG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hfD9oDXYwv",
+            "expanded_url": "https://swift.org/blog/swift-on-windows/",
+            "display_url": "swift.org/blog/swift-on-…",
+            "indices": [
+              19,
+              42
+            ]
+          },
+          {
+            "url": "https://t.co/xyl0sNOsEG",
+            "expanded_url": "https://twitter.com/i/web/status/1310683590569664512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 932310381850169344,
+        "id_str": "932310381850169344",
+        "name": "Victor Ciura @ 🏠",
+        "screen_name": "ciura_victor",
+        "location": "3rd Rock from the Sun",
+        "description": "Microsoft MVP (Developer Technologies) & Principal Engineer @caphyon & Technical Lead @advinst & Red Dragon @ClangPowerTools & Dad @ home & [he/him]",
+        "url": "https://t.co/Zi2dGcl8d4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Zi2dGcl8d4",
+                "expanded_url": "https://ciura.ro",
+                "display_url": "ciura.ro",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1509,
+        "friends_count": 518,
+        "listed_count": 24,
+        "created_at": "Sun Nov 19 18:11:31 +0000 2017",
+        "favourites_count": 9307,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4432,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178772950952153089/CvExrNfk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178772950952153089/CvExrNfk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/932310381850169344/1511218656",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 29 20:24:28 +0000 2020",
+    "id": 1311039161365721088,
+    "id_str": "1311039161365721088",
+    "text": "RT @ben_nuttall: Ok this is pretty good https://t.co/XfQmClsmp0 https://t.co/hoNxctZ6xB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ben_nuttall",
+          "name": "Ben Nuttall",
+          "id": 27241881,
+          "id_str": "27241881",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XfQmClsmp0",
+          "expanded_url": "https://www.teefantastic.com/stay-at-127-0-0-1",
+          "display_url": "teefantastic.com/stay-at-127-0-…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1310573985076318208,
+          "id_str": "1310573985076318208",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+          "url": "https://t.co/hoNxctZ6xB",
+          "display_url": "pic.twitter.com/hoNxctZ6xB",
+          "expanded_url": "https://twitter.com/ben_nuttall/status/1310573987647434752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1073,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 676,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1073,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1310573987647434752,
+          "source_status_id_str": "1310573987647434752",
+          "source_user_id": 27241881,
+          "source_user_id_str": "27241881"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1310573985076318208,
+          "id_str": "1310573985076318208",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+          "url": "https://t.co/hoNxctZ6xB",
+          "display_url": "pic.twitter.com/hoNxctZ6xB",
+          "expanded_url": "https://twitter.com/ben_nuttall/status/1310573987647434752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1073,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 676,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1073,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1310573987647434752,
+          "source_status_id_str": "1310573987647434752",
+          "source_user_id": 27241881,
+          "source_user_id_str": "27241881"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 28 13:36:02 +0000 2020",
+      "id": 1310573987647434752,
+      "id_str": "1310573987647434752",
+      "text": "Ok this is pretty good https://t.co/XfQmClsmp0 https://t.co/hoNxctZ6xB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XfQmClsmp0",
+            "expanded_url": "https://www.teefantastic.com/stay-at-127-0-0-1",
+            "display_url": "teefantastic.com/stay-at-127-0-…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1310573985076318208,
+            "id_str": "1310573985076318208",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+            "url": "https://t.co/hoNxctZ6xB",
+            "display_url": "pic.twitter.com/hoNxctZ6xB",
+            "expanded_url": "https://twitter.com/ben_nuttall/status/1310573987647434752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1073,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 676,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 1073,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1310573985076318208,
+            "id_str": "1310573985076318208",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg",
+            "url": "https://t.co/hoNxctZ6xB",
+            "display_url": "pic.twitter.com/hoNxctZ6xB",
+            "expanded_url": "https://twitter.com/ben_nuttall/status/1310573987647434752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1073,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 676,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 1073,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27241881,
+        "id_str": "27241881",
+        "name": "Ben Nuttall",
+        "screen_name": "ben_nuttall",
+        "location": "Cambridgeshire, UK",
+        "description": "Software engineer @BBC_News_labs. Formerly at @Raspberry_Pi. Creator of gpiozero and @piwheels. @opensourceway correspondent. Into Python and Linux.",
+        "url": "https://t.co/Tj0qpQSsGy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Tj0qpQSsGy",
+                "expanded_url": "https://bennuttall.com",
+                "display_url": "bennuttall.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9906,
+        "friends_count": 761,
+        "listed_count": 430,
+        "created_at": "Sat Mar 28 15:00:50 +0000 2009",
+        "favourites_count": 26907,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 81181,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528155792013160448/cobxlRc8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528155792013160448/cobxlRc8_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27241881/1579982591",
+        "profile_link_color": "0091FF",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1873,
+      "favorite_count": 5856,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1873,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 29 14:42:25 +0000 2020",
+    "id": 1310953081966866433,
+    "id_str": "1310953081966866433",
+    "text": "Starlink, WA https://t.co/36KRJf0Ezx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/36KRJf0Ezx",
+          "expanded_url": "https://apple.news/AeKrki3dySwKlHOnPsELyxQ",
+          "display_url": "apple.news/AeKrki3dySwKlH…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 29 02:29:14 +0000 2020",
+    "id": 1310768567726473216,
+    "id_str": "1310768567726473216",
+    "text": "1,000,000 coronavirus deaths worldwide. Remember the fallen.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 28 20:18:44 +0000 2020",
+    "id": 1310675329271259136,
+    "id_str": "1310675329271259136",
+    "text": "If only my bank would let me owe them $421 million ... I’d even be willing to pay $750.00 in federal income taxes per year if they did.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 28 00:35:16 +0000 2020",
+    "id": 1310377501512724480,
+    "id_str": "1310377501512724480",
+    "text": "RT @EducativeInc: In our latest #Python guide,  find out the biggest changes introduced in #Python3 and Python 3.8.  \n\nLearn how to update…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Python",
+          "indices": [
+            32,
+            39
+          ]
+        },
+        {
+          "text": "Python3",
+          "indices": [
+            91,
+            99
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "EducativeInc",
+          "name": "Educative",
+          "id": 3305457991,
+          "id_str": "3305457991",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Sep 25 22:00:13 +0000 2020",
+      "id": 1309613703600504835,
+      "id_str": "1309613703600504835",
+      "text": "In our latest #Python guide,  find out the biggest changes introduced in #Python3 and Python 3.8.  \n\nLearn how to u… https://t.co/tI3ejmj59H",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Python",
+            "indices": [
+              14,
+              21
+            ]
+          },
+          {
+            "text": "Python3",
+            "indices": [
+              73,
+              81
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tI3ejmj59H",
+            "expanded_url": "https://twitter.com/i/web/status/1309613703600504835",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3305457991,
+        "id_str": "3305457991",
+        "name": "Educative",
+        "screen_name": "EducativeInc",
+        "location": "Seattle, WA",
+        "description": "The interactive learning platform for programmers. Stay up to date on the latest courses here. Educative Scholarship: https://t.co/vb1t1pvfEx",
+        "url": "https://t.co/3Tp4mQFVap",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3Tp4mQFVap",
+                "expanded_url": "http://www.educative.io",
+                "display_url": "educative.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/vb1t1pvfEx",
+                "expanded_url": "https://bit.ly/3eodLnA",
+                "display_url": "bit.ly/3eodLnA",
+                "indices": [
+                  118,
+                  141
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4535,
+        "friends_count": 535,
+        "listed_count": 47,
+        "created_at": "Mon Aug 03 19:17:57 +0000 2015",
+        "favourites_count": 1386,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1273,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217245556650565632/MooixefT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217245556650565632/MooixefT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305457991/1593187378",
+        "profile_link_color": "4441E5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 9,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 26 22:05:13 +0000 2020",
+    "id": 1309977349891350528,
+    "id_str": "1309977349891350528",
+    "text": "RT @linuxtoday: How long does your Linux system take to boot? https://t.co/X9True511r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "linuxtoday",
+          "name": "Linux Today",
+          "id": 49423975,
+          "id_str": "49423975",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X9True511r",
+          "expanded_url": "http://dlvr.it/RhDfQr",
+          "display_url": "dlvr.it/RhDfQr",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 24 01:36:32 +0000 2020",
+      "id": 1308943369368776704,
+      "id_str": "1308943369368776704",
+      "text": "How long does your Linux system take to boot? https://t.co/X9True511r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/X9True511r",
+            "expanded_url": "http://dlvr.it/RhDfQr",
+            "display_url": "dlvr.it/RhDfQr",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 49423975,
+        "id_str": "49423975",
+        "name": "Linux Today",
+        "screen_name": "linuxtoday",
+        "location": "",
+        "description": "Linux news and how-to's collected from all over.\n\nGive us a follow on LinkedIn: https://t.co/MYwsxm1Lns…",
+        "url": "http://t.co/p1WwOgCBDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/p1WwOgCBDX",
+                "expanded_url": "http://linuxtoday.com",
+                "display_url": "linuxtoday.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/MYwsxm1Lns",
+                "expanded_url": "http://linkedin.com/company/linuxt",
+                "display_url": "linkedin.com/company/linuxt",
+                "indices": [
+                  80,
+                  103
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 168689,
+        "friends_count": 62,
+        "listed_count": 2593,
+        "created_at": "Sun Jun 21 20:51:53 +0000 2009",
+        "favourites_count": 902,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23772,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290312154537775104/AezTyTAm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290312154537775104/AezTyTAm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49423975/1476392837",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 76,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 22 23:11:02 +0000 2020",
+    "id": 1308544365451571200,
+    "id_str": "1308544365451571200",
+    "text": "RT @richturn_ms: Hey WSL nation: You've been asking for Linux GUI app support for a long time now. Here's @craigaloewen giving you a demo o…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "richturn_ms",
+          "name": "Rich Tur-minal-ner-d",
+          "id": 708784997151301633,
+          "id_str": "708784997151301633",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "craigaloewen",
+          "name": "Craig Loewen",
+          "id": 855499525670174721,
+          "id_str": "855499525670174721",
+          "indices": [
+            106,
+            119
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 22 17:46:13 +0000 2020",
+      "id": 1308462620224024581,
+      "id_str": "1308462620224024581",
+      "text": "Hey WSL nation: You've been asking for Linux GUI app support for a long time now. Here's @craigaloewen giving you a… https://t.co/Wco9Yp4EPi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "craigaloewen",
+            "name": "Craig Loewen",
+            "id": 855499525670174721,
+            "id_str": "855499525670174721",
+            "indices": [
+              89,
+              102
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Wco9Yp4EPi",
+            "expanded_url": "https://twitter.com/i/web/status/1308462620224024581",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 708784997151301633,
+        "id_str": "708784997151301633",
+        "name": "Rich Tur-minal-ner-d",
+        "screen_name": "richturn_ms",
+        "location": "Redmond, WA",
+        "description": "Sr. PM @ Microsoft. Modernizing the Windows Command-Line via Terminal & WSL, and improving the Windows Developer Platform.",
+        "url": "https://t.co/gHIVOpImpE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gHIVOpImpE",
+                "expanded_url": "http://blogs.msdn.microsoft.com/commandline/",
+                "display_url": "blogs.msdn.microsoft.com/commandline/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14338,
+        "friends_count": 1040,
+        "listed_count": 329,
+        "created_at": "Sat Mar 12 22:41:26 +0000 2016",
+        "favourites_count": 16713,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708790884037332992/eMGNyazY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708790884037332992/eMGNyazY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708784997151301633/1562950631",
+        "profile_link_color": "991010",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1308452901266751488,
+      "quoted_status_id_str": "1308452901266751488",
+      "quoted_status": {
+        "created_at": "Tue Sep 22 17:07:36 +0000 2020",
+        "id": 1308452901266751488,
+        "id_str": "1308452901266751488",
+        "text": "Check out this sneak preview of our work on adding Linux GUI application support to WSL! https://t.co/lcx4WWwxTo",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1308452791111696384,
+              "id_str": "1308452791111696384",
+              "indices": [
+                89,
+                112
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EiiO4YuUwAA1BSe.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiiO4YuUwAA1BSe.jpg",
+              "url": "https://t.co/lcx4WWwxTo",
+              "display_url": "pic.twitter.com/lcx4WWwxTo",
+              "expanded_url": "https://twitter.com/craigaloewen/status/1308452901266751488/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 532,
+                  "h": 300,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 532,
+                  "h": 300,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 532,
+                  "h": 300,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1308452791111696384,
+              "id_str": "1308452791111696384",
+              "indices": [
+                89,
+                112
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EiiO4YuUwAA1BSe.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiiO4YuUwAA1BSe.jpg",
+              "url": "https://t.co/lcx4WWwxTo",
+              "display_url": "pic.twitter.com/lcx4WWwxTo",
+              "expanded_url": "https://twitter.com/craigaloewen/status/1308452901266751488/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 532,
+                  "h": 300,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 532,
+                  "h": 300,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 532,
+                  "h": 300,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  133,
+                  75
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EiiO4YuUwAA1BSe.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 855499525670174721,
+          "id_str": "855499525670174721",
+          "name": "Craig Loewen",
+          "screen_name": "craigaloewen",
+          "location": "Redmond, WA",
+          "description": "Program Manager at @Microsoft, working on the Windows Subsystem for Linux #WSLinux #WSL #WSL2",
+          "url": "https://t.co/CK8PsZ4UNv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/CK8PsZ4UNv",
+                  "expanded_url": "http://www.craigloewen.com",
+                  "display_url": "craigloewen.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8698,
+          "friends_count": 355,
+          "listed_count": 115,
+          "created_at": "Fri Apr 21 19:12:36 +0000 2017",
+          "favourites_count": 6023,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2817,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/888171703750115328/p8I88RHv_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/888171703750115328/p8I88RHv_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/855499525670174721/1548876208",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1461,
+        "favorite_count": 4660,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 73,
+      "favorite_count": 291,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1308452901266751488,
+    "quoted_status_id_str": "1308452901266751488",
+    "retweet_count": 73,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 22 21:19:15 +0000 2020",
+    "id": 1308516233369665536,
+    "id_str": "1308516233369665536",
+    "text": "C ++ Return Value Optimization https://t.co/5G6rqBvw8F",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5G6rqBvw8F",
+          "expanded_url": "https://shaharmike.com/cpp/rvo/",
+          "display_url": "shaharmike.com/cpp/rvo/",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 22 21:08:56 +0000 2020",
+    "id": 1308513636684423168,
+    "id_str": "1308513636684423168",
+    "text": "https://t.co/nmAonwKDBA - Introducing Swift on Windows https://t.co/dLavJeDoYr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nmAonwKDBA",
+          "expanded_url": "http://Swift.org",
+          "display_url": "Swift.org",
+          "indices": [
+            0,
+            23
+          ]
+        },
+        {
+          "url": "https://t.co/dLavJeDoYr",
+          "expanded_url": "https://swift.org/blog/swift-on-windows/",
+          "display_url": "swift.org/blog/swift-on-…",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 20 18:47:45 +0000 2020",
+    "id": 1307753328311328768,
+    "id_str": "1307753328311328768",
+    "text": "The BeOS file system, an OS geek retrospective https://t.co/JjtP7rxYs7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JjtP7rxYs7",
+          "expanded_url": "https://arstechnica.com/?post_type=post&p=51760",
+          "display_url": "arstechnica.com/?post_type=pos…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 20 18:45:05 +0000 2020",
+    "id": 1307752658007064576,
+    "id_str": "1307752658007064576",
+    "text": "@cmeik Ecco the Dolphin? Loved it. Good times.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cmeik",
+          "name": "chris meiklejohn",
+          "id": 6815762,
+          "id_str": "6815762",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1307750565481517061,
+    "in_reply_to_status_id_str": "1307750565481517061",
+    "in_reply_to_user_id": 6815762,
+    "in_reply_to_user_id_str": "6815762",
+    "in_reply_to_screen_name": "cmeik",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 20 18:36:08 +0000 2020",
+    "id": 1307750407611924480,
+    "id_str": "1307750407611924480",
+    "text": "AQ 19",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sun Sep 20 02:19:33 +0000 2020",
+    "id": 1307504639982485504,
+    "id_str": "1307504639982485504",
+    "text": "It is fascinating to play around with the lstopo app on various machines and see the intricate details of the diffe… https://t.co/KxsbV1g5zw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KxsbV1g5zw",
+          "expanded_url": "https://twitter.com/i/web/status/1307504639982485504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 19 22:05:15 +0000 2020",
+    "id": 1307440645120782336,
+    "id_str": "1307440645120782336",
+    "text": "RT @mashable: Watching this sand table change patterns is the most relaxing thing you'll see all day https://t.co/RnRIlCRFMK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mashable",
+          "name": "Mashable",
+          "id": 972651,
+          "id_str": "972651",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 823661228564234240,
+          "id_str": "823661228564234240",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+          "url": "https://t.co/RnRIlCRFMK",
+          "display_url": "pic.twitter.com/RnRIlCRFMK",
+          "expanded_url": "https://twitter.com/mashable/status/1307436051032453120/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1307436051032453120,
+          "source_status_id_str": "1307436051032453120",
+          "source_user_id": 972651,
+          "source_user_id_str": "972651"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 823661228564234240,
+          "id_str": "823661228564234240",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+          "url": "https://t.co/RnRIlCRFMK",
+          "display_url": "pic.twitter.com/RnRIlCRFMK",
+          "expanded_url": "https://twitter.com/mashable/status/1307436051032453120/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1307436051032453120,
+          "source_status_id_str": "1307436051032453120",
+          "source_user_id": 972651,
+          "source_user_id_str": "972651",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 49449,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/823661228564234240/vid/1280x720/Lb7wCkBfMQgU1oWX.mp4"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/823661228564234240/vid/320x180/vj6e7XsC9mR8lANt.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/823661228564234240/pl/H4eXi_Yjx1Zq0ke9.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/823661228564234240/vid/640x360/XH0yBphYUZxFRahT.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "Ever-changing sand table",
+            "description": "This ever-changing sand sculpture rolls a metal ball around to continuously create and erase beautiful patterns.",
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://www.youtube.com/channel/UC9jj-YYSGUXvY2J2nYw9dNQ"
+              }
+            },
+            "embeddable": true,
+            "monetizable": true,
+            "source_user": {
+              "id": 972651,
+              "id_str": "972651",
+              "name": "Mashable",
+              "screen_name": "mashable",
+              "location": "",
+              "description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.",
+              "url": "http://t.co/1Gm8aVACKn",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "http://t.co/1Gm8aVACKn",
+                      "expanded_url": "http://mashable.com",
+                      "display_url": "mashable.com",
+                      "indices": [
+                        0,
+                        22
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 9688522,
+              "friends_count": 2743,
+              "listed_count": 120765,
+              "created_at": "Mon Mar 12 01:28:01 +0000 2007",
+              "favourites_count": 1547,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 399999,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "00AEEF",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+              "profile_link_color": "00AEEF",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "88DBF4",
+              "profile_text_color": "3B3B3B",
+              "profile_use_background_image": false,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": true,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 19 21:47:00 +0000 2020",
+      "id": 1307436051032453120,
+      "id_str": "1307436051032453120",
+      "text": "Watching this sand table change patterns is the most relaxing thing you'll see all day https://t.co/RnRIlCRFMK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 823661228564234240,
+            "id_str": "823661228564234240",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+            "url": "https://t.co/RnRIlCRFMK",
+            "display_url": "pic.twitter.com/RnRIlCRFMK",
+            "expanded_url": "https://twitter.com/mashable/status/1307436051032453120/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 823661228564234240,
+            "id_str": "823661228564234240",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/823661228564234240/img/tid5BF_xlVhSV4B5.jpg",
+            "url": "https://t.co/RnRIlCRFMK",
+            "display_url": "pic.twitter.com/RnRIlCRFMK",
+            "expanded_url": "https://twitter.com/mashable/status/1307436051032453120/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 49449,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/823661228564234240/vid/1280x720/Lb7wCkBfMQgU1oWX.mp4"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/823661228564234240/vid/320x180/vj6e7XsC9mR8lANt.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/823661228564234240/pl/H4eXi_Yjx1Zq0ke9.m3u8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/823661228564234240/vid/640x360/XH0yBphYUZxFRahT.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "Ever-changing sand table",
+              "description": "This ever-changing sand sculpture rolls a metal ball around to continuously create and erase beautiful patterns.",
+              "call_to_actions": {
+                "watch_now": {
+                  "url": "https://www.youtube.com/channel/UC9jj-YYSGUXvY2J2nYw9dNQ"
+                }
+              },
+              "embeddable": true,
+              "monetizable": true
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 972651,
+        "id_str": "972651",
+        "name": "Mashable",
+        "screen_name": "mashable",
+        "location": "",
+        "description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.",
+        "url": "http://t.co/1Gm8aVACKn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/1Gm8aVACKn",
+                "expanded_url": "http://mashable.com",
+                "display_url": "mashable.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9688522,
+        "friends_count": 2743,
+        "listed_count": 120765,
+        "created_at": "Mon Mar 12 01:28:01 +0000 2007",
+        "favourites_count": 1547,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 399999,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "00AEEF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+        "profile_link_color": "00AEEF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88DBF4",
+        "profile_text_color": "3B3B3B",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 85,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 19 21:29:25 +0000 2020",
+    "id": 1307431627933401088,
+    "id_str": "1307431627933401088",
+    "text": "RT @EducativeInc: Whether you’re new to object-oriented programming or curious about its use in Python, we have the perfect resource to get…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "EducativeInc",
+          "name": "Educative",
+          "id": 3305457991,
+          "id_str": "3305457991",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 19 18:30:14 +0000 2020",
+      "id": 1307386535910744065,
+      "id_str": "1307386535910744065",
+      "text": "Whether you’re new to object-oriented programming or curious about its use in Python, we have the perfect resource… https://t.co/k7bE55vXkA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/k7bE55vXkA",
+            "expanded_url": "https://twitter.com/i/web/status/1307386535910744065",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3305457991,
+        "id_str": "3305457991",
+        "name": "Educative",
+        "screen_name": "EducativeInc",
+        "location": "Seattle, WA",
+        "description": "The interactive learning platform for programmers. Stay up to date on the latest courses here. Educative Scholarship: https://t.co/vb1t1pvfEx",
+        "url": "https://t.co/3Tp4mQFVap",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3Tp4mQFVap",
+                "expanded_url": "http://www.educative.io",
+                "display_url": "educative.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/vb1t1pvfEx",
+                "expanded_url": "https://bit.ly/3eodLnA",
+                "display_url": "bit.ly/3eodLnA",
+                "indices": [
+                  118,
+                  141
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4535,
+        "friends_count": 535,
+        "listed_count": 47,
+        "created_at": "Mon Aug 03 19:17:57 +0000 2015",
+        "favourites_count": 1386,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1273,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217245556650565632/MooixefT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217245556650565632/MooixefT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305457991/1593187378",
+        "profile_link_color": "4441E5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 9,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 19 21:08:40 +0000 2020",
+    "id": 1307426406532489216,
+    "id_str": "1307426406532489216",
+    "text": "RT @shanselman: Cross platform diagnostic tools for .NET Core https://t.co/tYvfnfNJMK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shanselman",
+          "name": "Scott Hanselman",
+          "id": 5676102,
+          "id_str": "5676102",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tYvfnfNJMK",
+          "expanded_url": "https://www.hanselman.com/blog/CrossPlatformDiagnosticToolsForNETCore.aspx",
+          "display_url": "hanselman.com/blog/CrossPlat…",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 19 06:51:17 +0000 2020",
+      "id": 1307210639589343232,
+      "id_str": "1307210639589343232",
+      "text": "Cross platform diagnostic tools for .NET Core https://t.co/tYvfnfNJMK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tYvfnfNJMK",
+            "expanded_url": "https://www.hanselman.com/blog/CrossPlatformDiagnosticToolsForNETCore.aspx",
+            "display_url": "hanselman.com/blog/CrossPlat…",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5676102,
+        "id_str": "5676102",
+        "name": "Scott Hanselman",
+        "screen_name": "shanselman",
+        "location": "Portland, Oregon",
+        "description": "Code, OSS, Web, Black Hair, Race, STEM, Beyoncé, @TheOfficialACM, MSFT, #T1D Umuntu ngumuntu ngabantu @Hanselminutes podcast! https://t.co/sFZPor97x9 ✌🏼🐹🌮",
+        "url": "https://t.co/KWE5X1k0pH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KWE5X1k0pH",
+                "expanded_url": "http://hanselman.com",
+                "display_url": "hanselman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/sFZPor97x9",
+                "expanded_url": "http://youtube.com/shanselman",
+                "display_url": "youtube.com/shanselman",
+                "indices": [
+                  126,
+                  149
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 248820,
+        "friends_count": 10019,
+        "listed_count": 8210,
+        "created_at": "Tue May 01 05:55:26 +0000 2007",
+        "favourites_count": 122553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 205808,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D1CDC1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5676102/1398280381",
+        "profile_link_color": "72412C",
+        "profile_sidebar_border_color": "B8AA9C",
+        "profile_sidebar_fill_color": "B8AA9C",
+        "profile_text_color": "696969",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 148,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 57,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 19 20:32:48 +0000 2020",
+    "id": 1307417377810706434,
+    "id_str": "1307417377810706434",
+    "text": "Remember the fallen",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1307417181999693824,
+    "in_reply_to_status_id_str": "1307417181999693824",
+    "in_reply_to_user_id": 63211254,
+    "in_reply_to_user_id_str": "63211254",
+    "in_reply_to_screen_name": "JorgenThelin",
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 19 20:32:01 +0000 2020",
+    "id": 1307417181999693824,
+    "id_str": "1307417181999693824",
+    "text": "200,000 deaths",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 19 15:18:49 +0000 2020",
+    "id": 1307338364354359297,
+    "id_str": "1307338364354359297",
+    "text": "AQ 20",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Sep 19 07:19:17 +0000 2020",
+    "id": 1307217684522647553,
+    "id_str": "1307217684522647553",
+    "text": "AQ 57",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
     "created_at": "Fri Sep 18 14:19:27 +0000 2020",
     "id": 1306961035086110720,
     "id_str": "1306961035086110720",
