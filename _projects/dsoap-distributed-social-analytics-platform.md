@@ -1,3 +1,7 @@
+---
+name: DSoAP – Distributed Social Analytics Platform
+---
+
 # DSoAP – Distributed Social Analytics Platform
 
 Established: 01-June-2015

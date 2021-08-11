@@ -1,0 +1,13 @@
+---
+title: Projects - Jorgen Thelin
+---
+
+<h1>Projects</h1>
+
+{% for project in site.projects %}
+  <h2>
+    <a href="{{ project.url }}">
+      {{ project.name }}
+    </a>
+  </h2>
+{% endfor %}

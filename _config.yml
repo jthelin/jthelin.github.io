@@ -6,8 +6,13 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-mentions
 
+collections:
+  projects:
+    output: true
+
 exclude: [
   "*.sh",
+  "*.yml",
   "*_keys.yaml",
   "*tweets.csv",
   "*README.md",
@@ -18,7 +23,8 @@ exclude: [
   "vendor/bundle/",
   "vendor/cache/",
   "vendor/gems/",
-  "vendor/ruby/"
+  "vendor/ruby/",
+  ".idea/"
 ]
 
 excerpt_separator: <!--more-->
