@@ -9,6 +9,7 @@ plugins:
 collections:
   projects:
     output: true
+    sort_by: "start_date DESC"
 
 exclude: [
   "*.sh",
