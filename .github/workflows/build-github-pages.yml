@@ -5,9 +5,9 @@ name: build-github-pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   jekyll-build:
