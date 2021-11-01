@@ -1,5 +1,1048 @@
 Grailbird.data.tweets_2021_10 = [
   {
+    "created_at": "Sun Oct 31 17:03:14 +0000 2021",
+    "id": 1454856502431215616,
+    "id_str": "1454856502431215616",
+    "text": "The Actor model is getting everywhere these days! — Ractors - an actor-like concurrency abstraction for the Ruby pr… https://t.co/fICrjlJnwX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fICrjlJnwX",
+          "expanded_url": "https://twitter.com/i/web/status/1454856502431215616",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 31 01:13:00 +0000 2021",
+    "id": 1454617365316968456,
+    "id_str": "1454617365316968456",
+    "text": "RT @reubenbond: Programming languages and computers have advanced to the point that a typical developer doesn't need to know low level deta…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "reubenbond",
+          "name": "Reuben Bond",
+          "id": 57183972,
+          "id_str": "57183972",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 28 22:52:33 +0000 2021",
+      "id": 1453857245909766145,
+      "id_str": "1453857245909766145",
+      "text": "Programming languages and computers have advanced to the point that a typical developer doesn't need to know low le… https://t.co/ZJSfpqVfa9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZJSfpqVfa9",
+            "expanded_url": "https://twitter.com/i/web/status/1453857245909766145",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 57183972,
+        "id_str": "57183972",
+        "name": "Reuben Bond",
+        "screen_name": "reubenbond",
+        "location": "Redmond, WA",
+        "description": "Distributed Systems, Databases, Programming Models, Leads Microsoft Orleans @msftorleans",
+        "url": "https://t.co/NqJ0zevu84",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NqJ0zevu84",
+                "expanded_url": "https://reubenbond.github.io",
+                "display_url": "reubenbond.github.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3894,
+        "friends_count": 1070,
+        "listed_count": 112,
+        "created_at": "Thu Jul 16 00:14:32 +0000 2009",
+        "favourites_count": 9127,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1295042158311829504/RiucKurM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295042158311829504/RiucKurM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57183972/1571686647",
+        "profile_link_color": "4C76B2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1453820898876682258,
+      "quoted_status_id_str": "1453820898876682258",
+      "quoted_status": {
+        "created_at": "Thu Oct 28 20:28:07 +0000 2021",
+        "id": 1453820898876682258,
+        "id_str": "1453820898876682258",
+        "text": "An optimized FizzBuzz implementation, for the next time someone asks you to write FizzBuzz in an interview:… https://t.co/CDD8pQraXT",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/CDD8pQraXT",
+              "expanded_url": "https://twitter.com/i/web/status/1453820898876682258",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                109,
+                132
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 18275645,
+          "id_str": "18275645",
+          "name": "Dan Luu",
+          "screen_name": "danluu",
+          "location": "Vancouver, British Columbia",
+          "description": "https://t.co/D84Dqwau7s.\n\nLess tech-y alt account: @altluu",
+          "url": "https://t.co/wX2uwwXJ2i",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wX2uwwXJ2i",
+                  "expanded_url": "http://danluu.com",
+                  "display_url": "danluu.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/D84Dqwau7s",
+                  "expanded_url": "http://patreon.com/danluu",
+                  "display_url": "patreon.com/danluu",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 24925,
+          "friends_count": 55,
+          "listed_count": 516,
+          "created_at": "Sun Dec 21 00:21:46 +0000 2008",
+          "favourites_count": 1815,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 4103,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1372102910897623041/jswKUJa__normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372102910897623041/jswKUJa__normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 346,
+        "favorite_count": 1499,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 5,
+      "favorite_count": 19,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1453820898876682258,
+    "quoted_status_id_str": "1453820898876682258",
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 31 00:52:08 +0000 2021",
+    "id": 1454612115323449345,
+    "id_str": "1454612115323449345",
+    "text": "RT @meetingcpp: Finally someone explains these hyroglyphs at the beginning of their talk! https://t.co/A6iH02s3vR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "meetingcpp",
+          "name": "Meeting C++",
+          "id": 607130523,
+          "id_str": "607130523",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1454212292460126214,
+          "id_str": "1454212292460126214",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+          "url": "https://t.co/A6iH02s3vR",
+          "display_url": "pic.twitter.com/A6iH02s3vR",
+          "expanded_url": "https://twitter.com/meetingcpp/status/1454212330351439890/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1460,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1454212330351439890,
+          "source_status_id_str": "1454212330351439890",
+          "source_user_id": 607130523,
+          "source_user_id_str": "607130523"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1454212292460126214,
+          "id_str": "1454212292460126214",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+          "url": "https://t.co/A6iH02s3vR",
+          "display_url": "pic.twitter.com/A6iH02s3vR",
+          "expanded_url": "https://twitter.com/meetingcpp/status/1454212330351439890/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1460,
+              "h": 608,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1454212330351439890,
+          "source_status_id_str": "1454212330351439890",
+          "source_user_id": 607130523,
+          "source_user_id_str": "607130523"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 29 22:23:32 +0000 2021",
+      "id": 1454212330351439890,
+      "id_str": "1454212330351439890",
+      "text": "Finally someone explains these hyroglyphs at the beginning of their talk! https://t.co/A6iH02s3vR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1454212292460126214,
+            "id_str": "1454212292460126214",
+            "indices": [
+              74,
+              97
+            ],
+            "media_url": "http://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+            "url": "https://t.co/A6iH02s3vR",
+            "display_url": "pic.twitter.com/A6iH02s3vR",
+            "expanded_url": "https://twitter.com/meetingcpp/status/1454212330351439890/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1460,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 283,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1454212292460126214,
+            "id_str": "1454212292460126214",
+            "indices": [
+              74,
+              97
+            ],
+            "media_url": "http://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FC5mYBAXoAYr21v.jpg",
+            "url": "https://t.co/A6iH02s3vR",
+            "display_url": "pic.twitter.com/A6iH02s3vR",
+            "expanded_url": "https://twitter.com/meetingcpp/status/1454212330351439890/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1460,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 283,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 607130523,
+        "id_str": "607130523",
+        "name": "Meeting C++",
+        "screen_name": "meetingcpp",
+        "location": "Germany",
+        "description": "C++ News - C++ User Groups - C++ Conference #cpp  \nhttps://t.co/SvXdDc2caD \nImprint: Jens Weller, https://t.co/v2BmISRxcC",
+        "url": "http://t.co/nesEB8JmsU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/nesEB8JmsU",
+                "expanded_url": "http://meetingcpp.com",
+                "display_url": "meetingcpp.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/SvXdDc2caD",
+                "expanded_url": "https://survey.meetingcpp.com",
+                "display_url": "survey.meetingcpp.com",
+                "indices": [
+                  51,
+                  74
+                ]
+              },
+              {
+                "url": "https://t.co/v2BmISRxcC",
+                "expanded_url": "http://meetingcpp.com/Imprint.html",
+                "display_url": "meetingcpp.com/Imprint.html",
+                "indices": [
+                  98,
+                  121
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 24516,
+        "friends_count": 1042,
+        "listed_count": 576,
+        "created_at": "Wed Jun 13 09:20:53 +0000 2012",
+        "favourites_count": 10757,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37181,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499913018361131009/4AYspJ8L_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499913018361131009/4AYspJ8L_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/607130523/1408023361",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 41,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 28 20:46:27 +0000 2021",
+    "id": 1453825510765522945,
+    "id_str": "1453825510765522945",
+    "text": "RT @bibryam: 10 steps to a better Dockerfile\nhttps://t.co/hz4jaeO7fL https://t.co/X00uBIbkiw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bibryam",
+          "name": "Bilgin Ibryam",
+          "id": 19341814,
+          "id_str": "19341814",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hz4jaeO7fL",
+          "expanded_url": "https://buff.ly/3jqQzJI",
+          "display_url": "buff.ly/3jqQzJI",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1453333413797236740,
+          "id_str": "1453333413797236740",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+          "media_url_https": "https://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+          "url": "https://t.co/X00uBIbkiw",
+          "display_url": "pic.twitter.com/X00uBIbkiw",
+          "expanded_url": "https://twitter.com/bibryam/status/1453333416544460801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 359,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 788,
+              "h": 416,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 788,
+              "h": 416,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1453333416544460801,
+          "source_status_id_str": "1453333416544460801",
+          "source_user_id": 19341814,
+          "source_user_id_str": "19341814"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453333413797236740,
+          "id_str": "1453333413797236740",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+          "media_url_https": "https://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+          "url": "https://t.co/X00uBIbkiw",
+          "display_url": "pic.twitter.com/X00uBIbkiw",
+          "expanded_url": "https://twitter.com/bibryam/status/1453333416544460801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 359,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 788,
+              "h": 416,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 788,
+              "h": 416,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1453333416544460801,
+          "source_status_id_str": "1453333416544460801",
+          "source_user_id": 19341814,
+          "source_user_id_str": "19341814"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 63211254,
+      "id_str": "63211254",
+      "name": "Jorgen Thelin",
+      "screen_name": "JorgenThelin",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/479298997782188032/0qcGGAlA_normal.jpeg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 27 12:11:02 +0000 2021",
+      "id": 1453333416544460801,
+      "id_str": "1453333416544460801",
+      "text": "10 steps to a better Dockerfile\nhttps://t.co/hz4jaeO7fL https://t.co/X00uBIbkiw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hz4jaeO7fL",
+            "expanded_url": "https://buff.ly/3jqQzJI",
+            "display_url": "buff.ly/3jqQzJI",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1453333413797236740,
+            "id_str": "1453333413797236740",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+            "media_url_https": "https://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+            "url": "https://t.co/X00uBIbkiw",
+            "display_url": "pic.twitter.com/X00uBIbkiw",
+            "expanded_url": "https://twitter.com/bibryam/status/1453333416544460801/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 359,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 788,
+                "h": 416,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 788,
+                "h": 416,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1453333413797236740,
+            "id_str": "1453333413797236740",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+            "media_url_https": "https://pbs.twimg.com/media/FCtHCi2XEAQkGnK.png",
+            "url": "https://t.co/X00uBIbkiw",
+            "display_url": "pic.twitter.com/X00uBIbkiw",
+            "expanded_url": "https://twitter.com/bibryam/status/1453333416544460801/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 359,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 788,
+                "h": 416,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 788,
+                "h": 416,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19341814,
+        "id_str": "19341814",
+        "name": "Bilgin Ibryam",
+        "screen_name": "bibryam",
+        "location": "Decentralized open source land",
+        "description": "Author of Kubernetes Patterns | Product Manager @RedHat @Debezium @ApicurIO | Committer @ApacheCamel | Creator https://t.co/ChaslXcCg1 | Blogging https://t.co/mCV1AB0usJ",
+        "url": "https://t.co/JCAhFyxtyx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JCAhFyxtyx",
+                "expanded_url": "http://www.ofbizian.com/",
+                "display_url": "ofbizian.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/ChaslXcCg1",
+                "expanded_url": "http://OSS.fund",
+                "display_url": "OSS.fund",
+                "indices": [
+                  111,
+                  134
+                ]
+              },
+              {
+                "url": "https://t.co/mCV1AB0usJ",
+                "expanded_url": "http://monetize.substack.com",
+                "display_url": "monetize.substack.com",
+                "indices": [
+                  146,
+                  169
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 18783,
+        "friends_count": 689,
+        "listed_count": 353,
+        "created_at": "Thu Jan 22 15:09:50 +0000 2009",
+        "favourites_count": 5759,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4538,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/848302425433939968/JtWnDXrH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/848302425433939968/JtWnDXrH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19341814/1563648640",
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 131,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Mon Oct 25 23:34:59 +0000 2021",
     "id": 1452780761292046337,
     "id_str": "1452780761292046337",
