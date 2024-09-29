@@ -21,7 +21,7 @@ jobs:
       # Set to automatically get any bug fixes and new Ruby versions for ruby/setup-ruby,
       # see https://github.com/ruby/setup-ruby#versioning
       with:
-        ruby-version: 2.6
+        ruby-version: 3.3
     - name: Install dependencies
       run: bundle install
     - name: Confirm that github pages build successfully with jekyll
