@@ -6,15 +6,12 @@ title: About Me - Jorgen Thelin
 
 I work at Microsoft on distributed systems for big data and machine learning, focusing on next-generation cloud computing applications and systems infrastructure.
 
-- [Twitter @JorgenThelin][Twitter]
 - My [GitHub] profile
 - My [StackOverflow] profile
 - My [LinkedIn] profile
 
 ## Research
 
-- [Microsoft Research home page][MSR-home-page]
-- [Publications List][Publications]
 - [Projects List][Projects]
 - [ResearchGate] profile
 - [Google Scholar][G-Scholar] profile
@@ -23,11 +20,7 @@ I work at Microsoft on distributed systems for big data and machine learning, fo
 
 - [Presentations Archive](./Presentations)
 
-- [Tweets Archive](./tweets)
-
 [about-me]: https://jthelin.github.io/
-
-[Twitter]: https://twitter.com/JorgenThelin
 
 [GitHub]: https://github.com/jthelin
 
@@ -35,12 +28,9 @@ I work at Microsoft on distributed systems for big data and machine learning, fo
 
 [StackOverflow]: https://stackoverflow.com/users/282326/jorgen-thelin
 
-[MSR-home-page]: https://www.microsoft.com/en-us/research/people/jthelin/
-
 [Projects]: ./projects.html
-
-[Publications]: https://www.microsoft.com/en-us/research/people/jthelin/#!publications
 
 [G-Scholar]: https://scholar.google.com/citations?user=z0gQs_0AAAAJ&hl=en
 
 [ResearchGate]: https://www.researchgate.net/profile/Jorgen_Thelin
+
